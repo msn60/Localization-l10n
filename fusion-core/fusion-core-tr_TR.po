@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Avada Core 5.11.6\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/fusion-core\n"
-"POT-Creation-Date: 2026-03-16 05:41:13+00:00\n"
+"POT-Creation-Date: 2026-04-13 08:54:55+00:00\n"
 "PO-Revision-Date: 2025-07-24 19:48+0300\n"
 "Last-Translator: Kaya Zeren <translator@zeron.net>\n"
 "Language-Team: Turkish\n"
@@ -622,7 +622,7 @@ msgstr ""
 "Avada Core için PHP sürümü en az %1$s olmalıdır. %2$s sürümünü "
 "kullanıyorsunuz. Lütfen sürümünüzü yükseltip yeniden deneyin."
 
-#: includes/bootstrap.php:138
+#: includes/bootstrap.php:142
 msgid "Image"
 msgstr "Görsel"
 

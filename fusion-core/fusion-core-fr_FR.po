@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Avada\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/fusion-core\n"
-"POT-Creation-Date: 2026-03-16 05:41:13+00:00\n"
+"POT-Creation-Date: 2026-04-13 08:54:55+00:00\n"
 "PO-Revision-Date: 2021-08-05 13:41+0200\n"
 "Last-Translator: Cédric - COMITRONIC-BTI <comitronicbti93@gmail.com>\n"
 "Language-Team: French (France) (http://www.transifex.com/projects/p/avada/"
@@ -684,7 +684,7 @@ msgstr ""
 "%2$s. S’il vous plaît mettre à niveau et essayer à nouveau."
 
 # @ fusion-core
-#: includes/bootstrap.php:138
+#: includes/bootstrap.php:142
 msgid "Image"
 msgstr "Image"
 

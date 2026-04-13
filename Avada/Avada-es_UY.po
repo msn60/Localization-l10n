@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Avada 6.1.2\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/theme/Avada\n"
-"POT-Creation-Date: 2026-03-17 11:14:17+00:00\n"
+"POT-Creation-Date: 2026-04-13 08:53:46+00:00\n"
 "PO-Revision-Date: 2020-02-06 13:16+0200\n"
 "Last-Translator: Ari Stathopoulos <info@theme-fusion.com>\n"
 "Language-Team: Spanish\n"
@@ -94,7 +94,7 @@ msgstr[1] ""
 #: includes/class-avada-layout-bbpress.php:224
 #: includes/class-avada-layout-bbpress.php:249
 #: includes/class-avada-layout-bbpress.php:271
-#: includes/class-avada-woocommerce.php:911
+#: includes/class-avada-woocommerce.php:913
 #: includes/lib/inc/class-fusion-scripts.php:593
 #: includes/lib/inc/functions.php:1096
 #: includes/lib/inc/fusion-app/helpers.php:578 single-wpfc_sermon.php:21
@@ -107,7 +107,7 @@ msgstr ""
 #: includes/class-avada-layout-bbpress.php:225
 #: includes/class-avada-layout-bbpress.php:250
 #: includes/class-avada-layout-bbpress.php:272
-#: includes/class-avada-woocommerce.php:912
+#: includes/class-avada-woocommerce.php:914
 #: includes/lib/inc/class-fusion-scripts.php:592
 #: includes/lib/inc/functions.php:1142
 #: includes/lib/inc/fusion-app/helpers.php:579 single-wpfc_sermon.php:22
@@ -393,7 +393,7 @@ msgstr ""
 
 #: includes/admin-screens/performance.php:43
 #: includes/admin-screens/performance.php:46 includes/class-avada-admin.php:651
-#: includes/class-awb-performance-wizard.php:1475
+#: includes/class-awb-performance-wizard.php:1487
 msgid "Performance Wizard"
 msgstr ""
 
@@ -531,16 +531,15 @@ msgstr ""
 #: includes/class-avada-megamenu-framework.php:564
 #: includes/class-avada-megamenu-framework.php:657
 #: includes/lib/inc/class-fusion-settings.php:528
-#: includes/lib/inc/fusion-app/class-fusion-preferences.php:190
-#: includes/lib/inc/fusion-app/class-fusion-preferences.php:201
-#: includes/lib/inc/fusion-app/class-fusion-preferences.php:223
-#: includes/lib/inc/fusion-app/class-fusion-preferences.php:234
-#: includes/lib/inc/fusion-app/class-fusion-preferences.php:245
-#: includes/lib/inc/fusion-app/class-fusion-preferences.php:256
-#: includes/lib/inc/fusion-app/class-fusion-preferences.php:291
-#: includes/lib/inc/fusion-app/class-fusion-preferences.php:302
-#: includes/lib/inc/fusion-app/class-fusion-preferences.php:313
-#: includes/lib/inc/fusion-app/class-fusion-preferences.php:335
+#: includes/lib/inc/fusion-app/class-fusion-preferences.php:189
+#: includes/lib/inc/fusion-app/class-fusion-preferences.php:200
+#: includes/lib/inc/fusion-app/class-fusion-preferences.php:222
+#: includes/lib/inc/fusion-app/class-fusion-preferences.php:233
+#: includes/lib/inc/fusion-app/class-fusion-preferences.php:244
+#: includes/lib/inc/fusion-app/class-fusion-preferences.php:255
+#: includes/lib/inc/fusion-app/class-fusion-preferences.php:290
+#: includes/lib/inc/fusion-app/class-fusion-preferences.php:301
+#: includes/lib/inc/fusion-app/class-fusion-preferences.php:312
 #: includes/lib/inc/fusion-app/helpers.php:476
 #: includes/lib/inc/redux/framework/FusionReduxCore/inc/fields/switch/field_switch.php:45
 #: includes/metaboxes/tabs/tab_page.php:204 includes/options/advanced.php:489
@@ -557,23 +556,23 @@ msgstr ""
 #: includes/class-avada-megamenu-framework.php:565
 #: includes/class-avada-megamenu-framework.php:658
 #: includes/lib/inc/class-fusion-settings.php:528
-#: includes/lib/inc/fusion-app/class-fusion-preferences.php:191
-#: includes/lib/inc/fusion-app/class-fusion-preferences.php:202
-#: includes/lib/inc/fusion-app/class-fusion-preferences.php:224
-#: includes/lib/inc/fusion-app/class-fusion-preferences.php:235
-#: includes/lib/inc/fusion-app/class-fusion-preferences.php:246
-#: includes/lib/inc/fusion-app/class-fusion-preferences.php:257
-#: includes/lib/inc/fusion-app/class-fusion-preferences.php:292
-#: includes/lib/inc/fusion-app/class-fusion-preferences.php:303
-#: includes/lib/inc/fusion-app/class-fusion-preferences.php:314
-#: includes/lib/inc/fusion-app/class-fusion-preferences.php:336
+#: includes/lib/inc/fusion-app/class-fusion-preferences.php:190
+#: includes/lib/inc/fusion-app/class-fusion-preferences.php:201
+#: includes/lib/inc/fusion-app/class-fusion-preferences.php:223
+#: includes/lib/inc/fusion-app/class-fusion-preferences.php:234
+#: includes/lib/inc/fusion-app/class-fusion-preferences.php:245
+#: includes/lib/inc/fusion-app/class-fusion-preferences.php:256
+#: includes/lib/inc/fusion-app/class-fusion-preferences.php:291
+#: includes/lib/inc/fusion-app/class-fusion-preferences.php:302
+#: includes/lib/inc/fusion-app/class-fusion-preferences.php:313
 #: includes/lib/inc/fusion-app/helpers.php:477
 #: includes/lib/inc/redux/framework/FusionReduxCore/inc/fields/switch/field_switch.php:48
 #: includes/metaboxes/tabs/tab_page.php:205 includes/options/advanced.php:490
 #: includes/options/extra.php:1092 includes/options/forms.php:458
 #: includes/options/forms.php:527 includes/options/maintenance.php:59
 #: includes/options/performance.php:272 includes/options/responsive.php:44
-#: includes/options/responsive.php:214
+#: includes/options/responsive.php:214 includes/options/woocommerce.php:620
+#: includes/options/woocommerce.php:632
 msgid "Off"
 msgstr ""
 
@@ -1621,8 +1620,8 @@ msgid "Back"
 msgstr ""
 
 #: includes/admin-screens/setup.php:170
-#: includes/class-awb-performance-wizard.php:726
-#: includes/lib/inc/fusion-app/class-fusion-preferences.php:157
+#: includes/class-awb-performance-wizard.php:738
+#: includes/lib/inc/fusion-app/class-fusion-preferences.php:156
 #: includes/lib/inc/widgets/class-fusion-widget-tweets.php:340
 #: includes/options/advanced.php:335 includes/options/forms.php:296
 #: includes/options/forms.php:373 includes/options/lightbox.php:79
@@ -1630,7 +1629,7 @@ msgid "Light"
 msgstr ""
 
 #: includes/admin-screens/setup.php:171
-#: includes/lib/inc/fusion-app/class-fusion-preferences.php:158
+#: includes/lib/inc/fusion-app/class-fusion-preferences.php:157
 #: includes/lib/inc/widgets/class-fusion-widget-tweets.php:341
 #: includes/options/forms.php:297 includes/options/forms.php:374
 #: includes/options/lightbox.php:80
@@ -1875,7 +1874,7 @@ msgstr ""
 #: includes/admin-screens/setup.php:517 includes/admin-screens/setup.php:546
 #: includes/class-avada-taxonomy-meta.php:308
 #: includes/class-avada-taxonomy-meta.php:451
-#: includes/lib/inc/class-fusion-images.php:1064
+#: includes/lib/inc/class-fusion-images.php:1072
 #: includes/lib/inc/fusion-app/helpers.php:532
 #: includes/lib/inc/fusion-app/templates/front-end-toolbar.php:160
 #: includes/lib/inc/fusion-app/templates/options/typography.php:218
@@ -2983,12 +2982,12 @@ msgstr ""
 #: includes/admin-screens/support.php:97
 msgid ""
 "Have your say on the future of Avada by voting on new features, prebuilt "
-"websites and studio content.  You can also request the new additions that "
+"websites and studio content. You can also request the new additions that "
 "appeal to you the most."
 msgstr ""
 
 #: includes/admin-screens/support.php:100
-msgid "Community Forum"
+msgid "Engage"
 msgstr ""
 
 #: includes/admin-screens/support.php:107
@@ -3139,7 +3138,7 @@ msgid "(no title)"
 msgstr ""
 
 #: includes/avada-app/class-fusion-panel.php:804
-#: includes/class-avada-woocommerce.php:2370
+#: includes/class-avada-woocommerce.php:2379
 msgid "Default Template"
 msgstr ""
 
@@ -3527,7 +3526,7 @@ msgid "FAQs"
 msgstr ""
 
 #: includes/avada-functions.php:1929 includes/class-avada-admin-bar.php:72
-#: includes/class-awb-performance-wizard.php:1486
+#: includes/class-awb-performance-wizard.php:1498
 #: includes/metaboxes/tabs/tab_form_steps.php:449
 msgid "Icons"
 msgstr ""
@@ -3750,7 +3749,7 @@ msgid "Reset Avada Caches"
 msgstr ""
 
 #: includes/class-avada-admin-bar.php:161 includes/class-avada-admin.php:272
-#: includes/class-avada-woocommerce.php:1202
+#: includes/class-avada-woocommerce.php:1204
 msgid "Dashboard"
 msgstr ""
 
@@ -3786,7 +3785,7 @@ msgid "Setup"
 msgstr ""
 
 #: includes/class-avada-admin.php:582
-#: includes/class-awb-performance-wizard.php:1471
+#: includes/class-awb-performance-wizard.php:1483
 #: includes/class-awb-setup-wizard.php:1414
 msgid "Link to Avada dashboard"
 msgstr ""
@@ -4188,7 +4187,7 @@ msgstr ""
 #: includes/class-avada-eventscalendar.php:281
 #: includes/class-avada-eventscalendar.php:313
 #: includes/class-avada-eventscalendar.php:345
-#: includes/class-avada-woocommerce.php:2138
+#: includes/class-avada-woocommerce.php:2146
 msgid "NOTE"
 msgstr ""
 
@@ -4220,12 +4219,12 @@ msgid ""
 msgstr ""
 
 #. Translators: 1: Author name; 2: Site name.
-#: includes/class-avada-head.php:276
+#: includes/class-avada-head.php:278
 msgid "%1$s, Author at %2$s"
 msgstr ""
 
 #. Translators: Site name.
-#: includes/class-avada-head.php:279
+#: includes/class-avada-head.php:281
 msgid " Authored by %s"
 msgstr ""
 
@@ -4588,8 +4587,10 @@ msgstr ""
 #: includes/class-avada-megamenu-framework.php:606
 #: includes/metaboxes/tabs/tab_off_canvas_design.php:115
 #: includes/metaboxes/tabs/tab_off_canvas_overlay.php:177
-#: includes/options/advanced.php:488 includes/options/extra.php:382
-#: includes/options/forms.php:295 includes/options/portfolio.php:78
+#: includes/metaboxes/tabs/tab_seo.php:59
+#: includes/metaboxes/tabs/tab_seo.php:71 includes/options/advanced.php:488
+#: includes/options/extra.php:382 includes/options/forms.php:295
+#: includes/options/portfolio.php:78
 msgid "Auto"
 msgstr ""
 
@@ -4903,7 +4904,7 @@ msgid "I Accept"
 msgstr ""
 
 #: includes/class-avada-pwa.php:184
-#: includes/class-awb-performance-wizard.php:1487
+#: includes/class-awb-performance-wizard.php:1499
 msgid "Fonts"
 msgstr ""
 
@@ -5203,7 +5204,7 @@ msgstr ""
 
 #: includes/class-avada-taxonomy-meta.php:454
 #: includes/lib/inc/class-fusion-settings.php:503
-#: includes/lib/inc/fusion-app/class-fusion-preferences.php:213
+#: includes/lib/inc/fusion-app/class-fusion-preferences.php:212
 #: includes/metaboxes/tabs/tab_content.php:246
 #: includes/metaboxes/tabs/tab_pagetitlebar.php:151
 #: includes/metaboxes/tabs/tab_pagetitlebar.php:183
@@ -5681,37 +5682,37 @@ msgstr ""
 msgid "Avada Button"
 msgstr ""
 
-#: includes/class-avada-woocommerce.php:1052
+#: includes/class-avada-woocommerce.php:1054
 msgid "Clear selection"
 msgstr ""
 
 #. translators: Number.
-#: includes/class-avada-woocommerce.php:1857
+#: includes/class-avada-woocommerce.php:1859
 msgid "You Have %s Item In Your Cart"
 msgid_plural "You Have %s Items In Your Cart"
 msgstr[0] ""
 msgstr[1] ""
 
-#: includes/class-avada-woocommerce.php:2078
-#: includes/class-avada-woocommerce.php:2096
+#: includes/class-avada-woocommerce.php:2086
+#: includes/class-avada-woocommerce.php:2104
 #: includes/lib/inc/fusion-app/helpers.php:611
 msgid "Continue"
 msgstr ""
 
 #. translators: WC Customizer notice.
-#: includes/class-avada-woocommerce.php:2140
+#: includes/class-avada-woocommerce.php:2148
 msgid ""
 "You can control the <a href=\"%1$s\" target=\"_blank\">number of products "
 "per page</a> and the <a href=\"%2$s\" target=\"_blank\">number of columns "
 "for the main shop page</a> from Avada\\`s Global Options panel."
 msgstr ""
 
-#: includes/class-avada-woocommerce.php:2258
+#: includes/class-avada-woocommerce.php:2266
 #: templates/wc-show-details-button.php:20
 msgid "Details"
 msgstr ""
 
-#: includes/class-avada-woocommerce.php:2261
+#: includes/class-avada-woocommerce.php:2269
 msgid "Not all fields have been filled in correctly."
 msgstr ""
 
@@ -6055,150 +6056,156 @@ msgid ""
 msgstr ""
 
 #: includes/class-awb-performance-wizard.php:265
+#: includes/class-awb-performance-wizard.php:329
+#: includes/class-awb-performance-wizard.php:362
+msgid "Unauthorized"
+msgstr ""
+
+#: includes/class-awb-performance-wizard.php:269
 msgid "No data to save."
 msgstr ""
 
-#: includes/class-awb-performance-wizard.php:309
+#: includes/class-awb-performance-wizard.php:313
 msgid "No changes to update."
 msgstr ""
 
-#: includes/class-awb-performance-wizard.php:327
+#: includes/class-awb-performance-wizard.php:335
 msgid "No valid action found."
 msgstr ""
 
-#: includes/class-awb-performance-wizard.php:396
+#: includes/class-awb-performance-wizard.php:408
 msgid "Recommend setting to off unless you use legacy widget areas or widgets."
 msgstr ""
 
-#: includes/class-awb-performance-wizard.php:403
+#: includes/class-awb-performance-wizard.php:415
 msgid "You are not using the legacy mega menu. This option can be disabled."
 msgstr ""
 
-#: includes/class-awb-performance-wizard.php:409
+#: includes/class-awb-performance-wizard.php:421
 msgid ""
 "You are using the legacy mega menu. Should be enabled, but consider "
 "switching to built mega menu."
 msgstr ""
 
-#: includes/class-awb-performance-wizard.php:417
+#: includes/class-awb-performance-wizard.php:429
 msgid "You are not using any Youtube element. This option can be disabled."
 msgstr ""
 
-#: includes/class-awb-performance-wizard.php:423
+#: includes/class-awb-performance-wizard.php:435
 msgid "You are using Youtube element. Should be enabled."
 msgstr ""
 
-#: includes/class-awb-performance-wizard.php:431
+#: includes/class-awb-performance-wizard.php:443
 msgid "You are not using any Vimeo element. This option can be disabled."
 msgstr ""
 
-#: includes/class-awb-performance-wizard.php:437
+#: includes/class-awb-performance-wizard.php:449
 msgid "You are using Vimeo element. Should be enabled."
 msgstr ""
 
-#: includes/class-awb-performance-wizard.php:445
+#: includes/class-awb-performance-wizard.php:457
 msgid ""
 "You are not using any Google Map element or template. This option can be "
 "disabled."
 msgstr ""
 
-#: includes/class-awb-performance-wizard.php:451
+#: includes/class-awb-performance-wizard.php:463
 msgid "You are using Google Map element or template. Should be enabled."
 msgstr ""
 
-#: includes/class-awb-performance-wizard.php:459
+#: includes/class-awb-performance-wizard.php:471
 msgid ""
 "Recommend disabling unless you are using the button color presets in many "
 "areas."
 msgstr ""
 
-#: includes/class-awb-performance-wizard.php:466
+#: includes/class-awb-performance-wizard.php:478
 msgid "Recommend setting to off unless you use the Gutenberg editor."
 msgstr ""
 
-#: includes/class-awb-performance-wizard.php:473
+#: includes/class-awb-performance-wizard.php:485
 msgid ""
 "Recommend setting to disabled unless you specifically want them for comments."
 msgstr ""
 
-#: includes/class-awb-performance-wizard.php:481
+#: includes/class-awb-performance-wizard.php:493
 msgid "The Slider Revolution plugin is not active, styles can be disabled."
 msgstr ""
 
-#: includes/class-awb-performance-wizard.php:487
+#: includes/class-awb-performance-wizard.php:499
 msgid ""
 "The Slider Revolution plugin is currently active, only disable if you don't "
 "want the extra Avada styling."
 msgstr ""
 
-#: includes/class-awb-performance-wizard.php:497
+#: includes/class-awb-performance-wizard.php:509
 msgid "No elastic sliders found, should be disabled."
 msgstr ""
 
-#: includes/class-awb-performance-wizard.php:503
+#: includes/class-awb-performance-wizard.php:515
 msgid "Elastic sliders found, only disable if you are not using them."
 msgstr ""
 
-#: includes/class-awb-performance-wizard.php:513
+#: includes/class-awb-performance-wizard.php:525
 msgid "No Avada sliders found, should be disabled."
 msgstr ""
 
-#: includes/class-awb-performance-wizard.php:519
+#: includes/class-awb-performance-wizard.php:531
 msgid "Avada sliders found, only disable if you are not using them."
 msgstr ""
 
-#: includes/class-awb-performance-wizard.php:529
+#: includes/class-awb-performance-wizard.php:541
 msgid ""
 "No Avada forms found, can be disabled. Alternatively if you haven't tried "
 "them yet, give them a go."
 msgstr ""
 
-#: includes/class-awb-performance-wizard.php:535
+#: includes/class-awb-performance-wizard.php:547
 msgid "Avada forms found, only disable if you are not using them."
 msgstr ""
 
-#: includes/class-awb-performance-wizard.php:545
+#: includes/class-awb-performance-wizard.php:557
 msgid ""
 "No Avada off canvas found, can be disabled. Alternatively if you haven't "
 "tried them yet, give them a go."
 msgstr ""
 
-#: includes/class-awb-performance-wizard.php:551
+#: includes/class-awb-performance-wizard.php:563
 msgid "Avada off canvas found, only disable if you are not using them."
 msgstr ""
 
-#: includes/class-awb-performance-wizard.php:561
+#: includes/class-awb-performance-wizard.php:573
 msgid "No portfolio posts found, can be disabled."
 msgstr ""
 
-#: includes/class-awb-performance-wizard.php:567
+#: includes/class-awb-performance-wizard.php:579
 msgid "Portfolio posts found, only disable if you are not using them."
 msgstr ""
 
-#: includes/class-awb-performance-wizard.php:577
+#: includes/class-awb-performance-wizard.php:589
 msgid "No FAQ posts found, can be disabled."
 msgstr ""
 
-#: includes/class-awb-performance-wizard.php:583
+#: includes/class-awb-performance-wizard.php:595
 msgid "FAQ posts found, only disable if you are not using them."
 msgstr ""
 
-#: includes/class-awb-performance-wizard.php:707
+#: includes/class-awb-performance-wizard.php:719
 msgid "Full List"
 msgstr ""
 
-#: includes/class-awb-performance-wizard.php:723
+#: includes/class-awb-performance-wizard.php:735
 #: includes/options/advanced.php:332
 msgid "Brands"
 msgstr ""
 
-#: includes/class-awb-performance-wizard.php:724
+#: includes/class-awb-performance-wizard.php:736
 #: includes/lib/inc/redux/framework/FusionReduxCore/inc/fields/link_color/field_link_color.php:92
 #: includes/options/advanced.php:333
 msgid "Regular"
 msgstr ""
 
-#: includes/class-awb-performance-wizard.php:725
+#: includes/class-awb-performance-wizard.php:737
 #: includes/lib/inc/class-awb-widget-style.php:229
 #: includes/metaboxes/tabs/tab_form_steps.php:203
 #: includes/metaboxes/tabs/tab_form_steps.php:348
@@ -6208,51 +6215,51 @@ msgstr ""
 msgid "Solid"
 msgstr ""
 
-#: includes/class-awb-performance-wizard.php:729
+#: includes/class-awb-performance-wizard.php:741
 msgid "No Font Awesome icons found being used. Recommend disabling all."
 msgstr ""
 
 #. translators: Used subset labels.
-#: includes/class-awb-performance-wizard.php:735
+#: includes/class-awb-performance-wizard.php:747
 msgid "Content has been scanned for icons, recommend selecting %s."
 msgstr ""
 
-#: includes/class-awb-performance-wizard.php:747
+#: includes/class-awb-performance-wizard.php:759
 msgid ""
 "Recommended to disable this and update any old icon references by editing "
 "the pages/menus."
 msgstr ""
 
-#: includes/class-awb-performance-wizard.php:1390
+#: includes/class-awb-performance-wizard.php:1402
 #: includes/lib/inc/importer/class-fusion-wxr-importer.php:85
 #: includes/lib/inc/importer/class-wxr-importer.php:674
 msgid "Cannot import auto-draft posts"
 msgstr ""
 
-#: includes/class-awb-performance-wizard.php:1478
+#: includes/class-awb-performance-wizard.php:1490
 msgid "Run PageSpeed Insights"
 msgstr ""
 
-#: includes/class-awb-performance-wizard.php:1484
+#: includes/class-awb-performance-wizard.php:1496
 #: includes/lib/inc/fusion-app/helpers.php:324
 #: includes/metaboxes/tabs/tab_off_canvas_general.php:181
 msgid "Start"
 msgstr ""
 
-#: includes/class-awb-performance-wizard.php:1485
+#: includes/class-awb-performance-wizard.php:1497
 #: includes/options/advanced.php:35
 msgid "Features"
 msgstr ""
 
-#: includes/class-awb-performance-wizard.php:1488
+#: includes/class-awb-performance-wizard.php:1500
 msgid "Elements"
 msgstr ""
 
-#: includes/class-awb-performance-wizard.php:1489
+#: includes/class-awb-performance-wizard.php:1501
 msgid "Optimization"
 msgstr ""
 
-#: includes/class-awb-performance-wizard.php:1490
+#: includes/class-awb-performance-wizard.php:1502
 #: includes/class-awb-setup-wizard.php:1437
 #: includes/class-awb-setup-wizard.php:1443
 msgid "Finish"
@@ -7062,10 +7069,11 @@ msgstr ""
 #: includes/metaboxes/tabs/tab_portfolio_post.php:208
 #: includes/metaboxes/tabs/tab_post.php:48
 #: includes/metaboxes/tabs/tab_post.php:130
+#: includes/metaboxes/tabs/tab_seo.php:60
+#: includes/metaboxes/tabs/tab_seo.php:72
 #: includes/metaboxes/tabs/tab_sliders.php:189
 #: includes/metaboxes/tabs/tab_studio.php:75
 #: includes/metaboxes/tabs/tab_studio.php:88
-#: includes/options/woocommerce.php:606
 msgid "No"
 msgstr ""
 
@@ -7184,7 +7192,7 @@ msgstr ""
 
 #: includes/lib/inc/class-awb-widget-style.php:263
 #: includes/lib/inc/class-awb-widget-style.php:276
-#: includes/lib/inc/fusion-app/class-fusion-preferences.php:168
+#: includes/lib/inc/fusion-app/class-fusion-preferences.php:167
 #: includes/lib/inc/fusion-app/helpers.php:489
 #: includes/lib/inc/redux/custom-fields/spacing/field_spacing.php:129
 #: includes/lib/inc/redux/framework/FusionReduxCore/inc/fields/border/field_border.php:162
@@ -7218,7 +7226,7 @@ msgstr ""
 
 #: includes/lib/inc/class-awb-widget-style.php:264
 #: includes/lib/inc/class-awb-widget-style.php:277
-#: includes/lib/inc/fusion-app/class-fusion-preferences.php:169
+#: includes/lib/inc/fusion-app/class-fusion-preferences.php:168
 #: includes/lib/inc/fusion-app/helpers.php:490
 #: includes/lib/inc/redux/custom-fields/spacing/field_spacing.php:115
 #: includes/lib/inc/redux/framework/FusionReduxCore/inc/fields/border/field_border.php:148
@@ -7484,7 +7492,7 @@ msgstr ""
 msgid "All Adobe caches have been reset. Refresh the page to see the changes."
 msgstr ""
 
-#: includes/lib/inc/class-fusion-fusionredux.php:1390
+#: includes/lib/inc/class-fusion-fusionredux.php:1397
 msgid ""
 "Are you sure? This will reset all saved options to the default Avada Classic "
 "Global Options. This does not reset them to any other prebuilt site that you "
@@ -7492,7 +7500,7 @@ msgid ""
 "uploads folder in avada-global-options, as a backup."
 msgstr ""
 
-#: includes/lib/inc/class-fusion-fusionredux.php:1401
+#: includes/lib/inc/class-fusion-fusionredux.php:1408
 msgid ""
 "Are you sure? This will reset all saved options to the default Avada Classic "
 "Global Options for this section. This does not reset them to any other "
@@ -7500,22 +7508,22 @@ msgid ""
 "will be saved to your uploads folder in avada-global-options, as a backup."
 msgstr ""
 
-#: includes/lib/inc/class-fusion-fusionredux.php:1412
+#: includes/lib/inc/class-fusion-fusionredux.php:1419
 msgid ""
 "Copy the contents of the json file and paste it below. Then click \"Import\" "
 "to restore your setings."
 msgstr ""
 
-#: includes/lib/inc/class-fusion-fusionredux.php:1487
+#: includes/lib/inc/class-fusion-fusionredux.php:1494
 msgid "Media fields using remote URLs were detected in your Global Options"
 msgstr ""
 
-#: includes/lib/inc/class-fusion-fusionredux.php:1493
+#: includes/lib/inc/class-fusion-fusionredux.php:1500
 msgid ""
 "Please replace them with locally-imported files from your media library."
 msgstr ""
 
-#: includes/lib/inc/class-fusion-fusionredux.php:1498
+#: includes/lib/inc/class-fusion-fusionredux.php:1505
 msgid "Dismiss Message"
 msgstr ""
 
@@ -7543,27 +7551,27 @@ msgstr ""
 msgid "Yearly Archives: %s"
 msgstr ""
 
-#: includes/lib/inc/class-fusion-images.php:1061
+#: includes/lib/inc/class-fusion-images.php:1069
 msgid "Masonry Image Layout"
 msgstr ""
 
-#: includes/lib/inc/class-fusion-images.php:1065
+#: includes/lib/inc/class-fusion-images.php:1073
 msgid "1x1"
 msgstr ""
 
-#: includes/lib/inc/class-fusion-images.php:1066
+#: includes/lib/inc/class-fusion-images.php:1074
 msgid "Landscape"
 msgstr ""
 
-#: includes/lib/inc/class-fusion-images.php:1067
+#: includes/lib/inc/class-fusion-images.php:1075
 msgid "Portrait"
 msgstr ""
 
-#: includes/lib/inc/class-fusion-images.php:1068
+#: includes/lib/inc/class-fusion-images.php:1076
 msgid "2x2"
 msgstr ""
 
-#: includes/lib/inc/class-fusion-images.php:1070
+#: includes/lib/inc/class-fusion-images.php:1078
 msgid "Set layout which will be used when image is displayed in masonry."
 msgstr ""
 
@@ -7955,7 +7963,7 @@ msgid "  Default currently set to %s."
 msgstr ""
 
 #: includes/lib/inc/class-fusion-settings.php:503
-#: includes/lib/inc/fusion-app/class-fusion-preferences.php:212
+#: includes/lib/inc/fusion-app/class-fusion-preferences.php:211
 #: includes/metaboxes/tabs/tab_content.php:245
 #: includes/metaboxes/tabs/tab_pagetitlebar.php:182
 #: includes/metaboxes/tabs/tab_portfolio_post.php:53
@@ -8283,183 +8291,175 @@ msgstr ""
 msgid "has taken over and is currently editing."
 msgstr ""
 
-#: includes/lib/inc/fusion-app/class-fusion-preferences.php:153
+#: includes/lib/inc/fusion-app/class-fusion-preferences.php:152
 msgid "Builder Styling Mode"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/class-fusion-preferences.php:154
+#: includes/lib/inc/fusion-app/class-fusion-preferences.php:153
 msgid "Choose if you want a light or dark builder UI style."
 msgstr ""
 
-#: includes/lib/inc/fusion-app/class-fusion-preferences.php:164
+#: includes/lib/inc/fusion-app/class-fusion-preferences.php:163
 msgid "Sidebar Panel Position"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/class-fusion-preferences.php:165
+#: includes/lib/inc/fusion-app/class-fusion-preferences.php:164
 msgid "Select the side which you want the sidebar panel to be displayed on."
 msgstr ""
 
-#: includes/lib/inc/fusion-app/class-fusion-preferences.php:175
+#: includes/lib/inc/fusion-app/class-fusion-preferences.php:174
 msgid "Element Editing Mode"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/class-fusion-preferences.php:176
+#: includes/lib/inc/fusion-app/class-fusion-preferences.php:175
 msgid "Choose if element editing should be in the sidebar or in dialogs."
 msgstr ""
 
-#: includes/lib/inc/fusion-app/class-fusion-preferences.php:179
+#: includes/lib/inc/fusion-app/class-fusion-preferences.php:178
 #: includes/options/events_calendar.php:307
 msgid "Sidebar"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/class-fusion-preferences.php:180
+#: includes/lib/inc/fusion-app/class-fusion-preferences.php:179
 msgid "Dialog"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/class-fusion-preferences.php:186
+#: includes/lib/inc/fusion-app/class-fusion-preferences.php:185
 msgid "Automatically Open Element Settings"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/class-fusion-preferences.php:187
+#: includes/lib/inc/fusion-app/class-fusion-preferences.php:186
 msgid ""
 "Choose if the settings should be opened automatically after adding an "
 "element."
 msgstr ""
 
-#: includes/lib/inc/fusion-app/class-fusion-preferences.php:197
+#: includes/lib/inc/fusion-app/class-fusion-preferences.php:196
 msgid "Enable Keyboard Shortcuts"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/class-fusion-preferences.php:198
+#: includes/lib/inc/fusion-app/class-fusion-preferences.php:197
 msgid "Choose if keyboard shortcuts should be enabled or disabled."
 msgstr ""
 
-#: includes/lib/inc/fusion-app/class-fusion-preferences.php:208
+#: includes/lib/inc/fusion-app/class-fusion-preferences.php:207
 msgid "Show Option Descriptions By Default"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/class-fusion-preferences.php:209
+#: includes/lib/inc/fusion-app/class-fusion-preferences.php:208
 msgid "Choose if option descriptions should be shown or hidden by default."
 msgstr ""
 
-#: includes/lib/inc/fusion-app/class-fusion-preferences.php:219
+#: includes/lib/inc/fusion-app/class-fusion-preferences.php:218
 msgid "Show Tooltips"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/class-fusion-preferences.php:220
+#: includes/lib/inc/fusion-app/class-fusion-preferences.php:219
 msgid "Choose if tooltips should be enabled or disabled."
 msgstr ""
 
-#: includes/lib/inc/fusion-app/class-fusion-preferences.php:230
+#: includes/lib/inc/fusion-app/class-fusion-preferences.php:229
 msgid "Enable Sticky Header & Containers"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/class-fusion-preferences.php:231
+#: includes/lib/inc/fusion-app/class-fusion-preferences.php:230
 msgid ""
 "Choose if sticky header and sticky containers should be enabled or disabled."
 msgstr ""
 
-#: includes/lib/inc/fusion-app/class-fusion-preferences.php:241
+#: includes/lib/inc/fusion-app/class-fusion-preferences.php:240
 msgid "Enable Transparent Header & Absolute Containers"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/class-fusion-preferences.php:242
+#: includes/lib/inc/fusion-app/class-fusion-preferences.php:241
 msgid ""
 "Choose if transparent header and absolute containers should be enabled or "
 "disabled."
 msgstr ""
 
-#: includes/lib/inc/fusion-app/class-fusion-preferences.php:252
+#: includes/lib/inc/fusion-app/class-fusion-preferences.php:251
 msgid "Enable Preview for Filter Options"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/class-fusion-preferences.php:253
+#: includes/lib/inc/fusion-app/class-fusion-preferences.php:252
 msgid "Choose if element filter options preview should be enabled or disabled."
 msgstr ""
 
-#: includes/lib/inc/fusion-app/class-fusion-preferences.php:263
+#: includes/lib/inc/fusion-app/class-fusion-preferences.php:262
 msgid "Enable Preview for Transform Options"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/class-fusion-preferences.php:264
+#: includes/lib/inc/fusion-app/class-fusion-preferences.php:263
 msgid "Choose if element transform options preview."
 msgstr ""
 
-#: includes/lib/inc/fusion-app/class-fusion-preferences.php:267
-#: includes/lib/inc/fusion-app/class-fusion-preferences.php:279
+#: includes/lib/inc/fusion-app/class-fusion-preferences.php:266
+#: includes/lib/inc/fusion-app/class-fusion-preferences.php:278
 #: includes/options/forms.php:284
 msgid "Always"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/class-fusion-preferences.php:268
-#: includes/lib/inc/fusion-app/class-fusion-preferences.php:280
+#: includes/lib/inc/fusion-app/class-fusion-preferences.php:267
+#: includes/lib/inc/fusion-app/class-fusion-preferences.php:279
 msgid "Editing"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/class-fusion-preferences.php:269
-#: includes/lib/inc/fusion-app/class-fusion-preferences.php:281
+#: includes/lib/inc/fusion-app/class-fusion-preferences.php:268
+#: includes/lib/inc/fusion-app/class-fusion-preferences.php:280
 #: includes/metaboxes/tabs/tab_template.php:520 templates/wc-view-order.php:65
 msgid "Never"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/class-fusion-preferences.php:275
+#: includes/lib/inc/fusion-app/class-fusion-preferences.php:274
 msgid "Enable Preview for Inline Dynamic Data"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/class-fusion-preferences.php:276
+#: includes/lib/inc/fusion-app/class-fusion-preferences.php:275
 msgid "Choose if or when a preview of inline dynamic data should be displayed."
 msgstr ""
 
-#: includes/lib/inc/fusion-app/class-fusion-preferences.php:287
+#: includes/lib/inc/fusion-app/class-fusion-preferences.php:286
 msgid "Enable Preview For Conditional Rendering"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/class-fusion-preferences.php:288
+#: includes/lib/inc/fusion-app/class-fusion-preferences.php:287
 msgid ""
 "Choose to enable the device conditional rendering preview for container and "
 "columns."
 msgstr ""
 
-#: includes/lib/inc/fusion-app/class-fusion-preferences.php:298
+#: includes/lib/inc/fusion-app/class-fusion-preferences.php:297
 msgid "Show Droppable Areas While Dragging"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/class-fusion-preferences.php:299
+#: includes/lib/inc/fusion-app/class-fusion-preferences.php:298
 msgid "Enable in order to see all dropppable areas while dragging element."
 msgstr ""
 
-#: includes/lib/inc/fusion-app/class-fusion-preferences.php:309
+#: includes/lib/inc/fusion-app/class-fusion-preferences.php:308
 msgid "Sidebar Panel Overlay Mode"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/class-fusion-preferences.php:310
+#: includes/lib/inc/fusion-app/class-fusion-preferences.php:309
 msgid ""
 "Choose if the sidebar panel should act as an overlay.  If enabled, the "
 "sidebar will overlay the preview content."
 msgstr ""
 
-#: includes/lib/inc/fusion-app/class-fusion-preferences.php:320
+#: includes/lib/inc/fusion-app/class-fusion-preferences.php:319
 msgid "Options Sub Tabs"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/class-fusion-preferences.php:321
+#: includes/lib/inc/fusion-app/class-fusion-preferences.php:320
 msgid "Choose if options sub tabs expanded or collapsed."
 msgstr ""
 
-#: includes/lib/inc/fusion-app/class-fusion-preferences.php:324
+#: includes/lib/inc/fusion-app/class-fusion-preferences.php:323
 msgid "Expanded"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/class-fusion-preferences.php:325
+#: includes/lib/inc/fusion-app/class-fusion-preferences.php:324
 msgid "Collapsed"
-msgstr ""
-
-#: includes/lib/inc/fusion-app/class-fusion-preferences.php:331
-msgid "Navigator Search"
-msgstr ""
-
-#: includes/lib/inc/fusion-app/class-fusion-preferences.php:332
-msgid "Choose if the search bar in Navigator should be enabled or disabled."
 msgstr ""
 
 #: includes/lib/inc/fusion-app/helpers.php:204
@@ -12179,12 +12179,12 @@ msgstr ""
 
 #: includes/lib/inc/widgets/class-fusion-widget-tabs.php:346
 #: includes/options/menu.php:2080 includes/options/search.php:123
-#: includes/options/woocommerce.php:684
+#: includes/options/woocommerce.php:695
 msgid "Classic"
 msgstr ""
 
 #: includes/lib/inc/widgets/class-fusion-widget-tabs.php:347
-#: includes/options/search.php:124 includes/options/woocommerce.php:685
+#: includes/options/search.php:124 includes/options/woocommerce.php:696
 msgid "Clean"
 msgstr ""
 
@@ -16029,22 +16029,44 @@ msgid ""
 msgstr ""
 
 #. translators: Option value (defaults).
-#: includes/metaboxes/tabs/tab_seo.php:42
+#: includes/metaboxes/tabs/tab_seo.php:41
 msgid "Meta Description"
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_seo.php:43
+#: includes/metaboxes/tabs/tab_seo.php:42
 msgid ""
 "Insert your post meta description. Inline dynamic data can be used here, "
 "incl. {separator}. Separator is currently set to: %s."
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_seo.php:48
+#: includes/metaboxes/tabs/tab_seo.php:47
 msgid "Open Graph Image"
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_seo.php:49
+#: includes/metaboxes/tabs/tab_seo.php:48
 msgid "Upload an image to be used as open graph image tag."
+msgstr ""
+
+#: includes/metaboxes/tabs/tab_seo.php:54
+msgid "Index Page"
+msgstr ""
+
+#: includes/metaboxes/tabs/tab_seo.php:55
+msgid ""
+"Controls the robots \"index\" directive for this page. \"Auto\" defers to "
+"WordPress or any active SEO plugin. \"No\" explicitly adds noindex, "
+"preventing this page from appearing in search results."
+msgstr ""
+
+#: includes/metaboxes/tabs/tab_seo.php:66
+msgid "Follow Links"
+msgstr ""
+
+#: includes/metaboxes/tabs/tab_seo.php:67
+msgid ""
+"Controls the robots \"follow\" directive for this page. \"Auto\" defers to "
+"WordPress or any active SEO plugin. \"No\" explicitly adds nofollow, "
+"instructing crawlers not to follow links on this page."
 msgstr ""
 
 #. translators: The edit link. Text of link is the title.
@@ -17168,7 +17190,7 @@ msgid ""
 msgstr ""
 
 #: includes/options/blog.php:414 includes/options/portfolio.php:133
-#: includes/options/woocommerce.php:739
+#: includes/options/woocommerce.php:750
 msgid "Equal Heights"
 msgstr ""
 
@@ -17322,7 +17344,7 @@ msgid ""
 msgstr ""
 
 #: includes/options/blog.php:759 includes/options/portfolio.php:555
-#: includes/options/woocommerce.php:725
+#: includes/options/woocommerce.php:736
 msgid "100% Width Page"
 msgstr ""
 
@@ -18441,7 +18463,7 @@ msgid "Square"
 msgstr ""
 
 #: includes/options/extra.php:120 includes/options/sliding_bar.php:426
-#: includes/options/woocommerce.php:934 includes/options/woocommerce.php:1156
+#: includes/options/woocommerce.php:945 includes/options/woocommerce.php:1167
 msgid "Circle"
 msgstr ""
 
@@ -20656,7 +20678,7 @@ msgstr ""
 msgid "See this post for more information"
 msgstr ""
 
-#: includes/options/menu.php:184 includes/options/woocommerce.php:1154
+#: includes/options/menu.php:184 includes/options/woocommerce.php:1165
 msgid "Top Bar"
 msgstr ""
 
@@ -22155,7 +22177,7 @@ msgstr ""
 msgid "Controls the column spacing for portfolio items for archive pages."
 msgstr ""
 
-#: includes/options/portfolio.php:134 includes/options/woocommerce.php:740
+#: includes/options/portfolio.php:134 includes/options/woocommerce.php:751
 msgid "Turn on to display grid boxes with equal heights per row."
 msgstr ""
 
@@ -23586,8 +23608,8 @@ msgstr ""
 msgid "Triangle"
 msgstr ""
 
-#: includes/options/sliding_bar.php:425 includes/options/woocommerce.php:933
-#: includes/options/woocommerce.php:1155
+#: includes/options/sliding_bar.php:425 includes/options/woocommerce.php:944
+#: includes/options/woocommerce.php:1166
 msgid "Rectangle"
 msgstr ""
 
@@ -24594,345 +24616,362 @@ msgid ""
 "resource intensive on large shops."
 msgstr ""
 
+#: includes/options/woocommerce.php:600
+msgid "WooCommerce Ajax Update Cart Values"
+msgstr ""
+
 #: includes/options/woocommerce.php:601
+msgid ""
+"Turn on to enable ajax updating of sub-totals and totals on the Cart page."
+msgstr ""
+
+#: includes/options/woocommerce.php:607
+msgid "WooCommerce Single Product Ajax Add to Cart"
+msgstr ""
+
+#: includes/options/woocommerce.php:608
+msgid "Turn on to enable single product ajax Add to Cart."
+msgstr ""
+
+#: includes/options/woocommerce.php:615
 msgid "WooCommerce AJAX Product Filters"
 msgstr ""
 
-#: includes/options/woocommerce.php:602
+#: includes/options/woocommerce.php:616
 msgid ""
 "Set to one of the AJAX options to enable WooCommerce product filters without "
 "page reload."
 msgstr ""
 
-#: includes/options/woocommerce.php:607
+#: includes/options/woocommerce.php:621
 msgid "AJAX On Submit"
 msgstr ""
 
-#: includes/options/woocommerce.php:608
+#: includes/options/woocommerce.php:622
 msgid "AJAX On Change"
 msgstr ""
 
-#: includes/options/woocommerce.php:612
+#: includes/options/woocommerce.php:627
 msgid "WooCommerce AJAX Category Navigation"
 msgstr ""
 
-#: includes/options/woocommerce.php:613
+#: includes/options/woocommerce.php:628
 msgid ""
-"Turn on to enable AJAX navigation when using the WooCommerce Category Filter "
+"Set the AJAX navigation mode when using the WooCommerce Category Filter "
 "element."
 msgstr ""
 
-#: includes/options/woocommerce.php:626
-msgid "WooCommerce AJAX Product Sorting"
-msgstr ""
-
-#: includes/options/woocommerce.php:627
-msgid "Turn on to use AJAX loading on the WooCommerce product sorting."
+#: includes/options/woocommerce.php:633
+msgid "Change Page After AJAX"
 msgstr ""
 
 #: includes/options/woocommerce.php:634
-msgid "WooCommerce Single Product Ajax Add to Cart"
+msgid "Filter On Page"
 msgstr ""
 
-#: includes/options/woocommerce.php:635
-msgid "Turn on to enable single product ajax Add to Cart."
+#: includes/options/woocommerce.php:645
+msgid "WooCommerce AJAX Product Sorting"
 msgstr ""
 
-#: includes/options/woocommerce.php:641
+#: includes/options/woocommerce.php:646
+msgid "Turn on to use AJAX loading on the WooCommerce product sorting."
+msgstr ""
+
+#: includes/options/woocommerce.php:652
 msgid "WooCommerce Account Area Message 1"
 msgstr ""
 
-#: includes/options/woocommerce.php:642
+#: includes/options/woocommerce.php:653
 msgid ""
 "Controls the text that displays in the first message box on the account page."
 msgstr ""
 
-#: includes/options/woocommerce.php:655
+#: includes/options/woocommerce.php:666
 msgid "WooCommerce Account Area Message 2"
 msgstr ""
 
-#: includes/options/woocommerce.php:656
+#: includes/options/woocommerce.php:667
 msgid ""
 "Controls the text that displays in the second message box on the account "
 "page."
 msgstr ""
 
-#: includes/options/woocommerce.php:671
+#: includes/options/woocommerce.php:682
 msgid "WooCommerce Styling"
 msgstr ""
 
-#: includes/options/woocommerce.php:679
+#: includes/options/woocommerce.php:690
 msgid "WooCommerce Product Box Design"
 msgstr ""
 
-#: includes/options/woocommerce.php:680
+#: includes/options/woocommerce.php:691
 msgid "Controls the design of the product boxes."
 msgstr ""
 
-#: includes/options/woocommerce.php:689
+#: includes/options/woocommerce.php:700
 msgid "WooCommerce Product Box Content Padding"
 msgstr ""
 
-#: includes/options/woocommerce.php:690
+#: includes/options/woocommerce.php:701
 msgid "Controls the top/right/bottom/left padding of the products contents."
 msgstr ""
 
-#: includes/options/woocommerce.php:726
+#: includes/options/woocommerce.php:737
 msgid ""
 "Turn on to display product posts at 100% browser width according to the "
 "window size. Turn off to follow site width."
 msgstr ""
 
-#: includes/options/woocommerce.php:761
+#: includes/options/woocommerce.php:772
 msgid "WooCommerce Tab Design"
 msgstr ""
 
-#: includes/options/woocommerce.php:762
+#: includes/options/woocommerce.php:773
 msgid "Controls the design of all WooCommerce tabs."
 msgstr ""
 
-#: includes/options/woocommerce.php:767
+#: includes/options/woocommerce.php:778
 msgid "Horizontal Tabs"
 msgstr ""
 
-#: includes/options/woocommerce.php:768
+#: includes/options/woocommerce.php:779
 msgid "Vertical Tabs"
 msgstr ""
 
-#: includes/options/woocommerce.php:781
+#: includes/options/woocommerce.php:792
 msgid "WooCommerce Quantity Input Size"
 msgstr ""
 
-#: includes/options/woocommerce.php:782
+#: includes/options/woocommerce.php:793
 msgid "Controls the width and height of the quantity input field."
 msgstr ""
 
-#: includes/options/woocommerce.php:802
+#: includes/options/woocommerce.php:813
 msgid "WooCommerce Quantity Font Size"
 msgstr ""
 
-#: includes/options/woocommerce.php:803
+#: includes/options/woocommerce.php:814
 msgid "Controls the font size of the quantity input field."
 msgstr ""
 
-#: includes/options/woocommerce.php:814
+#: includes/options/woocommerce.php:825
 msgid "WooCommerce Quantity Box Background Color"
 msgstr ""
 
-#: includes/options/woocommerce.php:815
+#: includes/options/woocommerce.php:826
 msgid "Controls the background color of the WooCommerce quantity box."
 msgstr ""
 
-#: includes/options/woocommerce.php:827
+#: includes/options/woocommerce.php:838
 msgid "WooCommerce Quantity Box Hover Background Color"
 msgstr ""
 
-#: includes/options/woocommerce.php:828
+#: includes/options/woocommerce.php:839
 msgid "Controls the hover color of the WooCommerce quantity box."
 msgstr ""
 
-#: includes/options/woocommerce.php:840
+#: includes/options/woocommerce.php:851
 msgid "WooCommerce Order Dropdown Background Color"
 msgstr ""
 
-#: includes/options/woocommerce.php:841
+#: includes/options/woocommerce.php:852
 msgid "Controls the background color of the WooCommerce order dropdowns."
 msgstr ""
 
-#: includes/options/woocommerce.php:857
+#: includes/options/woocommerce.php:868
 msgid "WooCommerce Order Dropdown Text Color"
 msgstr ""
 
-#: includes/options/woocommerce.php:858
+#: includes/options/woocommerce.php:869
 msgid ""
 "Controls the color of the text and icons in the WooCommerce order dropdowns."
 msgstr ""
 
-#: includes/options/woocommerce.php:870
+#: includes/options/woocommerce.php:881
 msgid "WooCommerce Order Dropdown Border Color"
 msgstr ""
 
-#: includes/options/woocommerce.php:871
+#: includes/options/woocommerce.php:882
 msgid "Controls the border color in the WooCommerce order dropdowns."
 msgstr ""
 
-#: includes/options/woocommerce.php:883
+#: includes/options/woocommerce.php:894
 msgid "WooCommerce Cart Menu Background Color"
 msgstr ""
 
-#: includes/options/woocommerce.php:884
+#: includes/options/woocommerce.php:895
 msgid ""
 "Controls the bottom section background color of the WooCommerce cart "
 "dropdown."
 msgstr ""
 
-#: includes/options/woocommerce.php:909
+#: includes/options/woocommerce.php:920
 msgid "WooCommerce Icon Font Size"
 msgstr ""
 
-#: includes/options/woocommerce.php:910
+#: includes/options/woocommerce.php:921
 msgid "Controls the font size of the WooCommerce icons."
 msgstr ""
 
-#: includes/options/woocommerce.php:921
+#: includes/options/woocommerce.php:932
 msgid "Sale Badge"
 msgstr ""
 
-#: includes/options/woocommerce.php:927
+#: includes/options/woocommerce.php:938
 msgid "WooCommerce Sale Badge Shape"
 msgstr ""
 
-#: includes/options/woocommerce.php:928
+#: includes/options/woocommerce.php:939
 msgid "Controls the shape of the sale badge."
 msgstr ""
 
-#: includes/options/woocommerce.php:953
+#: includes/options/woocommerce.php:964
 msgid "WooCommerce Sale Badge Background Color"
 msgstr ""
 
-#: includes/options/woocommerce.php:954
+#: includes/options/woocommerce.php:965
 msgid "Controls the background color of the WooCommerce sale badge."
 msgstr ""
 
-#: includes/options/woocommerce.php:966
+#: includes/options/woocommerce.php:977
 msgid "WooCommerce Sale Badge Text Color"
 msgstr ""
 
-#: includes/options/woocommerce.php:967
+#: includes/options/woocommerce.php:978
 msgid "Controls the text color of the WooCommerce sale badge."
 msgstr ""
 
-#: includes/options/woocommerce.php:979
+#: includes/options/woocommerce.php:990
 msgid "WooCommerce Sale Badge Text Size"
 msgstr ""
 
-#: includes/options/woocommerce.php:980
+#: includes/options/woocommerce.php:991
 msgid "Controls the font size of the WooCommerce sale badge text."
 msgstr ""
 
-#: includes/options/woocommerce.php:991
+#: includes/options/woocommerce.php:1002
 msgid "WooCommerce Sale Badge Padding"
 msgstr ""
 
-#: includes/options/woocommerce.php:992
+#: includes/options/woocommerce.php:1003
 msgid "Controls the top/right/bottom/left padding of the sale badge."
 msgstr ""
 
-#: includes/options/woocommerce.php:1036
+#: includes/options/woocommerce.php:1047
 msgid "WooCommerce Sale Badge Border Radius"
 msgstr ""
 
-#: includes/options/woocommerce.php:1037
+#: includes/options/woocommerce.php:1048
 msgid "Controls the border radius of sale badge."
 msgstr ""
 
-#: includes/options/woocommerce.php:1086
+#: includes/options/woocommerce.php:1097
 msgid "WooCommerce Sale Badge Border Size"
 msgstr ""
 
-#: includes/options/woocommerce.php:1087
+#: includes/options/woocommerce.php:1098
 msgid "Controls the border size of the sale badge."
 msgstr ""
 
-#: includes/options/woocommerce.php:1122
+#: includes/options/woocommerce.php:1133
 msgid "WooCommerce Sale Badge Border Color"
 msgstr ""
 
-#: includes/options/woocommerce.php:1123
+#: includes/options/woocommerce.php:1134
 msgid "Controls the border color of the sale badge"
 msgstr ""
 
-#: includes/options/woocommerce.php:1135
+#: includes/options/woocommerce.php:1146
 msgid "WooCommerce Sale Badge Text"
 msgstr ""
 
-#: includes/options/woocommerce.php:1136
+#: includes/options/woocommerce.php:1147
 msgid ""
 "[percentage] and [value] placeholders can be used to display product "
 "discount as percentage or as a value, ex: [percentage] Off!"
 msgstr ""
 
-#: includes/options/woocommerce.php:1138 templates/wc-quick-view-product.php:37
+#: includes/options/woocommerce.php:1149 templates/wc-quick-view-product.php:37
 msgid "Sale!"
 msgstr ""
 
-#: includes/options/woocommerce.php:1142
+#: includes/options/woocommerce.php:1153
 msgid "Out Of Stock Badge"
 msgstr ""
 
-#: includes/options/woocommerce.php:1148
+#: includes/options/woocommerce.php:1159
 msgid "WooCommerce Out Of Stock Badge Shape"
 msgstr ""
 
-#: includes/options/woocommerce.php:1149
+#: includes/options/woocommerce.php:1160
 msgid "Controls the shape of the out of stock badge."
 msgstr ""
 
-#: includes/options/woocommerce.php:1201
+#: includes/options/woocommerce.php:1212
 msgid "WooCommerce Out of Stock Badge Background Color"
 msgstr ""
 
-#: includes/options/woocommerce.php:1202
+#: includes/options/woocommerce.php:1213
 msgid "Controls the background color of the WooCommerce out of stock badge."
 msgstr ""
 
-#: includes/options/woocommerce.php:1214
+#: includes/options/woocommerce.php:1225
 msgid "WooCommerce Out of Stock Badge Text Color"
 msgstr ""
 
-#: includes/options/woocommerce.php:1215
+#: includes/options/woocommerce.php:1226
 msgid "Controls the text color of the WooCommerce out of stock badge."
 msgstr ""
 
-#: includes/options/woocommerce.php:1227
+#: includes/options/woocommerce.php:1238
 msgid "WooCommerce Out of Stock Badge Text Size"
 msgstr ""
 
-#: includes/options/woocommerce.php:1228
+#: includes/options/woocommerce.php:1239
 msgid "Controls the font size of the WooCommerce out of stock badge text."
 msgstr ""
 
-#: includes/options/woocommerce.php:1239
+#: includes/options/woocommerce.php:1250
 msgid "WooCommerce Out Of Stock Badge Padding"
 msgstr ""
 
-#: includes/options/woocommerce.php:1240
+#: includes/options/woocommerce.php:1251
 msgid "Controls the top/right/bottom/left padding of the out of stock badge."
 msgstr ""
 
-#: includes/options/woocommerce.php:1284
+#: includes/options/woocommerce.php:1295
 msgid "WooCommerce Out Of Stock Badge Border Radius"
 msgstr ""
 
-#: includes/options/woocommerce.php:1285
+#: includes/options/woocommerce.php:1296
 msgid "Controls the border radius of out of stock badge."
 msgstr ""
 
-#: includes/options/woocommerce.php:1334
+#: includes/options/woocommerce.php:1345
 msgid "WooCommerce Out Of Stock Badge Border Size"
 msgstr ""
 
-#: includes/options/woocommerce.php:1335
+#: includes/options/woocommerce.php:1346
 msgid "Controls the border size of the out of stock badge."
 msgstr ""
 
-#: includes/options/woocommerce.php:1370
+#: includes/options/woocommerce.php:1381
 msgid "WooCommerce Out Of Stock Badge Border Color"
 msgstr ""
 
-#: includes/options/woocommerce.php:1371
+#: includes/options/woocommerce.php:1382
 msgid "Controls the border color of the out of stock badge"
 msgstr ""
 
-#: includes/options/woocommerce.php:1383
+#: includes/options/woocommerce.php:1394
 msgid "WooCommerce Out Of Stock Badge Text"
 msgstr ""
 
-#: includes/options/woocommerce.php:1384
+#: includes/options/woocommerce.php:1395
 msgid "Default value is: Out of stock"
 msgstr ""
 
-#: includes/options/woocommerce.php:1386
+#: includes/options/woocommerce.php:1397
 #: templates/wc-product-loop-outofstock-flash.php:23
 msgid "Out of stock"
 msgstr ""
@@ -25001,7 +25040,11 @@ msgstr ""
 msgid "Load More"
 msgstr ""
 
-#: includes/wc-functions.php:56
+#: includes/wc-functions.php:58
+msgid "Enter your address to view shipping options."
+msgstr ""
+
+#: includes/wc-functions.php:60
 msgid "Please calculate shipping"
 msgstr ""
 
@@ -25518,7 +25561,7 @@ msgctxt "%s = human-readable time difference"
 msgid "%s ago"
 msgstr ""
 
-#: includes/wc-functions.php:78
+#: includes/wc-functions.php:83
 msgctxt "breadcrumb"
 msgid "Home"
 msgstr ""
