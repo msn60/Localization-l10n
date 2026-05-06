@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Fusion Core 3.1.6\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/fusion-core\n"
-"POT-Creation-Date: 2026-04-13 08:54:55+00:00\n"
+"POT-Creation-Date: 2026-05-06 10:17:52+00:00\n"
 "PO-Revision-Date: 2017-06-22 11:03+0300\n"
 "Last-Translator: Aristeides <info@theme-fusion.com>\n"
 "Language-Team: Bulgarian\n"
@@ -22,12 +22,12 @@ msgid "Avada Slider"
 msgstr ""
 
 #: fusion-slider/class-fusion-slider.php:111
-#: includes/class-fusioncore-plugin.php:541
+#: includes/class-fusioncore-plugin.php:539
 msgid "Parent Slide:"
 msgstr ""
 
 #: fusion-slider/class-fusion-slider.php:112
-#: includes/class-fusioncore-plugin.php:542
+#: includes/class-fusioncore-plugin.php:540
 msgid "Add or Edit Slides"
 msgstr ""
 
@@ -37,58 +37,58 @@ msgstr ""
 
 #: fusion-slider/class-fusion-slider.php:114
 #: fusion-slider/class-fusion-slider.php:115
-#: includes/class-fusioncore-plugin.php:544
-#: includes/class-fusioncore-plugin.php:545
+#: includes/class-fusioncore-plugin.php:542
+#: includes/class-fusioncore-plugin.php:543
 msgid "Add New Slide"
 msgstr ""
 
 #: fusion-slider/class-fusion-slider.php:116
-#: includes/class-fusioncore-plugin.php:546
+#: includes/class-fusioncore-plugin.php:544
 msgid "Edit Slide"
 msgstr ""
 
 #: fusion-slider/class-fusion-slider.php:117
-#: includes/class-fusioncore-plugin.php:547
+#: includes/class-fusioncore-plugin.php:545
 msgid "Update Slide"
 msgstr ""
 
 #: fusion-slider/class-fusion-slider.php:118
-#: includes/class-fusioncore-plugin.php:548
+#: includes/class-fusioncore-plugin.php:546
 msgid "Search Slide"
 msgstr ""
 
 #: fusion-slider/class-fusion-slider.php:119
-#: includes/class-fusioncore-plugin.php:549
+#: includes/class-fusioncore-plugin.php:547
 msgid "Not found"
 msgstr ""
 
 #: fusion-slider/class-fusion-slider.php:120
-#: includes/class-fusioncore-plugin.php:550
+#: includes/class-fusioncore-plugin.php:548
 msgid "Not found in Trash"
 msgstr ""
 
 #: fusion-slider/class-fusion-slider.php:121
-#: includes/class-fusioncore-plugin.php:551
+#: includes/class-fusioncore-plugin.php:549
 msgid "Slide published."
 msgstr ""
 
 #: fusion-slider/class-fusion-slider.php:122
-#: includes/class-fusioncore-plugin.php:552
+#: includes/class-fusioncore-plugin.php:550
 msgid "Slide published privately."
 msgstr ""
 
 #: fusion-slider/class-fusion-slider.php:123
-#: includes/class-fusioncore-plugin.php:553
+#: includes/class-fusioncore-plugin.php:551
 msgid "Slide reverted to draft."
 msgstr ""
 
 #: fusion-slider/class-fusion-slider.php:124
-#: includes/class-fusioncore-plugin.php:554
+#: includes/class-fusioncore-plugin.php:552
 msgid "Slide scheduled."
 msgstr ""
 
 #: fusion-slider/class-fusion-slider.php:125
-#: includes/class-fusioncore-plugin.php:555
+#: includes/class-fusioncore-plugin.php:553
 msgid "Slide updated."
 msgstr ""
 
@@ -143,7 +143,7 @@ msgid "Choose from the most used sliders"
 msgstr ""
 
 #: fusion-slider/class-fusion-slider.php:157
-#: includes/class-fusioncore-plugin.php:581
+#: includes/class-fusioncore-plugin.php:579
 msgid "Not Found"
 msgstr ""
 
@@ -688,172 +688,172 @@ msgstr ""
 msgid "Loading the next set of posts..."
 msgstr ""
 
-#: includes/class-fusioncore-plugin.php:403
+#: includes/class-fusioncore-plugin.php:401
 msgid "Add New Portfolio Post"
 msgstr ""
 
-#: includes/class-fusioncore-plugin.php:404
+#: includes/class-fusioncore-plugin.php:402
 msgid "Edit Portfolio Post"
 msgstr ""
 
-#: includes/class-fusioncore-plugin.php:405
+#: includes/class-fusioncore-plugin.php:403
 msgid "Portfolio published."
 msgstr ""
 
-#: includes/class-fusioncore-plugin.php:406
+#: includes/class-fusioncore-plugin.php:404
 msgid "Portfolio published privately."
 msgstr ""
 
-#: includes/class-fusioncore-plugin.php:407
+#: includes/class-fusioncore-plugin.php:405
 msgid "Portfolio reverted to draft."
 msgstr ""
 
-#: includes/class-fusioncore-plugin.php:408
+#: includes/class-fusioncore-plugin.php:406
 msgid "Portfolio scheduled."
 msgstr ""
 
-#: includes/class-fusioncore-plugin.php:409
+#: includes/class-fusioncore-plugin.php:407
 msgid "Portfolio updated."
 msgstr ""
 
-#: includes/class-fusioncore-plugin.php:431
+#: includes/class-fusioncore-plugin.php:429
 msgid "Portfolio Categories"
 msgstr ""
 
-#: includes/class-fusioncore-plugin.php:446
+#: includes/class-fusioncore-plugin.php:444
 msgid "Portfolio Skills"
 msgstr ""
 
-#: includes/class-fusioncore-plugin.php:449
+#: includes/class-fusioncore-plugin.php:447
 msgid "Add New Skill"
 msgstr ""
 
-#: includes/class-fusioncore-plugin.php:464
+#: includes/class-fusioncore-plugin.php:462
 msgid "Portfolio Tags"
 msgstr ""
 
-#: includes/class-fusioncore-plugin.php:483
+#: includes/class-fusioncore-plugin.php:481
 msgid "Add New FAQ Post"
 msgstr ""
 
-#: includes/class-fusioncore-plugin.php:484
+#: includes/class-fusioncore-plugin.php:482
 msgid "Edit FAQ Post"
 msgstr ""
 
-#: includes/class-fusioncore-plugin.php:485
+#: includes/class-fusioncore-plugin.php:483
 msgid "FAQ published."
 msgstr ""
 
-#: includes/class-fusioncore-plugin.php:486
+#: includes/class-fusioncore-plugin.php:484
 msgid "FAQ published privately."
 msgstr ""
 
-#: includes/class-fusioncore-plugin.php:487
+#: includes/class-fusioncore-plugin.php:485
 msgid "FAQ reverted to draft."
 msgstr ""
 
-#: includes/class-fusioncore-plugin.php:488
+#: includes/class-fusioncore-plugin.php:486
 msgid "FAQ scheduled."
 msgstr ""
 
-#: includes/class-fusioncore-plugin.php:489
+#: includes/class-fusioncore-plugin.php:487
 msgid "FAQ updated."
 msgstr ""
 
-#: includes/class-fusioncore-plugin.php:511
+#: includes/class-fusioncore-plugin.php:509
 msgid "FAQ Categories"
 msgstr ""
 
-#: includes/class-fusioncore-plugin.php:540
+#: includes/class-fusioncore-plugin.php:538
 msgid "Elastic Slider"
 msgstr ""
 
-#: includes/class-fusioncore-plugin.php:543
+#: includes/class-fusioncore-plugin.php:541
 msgid "View Slides"
 msgstr ""
 
-#: includes/class-fusioncore-plugin.php:570
+#: includes/class-fusioncore-plugin.php:568
 msgid "Add or Edit Groups"
 msgstr ""
 
-#: includes/class-fusioncore-plugin.php:571
+#: includes/class-fusioncore-plugin.php:569
 msgid "All Groups"
 msgstr ""
 
-#: includes/class-fusioncore-plugin.php:572
+#: includes/class-fusioncore-plugin.php:570
 msgid "Parent Group:"
 msgstr ""
 
-#: includes/class-fusioncore-plugin.php:573
+#: includes/class-fusioncore-plugin.php:571
 msgid "New Group Name"
 msgstr ""
 
-#: includes/class-fusioncore-plugin.php:574
+#: includes/class-fusioncore-plugin.php:572
 msgid "Add Groups"
 msgstr ""
 
-#: includes/class-fusioncore-plugin.php:575
+#: includes/class-fusioncore-plugin.php:573
 msgid "Edit Group"
 msgstr ""
 
-#: includes/class-fusioncore-plugin.php:576
+#: includes/class-fusioncore-plugin.php:574
 msgid "Update Group"
 msgstr ""
 
-#: includes/class-fusioncore-plugin.php:577
+#: includes/class-fusioncore-plugin.php:575
 msgid "Separate groups with commas"
 msgstr ""
 
-#: includes/class-fusioncore-plugin.php:578
+#: includes/class-fusioncore-plugin.php:576
 msgid "Search Groups"
 msgstr ""
 
-#: includes/class-fusioncore-plugin.php:579
+#: includes/class-fusioncore-plugin.php:577
 msgid "Add or remove groups"
 msgstr ""
 
-#: includes/class-fusioncore-plugin.php:580
+#: includes/class-fusioncore-plugin.php:578
 msgid "Choose from the most used groups"
 msgstr ""
 
-#: includes/class-fusioncore-plugin.php:1085
-#: includes/class-fusioncore-plugin.php:1127
+#: includes/class-fusioncore-plugin.php:1100
+#: includes/class-fusioncore-plugin.php:1142
 msgid "Avada News"
 msgstr ""
 
-#: includes/class-fusioncore-plugin.php:1139
+#: includes/class-fusioncore-plugin.php:1154
 msgid "Avada Logo"
 msgstr ""
 
 #. translators: Item price.
-#: includes/class-fusioncore-plugin.php:1149
+#: includes/class-fusioncore-plugin.php:1164
 msgid "Only %s - Buy Now"
 msgstr ""
 
 #. translators: Item price.
-#: includes/class-fusioncore-plugin.php:1153
+#: includes/class-fusioncore-plugin.php:1168
 msgid "On Sale - Only %s"
 msgstr ""
 
-#: includes/class-fusioncore-plugin.php:1157
+#: includes/class-fusioncore-plugin.php:1172
 msgid "Buy Another License"
 msgstr ""
 
-#: includes/class-fusioncore-plugin.php:1166
+#: includes/class-fusioncore-plugin.php:1181
 msgid "Blog"
 msgstr ""
 
-#: includes/class-fusioncore-plugin.php:1166
-#: includes/class-fusioncore-plugin.php:1167
-#: includes/class-fusioncore-plugin.php:1168
+#: includes/class-fusioncore-plugin.php:1181
+#: includes/class-fusioncore-plugin.php:1182
+#: includes/class-fusioncore-plugin.php:1183
 msgid "(opens in a new window)"
 msgstr ""
 
-#: includes/class-fusioncore-plugin.php:1167
+#: includes/class-fusioncore-plugin.php:1182
 msgid "Docs"
 msgstr ""
 
-#: includes/class-fusioncore-plugin.php:1168
+#: includes/class-fusioncore-plugin.php:1183
 msgid "Ticket"
 msgstr ""
 
@@ -865,13 +865,12 @@ msgstr ""
 
 #: shortcodes/components/project-details.php:301 shortcodes/fusion-faq.php:1729
 #: shortcodes/fusion-fusionslider.php:740 shortcodes/fusion-portfolio.php:2775
-#: shortcodes/fusion-privacy.php:391
+#: shortcodes/fusion-privacy.php:1157
 msgid "Element Visibility"
 msgstr ""
 
 #: shortcodes/components/project-details.php:305 shortcodes/fusion-faq.php:1733
 #: shortcodes/fusion-fusionslider.php:744 shortcodes/fusion-portfolio.php:2779
-#: shortcodes/fusion-privacy.php:395
 msgid ""
 "Choose to show or hide the element on small, medium or large screens. You "
 "can choose more than one at a time."
@@ -879,25 +878,25 @@ msgstr ""
 
 #: shortcodes/components/project-details.php:309 shortcodes/fusion-faq.php:1737
 #: shortcodes/fusion-fusionslider.php:748 shortcodes/fusion-portfolio.php:2783
-#: shortcodes/fusion-privacy.php:399
+#: shortcodes/fusion-privacy.php:1165
 msgid "CSS Class"
 msgstr ""
 
 #: shortcodes/components/project-details.php:310 shortcodes/fusion-faq.php:1738
 #: shortcodes/fusion-fusionslider.php:751 shortcodes/fusion-portfolio.php:2784
-#: shortcodes/fusion-privacy.php:400
+#: shortcodes/fusion-privacy.php:1166
 msgid "Add a class to the wrapping HTML element."
 msgstr ""
 
 #: shortcodes/components/project-details.php:316 shortcodes/fusion-faq.php:1745
 #: shortcodes/fusion-fusionslider.php:755 shortcodes/fusion-portfolio.php:2791
-#: shortcodes/fusion-privacy.php:407
+#: shortcodes/fusion-privacy.php:1173
 msgid "CSS ID"
 msgstr ""
 
 #: shortcodes/components/project-details.php:317 shortcodes/fusion-faq.php:1746
 #: shortcodes/fusion-fusionslider.php:758 shortcodes/fusion-portfolio.php:2792
-#: shortcodes/fusion-privacy.php:408
+#: shortcodes/fusion-privacy.php:1174
 msgid "Add an ID to the wrapping HTML element."
 msgstr ""
 
@@ -915,6 +914,9 @@ msgstr ""
 #: shortcodes/fusion-portfolio.php:2332 shortcodes/fusion-portfolio.php:2451
 #: shortcodes/fusion-portfolio.php:2651 shortcodes/fusion-portfolio.php:2711
 #: shortcodes/fusion-portfolio.php:2729 shortcodes/fusion-portfolio.php:2747
+#: shortcodes/fusion-privacy.php:960 shortcodes/fusion-privacy.php:1007
+#: shortcodes/fusion-privacy.php:1072 shortcodes/fusion-privacy.php:1098
+#: shortcodes/fusion-privacy.php:1124
 msgid "Yes"
 msgstr ""
 
@@ -924,6 +926,9 @@ msgstr ""
 #: shortcodes/fusion-portfolio.php:2333 shortcodes/fusion-portfolio.php:2453
 #: shortcodes/fusion-portfolio.php:2652 shortcodes/fusion-portfolio.php:2712
 #: shortcodes/fusion-portfolio.php:2730 shortcodes/fusion-portfolio.php:2748
+#: shortcodes/fusion-privacy.php:961 shortcodes/fusion-privacy.php:1008
+#: shortcodes/fusion-privacy.php:1073 shortcodes/fusion-privacy.php:1099
+#: shortcodes/fusion-privacy.php:1125
 msgid "No"
 msgstr ""
 
@@ -939,6 +944,10 @@ msgstr ""
 #: shortcodes/fusion-faq.php:1633 shortcodes/fusion-faq.php:1649
 #: shortcodes/fusion-faq.php:1662 shortcodes/fusion-faq.php:1687
 #: shortcodes/fusion-faq.php:1701 shortcodes/fusion-faq.php:1715
+#: shortcodes/fusion-privacy.php:1182 shortcodes/fusion-privacy.php:1200
+#: shortcodes/fusion-privacy.php:1235 shortcodes/fusion-privacy.php:1272
+#: shortcodes/fusion-privacy.php:1284 shortcodes/fusion-privacy.php:1300
+#: shortcodes/fusion-privacy.php:1316 shortcodes/fusion-privacy.php:1331
 msgid "Design"
 msgstr ""
 
@@ -1241,7 +1250,8 @@ msgstr ""
 #: shortcodes/fusion-portfolio.php:2108 shortcodes/fusion-portfolio.php:2173
 #: shortcodes/fusion-portfolio.php:2370 shortcodes/fusion-portfolio.php:2396
 #: shortcodes/fusion-portfolio.php:2494 shortcodes/fusion-portfolio.php:2592
-#: shortcodes/fusion-portfolio.php:2650
+#: shortcodes/fusion-portfolio.php:2650 shortcodes/fusion-privacy.php:1036
+#: shortcodes/fusion-privacy.php:1048 shortcodes/fusion-privacy.php:1060
 msgid "Default"
 msgstr ""
 
@@ -1487,8 +1497,8 @@ msgstr ""
 #: shortcodes/fusion-faq.php:1719 shortcodes/fusion-faq.php:1741
 #: shortcodes/fusion-faq.php:1749 shortcodes/fusion-fusionslider.php:732
 #: shortcodes/fusion-portfolio.php:2765 shortcodes/fusion-portfolio.php:2787
-#: shortcodes/fusion-portfolio.php:2795 shortcodes/fusion-privacy.php:403
-#: shortcodes/fusion-privacy.php:411
+#: shortcodes/fusion-portfolio.php:2795 shortcodes/fusion-privacy.php:1169
+#: shortcodes/fusion-privacy.php:1177
 msgid "General"
 msgstr ""
 
@@ -2010,11 +2020,13 @@ msgid ""
 "are mainly used for single item pagination within selected categories."
 msgstr ""
 
-#: shortcodes/fusion-portfolio.php:2515
+#: shortcodes/fusion-portfolio.php:2515 shortcodes/fusion-privacy.php:1037
+#: shortcodes/fusion-privacy.php:1049 shortcodes/fusion-privacy.php:1061
 msgid "On"
 msgstr ""
 
-#: shortcodes/fusion-portfolio.php:2516
+#: shortcodes/fusion-portfolio.php:2516 shortcodes/fusion-privacy.php:1038
+#: shortcodes/fusion-privacy.php:1050 shortcodes/fusion-privacy.php:1062
 msgid "Off"
 msgstr ""
 
@@ -2112,50 +2124,341 @@ msgstr ""
 msgid "Choose to enable mouse drag control on the carousel."
 msgstr ""
 
-#: shortcodes/fusion-privacy.php:90 shortcodes/fusion-privacy.php:185
+#: shortcodes/fusion-privacy.php:186 shortcodes/fusion-privacy.php:315
 msgid "Update"
 msgstr ""
 
-#: shortcodes/fusion-privacy.php:324 shortcodes/fusion-privacy.php:326
+#: shortcodes/fusion-privacy.php:187 shortcodes/fusion-privacy.php:307
+msgid "Accept All"
+msgstr ""
+
+#: shortcodes/fusion-privacy.php:188 shortcodes/fusion-privacy.php:311
+msgid "Reject All"
+msgstr ""
+
+#: shortcodes/fusion-privacy.php:277
+msgid "%s day"
+msgid_plural "%s days"
+msgstr[0] ""
+msgstr[1] ""
+
+#: shortcodes/fusion-privacy.php:781 shortcodes/fusion-privacy.php:783
 msgid "Your embed preferences have been updated."
 msgstr ""
 
-#: shortcodes/fusion-privacy.php:330 shortcodes/fusion-privacy.php:332
+#: shortcodes/fusion-privacy.php:787 shortcodes/fusion-privacy.php:789
 msgid "Your embed preferences have been cleared."
 msgstr ""
 
-#: shortcodes/fusion-privacy.php:359
-msgid "Privacy"
+#: shortcodes/fusion-privacy.php:804
+msgid "Necessary Cookies"
 msgstr ""
 
-#: shortcodes/fusion-privacy.php:368
+#: shortcodes/fusion-privacy.php:805
+msgid "Functional Cookies"
+msgstr ""
+
+#: shortcodes/fusion-privacy.php:806
+msgid "Statistics Cookies"
+msgstr ""
+
+#: shortcodes/fusion-privacy.php:807
+msgid "Marketing Cookies"
+msgstr ""
+
+#: shortcodes/fusion-privacy.php:850
+msgid "Privacy & Consent"
+msgstr ""
+
+#: shortcodes/fusion-privacy.php:861
 msgid "Privacy Text"
 msgstr ""
 
-#: shortcodes/fusion-privacy.php:369
+#: shortcodes/fusion-privacy.php:862
 msgid "Controls the privacy text which will show above the form."
 msgstr ""
 
-#: shortcodes/fusion-privacy.php:371
+#: shortcodes/fusion-privacy.php:864
 msgid "Your Content Goes Here"
 msgstr ""
 
-#: shortcodes/fusion-privacy.php:376
-msgid "Form Field Layout"
+#: shortcodes/fusion-privacy.php:870
+msgid "Cookie Grouping Layout"
 msgstr ""
 
-#: shortcodes/fusion-privacy.php:377
+#: shortcodes/fusion-privacy.php:871
 msgid ""
-"Choose if form checkboxes should be stacked and full width, or if they "
-"should be floated."
+"Choose whether to display cookies in groups (by category) or as a flat list."
 msgstr ""
 
-#: shortcodes/fusion-privacy.php:380
+#: shortcodes/fusion-privacy.php:874
+msgid "Flat List"
+msgstr ""
+
+#: shortcodes/fusion-privacy.php:875
+msgid "Grouped"
+msgstr ""
+
+#: shortcodes/fusion-privacy.php:881
+msgid "Group Display"
+msgstr ""
+
+#: shortcodes/fusion-privacy.php:882
+msgid ""
+"Choose whether groups are stacked vertically or arranged side by side in "
+"columns. In Columns mode, groups wrap automatically when they reach the "
+"minimum width."
+msgstr ""
+
+#: shortcodes/fusion-privacy.php:885 shortcodes/fusion-privacy.php:1025
 msgid "Stacked"
 msgstr ""
 
-#: shortcodes/fusion-privacy.php:381
+#: shortcodes/fusion-privacy.php:886
+msgid "Columns"
+msgstr ""
+
+#: shortcodes/fusion-privacy.php:899
+msgid "Column Minimum Width"
+msgstr ""
+
+#: shortcodes/fusion-privacy.php:900
+msgid ""
+"Minimum width of each column in pixels. Columns wrap to the next line "
+"automatically when they can no longer fit at this width."
+msgstr ""
+
+#: shortcodes/fusion-privacy.php:922
+msgid "Column Gap"
+msgstr ""
+
+#: shortcodes/fusion-privacy.php:923
+msgid "Gap between columns. Accepts any CSS value, e.g. 1em, 20px."
+msgstr ""
+
+#: shortcodes/fusion-privacy.php:941
+msgid "Visible Cookie Groups"
+msgstr ""
+
+#: shortcodes/fusion-privacy.php:942
+msgid ""
+"Choose which cookie groups to display and drag to reorder them. Groups on "
+"the left are active; drag to the right to hide."
+msgstr ""
+
+#: shortcodes/fusion-privacy.php:956
+msgid "Show Group Titles"
+msgstr ""
+
+#: shortcodes/fusion-privacy.php:957
+msgid ""
+"Whether to display the category title for each cookie group. Only applies to "
+"the Grouped layout."
+msgstr ""
+
+#: shortcodes/fusion-privacy.php:974
+msgid "Group Title HTML Tag"
+msgstr ""
+
+#: shortcodes/fusion-privacy.php:975
+msgid "Choose the HTML tag for the group title headings."
+msgstr ""
+
+#: shortcodes/fusion-privacy.php:1003
+msgid "Show Group Description"
+msgstr ""
+
+#: shortcodes/fusion-privacy.php:1004
+msgid ""
+"Set to \"yes\" to display the category description set in the Consent "
+"Categories for each cookie group. Only applies to the Grouped layout."
+msgstr ""
+
+#: shortcodes/fusion-privacy.php:1021
+msgid "Form Field Layout"
+msgstr ""
+
+#: shortcodes/fusion-privacy.php:1022
+msgid ""
+"Choose if form checkboxes should be stacked and full width, or floated "
+"inline."
+msgstr ""
+
+#: shortcodes/fusion-privacy.php:1026
 msgid "Floated"
+msgstr ""
+
+#: shortcodes/fusion-privacy.php:1032
+msgid "List WordPress Necessary Cookies"
+msgstr ""
+
+#: shortcodes/fusion-privacy.php:1033
+msgid ""
+"Enable to automatically list standard WordPress necessary cookies in the "
+"Necessary group. If WooCommerce or The Events Calendar are active, their "
+"necessary cookies are included automatically. \"Default\" inherits from "
+"Global Options."
+msgstr ""
+
+#: shortcodes/fusion-privacy.php:1044
+msgid "Show Cookie Lifespan"
+msgstr ""
+
+#: shortcodes/fusion-privacy.php:1045
+msgid "Whether to display the cookie lifespan next to each consent item."
+msgstr ""
+
+#: shortcodes/fusion-privacy.php:1056
+msgid "Show Cookie Description"
+msgstr ""
+
+#: shortcodes/fusion-privacy.php:1057
+msgid "Whether to display the cookie description for each consent item."
+msgstr ""
+
+#: shortcodes/fusion-privacy.php:1068
+msgid "Show Update Button"
+msgstr ""
+
+#: shortcodes/fusion-privacy.php:1069
+msgid ""
+"Choose whether to display the Update / Save consent button. When building a "
+"custom consent layout with multiple Privacy elements on one page (e.g. one "
+"per cookie group in separate columns or tabs), only one element needs to "
+"show this button — submitting it will automatically collect and merge "
+"choices from all instances."
+msgstr ""
+
+#: shortcodes/fusion-privacy.php:1079
+msgid "Update Button Text"
+msgstr ""
+
+#: shortcodes/fusion-privacy.php:1080
+msgid "Label for the Update button. Defaults to \"Update\" if left empty."
+msgstr ""
+
+#: shortcodes/fusion-privacy.php:1094
+msgid "Show Accept All Button"
+msgstr ""
+
+#: shortcodes/fusion-privacy.php:1095
+msgid ""
+"Choose whether to display an Accept All button that checks all optional "
+"items and saves."
+msgstr ""
+
+#: shortcodes/fusion-privacy.php:1105
+msgid "Accept All Button Text"
+msgstr ""
+
+#: shortcodes/fusion-privacy.php:1106
+msgid ""
+"Label for the Accept All button. Defaults to \"Accept All\" if left empty."
+msgstr ""
+
+#: shortcodes/fusion-privacy.php:1120
+msgid "Show Reject All Button"
+msgstr ""
+
+#: shortcodes/fusion-privacy.php:1121
+msgid ""
+"Choose whether to display a Reject All button that unchecks all optional "
+"items and saves."
+msgstr ""
+
+#: shortcodes/fusion-privacy.php:1131
+msgid "Reject All Button Text"
+msgstr ""
+
+#: shortcodes/fusion-privacy.php:1132
+msgid ""
+"Label for the Reject All button. Defaults to \"Reject All\" if left empty."
+msgstr ""
+
+#: shortcodes/fusion-privacy.php:1146
+msgid "Save Action"
+msgstr ""
+
+#: shortcodes/fusion-privacy.php:1147
+msgid ""
+"\"Reload Page\" submits the form and reloads to re-render consent-gated "
+"content. \"AJAX\" saves client-side, replaces visible placeholders "
+"immediately, and fires an event (useful when the element is inside an Off "
+"Canvas)."
+msgstr ""
+
+#: shortcodes/fusion-privacy.php:1150
+msgid "Reload Page"
+msgstr ""
+
+#: shortcodes/fusion-privacy.php:1151
+msgid "AJAX"
+msgstr ""
+
+#: shortcodes/fusion-privacy.php:1161
+msgid "Choose to show or hide the element on small, medium or large screens."
+msgstr ""
+
+#: shortcodes/fusion-privacy.php:1197
+msgid "Padding"
+msgstr ""
+
+#: shortcodes/fusion-privacy.php:1198
+msgid "Enter values including any CSS unit, ex: 20px, 2.5em."
+msgstr ""
+
+#: shortcodes/fusion-privacy.php:1214
+msgid "Group Title Typography"
+msgstr ""
+
+#: shortcodes/fusion-privacy.php:1215
+msgid "Controls the typography of the cookie group titles."
+msgstr ""
+
+#: shortcodes/fusion-privacy.php:1251
+msgid "Main Text Typography"
+msgstr ""
+
+#: shortcodes/fusion-privacy.php:1252
+msgid ""
+"Controls the typography of the consent item labels and body text. Leave "
+"empty to inherit."
+msgstr ""
+
+#: shortcodes/fusion-privacy.php:1276
+msgid "Necessary Cookies Opacity"
+msgstr ""
+
+#: shortcodes/fusion-privacy.php:1277
+msgid ""
+"Controls the opacity of necessary cookie items. \"Default\" inherits from "
+"Global Options."
+msgstr ""
+
+#: shortcodes/fusion-privacy.php:1295
+msgid "Cookie Lifespan Color"
+msgstr ""
+
+#: shortcodes/fusion-privacy.php:1296
+msgid "Controls the color of the cookie lifespan text."
+msgstr ""
+
+#: shortcodes/fusion-privacy.php:1311
+msgid "Cookie Description Color"
+msgstr ""
+
+#: shortcodes/fusion-privacy.php:1312
+msgid "Controls the color of the cookie description text."
+msgstr ""
+
+#: shortcodes/fusion-privacy.php:1327
+msgid "Cookie Description Font Size"
+msgstr ""
+
+#: shortcodes/fusion-privacy.php:1328
+msgid ""
+"Controls the font size of the cookie description. Enter value with unit, ex: "
+"0.85em, 13px."
 msgstr ""
 
 #. Translators: Categories list.
@@ -2252,17 +2555,17 @@ msgctxt "Post Type General Name"
 msgid "Avada Slides"
 msgstr ""
 
-#: includes/class-fusioncore-plugin.php:401
+#: includes/class-fusioncore-plugin.php:399
 msgctxt "Post Type General Name"
 msgid "Portfolio"
 msgstr ""
 
-#: includes/class-fusioncore-plugin.php:481
+#: includes/class-fusioncore-plugin.php:479
 msgctxt "Post Type General Name"
 msgid "FAQs"
 msgstr ""
 
-#: includes/class-fusioncore-plugin.php:538
+#: includes/class-fusioncore-plugin.php:536
 msgctxt "Post Type General Name"
 msgid "Elastic Sliders"
 msgstr ""
@@ -2272,47 +2575,47 @@ msgctxt "Post Type Singular Name"
 msgid "Avada Slide"
 msgstr ""
 
-#: includes/class-fusioncore-plugin.php:402
+#: includes/class-fusioncore-plugin.php:400
 msgctxt "Post Type Singular Name"
 msgid "Portfolio"
 msgstr ""
 
-#: includes/class-fusioncore-plugin.php:482
+#: includes/class-fusioncore-plugin.php:480
 msgctxt "Post Type Singular Name"
 msgid "FAQ"
 msgstr ""
 
-#: includes/class-fusioncore-plugin.php:539
+#: includes/class-fusioncore-plugin.php:537
 msgctxt "Post Type Singular Name"
 msgid "Elastic Slide"
 msgstr ""
 
-#: includes/class-fusioncore-plugin.php:434
+#: includes/class-fusioncore-plugin.php:432
 msgctxt "slug"
 msgid "portfolio_category"
 msgstr ""
 
-#: includes/class-fusioncore-plugin.php:452
+#: includes/class-fusioncore-plugin.php:450
 msgctxt "slug"
 msgid "portfolio_skills"
 msgstr ""
 
-#: includes/class-fusioncore-plugin.php:467
+#: includes/class-fusioncore-plugin.php:465
 msgctxt "slug"
 msgid "portfolio_tags"
 msgstr ""
 
-#: includes/class-fusioncore-plugin.php:514
+#: includes/class-fusioncore-plugin.php:512
 msgctxt "slug"
 msgid "faq_category"
 msgstr ""
 
-#: includes/class-fusioncore-plugin.php:568
+#: includes/class-fusioncore-plugin.php:566
 msgctxt "Taxonomy General Name"
 msgid "Groups"
 msgstr ""
 
-#: includes/class-fusioncore-plugin.php:569
+#: includes/class-fusioncore-plugin.php:567
 msgctxt "Taxonomy Singular Name"
 msgid "Group"
 msgstr ""
