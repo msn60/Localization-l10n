@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Fusion Core 3.1.6\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/fusion-core\n"
-"POT-Creation-Date: 2026-05-06 10:17:52+00:00\n"
+"POT-Creation-Date: 2026-05-11 11:15:40+00:00\n"
 "PO-Revision-Date: 2017-06-22 11:03+0300\n"
 "Last-Translator: Aristeides <info@theme-fusion.com>\n"
 "Language-Team: Burmese\n"
@@ -864,7 +864,7 @@ msgstr ""
 
 #: shortcodes/components/project-details.php:301 shortcodes/fusion-faq.php:1729
 #: shortcodes/fusion-fusionslider.php:740 shortcodes/fusion-portfolio.php:2775
-#: shortcodes/fusion-privacy.php:1157
+#: shortcodes/fusion-privacy.php:1148
 msgid "Element Visibility"
 msgstr ""
 
@@ -877,25 +877,25 @@ msgstr ""
 
 #: shortcodes/components/project-details.php:309 shortcodes/fusion-faq.php:1737
 #: shortcodes/fusion-fusionslider.php:748 shortcodes/fusion-portfolio.php:2783
-#: shortcodes/fusion-privacy.php:1165
+#: shortcodes/fusion-privacy.php:1156
 msgid "CSS Class"
 msgstr ""
 
 #: shortcodes/components/project-details.php:310 shortcodes/fusion-faq.php:1738
 #: shortcodes/fusion-fusionslider.php:751 shortcodes/fusion-portfolio.php:2784
-#: shortcodes/fusion-privacy.php:1166
+#: shortcodes/fusion-privacy.php:1157
 msgid "Add a class to the wrapping HTML element."
 msgstr ""
 
 #: shortcodes/components/project-details.php:316 shortcodes/fusion-faq.php:1745
 #: shortcodes/fusion-fusionslider.php:755 shortcodes/fusion-portfolio.php:2791
-#: shortcodes/fusion-privacy.php:1173
+#: shortcodes/fusion-privacy.php:1164
 msgid "CSS ID"
 msgstr ""
 
 #: shortcodes/components/project-details.php:317 shortcodes/fusion-faq.php:1746
 #: shortcodes/fusion-fusionslider.php:758 shortcodes/fusion-portfolio.php:2792
-#: shortcodes/fusion-privacy.php:1174
+#: shortcodes/fusion-privacy.php:1165
 msgid "Add an ID to the wrapping HTML element."
 msgstr ""
 
@@ -913,9 +913,9 @@ msgstr ""
 #: shortcodes/fusion-portfolio.php:2332 shortcodes/fusion-portfolio.php:2451
 #: shortcodes/fusion-portfolio.php:2651 shortcodes/fusion-portfolio.php:2711
 #: shortcodes/fusion-portfolio.php:2729 shortcodes/fusion-portfolio.php:2747
-#: shortcodes/fusion-privacy.php:960 shortcodes/fusion-privacy.php:1007
-#: shortcodes/fusion-privacy.php:1072 shortcodes/fusion-privacy.php:1098
-#: shortcodes/fusion-privacy.php:1124
+#: shortcodes/fusion-privacy.php:951 shortcodes/fusion-privacy.php:998
+#: shortcodes/fusion-privacy.php:1063 shortcodes/fusion-privacy.php:1089
+#: shortcodes/fusion-privacy.php:1115
 msgid "Yes"
 msgstr ""
 
@@ -925,9 +925,9 @@ msgstr ""
 #: shortcodes/fusion-portfolio.php:2333 shortcodes/fusion-portfolio.php:2453
 #: shortcodes/fusion-portfolio.php:2652 shortcodes/fusion-portfolio.php:2712
 #: shortcodes/fusion-portfolio.php:2730 shortcodes/fusion-portfolio.php:2748
-#: shortcodes/fusion-privacy.php:961 shortcodes/fusion-privacy.php:1008
-#: shortcodes/fusion-privacy.php:1073 shortcodes/fusion-privacy.php:1099
-#: shortcodes/fusion-privacy.php:1125
+#: shortcodes/fusion-privacy.php:952 shortcodes/fusion-privacy.php:999
+#: shortcodes/fusion-privacy.php:1064 shortcodes/fusion-privacy.php:1090
+#: shortcodes/fusion-privacy.php:1116
 msgid "No"
 msgstr ""
 
@@ -943,10 +943,10 @@ msgstr ""
 #: shortcodes/fusion-faq.php:1633 shortcodes/fusion-faq.php:1649
 #: shortcodes/fusion-faq.php:1662 shortcodes/fusion-faq.php:1687
 #: shortcodes/fusion-faq.php:1701 shortcodes/fusion-faq.php:1715
-#: shortcodes/fusion-privacy.php:1182 shortcodes/fusion-privacy.php:1200
-#: shortcodes/fusion-privacy.php:1235 shortcodes/fusion-privacy.php:1272
-#: shortcodes/fusion-privacy.php:1284 shortcodes/fusion-privacy.php:1300
-#: shortcodes/fusion-privacy.php:1316 shortcodes/fusion-privacy.php:1331
+#: shortcodes/fusion-privacy.php:1173 shortcodes/fusion-privacy.php:1191
+#: shortcodes/fusion-privacy.php:1226 shortcodes/fusion-privacy.php:1263
+#: shortcodes/fusion-privacy.php:1275 shortcodes/fusion-privacy.php:1291
+#: shortcodes/fusion-privacy.php:1307 shortcodes/fusion-privacy.php:1322
 msgid "Design"
 msgstr ""
 
@@ -1249,8 +1249,8 @@ msgstr ""
 #: shortcodes/fusion-portfolio.php:2108 shortcodes/fusion-portfolio.php:2173
 #: shortcodes/fusion-portfolio.php:2370 shortcodes/fusion-portfolio.php:2396
 #: shortcodes/fusion-portfolio.php:2494 shortcodes/fusion-portfolio.php:2592
-#: shortcodes/fusion-portfolio.php:2650 shortcodes/fusion-privacy.php:1036
-#: shortcodes/fusion-privacy.php:1048 shortcodes/fusion-privacy.php:1060
+#: shortcodes/fusion-portfolio.php:2650 shortcodes/fusion-privacy.php:1027
+#: shortcodes/fusion-privacy.php:1039 shortcodes/fusion-privacy.php:1051
 msgid "Default"
 msgstr ""
 
@@ -1496,8 +1496,8 @@ msgstr ""
 #: shortcodes/fusion-faq.php:1719 shortcodes/fusion-faq.php:1741
 #: shortcodes/fusion-faq.php:1749 shortcodes/fusion-fusionslider.php:732
 #: shortcodes/fusion-portfolio.php:2765 shortcodes/fusion-portfolio.php:2787
-#: shortcodes/fusion-portfolio.php:2795 shortcodes/fusion-privacy.php:1169
-#: shortcodes/fusion-privacy.php:1177
+#: shortcodes/fusion-portfolio.php:2795 shortcodes/fusion-privacy.php:1160
+#: shortcodes/fusion-privacy.php:1168
 msgid "General"
 msgstr ""
 
@@ -2019,13 +2019,13 @@ msgid ""
 "are mainly used for single item pagination within selected categories."
 msgstr ""
 
-#: shortcodes/fusion-portfolio.php:2515 shortcodes/fusion-privacy.php:1037
-#: shortcodes/fusion-privacy.php:1049 shortcodes/fusion-privacy.php:1061
+#: shortcodes/fusion-portfolio.php:2515 shortcodes/fusion-privacy.php:1028
+#: shortcodes/fusion-privacy.php:1040 shortcodes/fusion-privacy.php:1052
 msgid "On"
 msgstr ""
 
-#: shortcodes/fusion-portfolio.php:2516 shortcodes/fusion-privacy.php:1038
-#: shortcodes/fusion-privacy.php:1050 shortcodes/fusion-privacy.php:1062
+#: shortcodes/fusion-portfolio.php:2516 shortcodes/fusion-privacy.php:1029
+#: shortcodes/fusion-privacy.php:1041 shortcodes/fusion-privacy.php:1053
 msgid "Off"
 msgstr ""
 
@@ -2123,175 +2123,175 @@ msgstr ""
 msgid "Choose to enable mouse drag control on the carousel."
 msgstr ""
 
-#: shortcodes/fusion-privacy.php:186 shortcodes/fusion-privacy.php:315
+#: shortcodes/fusion-privacy.php:187 shortcodes/fusion-privacy.php:316
 msgid "Update"
 msgstr ""
 
-#: shortcodes/fusion-privacy.php:187 shortcodes/fusion-privacy.php:307
+#: shortcodes/fusion-privacy.php:188 shortcodes/fusion-privacy.php:308
 msgid "Accept All"
 msgstr ""
 
-#: shortcodes/fusion-privacy.php:188 shortcodes/fusion-privacy.php:311
+#: shortcodes/fusion-privacy.php:189 shortcodes/fusion-privacy.php:312
 msgid "Reject All"
 msgstr ""
 
-#: shortcodes/fusion-privacy.php:277
+#: shortcodes/fusion-privacy.php:278
 msgid "%s day"
 msgid_plural "%s days"
 msgstr[0] ""
 msgstr[1] ""
 
-#: shortcodes/fusion-privacy.php:781 shortcodes/fusion-privacy.php:783
+#: shortcodes/fusion-privacy.php:784 shortcodes/fusion-privacy.php:786
 msgid "Your embed preferences have been updated."
 msgstr ""
 
-#: shortcodes/fusion-privacy.php:787 shortcodes/fusion-privacy.php:789
+#: shortcodes/fusion-privacy.php:790 shortcodes/fusion-privacy.php:792
 msgid "Your embed preferences have been cleared."
 msgstr ""
 
-#: shortcodes/fusion-privacy.php:804
+#: shortcodes/fusion-privacy.php:807
 msgid "Necessary Cookies"
 msgstr ""
 
-#: shortcodes/fusion-privacy.php:805
+#: shortcodes/fusion-privacy.php:808
 msgid "Functional Cookies"
 msgstr ""
 
-#: shortcodes/fusion-privacy.php:806
+#: shortcodes/fusion-privacy.php:809
 msgid "Statistics Cookies"
 msgstr ""
 
-#: shortcodes/fusion-privacy.php:807
+#: shortcodes/fusion-privacy.php:810
 msgid "Marketing Cookies"
 msgstr ""
 
-#: shortcodes/fusion-privacy.php:850
+#: shortcodes/fusion-privacy.php:841
 msgid "Privacy & Consent"
 msgstr ""
 
-#: shortcodes/fusion-privacy.php:861
+#: shortcodes/fusion-privacy.php:852
 msgid "Privacy Text"
 msgstr ""
 
-#: shortcodes/fusion-privacy.php:862
+#: shortcodes/fusion-privacy.php:853
 msgid "Controls the privacy text which will show above the form."
 msgstr ""
 
-#: shortcodes/fusion-privacy.php:864
+#: shortcodes/fusion-privacy.php:855
 msgid "Your Content Goes Here"
 msgstr ""
 
-#: shortcodes/fusion-privacy.php:870
+#: shortcodes/fusion-privacy.php:861
 msgid "Cookie Grouping Layout"
 msgstr ""
 
-#: shortcodes/fusion-privacy.php:871
+#: shortcodes/fusion-privacy.php:862
 msgid ""
 "Choose whether to display cookies in groups (by category) or as a flat list."
 msgstr ""
 
-#: shortcodes/fusion-privacy.php:874
+#: shortcodes/fusion-privacy.php:865
 msgid "Flat List"
 msgstr ""
 
-#: shortcodes/fusion-privacy.php:875
+#: shortcodes/fusion-privacy.php:866
 msgid "Grouped"
 msgstr ""
 
-#: shortcodes/fusion-privacy.php:881
+#: shortcodes/fusion-privacy.php:872
 msgid "Group Display"
 msgstr ""
 
-#: shortcodes/fusion-privacy.php:882
+#: shortcodes/fusion-privacy.php:873
 msgid ""
 "Choose whether groups are stacked vertically or arranged side by side in "
 "columns. In Columns mode, groups wrap automatically when they reach the "
 "minimum width."
 msgstr ""
 
-#: shortcodes/fusion-privacy.php:885 shortcodes/fusion-privacy.php:1025
+#: shortcodes/fusion-privacy.php:876 shortcodes/fusion-privacy.php:1016
 msgid "Stacked"
 msgstr ""
 
-#: shortcodes/fusion-privacy.php:886
+#: shortcodes/fusion-privacy.php:877
 msgid "Columns"
 msgstr ""
 
-#: shortcodes/fusion-privacy.php:899
+#: shortcodes/fusion-privacy.php:890
 msgid "Column Minimum Width"
 msgstr ""
 
-#: shortcodes/fusion-privacy.php:900
+#: shortcodes/fusion-privacy.php:891
 msgid ""
 "Minimum width of each column in pixels. Columns wrap to the next line "
 "automatically when they can no longer fit at this width."
 msgstr ""
 
-#: shortcodes/fusion-privacy.php:922
+#: shortcodes/fusion-privacy.php:913
 msgid "Column Gap"
 msgstr ""
 
-#: shortcodes/fusion-privacy.php:923
+#: shortcodes/fusion-privacy.php:914
 msgid "Gap between columns. Accepts any CSS value, e.g. 1em, 20px."
 msgstr ""
 
-#: shortcodes/fusion-privacy.php:941
+#: shortcodes/fusion-privacy.php:932
 msgid "Visible Cookie Groups"
 msgstr ""
 
-#: shortcodes/fusion-privacy.php:942
+#: shortcodes/fusion-privacy.php:933
 msgid ""
 "Choose which cookie groups to display and drag to reorder them. Groups on "
 "the left are active; drag to the right to hide."
 msgstr ""
 
-#: shortcodes/fusion-privacy.php:956
+#: shortcodes/fusion-privacy.php:947
 msgid "Show Group Titles"
 msgstr ""
 
-#: shortcodes/fusion-privacy.php:957
+#: shortcodes/fusion-privacy.php:948
 msgid ""
 "Whether to display the category title for each cookie group. Only applies to "
 "the Grouped layout."
 msgstr ""
 
-#: shortcodes/fusion-privacy.php:974
+#: shortcodes/fusion-privacy.php:965
 msgid "Group Title HTML Tag"
 msgstr ""
 
-#: shortcodes/fusion-privacy.php:975
+#: shortcodes/fusion-privacy.php:966
 msgid "Choose the HTML tag for the group title headings."
 msgstr ""
 
-#: shortcodes/fusion-privacy.php:1003
+#: shortcodes/fusion-privacy.php:994
 msgid "Show Group Description"
 msgstr ""
 
-#: shortcodes/fusion-privacy.php:1004
+#: shortcodes/fusion-privacy.php:995
 msgid ""
 "Set to \"yes\" to display the category description set in the Consent "
 "Categories for each cookie group. Only applies to the Grouped layout."
 msgstr ""
 
-#: shortcodes/fusion-privacy.php:1021
+#: shortcodes/fusion-privacy.php:1012
 msgid "Form Field Layout"
 msgstr ""
 
-#: shortcodes/fusion-privacy.php:1022
+#: shortcodes/fusion-privacy.php:1013
 msgid ""
 "Choose if form checkboxes should be stacked and full width, or floated "
 "inline."
 msgstr ""
 
-#: shortcodes/fusion-privacy.php:1026
+#: shortcodes/fusion-privacy.php:1017
 msgid "Floated"
 msgstr ""
 
-#: shortcodes/fusion-privacy.php:1032
+#: shortcodes/fusion-privacy.php:1023
 msgid "List WordPress Necessary Cookies"
 msgstr ""
 
-#: shortcodes/fusion-privacy.php:1033
+#: shortcodes/fusion-privacy.php:1024
 msgid ""
 "Enable to automatically list standard WordPress necessary cookies in the "
 "Necessary group. If WooCommerce or The Events Calendar are active, their "
@@ -2299,27 +2299,27 @@ msgid ""
 "Global Options."
 msgstr ""
 
-#: shortcodes/fusion-privacy.php:1044
+#: shortcodes/fusion-privacy.php:1035
 msgid "Show Cookie Lifespan"
 msgstr ""
 
-#: shortcodes/fusion-privacy.php:1045
+#: shortcodes/fusion-privacy.php:1036
 msgid "Whether to display the cookie lifespan next to each consent item."
 msgstr ""
 
-#: shortcodes/fusion-privacy.php:1056
+#: shortcodes/fusion-privacy.php:1047
 msgid "Show Cookie Description"
 msgstr ""
 
-#: shortcodes/fusion-privacy.php:1057
+#: shortcodes/fusion-privacy.php:1048
 msgid "Whether to display the cookie description for each consent item."
 msgstr ""
 
-#: shortcodes/fusion-privacy.php:1068
+#: shortcodes/fusion-privacy.php:1059
 msgid "Show Update Button"
 msgstr ""
 
-#: shortcodes/fusion-privacy.php:1069
+#: shortcodes/fusion-privacy.php:1060
 msgid ""
 "Choose whether to display the Update / Save consent button. When building a "
 "custom consent layout with multiple Privacy elements on one page (e.g. one "
@@ -2328,57 +2328,57 @@ msgid ""
 "choices from all instances."
 msgstr ""
 
-#: shortcodes/fusion-privacy.php:1079
+#: shortcodes/fusion-privacy.php:1070
 msgid "Update Button Text"
 msgstr ""
 
-#: shortcodes/fusion-privacy.php:1080
+#: shortcodes/fusion-privacy.php:1071
 msgid "Label for the Update button. Defaults to \"Update\" if left empty."
 msgstr ""
 
-#: shortcodes/fusion-privacy.php:1094
+#: shortcodes/fusion-privacy.php:1085
 msgid "Show Accept All Button"
 msgstr ""
 
-#: shortcodes/fusion-privacy.php:1095
+#: shortcodes/fusion-privacy.php:1086
 msgid ""
 "Choose whether to display an Accept All button that checks all optional "
 "items and saves."
 msgstr ""
 
-#: shortcodes/fusion-privacy.php:1105
+#: shortcodes/fusion-privacy.php:1096
 msgid "Accept All Button Text"
 msgstr ""
 
-#: shortcodes/fusion-privacy.php:1106
+#: shortcodes/fusion-privacy.php:1097
 msgid ""
 "Label for the Accept All button. Defaults to \"Accept All\" if left empty."
 msgstr ""
 
-#: shortcodes/fusion-privacy.php:1120
+#: shortcodes/fusion-privacy.php:1111
 msgid "Show Reject All Button"
 msgstr ""
 
-#: shortcodes/fusion-privacy.php:1121
+#: shortcodes/fusion-privacy.php:1112
 msgid ""
 "Choose whether to display a Reject All button that unchecks all optional "
 "items and saves."
 msgstr ""
 
-#: shortcodes/fusion-privacy.php:1131
+#: shortcodes/fusion-privacy.php:1122
 msgid "Reject All Button Text"
 msgstr ""
 
-#: shortcodes/fusion-privacy.php:1132
+#: shortcodes/fusion-privacy.php:1123
 msgid ""
 "Label for the Reject All button. Defaults to \"Reject All\" if left empty."
 msgstr ""
 
-#: shortcodes/fusion-privacy.php:1146
+#: shortcodes/fusion-privacy.php:1137
 msgid "Save Action"
 msgstr ""
 
-#: shortcodes/fusion-privacy.php:1147
+#: shortcodes/fusion-privacy.php:1138
 msgid ""
 "\"Reload Page\" submits the form and reloads to re-render consent-gated "
 "content. \"AJAX\" saves client-side, replaces visible placeholders "
@@ -2386,75 +2386,75 @@ msgid ""
 "Canvas)."
 msgstr ""
 
-#: shortcodes/fusion-privacy.php:1150
+#: shortcodes/fusion-privacy.php:1141
 msgid "Reload Page"
 msgstr ""
 
-#: shortcodes/fusion-privacy.php:1151
+#: shortcodes/fusion-privacy.php:1142
 msgid "AJAX"
 msgstr ""
 
-#: shortcodes/fusion-privacy.php:1161
+#: shortcodes/fusion-privacy.php:1152
 msgid "Choose to show or hide the element on small, medium or large screens."
 msgstr ""
 
-#: shortcodes/fusion-privacy.php:1197
+#: shortcodes/fusion-privacy.php:1188
 msgid "Padding"
 msgstr ""
 
-#: shortcodes/fusion-privacy.php:1198
+#: shortcodes/fusion-privacy.php:1189
 msgid "Enter values including any CSS unit, ex: 20px, 2.5em."
 msgstr ""
 
-#: shortcodes/fusion-privacy.php:1214
+#: shortcodes/fusion-privacy.php:1205
 msgid "Group Title Typography"
 msgstr ""
 
-#: shortcodes/fusion-privacy.php:1215
+#: shortcodes/fusion-privacy.php:1206
 msgid "Controls the typography of the cookie group titles."
 msgstr ""
 
-#: shortcodes/fusion-privacy.php:1251
+#: shortcodes/fusion-privacy.php:1242
 msgid "Main Text Typography"
 msgstr ""
 
-#: shortcodes/fusion-privacy.php:1252
+#: shortcodes/fusion-privacy.php:1243
 msgid ""
 "Controls the typography of the consent item labels and body text. Leave "
 "empty to inherit."
 msgstr ""
 
-#: shortcodes/fusion-privacy.php:1276
+#: shortcodes/fusion-privacy.php:1267
 msgid "Necessary Cookies Opacity"
 msgstr ""
 
-#: shortcodes/fusion-privacy.php:1277
+#: shortcodes/fusion-privacy.php:1268
 msgid ""
 "Controls the opacity of necessary cookie items. \"Default\" inherits from "
 "Global Options."
 msgstr ""
 
-#: shortcodes/fusion-privacy.php:1295
+#: shortcodes/fusion-privacy.php:1286
 msgid "Cookie Lifespan Color"
 msgstr ""
 
-#: shortcodes/fusion-privacy.php:1296
+#: shortcodes/fusion-privacy.php:1287
 msgid "Controls the color of the cookie lifespan text."
 msgstr ""
 
-#: shortcodes/fusion-privacy.php:1311
+#: shortcodes/fusion-privacy.php:1302
 msgid "Cookie Description Color"
 msgstr ""
 
-#: shortcodes/fusion-privacy.php:1312
+#: shortcodes/fusion-privacy.php:1303
 msgid "Controls the color of the cookie description text."
 msgstr ""
 
-#: shortcodes/fusion-privacy.php:1327
+#: shortcodes/fusion-privacy.php:1318
 msgid "Cookie Description Font Size"
 msgstr ""
 
-#: shortcodes/fusion-privacy.php:1328
+#: shortcodes/fusion-privacy.php:1319
 msgid ""
 "Controls the font size of the cookie description. Enter value with unit, ex: "
 "0.85em, 13px."

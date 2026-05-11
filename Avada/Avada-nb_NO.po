@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Avada\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/theme/Avada\n"
-"POT-Creation-Date: 2026-05-06 10:16:31+00:00\n"
+"POT-Creation-Date: 2026-05-11 11:14:29+00:00\n"
 "PO-Revision-Date: 2022-09-08 14:40+0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
@@ -575,7 +575,7 @@ msgstr ""
 #: includes/lib/inc/fusion-app/class-fusion-preferences.php:312
 #: includes/lib/inc/fusion-app/helpers.php:516
 #: includes/lib/inc/redux/framework/FusionReduxCore/inc/fields/switch/field_switch.php:45
-#: includes/metaboxes/tabs/tab_page.php:204 includes/options/advanced.php:505
+#: includes/metaboxes/tabs/tab_page.php:204 includes/options/advanced.php:506
 #: includes/options/performance.php:299 includes/options/responsive.php:43
 #: includes/options/responsive.php:213
 msgid "On"
@@ -600,7 +600,7 @@ msgstr "På"
 #: includes/lib/inc/fusion-app/class-fusion-preferences.php:313
 #: includes/lib/inc/fusion-app/helpers.php:517
 #: includes/lib/inc/redux/framework/FusionReduxCore/inc/fields/switch/field_switch.php:48
-#: includes/metaboxes/tabs/tab_page.php:205 includes/options/advanced.php:506
+#: includes/metaboxes/tabs/tab_page.php:205 includes/options/advanced.php:507
 #: includes/options/extra.php:1092 includes/options/forms.php:458
 #: includes/options/forms.php:527 includes/options/maintenance.php:59
 #: includes/options/performance.php:300 includes/options/responsive.php:44
@@ -883,7 +883,7 @@ msgstr ""
 #: includes/admin-screens/performance.php:417
 #: includes/avada-app/class-fusion-panel.php:439
 #: includes/avada-functions.php:1714 includes/class-awb-site-data.php:449
-#: includes/options/advanced.php:652
+#: includes/options/advanced.php:653
 msgid "Avada Slider"
 msgstr ""
 
@@ -1676,7 +1676,7 @@ msgstr "Tilbake"
 #: includes/class-awb-performance-wizard.php:738
 #: includes/lib/inc/fusion-app/class-fusion-preferences.php:156
 #: includes/lib/inc/widgets/class-fusion-widget-tweets.php:340
-#: includes/options/advanced.php:351 includes/options/forms.php:296
+#: includes/options/advanced.php:352 includes/options/forms.php:296
 #: includes/options/forms.php:373 includes/options/lightbox.php:79
 msgid "Light"
 msgstr "Lys"
@@ -2285,7 +2285,7 @@ msgstr ""
 
 #: includes/admin-screens/setup.php:1028
 #: includes/lib/inc/fusion-app/helpers.php:340
-#: includes/options/advanced.php:108
+#: includes/options/advanced.php:109
 msgid "Avada Studio"
 msgstr ""
 
@@ -2430,7 +2430,7 @@ msgstr ""
 msgid "Setup Wizard"
 msgstr ""
 
-#: includes/admin-screens/status.php:177 includes/options/advanced.php:670
+#: includes/admin-screens/status.php:177 includes/options/advanced.php:671
 msgid "Avada Forms"
 msgstr ""
 
@@ -3193,7 +3193,7 @@ msgstr ""
 
 # @ Avada
 #: includes/avada-app/class-fusion-panel.php:441
-#: includes/options/advanced.php:661 includes/options/elastic_slider.php:27
+#: includes/options/advanced.php:662 includes/options/elastic_slider.php:27
 msgid "Elastic Slider"
 msgstr ""
 
@@ -3212,7 +3212,7 @@ msgstr "Ugyldig farge"
 
 #: includes/avada-app/class-fusion-panel.php:703
 #: includes/avada-app/class-fusion-panel.php:838
-#: includes/lib/inc/fusion-app/helpers.php:565 includes/options/privacy.php:773
+#: includes/lib/inc/fusion-app/helpers.php:565 includes/options/privacy.php:804
 msgid "Settings"
 msgstr "Innstillinger"
 
@@ -3231,7 +3231,7 @@ msgstr ""
 #: includes/lib/inc/class-fusion-patcher-admin-screen.php:290
 #: includes/lib/inc/redux/framework/FusionReduxCore/inc/fields/slides/field_slides.php:170
 #: includes/lib/inc/redux/framework/FusionReduxCore/inc/fields/slides/field_slides.php:225
-#: includes/options/advanced.php:575
+#: includes/options/advanced.php:576
 #: woocommerce/single-product/tabs/description.php:16
 msgid "Description"
 msgstr "Beskrivelse"
@@ -4709,7 +4709,7 @@ msgid "Select Widget Area"
 msgstr ""
 
 #: includes/class-avada-megamenu-framework.php:562
-#: includes/options/advanced.php:84 includes/options/menu.php:2870
+#: includes/options/advanced.php:85 includes/options/menu.php:2870
 msgid "Legacy Mega Menu"
 msgstr ""
 
@@ -4748,7 +4748,7 @@ msgstr ""
 #: includes/metaboxes/tabs/tab_off_canvas_design.php:115
 #: includes/metaboxes/tabs/tab_off_canvas_overlay.php:177
 #: includes/metaboxes/tabs/tab_seo.php:59
-#: includes/metaboxes/tabs/tab_seo.php:71 includes/options/advanced.php:504
+#: includes/metaboxes/tabs/tab_seo.php:71 includes/options/advanced.php:505
 #: includes/options/extra.php:382 includes/options/forms.php:295
 #: includes/options/portfolio.php:78
 msgid "Auto"
@@ -5029,125 +5029,125 @@ msgstr "Importer / Eksporter"
 msgid "Custom page options %d "
 msgstr ""
 
-#: includes/class-avada-privacy-embeds.php:417
+#: includes/class-avada-privacy-embeds.php:418
 msgid "YouTube"
 msgstr "YouTube"
 
 # @ Avada
-#: includes/class-avada-privacy-embeds.php:418
+#: includes/class-avada-privacy-embeds.php:419
 #: includes/metaboxes/options/options_slide.php:28
 msgid "Vimeo"
 msgstr ""
 
-#: includes/class-avada-privacy-embeds.php:419
+#: includes/class-avada-privacy-embeds.php:420
 msgid "SoundCloud"
 msgstr ""
 
 # @ Avada
-#: includes/class-avada-privacy-embeds.php:420
+#: includes/class-avada-privacy-embeds.php:421
 #: includes/options/social_media.php:832
 msgid "Facebook"
 msgstr "Facebook"
 
-#: includes/class-avada-privacy-embeds.php:421
+#: includes/class-avada-privacy-embeds.php:422
 msgid "Flickr"
 msgstr ""
 
-#: includes/class-avada-privacy-embeds.php:422
+#: includes/class-avada-privacy-embeds.php:423
 #: includes/options/social_media.php:833
 msgid "X"
 msgstr ""
 
-#: includes/class-avada-privacy-embeds.php:423
+#: includes/class-avada-privacy-embeds.php:424
 msgid "Google Maps"
 msgstr "Google Maps"
 
-#: includes/class-avada-privacy-embeds.php:424
+#: includes/class-avada-privacy-embeds.php:425
 msgid "Instagram"
 msgstr ""
 
-#: includes/class-avada-privacy-embeds.php:425
+#: includes/class-avada-privacy-embeds.php:426
 msgid "Google Analytics Storage"
 msgstr ""
 
-#: includes/class-avada-privacy-embeds.php:426
+#: includes/class-avada-privacy-embeds.php:427
 msgid "Google Ad Storage"
 msgstr ""
 
-#: includes/class-avada-privacy-embeds.php:427
+#: includes/class-avada-privacy-embeds.php:428
 msgid "Google Ad User Data"
 msgstr ""
 
-#: includes/class-avada-privacy-embeds.php:428
+#: includes/class-avada-privacy-embeds.php:429
 msgid "Google Ad Personalization"
 msgstr ""
 
-#: includes/class-avada-privacy-embeds.php:680
-#: includes/class-avada-privacy-embeds.php:684
+#: includes/class-avada-privacy-embeds.php:691
+#: includes/class-avada-privacy-embeds.php:695
 msgid "Used to store your authentication details."
 msgstr ""
 
-#: includes/class-avada-privacy-embeds.php:681
-#: includes/class-avada-privacy-embeds.php:685
-#: includes/class-avada-privacy-embeds.php:689
-#: includes/class-avada-privacy-embeds.php:717
-#: includes/class-avada-privacy-embeds.php:721
+#: includes/class-avada-privacy-embeds.php:692
+#: includes/class-avada-privacy-embeds.php:696
+#: includes/class-avada-privacy-embeds.php:700
+#: includes/class-avada-privacy-embeds.php:728
+#: includes/class-avada-privacy-embeds.php:732
 msgid "Session"
 msgstr ""
 
-#: includes/class-avada-privacy-embeds.php:688
+#: includes/class-avada-privacy-embeds.php:699
 msgid "Used to check if your browser has cookies enabled."
 msgstr ""
 
-#: includes/class-avada-privacy-embeds.php:692
+#: includes/class-avada-privacy-embeds.php:703
 msgid "Used to persist your user configuration in the admin dashboard."
 msgstr ""
 
-#: includes/class-avada-privacy-embeds.php:693
-#: includes/class-avada-privacy-embeds.php:697
-#: includes/class-avada-privacy-embeds.php:733
+#: includes/class-avada-privacy-embeds.php:704
+#: includes/class-avada-privacy-embeds.php:708
+#: includes/class-avada-privacy-embeds.php:744
 msgid "1 year"
 msgstr ""
 
-#: includes/class-avada-privacy-embeds.php:696
+#: includes/class-avada-privacy-embeds.php:707
 msgid "The time at which wp-settings-[user_id] was set."
 msgstr ""
 
-#: includes/class-avada-privacy-embeds.php:716
+#: includes/class-avada-privacy-embeds.php:727
 msgid ""
 "Stores a hash of the cart contents so WooCommerce can detect when cart "
 "contents change."
 msgstr ""
 
-#: includes/class-avada-privacy-embeds.php:720
+#: includes/class-avada-privacy-embeds.php:731
 msgid "Helps WooCommerce determine when cart contents/data changes."
 msgstr ""
 
-#: includes/class-avada-privacy-embeds.php:724
+#: includes/class-avada-privacy-embeds.php:735
 msgid ""
 "Contains a unique session token to maintain your shopping session and cart "
 "data."
 msgstr ""
 
-#: includes/class-avada-privacy-embeds.php:725
+#: includes/class-avada-privacy-embeds.php:736
 msgid "2 days"
 msgstr ""
 
-#: includes/class-avada-privacy-embeds.php:732
+#: includes/class-avada-privacy-embeds.php:743
 msgid "Remembers your preferred calendar view (month, list, day, etc.)."
 msgstr ""
 
 #. translators: The placeholder label (embed-type).
-#: includes/class-avada-privacy-embeds.php:1262
+#: includes/class-avada-privacy-embeds.php:1273
 msgid "For privacy reasons %s needs your permission to be loaded."
 msgstr "Av privatlivshensyn trenger %s din tillatelse for å lastes inn."
 
 #. translators: The link to the privacy page (embed-type).
-#: includes/class-avada-privacy-embeds.php:1268
+#: includes/class-avada-privacy-embeds.php:1279
 msgid "For more details, please see our %s."
 msgstr ""
 
-#: includes/class-avada-privacy-embeds.php:1275
+#: includes/class-avada-privacy-embeds.php:1286
 msgid "I Accept"
 msgstr "Jeg Godtar"
 
@@ -6510,13 +6510,13 @@ msgid "Full List"
 msgstr ""
 
 #: includes/class-awb-performance-wizard.php:735
-#: includes/options/advanced.php:348
+#: includes/options/advanced.php:349
 msgid "Brands"
 msgstr "Merker"
 
 #: includes/class-awb-performance-wizard.php:736
 #: includes/lib/inc/redux/framework/FusionReduxCore/inc/fields/link_color/field_link_color.php:92
-#: includes/options/advanced.php:349
+#: includes/options/advanced.php:350
 msgid "Regular"
 msgstr "Normal"
 
@@ -6525,7 +6525,7 @@ msgstr "Normal"
 #: includes/metaboxes/tabs/tab_form_steps.php:203
 #: includes/metaboxes/tabs/tab_form_steps.php:348
 #: includes/metaboxes/tabs/tab_form_steps.php:705
-#: includes/options/advanced.php:350 includes/options/footer.php:676
+#: includes/options/advanced.php:351 includes/options/footer.php:676
 #: includes/options/typography.php:378 includes/options/typography.php:501
 msgid "Solid"
 msgstr "Solid"
@@ -6562,7 +6562,7 @@ msgid "Start"
 msgstr ""
 
 #: includes/class-awb-performance-wizard.php:1497
-#: includes/options/advanced.php:51
+#: includes/options/advanced.php:52
 msgid "Features"
 msgstr ""
 
@@ -8270,6 +8270,7 @@ msgstr ""
 #: includes/lib/inc/class-fusion-settings.php:426
 #: includes/metaboxes/tabs/tab_portfolio_post.php:185
 #: includes/metaboxes/tabs/tab_post.php:110 includes/options/extra.php:567
+#: includes/options/privacy.php:776
 msgid "Link"
 msgstr ""
 
@@ -9069,7 +9070,7 @@ msgstr ""
 msgid "Column"
 msgstr "Kolonne"
 
-#: includes/lib/inc/fusion-app/helpers.php:274 includes/options/privacy.php:890
+#: includes/lib/inc/fusion-app/helpers.php:274 includes/options/privacy.php:921
 msgid "Columns"
 msgstr "Kolonner"
 
@@ -9618,7 +9619,7 @@ msgstr ""
 
 #: includes/lib/inc/fusion-app/helpers.php:423
 #: includes/metaboxes/tabs/tab_form_notifications.php:81
-#: includes/options/advanced.php:529
+#: includes/options/advanced.php:530
 msgid "Label"
 msgstr ""
 
@@ -10633,7 +10634,7 @@ msgstr "Aktivert"
 # @ Avada
 #: includes/lib/inc/fusion-app/templates/options/export.php:18
 #: includes/lib/inc/fusion-app/templates/options/import.php:18
-#: includes/options/advanced.php:536
+#: includes/options/advanced.php:537
 msgid "Code"
 msgstr "Kode"
 
@@ -13578,6 +13579,7 @@ msgstr ""
 
 # @ Avada
 #: includes/metaboxes/options/options_slide.php:305
+#: includes/options/privacy.php:777
 msgid "Button"
 msgstr "Knapp"
 
@@ -13695,7 +13697,7 @@ msgstr ""
 
 #: includes/metaboxes/tabs/tab_code_fields.php:63
 #: includes/metaboxes/tabs/tab_code_fields.php:79
-#: includes/options/advanced.php:617 includes/options/advanced.php:631
+#: includes/options/advanced.php:618 includes/options/advanced.php:632
 msgid ""
 "Only accepts JavaScript code, wrapped with &lt;script&gt; tags and valid "
 "HTML markup inside the &lt;body&gt; tag."
@@ -15947,10 +15949,11 @@ msgstr ""
 
 #: includes/metaboxes/tabs/tab_off_canvas_rules.php:190
 msgid ""
-"\"Display Until Consented\" hides the Off Canvas for visitors who have "
-"already saved their consent choices. \"Close After Save\" keeps the Off "
-"Canvas visible initially but closes it automatically once the visitor saves "
-"(requires a Privacy Element with \"Save Action\" set to \"AJAX\")."
+"\"Display Until Consented\" opens the Off Canvas for visitors who have not "
+"yet saved their consent choices. Once done, it will no longer open. "
+"\"Display Until Consented & Close Off Canvas\" works the same but also auto-"
+"closes the Off Canvas automatically once the visitor saves their consent "
+"choices (requires a Privacy Element with \"Save Action\" set to \"AJAX\")."
 msgstr ""
 
 #: includes/metaboxes/tabs/tab_off_canvas_rules.php:196
@@ -17196,43 +17199,47 @@ msgid ""
 "the page."
 msgstr ""
 
-#: includes/options/advanced.php:29 includes/options/privacy.php:414
+#: includes/options/advanced.php:29
+msgid "Do Not Add To A Group"
+msgstr ""
+
+#: includes/options/advanced.php:30 includes/options/privacy.php:413
 msgid "Necessary Cookies"
 msgstr ""
 
-#: includes/options/advanced.php:30 includes/options/privacy.php:415
+#: includes/options/advanced.php:31 includes/options/privacy.php:414
 msgid "Functional Cookies (Third Party Embeds)"
 msgstr ""
 
-#: includes/options/advanced.php:31 includes/options/privacy.php:416
+#: includes/options/advanced.php:32 includes/options/privacy.php:415
 msgid "Statistics Cookies (Analytics)"
 msgstr ""
 
-#: includes/options/advanced.php:32 includes/options/privacy.php:417
+#: includes/options/advanced.php:33 includes/options/privacy.php:416
 msgid "Marketing Cookies (Advertising & Targeting)"
 msgstr ""
 
 # @ Avada
-#: includes/options/advanced.php:43
+#: includes/options/advanced.php:44
 msgid "Advanced"
 msgstr "Avansert"
 
-#: includes/options/advanced.php:57
+#: includes/options/advanced.php:58
 msgid "Enable Language Updates"
 msgstr ""
 
-#: includes/options/advanced.php:58
+#: includes/options/advanced.php:59
 msgid ""
 "If your site is using a language other than English, enabling this option "
 "will allow you to get updated language files for your locale as soon as they "
 "are available."
 msgstr ""
 
-#: includes/options/advanced.php:66
+#: includes/options/advanced.php:67
 msgid "Avada's Option Network Dependencies"
 msgstr ""
 
-#: includes/options/advanced.php:67
+#: includes/options/advanced.php:68
 msgid ""
 "Avada's Option Network consists of Global Options, Page Options and Builder "
 "Options and each of them have dependent options ON by default. This means "
@@ -17241,137 +17248,137 @@ msgid ""
 "option off, and all dependencies will be disabled (requires save & refresh)."
 msgstr ""
 
-#: includes/options/advanced.php:75
+#: includes/options/advanced.php:76
 msgid "Code Block Encoding"
 msgstr ""
 
-#: includes/options/advanced.php:76
+#: includes/options/advanced.php:77
 msgid ""
 "Turn on to enable encoding in the Avada Builder code block and syntax "
 "highlighting elements."
 msgstr ""
 
-#: includes/options/advanced.php:85
+#: includes/options/advanced.php:86
 msgid "Turn on to enable Avada's legacy mega menu."
 msgstr ""
 
-#: includes/options/advanced.php:99
+#: includes/options/advanced.php:100
 msgid "Legacy Widget Areas"
 msgstr ""
 
-#: includes/options/advanced.php:100
+#: includes/options/advanced.php:101
 msgid "Turn on to enable the legacy widget areas of WordPress."
 msgstr ""
 
-#: includes/options/advanced.php:109
+#: includes/options/advanced.php:110
 msgid "Turn on to enable Avada studio."
 msgstr ""
 
-#: includes/options/advanced.php:117
+#: includes/options/advanced.php:118
 msgid "Avada Styles For Slider Revolution"
 msgstr ""
 
-#: includes/options/advanced.php:118
+#: includes/options/advanced.php:119
 msgid ""
 "Turn on to enable the Avada styles and use the default Slider Revolution "
 "styles."
 msgstr ""
 
-#: includes/options/advanced.php:166
+#: includes/options/advanced.php:167
 msgid "Avada Dropdown Styles"
 msgstr ""
 
-#: includes/options/advanced.php:167
+#: includes/options/advanced.php:168
 msgid ""
 "Turn on to enable the Avada styles for dropdown/select fields site wide. "
 "This should be done if you experience any issues with 3rd party plugin "
 "dropdowns."
 msgstr ""
 
-#: includes/options/advanced.php:203
+#: includes/options/advanced.php:204
 msgid "CSS Image Hover Animations on Mobiles"
 msgstr ""
 
-#: includes/options/advanced.php:204
+#: includes/options/advanced.php:205
 msgid "Turn on to enable CSS image hover animations on mobiles."
 msgstr ""
 
-#: includes/options/advanced.php:224
+#: includes/options/advanced.php:225
 msgid "YouTube API Scripts"
 msgstr ""
 
-#: includes/options/advanced.php:225
+#: includes/options/advanced.php:226
 msgid "Turn on to enable YouTube API scripts."
 msgstr ""
 
-#: includes/options/advanced.php:284
+#: includes/options/advanced.php:285
 msgid "Vimeo API Scripts"
 msgstr ""
 
-#: includes/options/advanced.php:285
+#: includes/options/advanced.php:286
 msgid "Turn on to enable Vimeo API scripts."
 msgstr ""
 
-#: includes/options/advanced.php:332
+#: includes/options/advanced.php:333
 msgid "Google Map Scripts"
 msgstr ""
 
-#: includes/options/advanced.php:333
+#: includes/options/advanced.php:334
 msgid "Turn on to enable google map."
 msgstr ""
 
-#: includes/options/advanced.php:341
+#: includes/options/advanced.php:342
 msgid "Font Awesome"
 msgstr ""
 
-#: includes/options/advanced.php:342
+#: includes/options/advanced.php:343
 msgid ""
 "Choose which Font Awesome icon subsets you want to load. Note that Light "
 "subset can only be used if Font Awesome Pro is enabled."
 msgstr ""
 
-#: includes/options/advanced.php:357
+#: includes/options/advanced.php:358
 msgid "Font Awesome v4 Compatibility"
 msgstr ""
 
-#: includes/options/advanced.php:358
+#: includes/options/advanced.php:359
 msgid "Turn on to enable support for Font Awesome 4 icon code format."
 msgstr ""
 
-#: includes/options/advanced.php:366
+#: includes/options/advanced.php:367
 msgid "Font Awesome Pro"
 msgstr ""
 
 #. translators: %1$s = license text & link. %2$s: whitelist text & link.
-#: includes/options/advanced.php:368
+#: includes/options/advanced.php:369
 msgid "Font Awesome Pro %1$s is required and you need to %2$s your domain."
 msgstr ""
 
-#: includes/options/advanced.php:376
+#: includes/options/advanced.php:377
 msgid "CSS Outlines"
 msgstr ""
 
-#: includes/options/advanced.php:377
+#: includes/options/advanced.php:378
 msgid ""
 "Turn on to enable browser specific CSS element outlines used to improve "
 "accessibility."
 msgstr ""
 
-#: includes/options/advanced.php:399
+#: includes/options/advanced.php:400
 msgid "Meta Tags Separator"
 msgstr ""
 
-#: includes/options/advanced.php:400
+#: includes/options/advanced.php:401
 msgid ""
 "Set a separator character that can be used in the Avada Page Options SEO tab "
 "for post title and description meta tags."
 msgstr ""
 
-#: includes/options/advanced.php:406
+#: includes/options/advanced.php:407
 msgid "Description And Open Graph Meta Tags"
 msgstr ""
 
-#: includes/options/advanced.php:407
+#: includes/options/advanced.php:408
 msgid ""
 "Turn on to enable custom description meta tag and open graph meta tags. "
 "These are used for SEO and when sharing pages on social networks like "
@@ -17380,77 +17387,77 @@ msgid ""
 "in the plugin, or disable it here, to avoid duplicate tags."
 msgstr ""
 
-#: includes/options/advanced.php:415
+#: includes/options/advanced.php:416
 msgid "Rich Snippets"
 msgstr ""
 
-#: includes/options/advanced.php:416
+#: includes/options/advanced.php:417
 msgid ""
 "Turn on to enable rich snippets data site wide. If set to \"On\", you can "
 "also control individual items below. If set to \"Off\" all items will be "
 "disabled."
 msgstr ""
 
-#: includes/options/advanced.php:424
+#: includes/options/advanced.php:425
 msgid "Rich Snippets Title"
 msgstr ""
 
-#: includes/options/advanced.php:425
+#: includes/options/advanced.php:426
 msgid "Turn on to enable title rich snippet data site wide."
 msgstr ""
 
-#: includes/options/advanced.php:440
+#: includes/options/advanced.php:441
 msgid "Rich Snippets Author Info"
 msgstr ""
 
-#: includes/options/advanced.php:441
+#: includes/options/advanced.php:442
 msgid "Turn on to enable author rich snippet data site wide."
 msgstr ""
 
-#: includes/options/advanced.php:456
+#: includes/options/advanced.php:457
 msgid "Rich Snippets Last Update Date"
 msgstr ""
 
-#: includes/options/advanced.php:457
+#: includes/options/advanced.php:458
 msgid "Turn on to enable udate date rich snippet data site wide."
 msgstr ""
 
-#: includes/options/advanced.php:472
+#: includes/options/advanced.php:473
 msgid "Rich Snippets FAQ"
 msgstr ""
 
-#: includes/options/advanced.php:473
+#: includes/options/advanced.php:474
 msgid "Turn on to enable the FAQ rich snippet data site wide."
 msgstr ""
 
-#: includes/options/advanced.php:488
+#: includes/options/advanced.php:489
 msgid "Enable WP Block Editor Backend Styles"
 msgstr ""
 
-#: includes/options/advanced.php:489
+#: includes/options/advanced.php:490
 msgid ""
 "Turn on to enable Avada's backend style support for the WP block editor."
 msgstr ""
 
-#: includes/options/advanced.php:498
+#: includes/options/advanced.php:499
 msgid "Load Frontend Block Styles"
 msgstr ""
 
-#: includes/options/advanced.php:499
+#: includes/options/advanced.php:500
 msgid ""
 "Select \"Auto\" to automatically detect if there are blocks present in your "
 "page, and load block-styles in the footer."
 msgstr ""
 
-#: includes/options/advanced.php:513
+#: includes/options/advanced.php:514
 msgid "Code Fields (Tracking, etc.)"
 msgstr ""
 
-#: includes/options/advanced.php:519
+#: includes/options/advanced.php:520
 msgid "Custom Code Snippets (Tracking / Analytics)"
 msgstr ""
 
-#: includes/options/advanced.php:520
+#: includes/options/advanced.php:521
 msgid ""
 "Add custom code snippets (e.g. tracking pixels, analytics scripts) and "
 "control when they load and whether they require user consent. Each snippet "
@@ -17462,70 +17469,72 @@ msgid ""
 "for third-party services you cannot control directly."
 msgstr ""
 
-#: includes/options/advanced.php:530
+#: includes/options/advanced.php:531
 msgid ""
 "A display name for this snippet (e.g. \"Facebook Pixel\"). Used as the "
 "consent checkbox label in the Consent Category content."
 msgstr ""
 
-#: includes/options/advanced.php:537
+#: includes/options/advanced.php:538
 msgid "Paste your script here including the <script> tags."
 msgstr ""
 
-#: includes/options/advanced.php:548
+#: includes/options/advanced.php:549
 msgid "Consent Category"
 msgstr ""
 
-#: includes/options/advanced.php:549
+#: includes/options/advanced.php:550
 msgid ""
 "Assign this snippet to a consent category. \"Necessary\" snippets always "
-"load and show as a locked checkbox. \"Functional\" and \"Tracking\" snippets "
-"require consent and appear in the matching Consent Category content."
-msgstr ""
-
-#: includes/options/advanced.php:556
-msgid "Placement"
+"load and show as a locked checkbox. Other categories require consent and "
+"appear as a checkbox in the matching Consent Category content. Choose \"Do "
+"Not Add To A Group\" to load the snippet without listing it — useful for "
+"consent-aware scripts that handle consent signals themselves."
 msgstr ""
 
 #: includes/options/advanced.php:557
+msgid "Placement"
+msgstr ""
+
+#: includes/options/advanced.php:558
 msgid "Where should this snippet be output in the page."
 msgstr ""
 
-#: includes/options/advanced.php:562
+#: includes/options/advanced.php:563
 msgid "Before </head>"
 msgstr ""
 
-#: includes/options/advanced.php:563
+#: includes/options/advanced.php:564
 msgid "After <body>"
 msgstr ""
 
-#: includes/options/advanced.php:564
+#: includes/options/advanced.php:565
 msgid "Before </body>"
 msgstr ""
 
-#: includes/options/advanced.php:568
+#: includes/options/advanced.php:569
 msgid "Cookie Lifespan"
 msgstr ""
 
-#: includes/options/advanced.php:569
+#: includes/options/advanced.php:570
 msgid ""
 "Optional. Describe how long the cookies set by this service persist (e.g. "
 "\"1 year\", \"Session\", \"180 days\"). Shown next to the consent checkbox "
 "in the Consent Category content."
 msgstr ""
 
-#: includes/options/advanced.php:576
+#: includes/options/advanced.php:577
 msgid ""
 "Optional. Shown below the consent checkbox in the Consent Category content. "
 "Use it to explain what this snippet does (e.g. \"Used to track conversions "
 "and show personalised ads.\")."
 msgstr ""
 
-#: includes/options/advanced.php:582
+#: includes/options/advanced.php:583
 msgid "Loading Behavior"
 msgstr ""
 
-#: includes/options/advanced.php:583
+#: includes/options/advanced.php:584
 msgid ""
 "\"Block until consent\" completely prevents the script from loading until "
 "the user agrees. \"Consent-aware\" always loads the script but passes the "
@@ -17533,82 +17542,82 @@ msgid ""
 "support consent signals."
 msgstr ""
 
-#: includes/options/advanced.php:588
+#: includes/options/advanced.php:589
 msgid "Block until consent"
 msgstr ""
 
-#: includes/options/advanced.php:589
+#: includes/options/advanced.php:590
 msgid "Consent-aware (always loads)"
 msgstr ""
 
-#: includes/options/advanced.php:593
+#: includes/options/advanced.php:594
 msgid "Pre-checked"
 msgstr ""
 
-#: includes/options/advanced.php:594
+#: includes/options/advanced.php:595
 msgid ""
 "If enabled, the consent checkbox for this snippet will be checked by default "
 "before the visitor makes a choice."
 msgstr ""
 
 # @ Avada
-#: includes/options/advanced.php:602
+#: includes/options/advanced.php:603
 msgid "Space before &lt;/head&gt;"
 msgstr ""
 
-#: includes/options/advanced.php:603
+#: includes/options/advanced.php:604
 msgid ""
 "Only accepts JavaScript code wrapped with &lt;script&gt; tags and HTML "
 "markup that is valid inside the &lt;head&gt; tag. Code snippets for tracking "
 "purposes should be added to the above \"Custom Code Snippets\" option."
 msgstr ""
 
-#: includes/options/advanced.php:616
+#: includes/options/advanced.php:617
 msgid "Space after &lt;body&gt;"
 msgstr ""
 
 # @ Avada
-#: includes/options/advanced.php:630
+#: includes/options/advanced.php:631
 msgid "Space before &lt;/body&gt;"
 msgstr ""
 
-#: includes/options/advanced.php:646
+#: includes/options/advanced.php:647
 msgid "Post Types"
 msgstr "Innleggstyper"
 
-#: includes/options/advanced.php:653
+#: includes/options/advanced.php:654
 msgid "Turn on to enable the Avada Slider."
 msgstr ""
 
-#: includes/options/advanced.php:662
+#: includes/options/advanced.php:663
 msgid "Turn on to enable the elastic slider."
 msgstr ""
 
-#: includes/options/advanced.php:671
+#: includes/options/advanced.php:672
 msgid "Turn on to enable the Avada Forms."
 msgstr ""
 
-#: includes/options/advanced.php:679
+#: includes/options/advanced.php:680
 msgid "Avada Off Canvas"
 msgstr ""
 
-#: includes/options/advanced.php:680
+#: includes/options/advanced.php:681
 msgid "Turn on to enable the Avada Off Canvas."
 msgstr ""
 
-#: includes/options/advanced.php:688
+#: includes/options/advanced.php:689
 msgid "Avada Portfolio"
 msgstr ""
 
-#: includes/options/advanced.php:689
+#: includes/options/advanced.php:690
 msgid "Turn on to enable the Avada Portfolio."
 msgstr ""
 
-#: includes/options/advanced.php:697
+#: includes/options/advanced.php:698
 msgid "Avada FAQs"
 msgstr ""
 
-#: includes/options/advanced.php:698
+#: includes/options/advanced.php:699
 msgid "Turn on to enable the Avada Faqs."
 msgstr ""
 
@@ -23641,7 +23650,7 @@ msgstr ""
 msgid "Select the type of cookie/content to display."
 msgstr ""
 
-#: includes/options/privacy.php:413
+#: includes/options/privacy.php:417
 msgid "Custom Content"
 msgstr ""
 
@@ -23697,11 +23706,11 @@ msgid ""
 msgstr ""
 
 #: includes/options/privacy.php:508 includes/options/privacy.php:514
-msgid "Privacy Bar"
+msgid "Privacy & Consent Bar"
 msgstr ""
 
 #: includes/options/privacy.php:515
-msgid "Turn on to enable a privacy bar at the bottom of the page."
+msgid "Turn on to enable a privacy & consent bar at the bottom of the page."
 msgstr ""
 
 #: includes/options/privacy.php:521
@@ -23782,9 +23791,12 @@ msgstr ""
 
 #: includes/options/privacy.php:713
 msgid ""
-"If enabled, when the button is clicked it will save the default consent "
-"selection.  If disabled the button will only save the preferences after a "
-"checkbox has been changed (bar will be hidden however)."
+"Controls what the primary bar button does when clicked on the collapsed bar. "
+"When disabled, it acts as an acknowledgment — the bar dismisses and visitors "
+"grant consents individually via placeholder buttons or the details panel. "
+"When enabled, clicking the button grants the consent types selected under "
+"\"Privacy Selected Consent Types\". Either way, once the details panel is "
+"open, clicking the button always saves the current checkbox selection."
 msgstr ""
 
 #: includes/options/privacy.php:747
@@ -23798,152 +23810,186 @@ msgid ""
 msgstr ""
 
 #: includes/options/privacy.php:770
-msgid "Privacy Bar Settings Text"
+msgid "Privacy Bar Settings Style"
 msgstr ""
 
 #: includes/options/privacy.php:771
+msgid ""
+"Controls how the settings entry is rendered. \"Link\" shows it inline within "
+"the bar text. \"Button\" renders it as a button alongside the other action "
+"buttons (more visible, recommended for clearer consent UX)."
+msgstr ""
+
+#: includes/options/privacy.php:801
+msgid "Privacy Bar Settings Text"
+msgstr ""
+
+#: includes/options/privacy.php:802
 msgid "Controls the link text for the privacy bar settings."
 msgstr ""
 
-#: includes/options/privacy.php:798
+#: includes/options/privacy.php:829
 msgid "Privacy Bar Update Button Text"
 msgstr ""
 
-#: includes/options/privacy.php:799
+#: includes/options/privacy.php:830
 msgid ""
 "Controls the button text for the privacy bar after a checkbox has changed."
 msgstr ""
 
-#: includes/options/privacy.php:801
+#: includes/options/privacy.php:832
 msgid "Update Settings"
 msgstr ""
 
-#: includes/options/privacy.php:831
+#: includes/options/privacy.php:862
 msgid "Privacy Bar Heading Font Size"
 msgstr ""
 
-#: includes/options/privacy.php:832
+#: includes/options/privacy.php:863
 msgid "Controls the font size for the privacy bar heading text."
 msgstr ""
 
-#: includes/options/privacy.php:859
+#: includes/options/privacy.php:890
 msgid "Privacy Bar Headings Color"
 msgstr ""
 
-#: includes/options/privacy.php:860
+#: includes/options/privacy.php:891
 msgid "Controls the text color of the privacy bar heading font."
 msgstr ""
 
-#: includes/options/privacy.php:884
+#: includes/options/privacy.php:915
 msgid "Privacy Bar Content Layout"
 msgstr ""
 
-#: includes/options/privacy.php:885
+#: includes/options/privacy.php:916
 msgid "Controls the layout for the privacy bar content."
 msgstr ""
 
-#: includes/options/privacy.php:891
+#: includes/options/privacy.php:922
 msgid "Tabs"
 msgstr ""
 
-#: includes/options/privacy.php:915
+#: includes/options/privacy.php:946
 msgid "Privacy Bar Tabs Max Width"
 msgstr ""
 
-#: includes/options/privacy.php:916
+#: includes/options/privacy.php:947
 msgid "Controls the maximum width of the tabs layout container."
 msgstr ""
 
-#: includes/options/privacy.php:942
+#: includes/options/privacy.php:973
 msgid "Privacy Bar Tabs Border Size"
 msgstr ""
 
-#: includes/options/privacy.php:943
+#: includes/options/privacy.php:974
 msgid "Controls the border size for the tabs layout. In Pixels."
 msgstr ""
 
-#: includes/options/privacy.php:977
+#: includes/options/privacy.php:1008
 msgid "Privacy Bar Tabs Border Color"
 msgstr ""
 
-#: includes/options/privacy.php:978
+#: includes/options/privacy.php:1009
 msgid "Controls the border color for the tabs layout."
 msgstr ""
 
-#: includes/options/privacy.php:1007
+#: includes/options/privacy.php:1038
 msgid "Privacy Bar Tabs Active Background Color"
 msgstr ""
 
-#: includes/options/privacy.php:1008
+#: includes/options/privacy.php:1039
 msgid "Controls the background color of the active tab."
 msgstr ""
 
-#: includes/options/privacy.php:1037
+#: includes/options/privacy.php:1068
 msgid "Privacy Bar Tabs Content Padding"
 msgstr ""
 
-#: includes/options/privacy.php:1038
+#: includes/options/privacy.php:1069
 msgid "Controls the padding for the tab content area."
 msgstr ""
 
-#: includes/options/privacy.php:1091
+#: includes/options/privacy.php:1122
 msgid "Privacy Bar Column Gap"
 msgstr ""
 
-#: includes/options/privacy.php:1092
+#: includes/options/privacy.php:1123
 msgid "Controls the gap between columns in the privacy bar content."
 msgstr ""
 
-#: includes/options/privacy.php:1123
+#: includes/options/privacy.php:1154
 msgid "Privacy Bar Cookie Lifespan Color"
 msgstr ""
 
-#: includes/options/privacy.php:1124
+#: includes/options/privacy.php:1155
 msgid ""
 "Controls the text color for the cookie lifespan shown next to each consent "
 "option. Leave empty to inherit from \"Privacy Bar Text Color\"."
 msgstr ""
 
-#: includes/options/privacy.php:1153
+#: includes/options/privacy.php:1184
 msgid "Privacy Bar Cookie Description Color"
 msgstr ""
 
-#: includes/options/privacy.php:1154
+#: includes/options/privacy.php:1185
 msgid ""
 "Controls the text color for the cookie descriptions shown below each consent "
 "option.  Leave empty to inherit from \"Privacy Bar Text Color\"."
 msgstr ""
 
-#: includes/options/privacy.php:1183
+#: includes/options/privacy.php:1214
 msgid "Privacy Bar Cookie Description Font Size"
 msgstr ""
 
-#: includes/options/privacy.php:1184
+#: includes/options/privacy.php:1215
 msgid ""
 "Controls the font size for the cookie descriptions shown below each consent "
 "option."
 msgstr ""
 
-#: includes/options/privacy.php:1216
+#: includes/options/privacy.php:1247
+msgid "Privacy Bar Accept All Button"
+msgstr ""
+
+#: includes/options/privacy.php:1248
+msgid ""
+"If enabled, the privacy bar will be extended with a button that grants "
+"consent for every available type, regardless of which checkboxes the visitor "
+"has toggled."
+msgstr ""
+
+#: includes/options/privacy.php:1274
+msgid "Privacy Bar Accept All Button Text"
+msgstr ""
+
+#: includes/options/privacy.php:1275
+msgid "Controls the link text for the privacy bar accept all button."
+msgstr ""
+
+#: includes/options/privacy.php:1277
+msgid "Accept All"
+msgstr ""
+
+#: includes/options/privacy.php:1306
 msgid "Privacy Bar Reject Button"
 msgstr ""
 
-#: includes/options/privacy.php:1217
+#: includes/options/privacy.php:1307
 msgid ""
 "If enabled, the privacy bar will be extended with a button that allows users "
 "to reject all."
 msgstr ""
 
-#: includes/options/privacy.php:1244
+#: includes/options/privacy.php:1334
 msgid "Privacy Bar Reject Button Text"
 msgstr ""
 
-#: includes/options/privacy.php:1245
+#: includes/options/privacy.php:1335
 msgid "Controls the link text for the privacy bar reject button."
 msgstr ""
 
-#: includes/options/privacy.php:1247
-msgid "Reject"
+#: includes/options/privacy.php:1337
+msgid "Reject All"
 msgstr ""
 
 # @ Avada
