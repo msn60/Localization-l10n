@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Avada 5.1.6\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/theme/Avada\n"
-"POT-Creation-Date: 2026-05-12 09:16:57+00:00\n"
+"POT-Creation-Date: 2026-05-12 10:39:27+00:00\n"
 "PO-Revision-Date: 2017-06-22 11:03+0300\n"
 "Last-Translator: Aristeides <info@theme-fusion.com>\n"
 "Language-Team: Argentinian\n"
@@ -3118,7 +3118,7 @@ msgstr ""
 
 #: includes/avada-app/class-fusion-panel.php:703
 #: includes/avada-app/class-fusion-panel.php:838
-#: includes/lib/inc/fusion-app/helpers.php:565 includes/options/privacy.php:804
+#: includes/lib/inc/fusion-app/helpers.php:565 includes/options/privacy.php:812
 msgid "Settings"
 msgstr ""
 
@@ -8011,7 +8011,7 @@ msgstr ""
 #: includes/lib/inc/class-fusion-settings.php:426
 #: includes/metaboxes/tabs/tab_portfolio_post.php:185
 #: includes/metaboxes/tabs/tab_post.php:110 includes/options/extra.php:567
-#: includes/options/privacy.php:776
+#: includes/options/privacy.php:784
 msgid "Link"
 msgstr ""
 
@@ -8802,7 +8802,7 @@ msgstr ""
 msgid "Column"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:274 includes/options/privacy.php:921
+#: includes/lib/inc/fusion-app/helpers.php:274 includes/options/privacy.php:929
 msgid "Columns"
 msgstr ""
 
@@ -13205,7 +13205,7 @@ msgid "Slide Link Type"
 msgstr ""
 
 #: includes/metaboxes/options/options_slide.php:305
-#: includes/options/privacy.php:777
+#: includes/options/privacy.php:785
 msgid "Button"
 msgstr ""
 
@@ -23074,11 +23074,11 @@ msgstr ""
 msgid "Description for the content"
 msgstr ""
 
-#: includes/options/privacy.php:442
+#: includes/options/privacy.php:450
 msgid "List WordPress Necessary Cookies"
 msgstr ""
 
-#: includes/options/privacy.php:443
+#: includes/options/privacy.php:451
 msgid ""
 "Enable to automatically list standard WordPress necessary cookies. If "
 "WooCommerce or The Events Calendar are active, their necessary cookies are "
@@ -23087,121 +23087,121 @@ msgid ""
 "Categories above."
 msgstr ""
 
-#: includes/options/privacy.php:456
+#: includes/options/privacy.php:464
 msgid "Necessary Cookies Opacity"
 msgstr ""
 
-#: includes/options/privacy.php:457
+#: includes/options/privacy.php:465
 msgid ""
 "Controls the opacity of necessary cookie items to visually indicate they "
 "cannot be toggled off."
 msgstr ""
 
-#: includes/options/privacy.php:480
+#: includes/options/privacy.php:488
 msgid "Show Cookie Lifespan"
 msgstr ""
 
-#: includes/options/privacy.php:481
+#: includes/options/privacy.php:489
 msgid ""
 "Enable to display the cookie lifespan next to each consent item in the "
 "Consent Category content."
 msgstr ""
 
-#: includes/options/privacy.php:494
+#: includes/options/privacy.php:502
 msgid "Show Cookie Description"
 msgstr ""
 
-#: includes/options/privacy.php:495
+#: includes/options/privacy.php:503
 msgid ""
 "Enable to display the cookie description below each consent item in the "
 "Consent Category content."
 msgstr ""
 
-#: includes/options/privacy.php:508 includes/options/privacy.php:514
+#: includes/options/privacy.php:516 includes/options/privacy.php:522
 msgid "Privacy & Consent Bar"
 msgstr ""
 
-#: includes/options/privacy.php:515
+#: includes/options/privacy.php:523
 msgid "Turn on to enable a privacy & consent bar at the bottom of the page."
 msgstr ""
 
-#: includes/options/privacy.php:521
+#: includes/options/privacy.php:529
 msgid "Privacy Bar Expanded Padding"
 msgstr ""
 
-#: includes/options/privacy.php:522
+#: includes/options/privacy.php:530
 msgid "Controls the top/right/bottom/left paddings of the privacy bar area."
 msgstr ""
 
-#: includes/options/privacy.php:564
+#: includes/options/privacy.php:572
 msgid "Privacy Bar Background Color"
 msgstr ""
 
-#: includes/options/privacy.php:565
+#: includes/options/privacy.php:573
 msgid "Controls the background color for the privacy bar."
 msgstr ""
 
-#: includes/options/privacy.php:584
+#: includes/options/privacy.php:592
 msgid "Privacy Bar Font Size"
 msgstr ""
 
-#: includes/options/privacy.php:585
+#: includes/options/privacy.php:593
 msgid "Controls the font size for the privacy bar content."
 msgstr ""
 
-#: includes/options/privacy.php:606
+#: includes/options/privacy.php:614
 msgid "Privacy Bar Text Color"
 msgstr ""
 
-#: includes/options/privacy.php:607
+#: includes/options/privacy.php:615
 msgid "Controls the text color for the privacy bar content."
 msgstr ""
 
-#: includes/options/privacy.php:626
+#: includes/options/privacy.php:634
 msgid "Privacy Bar Link Color"
 msgstr ""
 
-#: includes/options/privacy.php:627
+#: includes/options/privacy.php:635
 msgid "Controls the link color for the privacy bar."
 msgstr ""
 
-#: includes/options/privacy.php:646
+#: includes/options/privacy.php:654
 msgid "Privacy Bar Link Hover Color"
 msgstr ""
 
-#: includes/options/privacy.php:647
+#: includes/options/privacy.php:655
 msgid "Controls the link hover color for the privacy bar."
 msgstr ""
 
-#: includes/options/privacy.php:666
+#: includes/options/privacy.php:674
 msgid "Privacy Bar Text"
 msgstr ""
 
-#: includes/options/privacy.php:667
+#: includes/options/privacy.php:675
 msgid "Enter the text which you want to appear on the privacy bar."
 msgstr ""
 
-#: includes/options/privacy.php:669
+#: includes/options/privacy.php:677
 msgid "This website uses cookies and third party services."
 msgstr ""
 
-#: includes/options/privacy.php:689
+#: includes/options/privacy.php:697
 msgid "Privacy Bar Button Text"
 msgstr ""
 
-#: includes/options/privacy.php:690
+#: includes/options/privacy.php:698
 msgid "Controls the button text for the privacy bar acceptance."
 msgstr ""
 
-#: includes/options/privacy.php:692
+#: includes/options/privacy.php:700
 msgid "OK"
 msgstr ""
 
-#: includes/options/privacy.php:712
+#: includes/options/privacy.php:720
 msgid "Privacy Bar Button Save On Click"
 msgstr ""
 
-#: includes/options/privacy.php:713
+#: includes/options/privacy.php:721
 msgid ""
 "Controls what the primary bar button does when clicked on the collapsed bar. "
 "When disabled, it acts as an acknowledgment — the bar dismisses and visitors "
@@ -23211,196 +23211,196 @@ msgid ""
 "open, clicking the button always saves the current checkbox selection."
 msgstr ""
 
-#: includes/options/privacy.php:747
+#: includes/options/privacy.php:755
 msgid "Privacy Bar Settings"
 msgstr ""
 
-#: includes/options/privacy.php:748
+#: includes/options/privacy.php:756
 msgid ""
 "If enabled, a settings section will be added to show more information and to "
 "provide checkboxes for tracking and third party embeds."
 msgstr ""
 
-#: includes/options/privacy.php:770
+#: includes/options/privacy.php:778
 msgid "Privacy Bar Settings Style"
 msgstr ""
 
-#: includes/options/privacy.php:771
+#: includes/options/privacy.php:779
 msgid ""
 "Controls how the settings entry is rendered. \"Link\" shows it inline within "
 "the bar text. \"Button\" renders it as a button alongside the other action "
 "buttons (more visible, recommended for clearer consent UX)."
 msgstr ""
 
-#: includes/options/privacy.php:801
+#: includes/options/privacy.php:809
 msgid "Privacy Bar Settings Text"
 msgstr ""
 
-#: includes/options/privacy.php:802
+#: includes/options/privacy.php:810
 msgid "Controls the link text for the privacy bar settings."
 msgstr ""
 
-#: includes/options/privacy.php:829
+#: includes/options/privacy.php:837
 msgid "Privacy Bar Update Button Text"
 msgstr ""
 
-#: includes/options/privacy.php:830
+#: includes/options/privacy.php:838
 msgid ""
 "Controls the button text for the privacy bar after a checkbox has changed."
 msgstr ""
 
-#: includes/options/privacy.php:832
+#: includes/options/privacy.php:840
 msgid "Update Settings"
 msgstr ""
 
-#: includes/options/privacy.php:862
+#: includes/options/privacy.php:870
 msgid "Privacy Bar Heading Font Size"
 msgstr ""
 
-#: includes/options/privacy.php:863
+#: includes/options/privacy.php:871
 msgid "Controls the font size for the privacy bar heading text."
 msgstr ""
 
-#: includes/options/privacy.php:890
+#: includes/options/privacy.php:898
 msgid "Privacy Bar Headings Color"
 msgstr ""
 
-#: includes/options/privacy.php:891
+#: includes/options/privacy.php:899
 msgid "Controls the text color of the privacy bar heading font."
 msgstr ""
 
-#: includes/options/privacy.php:915
+#: includes/options/privacy.php:923
 msgid "Privacy Bar Content Layout"
 msgstr ""
 
-#: includes/options/privacy.php:916
+#: includes/options/privacy.php:924
 msgid "Controls the layout for the privacy bar content."
 msgstr ""
 
-#: includes/options/privacy.php:922
+#: includes/options/privacy.php:930
 msgid "Tabs"
 msgstr ""
 
-#: includes/options/privacy.php:946
+#: includes/options/privacy.php:954
 msgid "Privacy Bar Content Max Width"
 msgstr ""
 
-#: includes/options/privacy.php:947
+#: includes/options/privacy.php:955
 msgid "Controls the maximum width of the content container."
 msgstr ""
 
-#: includes/options/privacy.php:973
+#: includes/options/privacy.php:981
 msgid "Privacy Bar Tabs Border Size"
 msgstr ""
 
-#: includes/options/privacy.php:974
+#: includes/options/privacy.php:982
 msgid "Controls the border size for the tabs layout. In Pixels."
 msgstr ""
 
-#: includes/options/privacy.php:1008
+#: includes/options/privacy.php:1016
 msgid "Privacy Bar Tabs Border Color"
 msgstr ""
 
-#: includes/options/privacy.php:1009
+#: includes/options/privacy.php:1017
 msgid "Controls the border color for the tabs layout."
 msgstr ""
 
-#: includes/options/privacy.php:1038
+#: includes/options/privacy.php:1046
 msgid "Privacy Bar Tabs Active Background Color"
 msgstr ""
 
-#: includes/options/privacy.php:1039
+#: includes/options/privacy.php:1047
 msgid "Controls the background color of the active tab."
 msgstr ""
 
-#: includes/options/privacy.php:1068
+#: includes/options/privacy.php:1076
 msgid "Privacy Bar Tabs Content Padding"
 msgstr ""
 
-#: includes/options/privacy.php:1069
+#: includes/options/privacy.php:1077
 msgid "Controls the padding for the tab content area."
 msgstr ""
 
-#: includes/options/privacy.php:1122
+#: includes/options/privacy.php:1130
 msgid "Privacy Bar Column Gap"
 msgstr ""
 
-#: includes/options/privacy.php:1123
+#: includes/options/privacy.php:1131
 msgid "Controls the gap between columns in the privacy bar content."
 msgstr ""
 
-#: includes/options/privacy.php:1154
+#: includes/options/privacy.php:1162
 msgid "Privacy Bar Cookie Lifespan Color"
 msgstr ""
 
-#: includes/options/privacy.php:1155
+#: includes/options/privacy.php:1163
 msgid ""
 "Controls the text color for the cookie lifespan shown next to each consent "
 "option. Leave empty to inherit from \"Privacy Bar Text Color\"."
 msgstr ""
 
-#: includes/options/privacy.php:1184
+#: includes/options/privacy.php:1192
 msgid "Privacy Bar Cookie Description Color"
 msgstr ""
 
-#: includes/options/privacy.php:1185
+#: includes/options/privacy.php:1193
 msgid ""
 "Controls the text color for the cookie descriptions shown below each consent "
 "option.  Leave empty to inherit from \"Privacy Bar Text Color\"."
 msgstr ""
 
-#: includes/options/privacy.php:1214
+#: includes/options/privacy.php:1222
 msgid "Privacy Bar Cookie Description Font Size"
 msgstr ""
 
-#: includes/options/privacy.php:1215
+#: includes/options/privacy.php:1223
 msgid ""
 "Controls the font size for the cookie descriptions shown below each consent "
 "option."
 msgstr ""
 
-#: includes/options/privacy.php:1247
+#: includes/options/privacy.php:1255
 msgid "Privacy Bar Accept All Button"
 msgstr ""
 
-#: includes/options/privacy.php:1248
+#: includes/options/privacy.php:1256
 msgid ""
 "If enabled, the privacy bar will be extended with a button that grants "
 "consent for every available type, regardless of which checkboxes the visitor "
 "has toggled."
 msgstr ""
 
-#: includes/options/privacy.php:1274
+#: includes/options/privacy.php:1282
 msgid "Privacy Bar Accept All Button Text"
 msgstr ""
 
-#: includes/options/privacy.php:1275
+#: includes/options/privacy.php:1283
 msgid "Controls the link text for the privacy bar accept all button."
 msgstr ""
 
-#: includes/options/privacy.php:1277
+#: includes/options/privacy.php:1285
 msgid "Accept All"
 msgstr ""
 
-#: includes/options/privacy.php:1306
+#: includes/options/privacy.php:1314
 msgid "Privacy Bar Reject Button"
 msgstr ""
 
-#: includes/options/privacy.php:1307
+#: includes/options/privacy.php:1315
 msgid ""
 "If enabled, the privacy bar will be extended with a button that allows users "
 "to reject all."
 msgstr ""
 
-#: includes/options/privacy.php:1334
+#: includes/options/privacy.php:1342
 msgid "Privacy Bar Reject Button Text"
 msgstr ""
 
-#: includes/options/privacy.php:1335
+#: includes/options/privacy.php:1343
 msgid "Controls the link text for the privacy bar reject button."
 msgstr ""
 
-#: includes/options/privacy.php:1337
+#: includes/options/privacy.php:1345
 msgid "Reject All"
 msgstr ""
 
