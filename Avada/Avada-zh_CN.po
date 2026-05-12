@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Avada\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/theme/Avada\n"
-"POT-Creation-Date: 2026-05-11 11:14:29+00:00\n"
+"POT-Creation-Date: 2026-05-12 09:16:57+00:00\n"
 "PO-Revision-Date: 2026-04-14 11:08+0800\n"
 "Last-Translator: Bo <thewayyouare@vip.qq.com>\n"
 "Language-Team: Chinese (China)\n"
@@ -5220,126 +5220,126 @@ msgstr "导入/导出"
 msgid "Custom page options %d "
 msgstr "自定义页面选项 %d "
 
-#: includes/class-avada-privacy-embeds.php:418
+#: includes/class-avada-privacy-embeds.php:421
 msgid "YouTube"
 msgstr "YouTube"
 
 # @ Avada
-#: includes/class-avada-privacy-embeds.php:419
+#: includes/class-avada-privacy-embeds.php:422
 #: includes/metaboxes/options/options_slide.php:28
 msgid "Vimeo"
 msgstr "Vimeo"
 
-#: includes/class-avada-privacy-embeds.php:420
+#: includes/class-avada-privacy-embeds.php:423
 msgid "SoundCloud"
 msgstr "SoundCloud"
 
 # @ Avada
-#: includes/class-avada-privacy-embeds.php:421
+#: includes/class-avada-privacy-embeds.php:424
 #: includes/options/social_media.php:832
 msgid "Facebook"
 msgstr "Facebook"
 
-#: includes/class-avada-privacy-embeds.php:422
+#: includes/class-avada-privacy-embeds.php:425
 msgid "Flickr"
 msgstr "Flickr"
 
-#: includes/class-avada-privacy-embeds.php:423
+#: includes/class-avada-privacy-embeds.php:426
 #: includes/options/social_media.php:833
 msgid "X"
 msgstr "X"
 
 # @ Avada
-#: includes/class-avada-privacy-embeds.php:424
+#: includes/class-avada-privacy-embeds.php:427
 msgid "Google Maps"
 msgstr "谷歌地图"
 
-#: includes/class-avada-privacy-embeds.php:425
+#: includes/class-avada-privacy-embeds.php:428
 msgid "Instagram"
 msgstr "Instagram"
 
-#: includes/class-avada-privacy-embeds.php:426
+#: includes/class-avada-privacy-embeds.php:429
 msgid "Google Analytics Storage"
 msgstr ""
 
-#: includes/class-avada-privacy-embeds.php:427
+#: includes/class-avada-privacy-embeds.php:430
 msgid "Google Ad Storage"
 msgstr ""
 
-#: includes/class-avada-privacy-embeds.php:428
+#: includes/class-avada-privacy-embeds.php:431
 msgid "Google Ad User Data"
 msgstr ""
 
-#: includes/class-avada-privacy-embeds.php:429
+#: includes/class-avada-privacy-embeds.php:432
 msgid "Google Ad Personalization"
 msgstr ""
 
-#: includes/class-avada-privacy-embeds.php:691
-#: includes/class-avada-privacy-embeds.php:695
+#: includes/class-avada-privacy-embeds.php:694
+#: includes/class-avada-privacy-embeds.php:698
 msgid "Used to store your authentication details."
 msgstr ""
 
-#: includes/class-avada-privacy-embeds.php:692
-#: includes/class-avada-privacy-embeds.php:696
-#: includes/class-avada-privacy-embeds.php:700
-#: includes/class-avada-privacy-embeds.php:728
-#: includes/class-avada-privacy-embeds.php:732
+#: includes/class-avada-privacy-embeds.php:695
+#: includes/class-avada-privacy-embeds.php:699
+#: includes/class-avada-privacy-embeds.php:703
+#: includes/class-avada-privacy-embeds.php:731
+#: includes/class-avada-privacy-embeds.php:735
 msgid "Session"
 msgstr ""
 
-#: includes/class-avada-privacy-embeds.php:699
+#: includes/class-avada-privacy-embeds.php:702
 msgid "Used to check if your browser has cookies enabled."
 msgstr ""
 
-#: includes/class-avada-privacy-embeds.php:703
+#: includes/class-avada-privacy-embeds.php:706
 msgid "Used to persist your user configuration in the admin dashboard."
 msgstr ""
 
-#: includes/class-avada-privacy-embeds.php:704
-#: includes/class-avada-privacy-embeds.php:708
-#: includes/class-avada-privacy-embeds.php:744
+#: includes/class-avada-privacy-embeds.php:707
+#: includes/class-avada-privacy-embeds.php:711
+#: includes/class-avada-privacy-embeds.php:747
 msgid "1 year"
 msgstr ""
 
-#: includes/class-avada-privacy-embeds.php:707
+#: includes/class-avada-privacy-embeds.php:710
 msgid "The time at which wp-settings-[user_id] was set."
 msgstr ""
 
-#: includes/class-avada-privacy-embeds.php:727
+#: includes/class-avada-privacy-embeds.php:730
 msgid ""
 "Stores a hash of the cart contents so WooCommerce can detect when cart "
 "contents change."
 msgstr ""
 
-#: includes/class-avada-privacy-embeds.php:731
+#: includes/class-avada-privacy-embeds.php:734
 msgid "Helps WooCommerce determine when cart contents/data changes."
 msgstr ""
 
-#: includes/class-avada-privacy-embeds.php:735
+#: includes/class-avada-privacy-embeds.php:738
 msgid ""
 "Contains a unique session token to maintain your shopping session and cart "
 "data."
 msgstr ""
 
-#: includes/class-avada-privacy-embeds.php:736
+#: includes/class-avada-privacy-embeds.php:739
 msgid "2 days"
 msgstr ""
 
-#: includes/class-avada-privacy-embeds.php:743
+#: includes/class-avada-privacy-embeds.php:746
 msgid "Remembers your preferred calendar view (month, list, day, etc.)."
 msgstr ""
 
 #. translators: The placeholder label (embed-type).
-#: includes/class-avada-privacy-embeds.php:1273
+#: includes/class-avada-privacy-embeds.php:1276
 msgid "For privacy reasons %s needs your permission to be loaded."
 msgstr "出于隐私原因，%s 需要您的许可才能加载。"
 
 #. translators: The link to the privacy page (embed-type).
-#: includes/class-avada-privacy-embeds.php:1279
+#: includes/class-avada-privacy-embeds.php:1282
 msgid "For more details, please see our %s."
 msgstr "更多信息，请参阅 %s."
 
-#: includes/class-avada-privacy-embeds.php:1286
+#: includes/class-avada-privacy-embeds.php:1289
 msgid "I Accept"
 msgstr "我同意"
 
@@ -7499,6 +7499,7 @@ msgstr "选择启用或禁用小工具标题。对于 WordPress 的默认小工�
 #: includes/metaboxes/tabs/tab_footer.php:68
 #: includes/metaboxes/tabs/tab_footer.php:90
 #: includes/metaboxes/tabs/tab_form_appearance.php:115
+#: includes/metaboxes/tabs/tab_form_appearance.php:276
 #: includes/metaboxes/tabs/tab_form_general.php:43
 #: includes/metaboxes/tabs/tab_form_notifications.php:126
 #: includes/metaboxes/tabs/tab_form_notifications.php:162
@@ -7574,6 +7575,7 @@ msgstr "是"
 #: includes/metaboxes/tabs/tab_footer.php:69
 #: includes/metaboxes/tabs/tab_footer.php:91
 #: includes/metaboxes/tabs/tab_form_appearance.php:116
+#: includes/metaboxes/tabs/tab_form_appearance.php:277
 #: includes/metaboxes/tabs/tab_form_general.php:44
 #: includes/metaboxes/tabs/tab_form_notifications.php:127
 #: includes/metaboxes/tabs/tab_form_notifications.php:163
@@ -14516,38 +14518,48 @@ msgid "To Bottom"
 msgstr "到底部"
 
 #: includes/metaboxes/tabs/tab_form_appearance.php:271
+msgid "Shrink Placeholder on Focus"
+msgstr ""
+
+#: includes/metaboxes/tabs/tab_form_appearance.php:272
+msgid ""
+"If set to \"yes\", the placeholder text will shrink to 75% of its original "
+"size when moved to the top or bottom of the field."
+msgstr ""
+
+#: includes/metaboxes/tabs/tab_form_appearance.php:293
 msgid "Field Border Size"
 msgstr "字段边框大小"
 
 #. translators: Additional description (defaults).
-#: includes/metaboxes/tabs/tab_form_appearance.php:273
+#: includes/metaboxes/tabs/tab_form_appearance.php:295
 msgid "Controls the border size of the form fields. %s"
 msgstr "控制表单字段的边框大小。%s"
 
-#: includes/metaboxes/tabs/tab_form_appearance.php:298
+#: includes/metaboxes/tabs/tab_form_appearance.php:320
 msgid "Field Border Color"
 msgstr "字段边框颜色"
 
 #. translators: Additional description (defaults).
-#: includes/metaboxes/tabs/tab_form_appearance.php:300
+#: includes/metaboxes/tabs/tab_form_appearance.php:322
 msgid "Controls the border color of the form input fields. %s"
 msgstr "控制表单输入字段的边框颜色。%s"
 
-#: includes/metaboxes/tabs/tab_form_appearance.php:313
+#: includes/metaboxes/tabs/tab_form_appearance.php:335
 msgid "Field Border Color On Focus"
 msgstr "聚焦时字段边框颜色"
 
 #. translators: Additional description (defaults).
-#: includes/metaboxes/tabs/tab_form_appearance.php:315
+#: includes/metaboxes/tabs/tab_form_appearance.php:337
 msgid "Controls the border color of the form input fields on focus. %s"
 msgstr "控制聚焦时表单输入字段的边框颜色。%s"
 
-#: includes/metaboxes/tabs/tab_form_appearance.php:329
+#: includes/metaboxes/tabs/tab_form_appearance.php:351
 msgid "Field Border Radius"
 msgstr "字段边框半径"
 
 #. translators: Additional description (defaults).
-#: includes/metaboxes/tabs/tab_form_appearance.php:331
+#: includes/metaboxes/tabs/tab_form_appearance.php:353
 msgid "Controls the border radius of input field. In pixels. %s"
 msgstr "控制输入字段的边框半径。以像素为单位。%s"
 
@@ -14567,7 +14579,11 @@ msgstr "显示消息"
 msgid "Redirect To URL"
 msgstr "重定向到 URL"
 
-#: includes/metaboxes/tabs/tab_form_confirmation.php:43
+#: includes/metaboxes/tabs/tab_form_confirmation.php:33
+msgid "Reload Page"
+msgstr ""
+
+#: includes/metaboxes/tabs/tab_form_confirmation.php:44
 msgid ""
 "<strong>IMPORTANT NOTE:</strong> Use the <strong>Notice Element</strong> in "
 "the Form Builder to display confirmation notices for your form upon "
@@ -14576,23 +14592,25 @@ msgstr ""
 "<strong>重要提示：</strong>使用表单构建器中的<strong>提示元素</strong>在提交"
 "时显示表单确认通知。"
 
-#: includes/metaboxes/tabs/tab_form_confirmation.php:55
+#: includes/metaboxes/tabs/tab_form_confirmation.php:56
 msgid "Redirect URL"
 msgstr "重定向 URL"
 
-#: includes/metaboxes/tabs/tab_form_confirmation.php:56
+#: includes/metaboxes/tabs/tab_form_confirmation.php:57
 msgid ""
 "Enter the URL which the user should be redirected to after a successful "
 "submission."
 msgstr "输入提交成功后用户应重定向到的 URL。"
 
-#: includes/metaboxes/tabs/tab_form_confirmation.php:69
-msgid "Redirect After"
-msgstr "重定向延迟"
-
 #: includes/metaboxes/tabs/tab_form_confirmation.php:70
-msgid "Set a timeout before the redirect takes place. In milliseconds."
-msgstr "设置重定向发生前的超时时间。以毫秒为单位。"
+msgid "Redirect / Reload After"
+msgstr ""
+
+#: includes/metaboxes/tabs/tab_form_confirmation.php:71
+msgid ""
+"Set a timeout before the redirect or page reload takes place. In "
+"milliseconds."
+msgstr ""
 
 #: includes/metaboxes/tabs/tab_form_general.php:37
 msgid "Enable Member Only Form"
@@ -24835,11 +24853,11 @@ msgid "Tabs"
 msgstr ""
 
 #: includes/options/privacy.php:946
-msgid "Privacy Bar Tabs Max Width"
+msgid "Privacy Bar Content Max Width"
 msgstr ""
 
 #: includes/options/privacy.php:947
-msgid "Controls the maximum width of the tabs layout container."
+msgid "Controls the maximum width of the content container."
 msgstr ""
 
 #: includes/options/privacy.php:973
@@ -28096,6 +28114,12 @@ msgstr "首页"
 msgctxt "%s Events plural label"
 msgid "All %s"
 msgstr "所有 %s"
+
+#~ msgid "Redirect After"
+#~ msgstr "重定向延迟"
+
+#~ msgid "Set a timeout before the redirect takes place. In milliseconds."
+#~ msgstr "设置重定向发生前的超时时间。以毫秒为单位。"
 
 #~ msgid "Privacy Bar"
 #~ msgstr "隐私框"
