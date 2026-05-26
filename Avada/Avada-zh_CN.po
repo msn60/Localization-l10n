@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Avada\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/theme/Avada\n"
-"POT-Creation-Date: 2026-05-12 10:39:27+00:00\n"
+"POT-Creation-Date: 2026-05-26 11:29:14+00:00\n"
 "PO-Revision-Date: 2026-04-14 11:08+0800\n"
 "Last-Translator: Bo <thewayyouare@vip.qq.com>\n"
 "Language-Team: Chinese (China)\n"
@@ -247,57 +247,57 @@ msgid "Welcome back to the Avada dashboard. Take a look at our latest update."
 msgstr "欢迎回到 Avada 仪表盘。查看我们的最新更新。"
 
 #. translators: %s: version number.
-#: includes/admin-screens/dashboard.php:71
+#: includes/admin-screens/dashboard.php:68
 msgid "What’s New In Avada %s"
 msgstr "Avada %s 的新功能"
 
-#: includes/admin-screens/dashboard.php:74
+#: includes/admin-screens/dashboard.php:71
 #: includes/lib/inc/fusion-app/templates/front-end-toolbar.php:112
 msgid "Get Started"
 msgstr "开始"
 
-#: includes/admin-screens/dashboard.php:79
-#: includes/admin-screens/dashboard.php:84 includes/admin-screens/setup.php:40
+#: includes/admin-screens/dashboard.php:76
+#: includes/admin-screens/dashboard.php:78 includes/admin-screens/setup.php:40
 #: includes/admin-screens/setup.php:74 includes/admin-screens/setup.php:79
 msgid "Avada Welcome Image"
 msgstr "Avada 欢迎图片"
 
-#: includes/admin-screens/dashboard.php:95
+#: includes/admin-screens/dashboard.php:89
 msgid "Avada Resources"
 msgstr "Avada 资源"
 
 # @ Avada
-#: includes/admin-screens/dashboard.php:98
+#: includes/admin-screens/dashboard.php:92
 #: includes/class-avada-tgm-plugin-activation.php:2341
 msgid "Recommended"
 msgstr "推荐"
 
 #. translators: Item price.
-#: includes/admin-screens/dashboard.php:110
+#: includes/admin-screens/dashboard.php:104
 msgid "Only %s - Buy Now"
 msgstr "仅需 %s - 立即购买"
 
 #. translators: Item price.
-#: includes/admin-screens/dashboard.php:114
+#: includes/admin-screens/dashboard.php:108
 msgid "On Sale - Only %s"
 msgstr "促销中 - 仅需 %s"
 
-#: includes/admin-screens/dashboard.php:119
-#: includes/admin-screens/dashboard.php:132
+#: includes/admin-screens/dashboard.php:113
+#: includes/admin-screens/dashboard.php:126
 msgid "Buy Another License"
 msgstr "购买另一个许可证"
 
-#: includes/admin-screens/dashboard.php:125
+#: includes/admin-screens/dashboard.php:119
 msgid "Sale"
 msgstr "促销"
 
-#: includes/admin-screens/dashboard.php:128
+#: includes/admin-screens/dashboard.php:122
 #: includes/class-avada-migrate.php:387
 #: includes/class-fusion-builder-migrate.php:843
 msgid "Avada Logo"
 msgstr "Avada Logo"
 
-#: includes/admin-screens/dashboard.php:135
+#: includes/admin-screens/dashboard.php:129
 msgid ""
 "Buy another license of the Avada Website Builder for your next project. "
 "Streamline your work and save time for the more important things."
@@ -305,41 +305,41 @@ msgstr ""
 "为您的下一个项目购买另一个 Avada 网站构建器许可证。简化您的工作，为更重要的事"
 "情节省时间。"
 
-#: includes/admin-screens/dashboard.php:142
-#: includes/admin-screens/dashboard.php:160
+#: includes/admin-screens/dashboard.php:136
+#: includes/admin-screens/dashboard.php:154
 msgid "Discount"
 msgstr "折扣"
 
-#: includes/admin-screens/dashboard.php:145
-#: includes/admin-screens/dashboard.php:163
+#: includes/admin-screens/dashboard.php:139
+#: includes/admin-screens/dashboard.php:157
 msgid "WPEngine Logo"
 msgstr "WPEngine 徽标"
 
-#: includes/admin-screens/dashboard.php:149
+#: includes/admin-screens/dashboard.php:143
 msgid "Avada Hosting"
 msgstr "Avada 托管"
 
-#: includes/admin-screens/dashboard.php:152
+#: includes/admin-screens/dashboard.php:146
 msgid ""
 "Launch your site in seconds on WP Engine who offer optimized hosting for the "
 "Avada Website Builder."
 msgstr ""
 "在 WP Engine 上数秒内启动您的网站，他们为 Avada 网站构建器提供优化的托管。"
 
-#: includes/admin-screens/dashboard.php:153
+#: includes/admin-screens/dashboard.php:147
 msgid "Enjoy 4 months free!"
 msgstr "享受 4 个月免费！"
 
-#: includes/admin-screens/dashboard.php:156
-#: includes/admin-screens/dashboard.php:173
+#: includes/admin-screens/dashboard.php:150
+#: includes/admin-screens/dashboard.php:167
 msgid "Get Special Offer"
 msgstr "获取特别优惠"
 
-#: includes/admin-screens/dashboard.php:167
+#: includes/admin-screens/dashboard.php:161
 msgid "Avada Special Hosting"
 msgstr "Avada 特别托管"
 
-#: includes/admin-screens/dashboard.php:170
+#: includes/admin-screens/dashboard.php:164
 msgid ""
 "We have partnered with SiteGround to bring you full-service WordPress "
 "hosting. Sign up and have Avada installed and activated for you with one "
@@ -348,42 +348,42 @@ msgstr ""
 "我们与 SiteGround 合作，为您提供全方位的 WordPress 托管。注册并一键为您安装和"
 "激活 Avada。"
 
-#: includes/admin-screens/dashboard.php:180
+#: includes/admin-screens/dashboard.php:174
 msgid "Codeable Logo"
 msgstr "Codeable 徽标"
 
-#: includes/admin-screens/dashboard.php:184
+#: includes/admin-screens/dashboard.php:178
 msgid "Avada Customization"
 msgstr "Avada 自定义"
 
-#: includes/admin-screens/dashboard.php:187
+#: includes/admin-screens/dashboard.php:181
 msgid ""
 "We work with Codeable who offers amazing customization services. They are "
 "equipped to handle both large and small customization jobs."
 msgstr ""
 "我们与提供出色自定义服务的 Codeable 合作。他们能够处理大大小小的自定义工作。"
 
-#: includes/admin-screens/dashboard.php:190
+#: includes/admin-screens/dashboard.php:184
 msgid "Get Free Quote"
 msgstr "获取免费报价"
 
-#: includes/admin-screens/dashboard.php:198
+#: includes/admin-screens/dashboard.php:192
 msgid "Avada Integrations"
 msgstr "Avada 集成"
 
-#: includes/admin-screens/dashboard.php:201
+#: includes/admin-screens/dashboard.php:195
 msgid "Premium Additions"
 msgstr "高级附加组件"
 
-#: includes/admin-screens/dashboard.php:209
+#: includes/admin-screens/dashboard.php:203
 msgid "HubSpot Logo"
 msgstr "HubSpot 徽标"
 
-#: includes/admin-screens/dashboard.php:213
+#: includes/admin-screens/dashboard.php:207
 msgid "CRM, Marketing & Sales"
 msgstr "CRM、营销与销售"
 
-#: includes/admin-screens/dashboard.php:216
+#: includes/admin-screens/dashboard.php:210
 msgid ""
 "HubSpot offers a full stack of software for marketing, sales, and also "
 "customer service, with a completely free CRM at its core. Grow now!"
@@ -391,39 +391,39 @@ msgstr ""
 "HubSpot 提供一整套用于营销、销售和客户服务的软件，其核心是一个完全免费的 "
 "CRM。立即增长！"
 
-#: includes/admin-screens/dashboard.php:219
+#: includes/admin-screens/dashboard.php:213
 msgid "WP Marketing"
 msgstr "WP 营销"
 
-#: includes/admin-screens/dashboard.php:226
+#: includes/admin-screens/dashboard.php:220
 msgid "WPML Logo"
 msgstr "WPML 徽标"
 
-#: includes/admin-screens/dashboard.php:230
+#: includes/admin-screens/dashboard.php:224
 msgid "Multilingual Sites"
 msgstr "多语言网站"
 
-#: includes/admin-screens/dashboard.php:233
+#: includes/admin-screens/dashboard.php:227
 msgid ""
 "WPML makes it easy to build multilingual sites and run them. It's powerful "
 "enough for corporate sites, yet simple for blogs."
 msgstr ""
 "WPML 让构建和运行多语言网站变得容易。它对企业网站足够强大，对博客又足够简单。"
 
-#: includes/admin-screens/dashboard.php:236
+#: includes/admin-screens/dashboard.php:230
 msgid "WP Multilingual"
 msgstr "WP 多语言"
 
-#: includes/admin-screens/dashboard.php:243
+#: includes/admin-screens/dashboard.php:237
 msgid "EC Logo"
 msgstr "EC 徽标"
 
-#: includes/admin-screens/dashboard.php:247
+#: includes/admin-screens/dashboard.php:241
 #: includes/options/events_calendar.php:36 includes/options/sidebars.php:568
 msgid "Events Calendar"
 msgstr "事件日历"
 
-#: includes/admin-screens/dashboard.php:250
+#: includes/admin-screens/dashboard.php:244
 msgid ""
 "Power your events for free with The Events Calendar, or upgrade to Pro to "
 "unlock recurring events, views, premium support, and more."
@@ -431,12 +431,12 @@ msgstr ""
 "使用 The Events Calendar 免费支持您的活动，或升级到 Pro 以解锁重复活动、视"
 "图、高级支持等。"
 
-#: includes/admin-screens/dashboard.php:253
+#: includes/admin-screens/dashboard.php:247
 msgid "WP Events Calendar"
 msgstr "WP 活动日历"
 
 #: includes/admin-screens/performance.php:43
-#: includes/admin-screens/performance.php:46 includes/class-avada-admin.php:651
+#: includes/admin-screens/performance.php:46 includes/class-avada-admin.php:654
 #: includes/class-awb-performance-wizard.php:1487
 msgid "Performance Wizard"
 msgstr "性能向导"
@@ -721,7 +721,7 @@ msgstr "标题"
 
 # @ Avada
 #: includes/admin-screens/performance.php:204
-#: includes/class-avada-admin.php:1480 includes/class-awb-setup-wizard.php:1436
+#: includes/class-avada-admin.php:1483 includes/class-awb-setup-wizard.php:1436
 #: includes/lib/inc/fusion-app/helpers.php:655
 #: includes/metaboxes/metaboxes.php:670
 #: includes/metaboxes/tabs/tab_content.php:24
@@ -1215,7 +1215,7 @@ msgstr ""
 #: includes/admin-screens/prebuilt-websites.php:43
 #: includes/admin-screens/prebuilt-websites.php:72
 #: includes/admin-screens/status.php:21 includes/class-avada-admin-bar.php:87
-#: includes/class-avada-admin.php:412 includes/class-avada-admin.php:694
+#: includes/class-avada-admin.php:415 includes/class-avada-admin.php:697
 #: includes/options/performance.php:336
 msgid "System Status"
 msgstr "系统状态"
@@ -1280,7 +1280,7 @@ msgstr "所有"
 
 #: includes/admin-screens/prebuilt-websites-demo.php:61
 #: includes/admin-screens/prebuilt-websites-import-modal.php:110
-#: includes/class-avada-admin.php:1484
+#: includes/class-avada-admin.php:1487
 #: includes/lib/inc/fusion-app/templates/options/import.php:91
 #: includes/lib/inc/redux/framework/FusionReduxCore/inc/extensions/import_export/import_export/field_import_export.php:167
 #: includes/metaboxes/tabs/tab_avada_page_options.php:61
@@ -1288,7 +1288,7 @@ msgid "Import"
 msgstr "导入"
 
 #: includes/admin-screens/prebuilt-websites-demo.php:61
-#: includes/class-avada-admin.php:1481
+#: includes/class-avada-admin.php:1484
 msgid "Modify"
 msgstr "修改"
 
@@ -1301,19 +1301,19 @@ msgid "Select"
 msgstr "选择"
 
 #: includes/admin-screens/prebuilt-websites-demo.php:70
-#: includes/class-avada-admin.php:1482
+#: includes/class-avada-admin.php:1485
 msgid "Full Import"
 msgstr "完整导入"
 
 #: includes/admin-screens/prebuilt-websites-demo.php:72
-#: includes/class-avada-admin.php:1483
+#: includes/class-avada-admin.php:1486
 msgid "Partial Import"
 msgstr "部分导入"
 
 # @ Avada
 #: includes/admin-screens/prebuilt-websites-demo.php:89
 #: includes/avada-app/fusion-panel.php:156
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2450
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2563
 #: includes/lib/inc/fusion-app/helpers.php:223
 #: includes/lib/inc/fusion-app/templates/front-end-toolbar.php:149
 #: includes/metaboxes/metaboxes.php:675
@@ -1346,14 +1346,14 @@ msgstr "需要设置"
 
 # @ Avada
 #: includes/admin-screens/prebuilt-websites-import-modal.php:47
-#: includes/class-avada-admin.php:1167
+#: includes/class-avada-admin.php:1170
 #: includes/class-avada-tgm-plugin-activation.php:2786
 msgid "Install"
 msgstr "安装"
 
 # @ Avada
 #: includes/admin-screens/prebuilt-websites-import-modal.php:50
-#: includes/class-avada-admin.php:1501
+#: includes/class-avada-admin.php:1504
 #: includes/class-avada-tgm-plugin-activation.php:2386
 #: includes/lib/inc/redux/framework/FusionReduxCore/inc/fields/link_color/field_link_color.php:104
 #: includes/metaboxes/tabs/tab_form_steps.php:108
@@ -1367,7 +1367,7 @@ msgstr "激活"
 
 # @ Avada
 #: includes/admin-screens/prebuilt-websites-import-modal.php:53
-#: includes/class-avada-admin.php:1186
+#: includes/class-avada-admin.php:1189
 #: includes/class-avada-tgm-plugin-activation.php:2795
 msgid "Activate"
 msgstr "激活"
@@ -2220,14 +2220,14 @@ msgstr "表单"
 
 #: includes/admin-screens/setup.php:910 includes/class-avada-admin-bar.php:69
 #: includes/class-avada-megamenu-framework.php:521
-#: includes/lib/inc/fusion-app/class-fusion-app.php:1047
+#: includes/lib/inc/fusion-app/class-fusion-app.php:1118
 #: includes/metaboxes/tabs/tab_form_submission.php:211
 #: includes/options/typography.php:331
 msgid "Off Canvas"
 msgstr "侧边栏内容 (Off Canvas)"
 
-#: includes/admin-screens/setup.php:920 includes/class-avada-admin.php:409
-#: includes/class-avada-admin.php:640
+#: includes/admin-screens/setup.php:920 includes/class-avada-admin.php:412
+#: includes/class-avada-admin.php:643
 #: includes/class-awb-maintenance-mode.php:147
 #: includes/options/maintenance.php:46
 msgid "Maintenance Mode"
@@ -2273,7 +2273,7 @@ msgstr "完成设置"
 #: includes/admin-screens/setup.php:1000 includes/admin-screens/setup.php:1025
 #: includes/avada-app/fusion-panel.php:144
 #: includes/avada-app/panel/templates/sidebar.php:31 includes/bootstrap.php:699
-#: includes/class-avada-admin-bar.php:61 includes/class-avada-admin.php:596
+#: includes/class-avada-admin-bar.php:61 includes/class-avada-admin.php:599
 #: includes/class-avada-megamenu-framework.php:218
 #: includes/class-avada-megamenu-framework.php:586
 #: includes/lib/inc/class-fusion-featured-image.php:168
@@ -2347,7 +2347,7 @@ msgstr "管理“即将推出”模式。"
 
 # @ Avada
 #: includes/admin-screens/setup.php:1027
-#: includes/avada-app/class-fusion-panel.php:1735
+#: includes/avada-app/class-fusion-panel.php:1783
 #: includes/avada-functions.php:1905
 #: includes/lib/inc/class-fusion-fusionredux.php:250
 #: includes/options/sidebars.php:198
@@ -2383,7 +2383,7 @@ msgstr "我们随时为您提供帮助"
 
 # @ Avada
 #: includes/admin-screens/setup.php:1036 includes/admin-screens/support.php:53
-#: includes/admin-screens/support.php:59 includes/class-avada-admin.php:753
+#: includes/admin-screens/support.php:59 includes/class-avada-admin.php:756
 #: includes/class-awb-setup-wizard.php:1421
 #: includes/lib/inc/fusion-app/helpers.php:220
 msgid "Documentation"
@@ -2395,7 +2395,7 @@ msgstr "阅读我们的详细文档"
 
 # @ Avada
 #: includes/admin-screens/setup.php:1037 includes/admin-screens/support.php:81
-#: includes/class-avada-admin.php:756
+#: includes/class-avada-admin.php:759
 msgid "Video Tutorials"
 msgstr "视频教程"
 
@@ -2481,7 +2481,7 @@ msgstr "Avada 设置与更新工具"
 msgid "Avada %s Conversion"
 msgstr "Avada %s 转换"
 
-#: includes/admin-screens/status.php:129 includes/class-avada-admin.php:673
+#: includes/admin-screens/status.php:129 includes/class-avada-admin.php:676
 #: includes/lib/inc/redux/framework/FusionReduxCore/inc/welcome/welcome.php:314
 msgid "Changelog"
 msgstr "查看更新记录"
@@ -3167,7 +3167,7 @@ msgstr ""
 
 # @ Avada
 #: includes/admin-screens/support.php:66 includes/admin-screens/support.php:72
-#: includes/class-avada-admin.php:759
+#: includes/class-avada-admin.php:762
 msgid "Submit A Ticket"
 msgstr "提交一个支持申请"
 
@@ -3333,7 +3333,7 @@ msgstr "无效颜色"
 
 #: includes/avada-app/class-fusion-panel.php:703
 #: includes/avada-app/class-fusion-panel.php:838
-#: includes/lib/inc/fusion-app/helpers.php:565 includes/options/privacy.php:812
+#: includes/lib/inc/fusion-app/helpers.php:565 includes/options/privacy.php:850
 msgid "Settings"
 msgstr "设置"
 
@@ -3395,7 +3395,7 @@ msgstr "模板"
 
 # @ Avada
 #: includes/avada-app/class-fusion-panel.php:922
-#: includes/class-avada-admin.php:1822
+#: includes/class-avada-admin.php:1852
 msgid "Order"
 msgstr "订单"
 
@@ -3413,32 +3413,38 @@ msgstr "选择"
 msgid "Excerpt"
 msgstr "摘要"
 
-#: includes/avada-app/class-fusion-panel.php:1004
-#: includes/avada-app/class-fusion-panel.php:1012
+#: includes/avada-app/class-fusion-panel.php:1036
+#: includes/lib/inc/widgets/class-fusion-widget-author.php:287
+#: includes/options/portfolio.php:674 includes/options/search.php:559
+msgid "Author"
+msgstr "作者"
+
+#: includes/avada-app/class-fusion-panel.php:1050
+#: includes/avada-app/class-fusion-panel.php:1058
 #: includes/class-avada-taxonomy-meta.php:162
 msgid "Featured Image"
 msgstr "特色图片"
 
 #. Translators: Ordinal number of featured image.
-#: includes/avada-app/class-fusion-panel.php:1054
+#: includes/avada-app/class-fusion-panel.php:1100
 msgid "Featured Image %s"
 msgstr "特色图片 %s"
 
 # @ Avada
-#: includes/avada-app/class-fusion-panel.php:1114
+#: includes/avada-app/class-fusion-panel.php:1160
 #: includes/lib/inc/fusion-app/helpers.php:243
 #: includes/options/custom_css.php:27
 msgid "Custom CSS"
 msgstr "自定义CSS"
 
 # @ Avada
-#: includes/avada-app/class-fusion-panel.php:1119
+#: includes/avada-app/class-fusion-panel.php:1165
 #: includes/options/custom_css.php:34
 msgid "CSS Code"
 msgstr "CSS代码"
 
 #. translators: <code>!important</code>
-#: includes/avada-app/class-fusion-panel.php:1121
+#: includes/avada-app/class-fusion-panel.php:1167
 #: includes/options/custom_css.php:36
 msgid ""
 "Enter your CSS code in the field below. Do not include any tags or HTML in "
@@ -3450,91 +3456,91 @@ msgstr ""
 "自定义CSS将覆盖主题CSS。 在某些情况下，可能需要%s标签。 不要URL编码图像或svg"
 "路径。 该字段的内容将被自动编码。"
 
-#: includes/avada-app/class-fusion-panel.php:1138
-#: includes/avada-app/class-fusion-panel.php:1493
+#: includes/avada-app/class-fusion-panel.php:1184
+#: includes/avada-app/class-fusion-panel.php:1541
 msgid "Import/Export"
 msgstr "导入 / 导出"
 
-#: includes/avada-app/class-fusion-panel.php:1145
+#: includes/avada-app/class-fusion-panel.php:1191
 #: includes/metaboxes/tabs/tab_avada_page_options.php:82
 #: includes/metaboxes/tabs/tab_avada_page_options.php:93
 msgid "Import Page Options"
 msgstr "导入页面选项"
 
-#: includes/avada-app/class-fusion-panel.php:1146
+#: includes/avada-app/class-fusion-panel.php:1192
 msgid ""
 "Import Page Options.  You can import via file or copy and paste from JSON "
 "data."
 msgstr "导入页面选项。您可以过文件导入，或从 JSON 数据复制并粘贴。"
 
-#: includes/avada-app/class-fusion-panel.php:1152
+#: includes/avada-app/class-fusion-panel.php:1198
 #: includes/metaboxes/tabs/tab_avada_page_options.php:69
 #: includes/metaboxes/tabs/tab_avada_page_options.php:75
 msgid "Export Page Options"
 msgstr "导出页面选项"
 
-#: includes/avada-app/class-fusion-panel.php:1153
+#: includes/avada-app/class-fusion-panel.php:1199
 msgid ""
 "Export your Page Options.  You can either export as a file or copy the data."
 msgstr "导出您的页面选项。您可以导出为文件或复制数据。"
 
-#: includes/avada-app/class-fusion-panel.php:1380
-#: includes/avada-app/class-fusion-panel.php:1388
+#: includes/avada-app/class-fusion-panel.php:1428
+#: includes/avada-app/class-fusion-panel.php:1436
 #: includes/avada-app/panel/templates/sidebar.php:63
 #: includes/options/shortcode_styling.php:30
 msgid "Avada Builder Elements"
 msgstr "Avada 构建器元素"
 
-#: includes/avada-app/class-fusion-panel.php:1393
+#: includes/avada-app/class-fusion-panel.php:1441
 #: includes/avada-app/panel/templates/sidebar.php:69
 msgid "Add-on Elements"
 msgstr "附加元素"
 
-#: includes/avada-app/class-fusion-panel.php:1500
+#: includes/avada-app/class-fusion-panel.php:1548
 msgid "Import Global Options"
 msgstr "导入全局选项"
 
-#: includes/avada-app/class-fusion-panel.php:1501
+#: includes/avada-app/class-fusion-panel.php:1549
 msgid ""
 "Import Global Options. You can import via file, copy and paste or select an "
 "Avada prebuilt website."
 msgstr ""
 "导入全局选项。您可以通过文件、复制粘贴导入，或选择一个 Avada 预建网站。"
 
-#: includes/avada-app/class-fusion-panel.php:1508
-#: includes/avada-app/class-fusion-panel.php:1513
+#: includes/avada-app/class-fusion-panel.php:1556
+#: includes/avada-app/class-fusion-panel.php:1561
 msgid "Export Global Options"
 msgstr "导出全局选项"
 
-#: includes/avada-app/class-fusion-panel.php:1509
+#: includes/avada-app/class-fusion-panel.php:1557
 msgid ""
 "Export your Global Options. You can either export as a file or copy the data."
 msgstr "导出您的全局选项。您可以导出为文件或复制数据。"
 
 # @ bbpress
-#: includes/avada-app/class-fusion-panel.php:1734
+#: includes/avada-app/class-fusion-panel.php:1782
 #: includes/avada-functions.php:1899
 #: includes/lib/inc/class-fusion-fusionredux.php:249
 msgid "Posts"
 msgstr "文章"
 
-#: includes/avada-app/class-fusion-panel.php:1736
+#: includes/avada-app/class-fusion-panel.php:1784
 #: includes/lib/inc/class-fusion-fusionredux.php:251
 msgid "Portfolio Items"
 msgstr "作品集项目"
 
-#: includes/avada-app/class-fusion-panel.php:1737
+#: includes/avada-app/class-fusion-panel.php:1785
 #: includes/lib/inc/class-fusion-fusionredux.php:252
 msgid "FAQ Items"
 msgstr "FAQ项目"
 
-#: includes/avada-app/class-fusion-panel.php:1738
+#: includes/avada-app/class-fusion-panel.php:1786
 #: includes/lib/inc/class-fusion-fusionredux.php:253
 #: includes/options/sidebars.php:488
 msgid "WooCommerce Products"
 msgstr "WooCommerce产品"
 
-#: includes/avada-app/class-fusion-panel.php:1739
+#: includes/avada-app/class-fusion-panel.php:1787
 #: includes/lib/inc/class-fusion-fusionredux.php:254
 msgid "Events Calendar Posts"
 msgstr "日程类文章"
@@ -3805,8 +3811,8 @@ msgstr "Convert Plus"
 msgid "Sliders"
 msgstr "滑块"
 
-#: includes/avada-functions.php:1968 includes/class-avada-admin.php:390
-#: includes/class-avada-admin.php:416 includes/class-avada-admin.php:590
+#: includes/avada-functions.php:1968 includes/class-avada-admin.php:393
+#: includes/class-avada-admin.php:419 includes/class-avada-admin.php:593
 #: includes/lib/inc/redux/framework/FusionReduxCore/framework.php:231
 #: includes/lib/inc/redux/framework/FusionReduxCore/framework.php:235
 msgid "Options"
@@ -3956,7 +3962,7 @@ msgid "Avada Patcher"
 msgstr "Avada 补丁程序"
 
 #: includes/bootstrap.php:613 includes/class-avada-admin-bar.php:84
-#: includes/class-avada-admin.php:618
+#: includes/class-avada-admin.php:621
 #: includes/lib/inc/class-fusion-patcher-admin-screen.php:241
 msgid "Patcher"
 msgstr "补丁程序"
@@ -3988,12 +3994,12 @@ msgstr "跟踪该链接"
 msgid "Avada"
 msgstr "Avada"
 
-#: includes/class-avada-admin-bar.php:62 includes/class-avada-admin.php:391
-#: includes/class-avada-admin.php:606
+#: includes/class-avada-admin-bar.php:62 includes/class-avada-admin.php:394
+#: includes/class-avada-admin.php:609
 msgid "Websites"
 msgstr "网站"
 
-#: includes/class-avada-admin-bar.php:64 includes/class-avada-admin.php:609
+#: includes/class-avada-admin-bar.php:64 includes/class-avada-admin.php:612
 #: includes/metaboxes/metaboxes.php:683
 #: includes/metaboxes/tabs/tab_studio.php:66
 msgid "Studio"
@@ -4004,8 +4010,8 @@ msgstr "Studio"
 msgid "Library"
 msgstr "库"
 
-#: includes/class-avada-admin-bar.php:86 includes/class-avada-admin.php:408
-#: includes/class-avada-admin.php:629
+#: includes/class-avada-admin-bar.php:86 includes/class-avada-admin.php:411
+#: includes/class-avada-admin.php:632
 msgid "Plugins"
 msgstr "插件"
 
@@ -4019,7 +4025,7 @@ msgstr "所有 Avada 缓存已重置。"
 msgid "Reset Avada Caches"
 msgstr "重置 Avada 缓存"
 
-#: includes/class-avada-admin-bar.php:161 includes/class-avada-admin.php:272
+#: includes/class-avada-admin-bar.php:161 includes/class-avada-admin.php:275
 #: includes/class-avada-woocommerce.php:1204
 msgid "Dashboard"
 msgstr "仪表盘"
@@ -4039,82 +4045,82 @@ msgstr ""
 "垂直菜单小工具</a>。这个新工具提供相同的功能，但具有更大的灵活性。它与 "
 "WordPress 菜单系统兼容。请使用此新方法，而不是最终将被移除的页面模板。"
 
-#: includes/class-avada-admin.php:396 includes/class-avada-admin.php:611
+#: includes/class-avada-admin.php:399 includes/class-avada-admin.php:614
 #: includes/class-awb-maintenance-mode.php:71
 #: includes/options/maintenance.php:60
 msgid "Maintenance"
 msgstr "维护"
 
-#: includes/class-avada-admin.php:410 includes/options/performance.php:64
+#: includes/class-avada-admin.php:413 includes/options/performance.php:64
 msgid "Performance"
 msgstr "性能"
 
 # @ Avada
-#: includes/class-avada-admin.php:411 includes/class-avada-admin.php:683
+#: includes/class-avada-admin.php:414 includes/class-avada-admin.php:686
 #: includes/lib/inc/fusion-app/templates/front-end-toolbar.php:105
 #: includes/lib/inc/redux/framework/FusionReduxCore/inc/welcome/welcome.php:320
 msgid "Support"
 msgstr "服务与支持"
 
-#: includes/class-avada-admin.php:413
+#: includes/class-avada-admin.php:416
 msgid "Setup"
 msgstr "设置"
 
-#: includes/class-avada-admin.php:582
+#: includes/class-avada-admin.php:585
 #: includes/class-awb-performance-wizard.php:1483
 #: includes/class-awb-setup-wizard.php:1414
 msgid "Link to Avada dashboard"
 msgstr "链接到 Avada 仪表盘"
 
-#: includes/class-avada-admin.php:597
+#: includes/class-avada-admin.php:600
 msgid "Edit the global site options & styles."
 msgstr "编辑全局网站选项和样式。"
 
-#: includes/class-avada-admin.php:619
+#: includes/class-avada-admin.php:622
 msgid "Apply patches for your version."
 msgstr "为您的版本应用补丁。"
 
-#: includes/class-avada-admin.php:630
+#: includes/class-avada-admin.php:633
 msgid "Manage plugins."
 msgstr "管理插件。"
 
-#: includes/class-avada-admin.php:641
+#: includes/class-avada-admin.php:644
 msgid "Maintenance & Coming Soon mode."
 msgstr "维护和即将推出模式。"
 
-#: includes/class-avada-admin.php:652
+#: includes/class-avada-admin.php:655
 msgid "Optimize your website performance."
 msgstr "优化您的网站性能。"
 
-#: includes/class-avada-admin.php:663
+#: includes/class-avada-admin.php:666
 msgid "Critical CSS"
 msgstr "关键 CSS"
 
-#: includes/class-avada-admin.php:664
+#: includes/class-avada-admin.php:667
 msgid "Manage critical CSS generation"
 msgstr "管理关键 CSS 生成"
 
-#: includes/class-avada-admin.php:674
+#: includes/class-avada-admin.php:677
 msgid "View the Avada changelog."
 msgstr "查看 Avada 更新日志。"
 
-#: includes/class-avada-admin.php:684
+#: includes/class-avada-admin.php:687
 msgid "View the different support channels"
 msgstr "查看不同的支持渠道"
 
-#: includes/class-avada-admin.php:695
+#: includes/class-avada-admin.php:698
 msgid "View the system status of your install."
 msgstr "查看您安装的系统状态。"
 
-#: includes/class-avada-admin.php:705
+#: includes/class-avada-admin.php:708
 msgid "Live Builder"
 msgstr "实时构建器"
 
-#: includes/class-avada-admin.php:714
+#: includes/class-avada-admin.php:717
 msgid "Registered"
 msgstr "已注册"
 
-#: includes/class-avada-admin.php:715
+#: includes/class-avada-admin.php:718
 msgid "Unregistered"
 msgstr "未注册"
 
@@ -4124,118 +4130,118 @@ msgid "ThemeFusion"
 msgstr "主题选项"
 
 # @ Avada
-#: includes/class-avada-admin.php:768
+#: includes/class-avada-admin.php:771
 msgid ""
 "Thank you for choosing Avada. We are honored and are fully dedicated to "
 "making your experience perfect."
 msgstr "感谢您选择 Avada！我们非常荣幸并且致力于让您的体验更加完美。"
 
-#: includes/class-avada-admin.php:770
+#: includes/class-avada-admin.php:773
 msgid "Support Policy"
 msgstr "支持政策"
 
 #. translators: The iconset name.
-#: includes/class-avada-admin.php:918
+#: includes/class-avada-admin.php:921
 #: includes/lib/inc/fusion-app/helpers.php:636
 #: includes/lib/inc/redux/custom-fields/iconpicker/field_iconpicker.php:115
 msgid "No Results in \"%s\""
 msgstr "在“%s”中没有结果"
 
-#: includes/class-avada-admin.php:1131
+#: includes/class-avada-admin.php:1134
 msgid "Please update Avada Core to latest version."
 msgstr "请将 Avada Core 更新到最新版本。"
 
 #. translators: Plugin name.
-#: includes/class-avada-admin.php:1167
+#: includes/class-avada-admin.php:1170
 msgid "Install %s"
 msgstr "安装 %s"
 
 #. translators: Plugin Name.
-#: includes/class-avada-admin.php:1186
+#: includes/class-avada-admin.php:1189
 msgid "Activate %s"
 msgstr "启用 %s"
 
 #. translators: Plugin Name.
-#: includes/class-avada-admin.php:1208
+#: includes/class-avada-admin.php:1211
 msgid "Update %s"
 msgstr "更新 %s"
 
 # @ bbpress
-#: includes/class-avada-admin.php:1208
+#: includes/class-avada-admin.php:1211
 #: includes/class-avada-tgm-plugin-activation.php:2792
 #: templates/wc-cart-shipping-calc.php:91
 msgid "Update"
 msgstr "升级"
 
 #. translators: Plugin name.
-#: includes/class-avada-admin.php:1225
+#: includes/class-avada-admin.php:1228
 msgid "Deactivate %s"
 msgstr "停用 %s"
 
-#: includes/class-avada-admin.php:1225
+#: includes/class-avada-admin.php:1228
 msgid "Deactivate"
 msgstr "停用"
 
-#: includes/class-avada-admin.php:1259
+#: includes/class-avada-admin.php:1262
 msgid "Avada Builder will be installable, once Avada Core plugin is updated."
 msgstr "一旦 Avada Core 插件更新，Avada 构建器将可以安装。"
 
-#: includes/class-avada-admin.php:1259
+#: includes/class-avada-admin.php:1262
 #: includes/lib/inc/fusion-app/templates/front-customize.php:47
 msgid "Avada Builder"
 msgstr "Avada 构建器"
 
-#: includes/class-avada-admin.php:1278
+#: includes/class-avada-admin.php:1281
 msgid "Manage Plugins Below"
 msgstr "管理下面的插件"
 
-#: includes/class-avada-admin.php:1283
+#: includes/class-avada-admin.php:1286
 msgid "Go Manage Plugins"
 msgstr "转至插件管理"
 
-#: includes/class-avada-admin.php:1300
+#: includes/class-avada-admin.php:1303
 msgid "Avada portfolio category base"
 msgstr "作品集分类基础"
 
-#: includes/class-avada-admin.php:1311
+#: includes/class-avada-admin.php:1314
 msgid "Avada portfolio skill base"
 msgstr "Avada 作品集技能基准"
 
-#: includes/class-avada-admin.php:1322
+#: includes/class-avada-admin.php:1325
 msgid "Avada portfolio tag base"
 msgstr "Avada作品集标签"
 
-#: includes/class-avada-admin.php:1333
+#: includes/class-avada-admin.php:1336
 msgid "Avada FAQ category base"
 msgstr "Avada 常见问题分类基准"
 
 # @ Avada
-#: includes/class-avada-admin.php:1485
+#: includes/class-avada-admin.php:1488
 #: includes/lib/inc/custom-icons/class-fusion-custom-icon-set.php:540
 msgid "Download"
 msgstr "下载"
 
-#: includes/class-avada-admin.php:1486
+#: includes/class-avada-admin.php:1489
 msgid "General Data"
 msgstr "常规数据"
 
 #. translators: The current step label.
-#: includes/class-avada-admin.php:1489
+#: includes/class-avada-admin.php:1492
 msgid "Currently Processing: %s"
 msgstr "正在处理: %s"
 
 #. translators: The current step label.
-#: includes/class-avada-admin.php:1491
+#: includes/class-avada-admin.php:1494
 msgid "Currently Removing: %s"
 msgstr "正在移除: %s"
 
-#: includes/class-avada-admin.php:1492
+#: includes/class-avada-admin.php:1495
 #: includes/lib/inc/importer/class-wxr-importer.php:513
 msgid "The file does not exist"
 msgstr "该文件不存在"
 
 #. translators: URL.
-#: includes/class-avada-admin.php:1494
+#: includes/class-avada-admin.php:1497
 msgid ""
 "The server couldn't be reached. Please check for wp_remote_get on the <a "
 "href=\"%s\" target=\"_blank\">System Status</a> page."
@@ -4243,7 +4249,7 @@ msgstr ""
 "无法连接到服务器。请在<a href=\"%s\" target=\"_blank\">系统状态</a>页面检查 "
 "wp_remote_get。"
 
-#: includes/class-avada-admin.php:1495
+#: includes/class-avada-admin.php:1498
 #: includes/lib/inc/fusion-app/helpers.php:654
 msgid ""
 "The import process has timed out, but already imported steps have been "
@@ -4253,7 +4259,7 @@ msgstr ""
 "导入过程已超时，但已导入的步骤已保存。点击“继续”，导入程序将尝试完成导入过程"
 "的剩余步骤。"
 
-#: includes/class-avada-admin.php:1496
+#: includes/class-avada-admin.php:1499
 msgid ""
 "Removing prebuilt website content will remove ALL previously imported "
 "content from this prebuilt website and restore your site to the state it was "
@@ -4262,7 +4268,7 @@ msgstr ""
 "删除预建网站内容将删除之前从此预建网站导入的所有内容，并将您的网站恢复到导入"
 "此预建内容之前的状态。"
 
-#: includes/class-avada-admin.php:1497
+#: includes/class-avada-admin.php:1500
 msgid ""
 "Avada Builder Plugin can only be installed and activated if Avada Core "
 "plugin is at version 3.0 or higher. Please update Avada Core first."
@@ -4271,7 +4277,7 @@ msgstr ""
 "请先更新 Avada Core。"
 
 #. translators: URL.
-#: includes/class-avada-admin.php:1499
+#: includes/class-avada-admin.php:1502
 msgid ""
 "This plugin can only be installed or updated, after you have successfully "
 "completed the Avada product registration on the <a href=\"%s\" "
@@ -4280,45 +4286,64 @@ msgstr ""
 "只有在您成功完成<a href=\"%s\" target=\"_blank\">仪表盘欢迎</a>选项卡上的 "
 "Avada 产品注册后，才能安装或更新此插件。"
 
-#: includes/class-avada-admin.php:1500
+#: includes/class-avada-admin.php:1503
 msgid "Plugin install failed. Please try Again."
 msgstr "插件安装失败。 请再试一次。"
 
-#: includes/class-avada-admin.php:1502
+#: includes/class-avada-admin.php:1505
 msgid "Please wait, this may take a minute..."
 msgstr "请稍候，这可能需要一分钟..."
 
-#: includes/class-avada-admin.php:1705
+#: includes/class-avada-admin.php:1696
+msgid "Avada Is Not Registered"
+msgstr ""
+
+#: includes/class-avada-admin.php:1697
+msgid ""
+"This installation of Avada is not registered with a valid purchase code. "
+"Registration unlocks Avada updates, prebuilt website imports, Avada Studio "
+"imports, and ongoing support."
+msgstr ""
+
+#: includes/class-avada-admin.php:1699
+msgid "Register Avada"
+msgstr ""
+
+#: includes/class-avada-admin.php:1700
+msgid "Get A Purchase Code"
+msgstr ""
+
+#: includes/class-avada-admin.php:1735
 msgid "Avada Product Registration Needs To Be Updated"
 msgstr "Avada 产品注册需要更新"
 
-#: includes/class-avada-admin.php:1706
+#: includes/class-avada-admin.php:1736
 msgid "Avada Registration Q and A"
 msgstr "Avada 注册问答"
 
 # @ Avada
-#: includes/class-avada-admin.php:1712
+#: includes/class-avada-admin.php:1742
 #: tribe-events/pro/widgets/countdown-widget.php:21
 msgid "days"
 msgstr "天"
 
 # @ Avada
-#: includes/class-avada-admin.php:1712
+#: includes/class-avada-admin.php:1742
 msgid "day"
 msgstr "天"
 
 # @ Avada
-#: includes/class-avada-admin.php:1713
+#: includes/class-avada-admin.php:1743
 #: tribe-events/pro/widgets/countdown-widget.php:25
 msgid "hours"
 msgstr "小时"
 
-#: includes/class-avada-admin.php:1713
+#: includes/class-avada-admin.php:1743
 msgid "hour"
 msgstr "小时"
 
 #. translators: The link.
-#: includes/class-avada-admin.php:1721
+#: includes/class-avada-admin.php:1751
 msgid ""
 "To receive further product updates, the registration has to be updated using "
 "your Avada purchase code. Updates, using your Envato token will continue to "
@@ -4330,12 +4355,12 @@ msgstr ""
 "更多信息，请阅读 %s。"
 
 #. translators: The remaining  time.
-#: includes/class-avada-admin.php:1724
+#: includes/class-avada-admin.php:1754
 msgid "Updates with the token will stop working in <strong>%s</strong>."
 msgstr "使用令牌的更新将在 <strong>%s</strong> 后停止工作。"
 
 #. translators: The link.
-#: includes/class-avada-admin.php:1727
+#: includes/class-avada-admin.php:1757
 msgid ""
 "To receive further product updates, the registration has to be updated using "
 "your Avada purchase code. The grace period for updates using the Envato "
@@ -4348,26 +4373,26 @@ msgstr ""
 "入。有关更多信息，请阅读 %s。"
 
 #. translators: The expiry date.
-#: includes/class-avada-admin.php:1730
+#: includes/class-avada-admin.php:1760
 msgid "Token updates expired on <strong>%s</strong>."
 msgstr "令牌更新已于 <strong>%s</strong> 过期。"
 
-#: includes/class-avada-admin.php:1732
+#: includes/class-avada-admin.php:1762
 msgid "Update Registration"
 msgstr "更新注册"
 
 # @ Avada
-#: includes/class-avada-admin.php:1794 includes/class-avada-admin.php:1809
+#: includes/class-avada-admin.php:1824 includes/class-avada-admin.php:1839
 #: includes/options/search.php:561
 msgid "Categories"
 msgstr "分类"
 
-#: includes/class-avada-admin.php:1795
+#: includes/class-avada-admin.php:1825
 msgid "Skills"
 msgstr "技能"
 
 # @ Avada
-#: includes/class-avada-admin.php:1796 includes/options/search.php:562
+#: includes/class-avada-admin.php:1826 includes/options/search.php:562
 msgid "Tags"
 msgstr "标签"
 
@@ -4599,7 +4624,7 @@ msgstr ""
 "将全屏显示。"
 
 #: includes/class-avada-megamenu-framework.php:158
-#: includes/lib/inc/fusion-app/class-fusion-app.php:1012
+#: includes/lib/inc/fusion-app/class-fusion-app.php:1083
 #: includes/metaboxes/metaboxes.php:703
 #: includes/metaboxes/tabs/tab_template.php:163
 msgid "Mega Menu"
@@ -8397,26 +8422,26 @@ msgstr "该购买代码已注册次数过多。请联系 %s 以解决。"
 msgid "Unknown error encountered. Please try again later."
 msgstr "遇到未知错误。请稍后再试。"
 
-#: includes/lib/inc/class-fusion-product-registration.php:708
+#: includes/lib/inc/class-fusion-product-registration.php:694
 msgid "Register Your Website"
 msgstr "注册您的网站"
 
-#: includes/lib/inc/class-fusion-product-registration.php:710
+#: includes/lib/inc/class-fusion-product-registration.php:696
 msgid "Your Website is Registered"
 msgstr "您的网站已注册"
 
-#: includes/lib/inc/class-fusion-product-registration.php:714
+#: includes/lib/inc/class-fusion-product-registration.php:700
 msgid "How To?"
 msgstr "如何操作？"
 
 #. translators: Link.
-#: includes/lib/inc/class-fusion-product-registration.php:722
+#: includes/lib/inc/class-fusion-product-registration.php:708
 msgid ""
 "Congratulations, and thank you for registering your website. To manage your "
 "licenses, sign up on %s."
 msgstr "恭喜，并感谢您注册网站。要管理您的许可证，请在 %s 上注册。"
 
-#: includes/lib/inc/class-fusion-product-registration.php:728
+#: includes/lib/inc/class-fusion-product-registration.php:714
 msgid ""
 "Please enter your Avada purchase code and get access to our prebuilt "
 "websites, auto-updates, and premium plugins. The purchase code and site URL "
@@ -8426,26 +8451,26 @@ msgstr ""
 "请输入您的 Avada 购买代码，即可访问我们的预建网站、自动更新和高级插件。购买代"
 "码和站点 URL 将发送到位于美国的 ThemeFusion 服务器以验证购买。"
 
-#: includes/lib/inc/class-fusion-product-registration.php:733
+#: includes/lib/inc/class-fusion-product-registration.php:719
 msgid ""
 "After registration is completed required Avada plugins will be installed and "
 "activated if needed."
 msgstr "注册完成后，如果需要，将安装并激活所需的 Avada 插件。"
 
-#: includes/lib/inc/class-fusion-product-registration.php:754
+#: includes/lib/inc/class-fusion-product-registration.php:740
 msgid "Register Now"
 msgstr "现在注册"
 
-#: includes/lib/inc/class-fusion-product-registration.php:756
+#: includes/lib/inc/class-fusion-product-registration.php:742
 msgid "Unregister"
 msgstr "注销"
 
-#: includes/lib/inc/class-fusion-product-registration.php:775
+#: includes/lib/inc/class-fusion-product-registration.php:761
 msgid "How To Find Your Purchase Code"
 msgstr "如何找到您的购买代码"
 
 #. translators: "ThemeForest sign in link" link.
-#: includes/lib/inc/class-fusion-product-registration.php:781
+#: includes/lib/inc/class-fusion-product-registration.php:767
 msgid ""
 "Sign in to your %s. <strong>IMPORTANT:</strong> You must be signed into the "
 "same ThemeForest account that purchased Avada. If you are signed in already, "
@@ -8454,12 +8479,12 @@ msgstr ""
 "登录到您的 %s。<strong>重要提示：</strong>您必须登录到购买 Avada 的同一个 "
 "ThemeForest 账户。如果您已经登录，请查看顶部菜单栏以确保账号正确。"
 
-#: includes/lib/inc/class-fusion-product-registration.php:782
+#: includes/lib/inc/class-fusion-product-registration.php:768
 msgid "ThemeForest account"
 msgstr "ThemeForest 账户"
 
 #. translators: "Generate A Personal Token" link.
-#: includes/lib/inc/class-fusion-product-registration.php:790
+#: includes/lib/inc/class-fusion-product-registration.php:776
 msgid ""
 "Visit the %s. You should see a row for Avada.  If you don't, please re-check "
 "step 1 that you are on the correct account."
@@ -8467,15 +8492,15 @@ msgstr ""
 "访问 %s。您应该会看到一行 Avada。如果没有，请重新检查第 1 步，确保您登录的是"
 "正确的账户。"
 
-#: includes/lib/inc/class-fusion-product-registration.php:791
+#: includes/lib/inc/class-fusion-product-registration.php:777
 msgid "ThemeForest downloads page"
 msgstr "ThemeForest 下载页面"
 
-#: includes/lib/inc/class-fusion-product-registration.php:797
+#: includes/lib/inc/class-fusion-product-registration.php:783
 msgid "Click the download button in the Avada row."
 msgstr "点击 Avada 行中的下载按钮。"
 
-#: includes/lib/inc/class-fusion-product-registration.php:802
+#: includes/lib/inc/class-fusion-product-registration.php:788
 msgid ""
 "Select either License certificate & purchase code (PDF) or License "
 "certificate & purchase code (text). This should then download either a text "
@@ -8484,7 +8509,7 @@ msgstr ""
 "选择“许可证证书和购买代码 (PDF)”或“许可证证书和购买代码 (文本)”。然后这应该会"
 "下载一个文本或 PDF 文件。"
 
-#: includes/lib/inc/class-fusion-product-registration.php:807
+#: includes/lib/inc/class-fusion-product-registration.php:793
 msgid "Open up that newly downloaded file and copy the Item Purchase Code."
 msgstr "打开新下载的文件并复制 Item Purchase Code。"
 
@@ -8528,7 +8553,7 @@ msgstr "链接&缩放"
 #: includes/lib/inc/class-fusion-settings.php:426
 #: includes/metaboxes/tabs/tab_portfolio_post.php:185
 #: includes/metaboxes/tabs/tab_post.php:110 includes/options/extra.php:567
-#: includes/options/privacy.php:784
+#: includes/options/privacy.php:822
 msgid "Link"
 msgstr "链接"
 
@@ -8738,168 +8763,168 @@ msgid "Pages:"
 msgstr "页面:"
 
 # @ Avada
-#: includes/lib/inc/fusion-app/class-fusion-app.php:598
+#: includes/lib/inc/fusion-app/class-fusion-app.php:668
 msgid "Page"
 msgstr "页面设置"
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:765
+#: includes/lib/inc/fusion-app/class-fusion-app.php:836
 msgid "Edit Live"
 msgstr "实时编辑"
 
 #. translators: Name of post type.
-#: includes/lib/inc/fusion-app/class-fusion-app.php:826
+#: includes/lib/inc/fusion-app/class-fusion-app.php:897
 msgid "Edit %s"
 msgstr "编辑 %s"
 
 #. translators: Number of layout.
-#: includes/lib/inc/fusion-app/class-fusion-app.php:865
+#: includes/lib/inc/fusion-app/class-fusion-app.php:936
 msgid "Edit Layout: %s"
 msgstr "编辑布局：%s"
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:888
+#: includes/lib/inc/fusion-app/class-fusion-app.php:959
 msgid "Use Layouts"
 msgstr "使用布局"
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:888
+#: includes/lib/inc/fusion-app/class-fusion-app.php:959
 msgid "Manage"
 msgstr "管理"
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:927
+#: includes/lib/inc/fusion-app/class-fusion-app.php:998
 msgid "Form"
 msgstr "表单"
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:970
+#: includes/lib/inc/fusion-app/class-fusion-app.php:1041
 msgid "Post Card"
 msgstr "文章卡片"
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:1796
+#: includes/lib/inc/fusion-app/class-fusion-app.php:1898
 msgid "You do not have permission to edit this post."
 msgstr "你无权限编辑此文章"
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:1865
+#: includes/lib/inc/fusion-app/class-fusion-app.php:1978
 msgid "The page contents updated."
 msgstr "页面内容已更新。"
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:1872
+#: includes/lib/inc/fusion-app/class-fusion-app.php:1985
 msgid "You do not have permission to edit this archive."
 msgstr "你无权限编辑此归档"
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:1907
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2020
 msgid "The archive details updated."
 msgstr "归档详情已更新。"
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2160
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2161
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2273
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2274
 #: includes/options/performance.php:119 includes/options/typography.php:1225
 msgid "Ultra-Light 100"
 msgstr "Ultra-Light 100"
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2162
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2275
 #: includes/options/performance.php:120
 msgid "Ultra-Light 100 Italic"
 msgstr "Ultra-Light 100 Italic"
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2163
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2276
 #: includes/options/performance.php:121 includes/options/typography.php:1226
 msgid "Light 200"
 msgstr "Light 200"
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2164
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2277
 #: includes/options/performance.php:122
 msgid "Light 200 Italic"
 msgstr "Light 200 Italic"
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2165
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2278
 #: includes/options/performance.php:123 includes/options/typography.php:1227
 msgid "Book 300"
 msgstr "Book 300"
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2166
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2279
 #: includes/options/performance.php:124
 msgid "Book 300 Italic"
 msgstr "Book 300 Italic"
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2167
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2168
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2280
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2281
 #: includes/options/performance.php:125 includes/options/typography.php:1228
 msgid "Normal 400"
 msgstr "Normal 400"
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2169
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2282
 #: includes/options/performance.php:126
 msgid "Normal 400 Italic"
 msgstr "Normal 400 Italic"
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2170
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2283
 #: includes/options/performance.php:127 includes/options/typography.php:1229
 msgid "Medium 500"
 msgstr "Medium 500"
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2171
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2284
 #: includes/options/performance.php:128
 msgid "Medium 500 Italic"
 msgstr "Medium 500 Italic"
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2172
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2173
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2285
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2286
 #: includes/options/performance.php:129 includes/options/typography.php:1230
 msgid "Semi-Bold 600"
 msgstr "Semi-Bold 600"
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2174
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2287
 #: includes/options/performance.php:130
 msgid "Semi-Bold 600 Italic"
 msgstr "Semi-Bold 600 Italic"
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2175
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2288
 #: includes/options/performance.php:131 includes/options/typography.php:1231
 msgid "Bold 700"
 msgstr "Bold 700"
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2176
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2289
 #: includes/options/performance.php:132
 msgid "Bold 700 Italic"
 msgstr "Bold 700 Italic"
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2177
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2178
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2290
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2291
 #: includes/options/performance.php:133 includes/options/typography.php:1232
 msgid "Extra-Bold 800"
 msgstr "Extra-Bold 800"
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2179
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2292
 #: includes/options/performance.php:134
 msgid "Extra-Bold 800 Italic"
 msgstr "Extra-Bold 800 Italic"
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2180
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2181
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2293
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2294
 #: includes/options/performance.php:135 includes/options/typography.php:1233
 msgid "Ultra-Bold 900"
 msgstr "Ultra-Bold 900"
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2182
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2295
 #: includes/options/performance.php:136
 msgid "Ultra-Bold 900 Italic"
 msgstr "Ultra-Bold 900 Italic"
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2437
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2550
 msgid "Go back"
 msgstr "返回"
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2445
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2558
 msgid "Back to"
 msgstr "回到"
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2452
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2565
 msgid "Take Over"
 msgstr "接管"
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2461
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2574
 msgid "is currently editing this post. Do you want to take over?"
 msgstr "正在编辑此文章。您想接管吗？"
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2467
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2580
 msgid "has taken over and is currently editing."
 msgstr "已接管并且正在编辑。"
 
@@ -9336,7 +9361,7 @@ msgstr "输入名称..."
 msgid "Column"
 msgstr "列"
 
-#: includes/lib/inc/fusion-app/helpers.php:274 includes/options/privacy.php:929
+#: includes/lib/inc/fusion-app/helpers.php:274 includes/options/privacy.php:914
 msgid "Columns"
 msgstr "列"
 
@@ -12698,11 +12723,6 @@ msgstr "目前作者撰写了%s篇文章。"
 msgid "Post Date"
 msgstr "文章日期"
 
-#: includes/lib/inc/widgets/class-fusion-widget-author.php:287
-#: includes/options/portfolio.php:674 includes/options/search.php:559
-msgid "Author"
-msgstr "作者"
-
 #: includes/lib/inc/widgets/class-fusion-widget-author.php:301
 msgid ""
 "IMPORTANT: When used on single posts, the author will be auto pulled. If you "
@@ -14033,7 +14053,7 @@ msgstr "幻灯片链接类型"
 
 # @ Avada
 #: includes/metaboxes/options/options_slide.php:305
-#: includes/options/privacy.php:785
+#: includes/options/privacy.php:823
 msgid "Button"
 msgstr "按钮"
 
@@ -15402,10 +15422,10 @@ msgstr "选择或留空以表示无。"
 msgid ""
 "<strong>IMPORTANT NOTE:</strong> You can view and manage form submissions by "
 "going to <a href=\"%s\" target=\"_blank\">form entries</a> section and "
-"selecting this form from the dropdown list."
+"selecting this form from the dropdown list. When using any authentication "
+"actions, please make sure to set the \"Security Nonce Method\" option to "
+"\"AJAX\"."
 msgstr ""
-"<strong>重要提示：</strong>您可以通过前往 <a href=\"%s\" target=\"_blank\">表"
-"单条目</a> 部分并从下拉列表中选择此表单来查看和管理表单提交。"
 
 #: includes/metaboxes/tabs/tab_form_submission.php:95
 #: includes/metaboxes/tabs/tab_form_submission.php:159
@@ -22389,11 +22409,10 @@ msgstr "访问的用户角色"
 
 #: includes/options/maintenance.php:105
 msgid ""
-"Select the user roles that should be able to access the site when. "
-"<strong>NOTE:</strong> Administrators will always have access."
+"Select the user roles that should be able to access the site when "
+"maintenance mode is turned on. <strong>NOTE:</strong> Administrators will "
+"always have access."
 msgstr ""
-"选择在相应模式下能够访问网站的用户角色。<strong>注意：</strong> 管理员始终拥"
-"有访问权限。"
 
 #: includes/options/maintenance.php:120
 msgid "Exclude"
@@ -24378,14 +24397,14 @@ msgstr ""
 
 #: includes/options/privacy.php:40
 msgid ""
-"<strong>IMPORTANT NOTE:</strong> The options in this section will help to "
-"easier comply with data privacy regulations, like the European GDPR. When "
-"the \"Privacy Consent\" option is used, Avada will create a cookie with the "
-"name <b>\"privacy_embeds\"</b> on user clients browsing your site to manage "
-"and store user consent to load the different third party embeds and tracking "
-"scripts. This includes the scripts added via \"Custom Code Snippets\" "
-"(Advanced > Code Fields) with a privacy category. You may want to add "
-"information about this cookie to your privacy page."
+"<strong>IMPORTANT NOTE:</strong> The options in this section help you comply "
+"more easily with data privacy regulations such as the GDPR. When the "
+"\"Privacy Consent\" option is enabled, Avada creates a cookie named "
+"<b>\"privacy_embeds\"</b> in visitors’ browsers to store and manage consent "
+"preferences for third-party embeds and tracking scripts. This also includes "
+"scripts added through \"Custom Code Snippets\" (Advanced > Code Fields) that "
+"use a privacy category. You may want to include information about this "
+"cookie in your privacy policy."
 msgstr ""
 
 #: includes/options/privacy.php:46
@@ -24638,10 +24657,20 @@ msgid "Description for the content"
 msgstr "内容描述"
 
 #: includes/options/privacy.php:450
-msgid "List WordPress Necessary Cookies"
+msgid "Group Master Toggle"
 msgstr ""
 
 #: includes/options/privacy.php:451
+msgid ""
+"Display a master checkbox next to each group title to enable or disable all "
+"items in the group at once. The \"Necessary\" group is excluded."
+msgstr ""
+
+#: includes/options/privacy.php:464
+msgid "List WordPress Necessary Cookies"
+msgstr ""
+
+#: includes/options/privacy.php:465
 msgid ""
 "Enable to automatically list standard WordPress necessary cookies. If "
 "WooCommerce or The Events Calendar are active, their necessary cookies are "
@@ -24650,125 +24679,131 @@ msgid ""
 "Categories above."
 msgstr ""
 
-#: includes/options/privacy.php:464
+#: includes/options/privacy.php:478
 msgid "Necessary Cookies Opacity"
 msgstr ""
 
-#: includes/options/privacy.php:465
+#: includes/options/privacy.php:479
 msgid ""
 "Controls the opacity of necessary cookie items to visually indicate they "
 "cannot be toggled off."
 msgstr ""
 
-#: includes/options/privacy.php:488
+#: includes/options/privacy.php:507
 msgid "Show Cookie Lifespan"
 msgstr ""
 
-#: includes/options/privacy.php:489
-msgid ""
-"Enable to display the cookie lifespan next to each consent item in the "
-"Consent Category content."
+#: includes/options/privacy.php:508
+msgid "Whether to display the cookie lifespan next to each consent item."
 msgstr ""
 
-#: includes/options/privacy.php:502
+#: includes/options/privacy.php:521
 msgid "Show Cookie Description"
 msgstr ""
 
-#: includes/options/privacy.php:503
-msgid ""
-"Enable to display the cookie description below each consent item in the "
-"Consent Category content."
+#: includes/options/privacy.php:522
+msgid "Whether to display the cookie description for each consent item."
 msgstr ""
 
-#: includes/options/privacy.php:516 includes/options/privacy.php:522
+#: includes/options/privacy.php:535
+msgid "Cookie Description Toggle"
+msgstr ""
+
+#: includes/options/privacy.php:536
+msgid ""
+"Add a toggle button next to each consent item to expand/collapse its "
+"description. Descriptions start collapsed."
+msgstr ""
+
+#: includes/options/privacy.php:554 includes/options/privacy.php:560
 msgid "Privacy & Consent Bar"
 msgstr ""
 
-#: includes/options/privacy.php:523
+#: includes/options/privacy.php:561
 msgid "Turn on to enable a privacy & consent bar at the bottom of the page."
 msgstr ""
 
-#: includes/options/privacy.php:529
+#: includes/options/privacy.php:567
 msgid "Privacy Bar Expanded Padding"
 msgstr ""
 
-#: includes/options/privacy.php:530
+#: includes/options/privacy.php:568
 msgid "Controls the top/right/bottom/left paddings of the privacy bar area."
 msgstr "控制隐私框区域的上/右/下/左侧的内边距."
 
-#: includes/options/privacy.php:572
+#: includes/options/privacy.php:610
 msgid "Privacy Bar Background Color"
 msgstr "隐私框背景色"
 
-#: includes/options/privacy.php:573
+#: includes/options/privacy.php:611
 msgid "Controls the background color for the privacy bar."
 msgstr "控制隐私框的背景颜色。"
 
 # @ Avada
-#: includes/options/privacy.php:592
+#: includes/options/privacy.php:630
 msgid "Privacy Bar Font Size"
 msgstr "隐私框文字大小"
 
-#: includes/options/privacy.php:593
+#: includes/options/privacy.php:631
 msgid "Controls the font size for the privacy bar content."
 msgstr "控制隐私框内容文字的字体大小。"
 
 # @ Avada
-#: includes/options/privacy.php:614
+#: includes/options/privacy.php:652
 msgid "Privacy Bar Text Color"
 msgstr "隐私框文本颜色"
 
-#: includes/options/privacy.php:615
+#: includes/options/privacy.php:653
 msgid "Controls the text color for the privacy bar content."
 msgstr "控制隐私框内容文字颜色。"
 
 # @ Avada
-#: includes/options/privacy.php:634
+#: includes/options/privacy.php:672
 msgid "Privacy Bar Link Color"
 msgstr "隐私框链接颜色"
 
-#: includes/options/privacy.php:635
+#: includes/options/privacy.php:673
 msgid "Controls the link color for the privacy bar."
 msgstr "控制隐私框的链接文字颜色。"
 
-#: includes/options/privacy.php:654
+#: includes/options/privacy.php:692
 msgid "Privacy Bar Link Hover Color"
 msgstr "隐私框链接鼠标悬浮颜色"
 
-#: includes/options/privacy.php:655
+#: includes/options/privacy.php:693
 msgid "Controls the link hover color for the privacy bar."
 msgstr "控制隐私框的链接文字悬停颜色。"
 
 # @ Avada
-#: includes/options/privacy.php:674
+#: includes/options/privacy.php:712
 msgid "Privacy Bar Text"
 msgstr "隐私框文字"
 
-#: includes/options/privacy.php:675
+#: includes/options/privacy.php:713
 msgid "Enter the text which you want to appear on the privacy bar."
 msgstr "输入你想在隐私栏上显示的文本。"
 
-#: includes/options/privacy.php:677
+#: includes/options/privacy.php:715
 msgid "This website uses cookies and third party services."
 msgstr "本网站使用 Cookie 和第三方服务。"
 
-#: includes/options/privacy.php:697
+#: includes/options/privacy.php:735
 msgid "Privacy Bar Button Text"
 msgstr "隐私框按钮文字"
 
-#: includes/options/privacy.php:698
+#: includes/options/privacy.php:736
 msgid "Controls the button text for the privacy bar acceptance."
 msgstr "控制隐私框允许按钮文本颜色。"
 
-#: includes/options/privacy.php:700
+#: includes/options/privacy.php:738
 msgid "OK"
 msgstr "确定"
 
-#: includes/options/privacy.php:720
+#: includes/options/privacy.php:758
 msgid "Privacy Bar Button Save On Click"
 msgstr "点击保存隐私栏按钮"
 
-#: includes/options/privacy.php:721
+#: includes/options/privacy.php:759
 msgid ""
 "Controls what the primary bar button does when clicked on the collapsed bar. "
 "When disabled, it acts as an acknowledgment — the bar dismisses and visitors "
@@ -24778,11 +24813,11 @@ msgid ""
 "open, clicking the button always saves the current checkbox selection."
 msgstr ""
 
-#: includes/options/privacy.php:755
+#: includes/options/privacy.php:793
 msgid "Privacy Bar Settings"
 msgstr "隐私栏设置"
 
-#: includes/options/privacy.php:756
+#: includes/options/privacy.php:794
 msgid ""
 "If enabled, a settings section will be added to show more information and to "
 "provide checkboxes for tracking and third party embeds."
@@ -24790,188 +24825,240 @@ msgstr ""
 "如果启用，将添加一个设置区块以显示更多信息，并提供用于跟踪和第三方嵌入的复选"
 "框。"
 
-#: includes/options/privacy.php:778
+#: includes/options/privacy.php:816
 msgid "Privacy Bar Settings Style"
 msgstr ""
 
-#: includes/options/privacy.php:779
+#: includes/options/privacy.php:817
 msgid ""
 "Controls how the settings entry is rendered. \"Link\" shows it inline within "
 "the bar text. \"Button\" renders it as a button alongside the other action "
 "buttons (more visible, recommended for clearer consent UX)."
 msgstr ""
 
-#: includes/options/privacy.php:809
+#: includes/options/privacy.php:847
 msgid "Privacy Bar Settings Text"
 msgstr "隐私栏设置文字"
 
-#: includes/options/privacy.php:810
+#: includes/options/privacy.php:848
 msgid "Controls the link text for the privacy bar settings."
 msgstr "控制隐私框设置的链接文字。"
 
-#: includes/options/privacy.php:837
+#: includes/options/privacy.php:875
 msgid "Privacy Bar Update Button Text"
 msgstr "隐私栏更新按钮文本"
 
-#: includes/options/privacy.php:838
+#: includes/options/privacy.php:876
 msgid ""
 "Controls the button text for the privacy bar after a checkbox has changed."
 msgstr "控制隐私框内某个勾选框改变后的按钮文字。"
 
-#: includes/options/privacy.php:840
+#: includes/options/privacy.php:878
 msgid "Update Settings"
 msgstr "更新设置"
 
+#: includes/options/privacy.php:908
+msgid "Privacy Bar Content Layout"
+msgstr ""
+
+#: includes/options/privacy.php:909
+msgid "Controls the layout for the privacy bar content."
+msgstr ""
+
+#: includes/options/privacy.php:915
+msgid "Tabs"
+msgstr ""
+
+#: includes/options/privacy.php:939
+msgid "Privacy Bar Content Max Width"
+msgstr ""
+
+#: includes/options/privacy.php:940
+msgid "Controls the maximum width of the content container."
+msgstr ""
+
+#: includes/options/privacy.php:966
+msgid "Privacy Bar Tabs Content Height"
+msgstr ""
+
+#: includes/options/privacy.php:967
+msgid ""
+"Set a height for the tab content area, that all tabs will share. Content "
+"taller than this height will be scrollable. Leave empty to auto-size each "
+"tab to its content."
+msgstr ""
+
 # @ Avada
-#: includes/options/privacy.php:870
+#: includes/options/privacy.php:999
 msgid "Privacy Bar Heading Font Size"
 msgstr "隐私框标题文字大小"
 
-#: includes/options/privacy.php:871
+#: includes/options/privacy.php:1000
 msgid "Controls the font size for the privacy bar heading text."
 msgstr "控制隐私框标题文本的字体大小。"
 
 # @ Avada
-#: includes/options/privacy.php:898
+#: includes/options/privacy.php:1027
 msgid "Privacy Bar Headings Color"
 msgstr "隐私框标题文字颜色"
 
-#: includes/options/privacy.php:899
+#: includes/options/privacy.php:1028
 msgid "Controls the text color of the privacy bar heading font."
 msgstr "控制隐私框标题栏的文字颜色。"
 
-#: includes/options/privacy.php:923
-msgid "Privacy Bar Content Layout"
-msgstr ""
-
-#: includes/options/privacy.php:924
-msgid "Controls the layout for the privacy bar content."
-msgstr ""
-
-#: includes/options/privacy.php:930
-msgid "Tabs"
-msgstr ""
-
-#: includes/options/privacy.php:954
-msgid "Privacy Bar Content Max Width"
-msgstr ""
-
-#: includes/options/privacy.php:955
-msgid "Controls the maximum width of the content container."
-msgstr ""
-
-#: includes/options/privacy.php:981
+#: includes/options/privacy.php:1052
 msgid "Privacy Bar Tabs Border Size"
 msgstr ""
 
-#: includes/options/privacy.php:982
+#: includes/options/privacy.php:1053
 msgid "Controls the border size for the tabs layout. In Pixels."
 msgstr ""
 
-#: includes/options/privacy.php:1016
+#: includes/options/privacy.php:1087
 msgid "Privacy Bar Tabs Border Color"
 msgstr ""
 
-#: includes/options/privacy.php:1017
+#: includes/options/privacy.php:1088
 msgid "Controls the border color for the tabs layout."
 msgstr ""
 
-#: includes/options/privacy.php:1046
+#: includes/options/privacy.php:1117
 msgid "Privacy Bar Tabs Active Background Color"
 msgstr ""
 
-#: includes/options/privacy.php:1047
+#: includes/options/privacy.php:1118
 msgid "Controls the background color of the active tab."
 msgstr ""
 
-#: includes/options/privacy.php:1076
+#: includes/options/privacy.php:1147
 msgid "Privacy Bar Tabs Content Padding"
 msgstr ""
 
-#: includes/options/privacy.php:1077
+#: includes/options/privacy.php:1148
 msgid "Controls the padding for the tab content area."
 msgstr ""
 
-#: includes/options/privacy.php:1130
+#: includes/options/privacy.php:1201
 msgid "Privacy Bar Column Gap"
 msgstr ""
 
-#: includes/options/privacy.php:1131
+#: includes/options/privacy.php:1202
 msgid "Controls the gap between columns in the privacy bar content."
 msgstr ""
 
-#: includes/options/privacy.php:1162
+#: includes/options/privacy.php:1233
+msgid "Privacy Bar Consent Item Style"
+msgstr ""
+
+#: includes/options/privacy.php:1234
+msgid ""
+"Choose between standard checkboxes or slide toggles for the consent items."
+msgstr ""
+
+#: includes/options/privacy.php:1239
+msgid "Checkbox"
+msgstr ""
+
+#: includes/options/privacy.php:1240
+msgid "Toggle"
+msgstr ""
+
+#: includes/options/privacy.php:1264
+msgid "Privacy Bar Consent Toggle Inactive Color"
+msgstr ""
+
+#: includes/options/privacy.php:1265
+msgid "Track color when a consent item is disabled."
+msgstr ""
+
+#: includes/options/privacy.php:1294
+msgid "Privacy Bar Consent Toggle Active Color"
+msgstr ""
+
+#: includes/options/privacy.php:1295
+msgid "Track color when a consent item is enabled."
+msgstr ""
+
+#: includes/options/privacy.php:1324
+msgid "Privacy Bar Consent Toggle Thumb Color"
+msgstr ""
+
+#: includes/options/privacy.php:1325
+msgid "Color of the toggle thumb."
+msgstr ""
+
+#: includes/options/privacy.php:1354
 msgid "Privacy Bar Cookie Lifespan Color"
 msgstr ""
 
-#: includes/options/privacy.php:1163
+#: includes/options/privacy.php:1355
 msgid ""
 "Controls the text color for the cookie lifespan shown next to each consent "
 "option. Leave empty to inherit from \"Privacy Bar Text Color\"."
 msgstr ""
 
-#: includes/options/privacy.php:1192
+#: includes/options/privacy.php:1384
 msgid "Privacy Bar Cookie Description Color"
 msgstr ""
 
-#: includes/options/privacy.php:1193
+#: includes/options/privacy.php:1385
 msgid ""
 "Controls the text color for the cookie descriptions shown below each consent "
 "option.  Leave empty to inherit from \"Privacy Bar Text Color\"."
 msgstr ""
 
-#: includes/options/privacy.php:1222
+#: includes/options/privacy.php:1414
 msgid "Privacy Bar Cookie Description Font Size"
 msgstr ""
 
-#: includes/options/privacy.php:1223
+#: includes/options/privacy.php:1415
 msgid ""
 "Controls the font size for the cookie descriptions shown below each consent "
 "option."
 msgstr ""
 
-#: includes/options/privacy.php:1255
+#: includes/options/privacy.php:1447
 msgid "Privacy Bar Accept All Button"
 msgstr ""
 
-#: includes/options/privacy.php:1256
+#: includes/options/privacy.php:1448
 msgid ""
 "If enabled, the privacy bar will be extended with a button that grants "
 "consent for every available type, regardless of which checkboxes the visitor "
 "has toggled."
 msgstr ""
 
-#: includes/options/privacy.php:1282
+#: includes/options/privacy.php:1474
 msgid "Privacy Bar Accept All Button Text"
 msgstr ""
 
-#: includes/options/privacy.php:1283
+#: includes/options/privacy.php:1475
 msgid "Controls the link text for the privacy bar accept all button."
 msgstr ""
 
-#: includes/options/privacy.php:1285
+#: includes/options/privacy.php:1477
 msgid "Accept All"
 msgstr ""
 
-#: includes/options/privacy.php:1314
-msgid "Privacy Bar Reject Button"
-msgstr "隐私栏拒绝按钮"
+#: includes/options/privacy.php:1506
+msgid "Privacy Bar Reject All Button"
+msgstr ""
 
-#: includes/options/privacy.php:1315
+#: includes/options/privacy.php:1507
 msgid ""
 "If enabled, the privacy bar will be extended with a button that allows users "
 "to reject all."
 msgstr "如果启用，隐私栏将增加一个允许用户拒绝所有的按钮。"
 
-#: includes/options/privacy.php:1342
-msgid "Privacy Bar Reject Button Text"
-msgstr "隐私栏拒绝按钮文本"
+#: includes/options/privacy.php:1534
+msgid "Privacy Bar Reject All Button Text"
+msgstr ""
 
-#: includes/options/privacy.php:1343
-msgid "Controls the link text for the privacy bar reject button."
-msgstr "控制隐私栏拒绝按钮的链接文本。"
+#: includes/options/privacy.php:1535
+msgid "Controls the link text for the privacy bar reject all button."
+msgstr ""
 
-#: includes/options/privacy.php:1345
+#: includes/options/privacy.php:1537
 msgid "Reject All"
 msgstr ""
 
@@ -27661,8 +27748,16 @@ msgstr "切换移动端搜索"
 msgid "Toggle mobile cart"
 msgstr "切换移动端购物车"
 
+#: templates/privacy-bar.php:78
+msgid "Toggle all items in this group"
+msgstr ""
+
+#: templates/privacy-bar.php:80
+msgid "Toggle description"
+msgstr ""
+
 #. translators: %s: number of days
-#: templates/privacy-bar.php:21
+#: templates/privacy-bar.php:85
 msgid "%s day"
 msgid_plural "%s days"
 msgstr[0] ""
@@ -28114,6 +28209,31 @@ msgstr "首页"
 msgctxt "%s Events plural label"
 msgid "All %s"
 msgstr "所有 %s"
+
+#~ msgid ""
+#~ "<strong>IMPORTANT NOTE:</strong> You can view and manage form submissions "
+#~ "by going to <a href=\"%s\" target=\"_blank\">form entries</a> section and "
+#~ "selecting this form from the dropdown list."
+#~ msgstr ""
+#~ "<strong>重要提示：</strong>您可以通过前往 <a href=\"%s\" "
+#~ "target=\"_blank\">表单条目</a> 部分并从下拉列表中选择此表单来查看和管理表"
+#~ "单提交。"
+
+#~ msgid ""
+#~ "Select the user roles that should be able to access the site when. "
+#~ "<strong>NOTE:</strong> Administrators will always have access."
+#~ msgstr ""
+#~ "选择在相应模式下能够访问网站的用户角色。<strong>注意：</strong> 管理员始终"
+#~ "拥有访问权限。"
+
+#~ msgid "Privacy Bar Reject Button"
+#~ msgstr "隐私栏拒绝按钮"
+
+#~ msgid "Privacy Bar Reject Button Text"
+#~ msgstr "隐私栏拒绝按钮文本"
+
+#~ msgid "Controls the link text for the privacy bar reject button."
+#~ msgstr "控制隐私栏拒绝按钮的链接文本。"
 
 #~ msgid "Redirect After"
 #~ msgstr "重定向延迟"
