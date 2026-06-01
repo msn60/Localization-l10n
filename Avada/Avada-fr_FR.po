@@ -20,7 +20,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Avada\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/theme/Avada\n"
-"POT-Creation-Date: 2026-06-01 04:55:00+00:00\n"
+"POT-Creation-Date: 2026-06-01 05:07:55+00:00\n"
 "PO-Revision-Date: 2022-04-12 09:28+0100\n"
 "Last-Translator: Cédric - COMITRONIC-BTI <comitronicbti93@gmail.com>\n"
 "Language-Team: Aurélien PIERRE <contact@aurelienpierre.com>\n"
@@ -118,7 +118,7 @@ msgstr "Rechercher sur le forum..."
 # @ Avada
 #: bbpress/form-search.php:19 includes/avada-functions.php:759
 #: includes/class-avada-layout-bbpress.php:148
-#: includes/class-avada-megamenu-framework.php:309
+#: includes/class-avada-megamenu-framework.php:310
 #: includes/lib/inc/class-fusion-searchform.php:86
 #: includes/lib/inc/fusion-app/helpers.php:287
 #: includes/lib/inc/redux/custom-fields/iconpicker/field_iconpicker.php:55
@@ -649,11 +649,11 @@ msgstr "Désactiver les fonctions inutilisées"
 
 #: includes/admin-screens/performance.php:126
 #: includes/class-avada-megamenu-framework.php:201
-#: includes/class-avada-megamenu-framework.php:420
-#: includes/class-avada-megamenu-framework.php:463
-#: includes/class-avada-megamenu-framework.php:487
-#: includes/class-avada-megamenu-framework.php:564
-#: includes/class-avada-megamenu-framework.php:657
+#: includes/class-avada-megamenu-framework.php:421
+#: includes/class-avada-megamenu-framework.php:464
+#: includes/class-avada-megamenu-framework.php:488
+#: includes/class-avada-megamenu-framework.php:565
+#: includes/class-avada-megamenu-framework.php:658
 #: includes/lib/inc/class-fusion-settings.php:528
 #: includes/lib/inc/fusion-app/class-fusion-preferences.php:189
 #: includes/lib/inc/fusion-app/class-fusion-preferences.php:200
@@ -673,12 +673,12 @@ msgid "On"
 msgstr "Activé"
 
 #: includes/admin-screens/performance.php:127
-#: includes/class-avada-megamenu-framework.php:202
-#: includes/class-avada-megamenu-framework.php:421
-#: includes/class-avada-megamenu-framework.php:464
-#: includes/class-avada-megamenu-framework.php:488
-#: includes/class-avada-megamenu-framework.php:565
-#: includes/class-avada-megamenu-framework.php:658
+#: includes/class-avada-megamenu-framework.php:203
+#: includes/class-avada-megamenu-framework.php:422
+#: includes/class-avada-megamenu-framework.php:465
+#: includes/class-avada-megamenu-framework.php:489
+#: includes/class-avada-megamenu-framework.php:566
+#: includes/class-avada-megamenu-framework.php:659
 #: includes/lib/inc/class-fusion-settings.php:528
 #: includes/lib/inc/fusion-app/class-fusion-preferences.php:190
 #: includes/lib/inc/fusion-app/class-fusion-preferences.php:201
@@ -1520,7 +1520,7 @@ msgstr "Supprimer le contenu"
 # @ Avada
 #: includes/admin-screens/prebuilt-websites-import-modal.php:98
 #: includes/admin-screens/prebuilt-websites-import-modal.php:114
-#: includes/class-avada-megamenu-framework.php:1031
+#: includes/class-avada-megamenu-framework.php:1032
 #: includes/class-avada-nav-walker-megamenu.php:249
 #: includes/lib/inc/fusion-app/helpers.php:601
 #: includes/lib/inc/redux/framework/FusionReduxCore/inc/fields/background/field_background.php:325
@@ -2362,7 +2362,7 @@ msgid "Forms"
 msgstr "Formulaires"
 
 #: includes/admin-screens/setup.php:910 includes/class-avada-admin-bar.php:69
-#: includes/class-avada-megamenu-framework.php:521
+#: includes/class-avada-megamenu-framework.php:522
 #: includes/lib/inc/fusion-app/class-fusion-app.php:1118
 #: includes/metaboxes/tabs/tab_form_submission.php:211
 #: includes/options/typography.php:331
@@ -2415,8 +2415,8 @@ msgstr ""
 #: includes/avada-app/fusion-panel.php:144
 #: includes/avada-app/panel/templates/sidebar.php:31 includes/bootstrap.php:699
 #: includes/class-avada-admin-bar.php:61 includes/class-avada-admin.php:599
-#: includes/class-avada-megamenu-framework.php:218
-#: includes/class-avada-megamenu-framework.php:586
+#: includes/class-avada-megamenu-framework.php:219
+#: includes/class-avada-megamenu-framework.php:587
 #: includes/lib/inc/class-fusion-featured-image.php:168
 #: includes/lib/inc/fusion-app/helpers.php:210
 #: includes/lib/inc/fusion-app/templates/modal-dialog-more.php:34
@@ -3493,7 +3493,7 @@ msgstr ""
 
 # @ Avada
 #: includes/avada-app/class-fusion-panel.php:436
-#: includes/class-avada-megamenu-framework.php:1064
+#: includes/class-avada-megamenu-framework.php:1065
 #: includes/class-avada-nav-walker-megamenu.php:259
 #: includes/lib/inc/class-awb-widget-style.php:421
 #: includes/lib/inc/fusion-app/helpers.php:294
@@ -4933,22 +4933,27 @@ msgstr "Icône/Vignette seulement"
 
 #: includes/class-avada-megamenu-framework.php:197
 msgid ""
-"Turn on to only show the icon/image thumbnail while hiding the menu text. "
-"Important: this does not apply to the mobile menu."
+"Choose how the icon/image thumbnail and menu text are displayed. \"On\" "
+"hides the text on all viewports. \"Mobile Only\" keeps text on desktop but "
+"shows just the icon when the menu collapses on mobile (used together with "
+"the Menu element's \"Keep Search/Cart As Icon On Mobile\" options for the "
+"AWB Search and WooCommerce Cart special items)."
 msgstr ""
-"Choisissez \"On\" pour afficher une icône ou une vignette quand le texte du "
-"menu est masqué. Important : cela ne fonctionne pas sur les menus mobiles."
 
-#: includes/class-avada-megamenu-framework.php:208
+#: includes/class-avada-megamenu-framework.php:202
+msgid "Mobile Only"
+msgstr ""
+
+#: includes/class-avada-megamenu-framework.php:209
 msgid "Menu Highlight Label"
 msgstr "Highlight Label du Menu"
 
-#: includes/class-avada-megamenu-framework.php:209
+#: includes/class-avada-megamenu-framework.php:210
 msgid "Set the highlight label for menu item."
 msgstr "Réglez l'étiquette de surbrillance pour l'élément de menu."
 
 #. translators: "<span>" tags.
-#: includes/class-avada-megamenu-framework.php:216
+#: includes/class-avada-megamenu-framework.php:217
 msgid ""
 "%1$sMenu Highlight Label Background Color%2$s%3$sCart Counter Background "
 "Color%4$s"
@@ -4958,7 +4963,7 @@ msgstr ""
 
 #. translators: %1$s: <span> tag. %2$s: "TGlobal Options" link. %3$s: <span>
 #. tag. %4$s: <span> tag. %5$s: <span> tag.
-#: includes/class-avada-megamenu-framework.php:218
+#: includes/class-avada-megamenu-framework.php:219
 msgid ""
 "%1$sSet the highlight label background color. To set a border radius, visit "
 "%2$s and modify the Menu Highlight Label Radius option.%3$s%4$s Set cart "
@@ -4970,14 +4975,14 @@ msgstr ""
 "panier.%5$s"
 
 #. translators: "<span>" tags.
-#: includes/class-avada-megamenu-framework.php:232
+#: includes/class-avada-megamenu-framework.php:233
 msgid "%1$sMenu Highlight Label Text Color%2$s%3$sCart Counter Text Color%4$s"
 msgstr ""
 "%1$sMenu Mettre en surbrillance la couleur du texte de "
 "l’étiquette%2$s%3$sCart Counter Text Color%4$s"
 
 #. translators: "<span>" tags.
-#: includes/class-avada-megamenu-framework.php:234
+#: includes/class-avada-megamenu-framework.php:235
 msgid ""
 "%1$sSet the highlight label text color.%2$s%3$sSet the cart counter text "
 "color.%4$s"
@@ -4986,35 +4991,35 @@ msgstr ""
 "la couleur du texte du compteur de panier.%4$s"
 
 #. translators: "<span>" tags.
-#: includes/class-avada-megamenu-framework.php:248
+#: includes/class-avada-megamenu-framework.php:249
 msgid ""
 "%1$sMenu Highlight Label Border Color%2$s%3$sCart Counter Border Color %4$s"
 msgstr ""
 "%1$sMenu Highlight Label Border Color%2$s%3$sCart Counter Border Color %4$s"
 
 #. translators: "<span>" tags.
-#: includes/class-avada-megamenu-framework.php:250
+#: includes/class-avada-megamenu-framework.php:251
 msgid ""
 "%1$sSet the highlight label border color.%2$s%3$sSet the cart counter border "
 "color.%4$s"
 msgstr "Définissez la couleur de la bordure de l'étiquette de mise en évidence"
 
-#: includes/class-avada-megamenu-framework.php:263
+#: includes/class-avada-megamenu-framework.php:264
 msgid "Modal Window Anchor"
 msgstr "Ancre de fenêtre modale"
 
-#: includes/class-avada-megamenu-framework.php:264
+#: includes/class-avada-megamenu-framework.php:265
 msgid ""
 "Add the class name of the modal window you want to open on menu item click."
 msgstr ""
 "Ajoutez le nom de la classe de la Fenêtre Modale que vous souhaitez ouvrir "
 "en cliquant sur le menu."
 
-#: includes/class-avada-megamenu-framework.php:291
+#: includes/class-avada-megamenu-framework.php:292
 msgid "Avada Special Menu Items"
 msgstr "Articles de menu spécial Avada"
 
-#: includes/class-avada-megamenu-framework.php:303
+#: includes/class-avada-megamenu-framework.php:304
 msgid ""
 "<strong>IMPORTANT NOTE:</strong> These items only work in Avada Builder Menu "
 "element."
@@ -5022,44 +5027,44 @@ msgstr ""
 "<strong>NOTE IMPORTANTE :</strong> Ces éléments ne fonctionnent que dans "
 "l’élément Menu Constructeur Avada."
 
-#: includes/class-avada-megamenu-framework.php:310
+#: includes/class-avada-megamenu-framework.php:311
 msgid "Log Out"
 msgstr ""
 
-#: includes/class-avada-megamenu-framework.php:311
+#: includes/class-avada-megamenu-framework.php:312
 msgid "Sliding Bar Toggle"
 msgstr "Contrôle l'aspect de la barre latérale basculante"
 
-#: includes/class-avada-megamenu-framework.php:312
+#: includes/class-avada-megamenu-framework.php:313
 msgid "Off Canvas Toggle"
 msgstr ""
 
-#: includes/class-avada-megamenu-framework.php:315
+#: includes/class-avada-megamenu-framework.php:316
 msgid "WooCommerce Cart"
 msgstr "Panier WooCommerce"
 
-#: includes/class-avada-megamenu-framework.php:316
+#: includes/class-avada-megamenu-framework.php:317
 msgid "WooCommerce My Account"
 msgstr "WooCommerce Mon Compte"
 
-#: includes/class-avada-megamenu-framework.php:339
+#: includes/class-avada-megamenu-framework.php:340
 #: includes/class-avada-woocommerce-variations.php:135
 msgid "Select all"
 msgstr "Tout sélectionner"
 
-#: includes/class-avada-megamenu-framework.php:342
+#: includes/class-avada-megamenu-framework.php:343
 msgid "Add to menu"
 msgstr "Ajouter au menu"
 
-#: includes/class-avada-megamenu-framework.php:382
+#: includes/class-avada-megamenu-framework.php:383
 msgid "Select Off Canvas"
 msgstr ""
 
-#: includes/class-avada-megamenu-framework.php:393
+#: includes/class-avada-megamenu-framework.php:394
 msgid "Important Note"
 msgstr "Note importante"
 
-#: includes/class-avada-megamenu-framework.php:394
+#: includes/class-avada-megamenu-framework.php:395
 msgid ""
 "Avada Special Menu Items can only be used as top-level items. Please move "
 "the item to top-level to see the available options."
@@ -5068,27 +5073,27 @@ msgstr ""
 "de premier niveau. Veuillez déplacer l'élément au niveau supérieur pour voir "
 "les options disponibles."
 
-#: includes/class-avada-megamenu-framework.php:407
+#: includes/class-avada-megamenu-framework.php:408
 msgid "Special Link Type"
 msgstr "Type de lien spécial"
 
-#: includes/class-avada-megamenu-framework.php:408
+#: includes/class-avada-megamenu-framework.php:409
 msgid "Select to add a special link type."
 msgstr "Sélectionnez pour ajouter un type de lien spécial."
 
-#: includes/class-avada-megamenu-framework.php:415
+#: includes/class-avada-megamenu-framework.php:416
 msgid "Show WooCommerce Cart Counter"
 msgstr "Afficher WooCommerce Cart Counter"
 
-#: includes/class-avada-megamenu-framework.php:416
+#: includes/class-avada-megamenu-framework.php:417
 msgid "Turn on to show the cart products counter."
 msgstr "Allumez pour montrer le compteur de produits du chariot."
 
-#: includes/class-avada-megamenu-framework.php:434
+#: includes/class-avada-megamenu-framework.php:435
 msgid "Cart Counter Display"
 msgstr "Présentoir de comptoir de chariot"
 
-#: includes/class-avada-megamenu-framework.php:435
+#: includes/class-avada-megamenu-framework.php:436
 msgid ""
 "Select the display style you would like for the cart counter.  Badge display "
 "will be smaller and positioned on the top corner of the menu item.  Note: "
@@ -5099,46 +5104,46 @@ msgstr ""
 "supérieur de l'élément de menu.  Remarque : le style de badge ne sera "
 "utilisé que dans l'élément de menu."
 
-#: includes/class-avada-megamenu-framework.php:440
-#: includes/class-avada-megamenu-framework.php:506
+#: includes/class-avada-megamenu-framework.php:441
+#: includes/class-avada-megamenu-framework.php:507
 #: includes/options/forms.php:413
 msgid "Inline"
 msgstr "En ligne"
 
-#: includes/class-avada-megamenu-framework.php:441
+#: includes/class-avada-megamenu-framework.php:442
 msgid "Badge"
 msgstr "Badge"
 
-#: includes/class-avada-megamenu-framework.php:458
+#: includes/class-avada-megamenu-framework.php:459
 msgid "Show WooCommerce Empty Cart Counter"
 msgstr "Afficher le compteur de paniers vides de WooCommerce"
 
-#: includes/class-avada-megamenu-framework.php:459
+#: includes/class-avada-megamenu-framework.php:460
 msgid "Turn on to show the cart counter when cart is empty."
 msgstr ""
 "Allumez pour montrer le compteur de chariot lorsque le chariot est vide."
 
-#: includes/class-avada-megamenu-framework.php:482
+#: includes/class-avada-megamenu-framework.php:483
 msgid "Show WooCommerce Cart Contents Dropdown"
 msgstr "Afficher la liste déroulante du contenu du panier WooCommerce"
 
-#: includes/class-avada-megamenu-framework.php:483
+#: includes/class-avada-megamenu-framework.php:484
 msgid "Turn on to show the cart contents dropdown."
 msgstr "Activez pour afficher la liste déroulante du contenu du panier."
 
-#: includes/class-avada-megamenu-framework.php:501
+#: includes/class-avada-megamenu-framework.php:502
 msgid "Search-Form Mode"
 msgstr "Mode formulaire de recherche"
 
-#: includes/class-avada-megamenu-framework.php:502
+#: includes/class-avada-megamenu-framework.php:503
 msgid "Select how your search-form will be displayed."
 msgstr "Sélectionnez l’affichage de votre formulaire de recherche."
 
-#: includes/class-avada-megamenu-framework.php:507
+#: includes/class-avada-megamenu-framework.php:508
 msgid "Dropdown"
 msgstr "Liste déroulante"
 
-#: includes/class-avada-megamenu-framework.php:508
+#: includes/class-avada-megamenu-framework.php:509
 #: includes/metaboxes/metaboxes.php:687
 #: includes/metaboxes/tabs/tab_off_canvas_design.php:168
 #: includes/metaboxes/tabs/tab_off_canvas_overlay.php:20
@@ -5147,52 +5152,52 @@ msgstr "Liste déroulante"
 msgid "Overlay"
 msgstr "Superposition"
 
-#: includes/class-avada-megamenu-framework.php:522
+#: includes/class-avada-megamenu-framework.php:523
 msgid "Select off canvas to show when click on menu item."
 msgstr ""
 
 # @ Avada
-#: includes/class-avada-megamenu-framework.php:551
+#: includes/class-avada-megamenu-framework.php:552
 msgid "Select Widget Area"
 msgstr "Choisir la zone des Widgets"
 
-#: includes/class-avada-megamenu-framework.php:562
+#: includes/class-avada-megamenu-framework.php:563
 #: includes/options/advanced.php:85 includes/options/menu.php:2870
 msgid "Legacy Mega Menu"
 msgstr ""
 
-#: includes/class-avada-megamenu-framework.php:567
+#: includes/class-avada-megamenu-framework.php:568
 msgid ""
 "Turn on to enable the legacy mega menu. Note this will only work for the "
 "main menu."
 msgstr ""
 
-#: includes/class-avada-megamenu-framework.php:580
+#: includes/class-avada-megamenu-framework.php:581
 msgid "Legacy Mega Menu Wrapper Width"
 msgstr ""
 
-#: includes/class-avada-megamenu-framework.php:582
+#: includes/class-avada-megamenu-framework.php:583
 msgid "Max Width"
 msgstr "Largeur maximale"
 
-#: includes/class-avada-megamenu-framework.php:583
+#: includes/class-avada-megamenu-framework.php:584
 msgid "Fit Content"
 msgstr "Contenu adapté"
 
 #. translators: %s: "Global Options" link.
-#: includes/class-avada-megamenu-framework.php:586
+#: includes/class-avada-megamenu-framework.php:587
 msgid ""
 "Controls the width of legacy mega menu. In case of max width, it is taken "
 "from the site width option in %s. Note this overrides the column width "
 "option."
 msgstr ""
 
-#: includes/class-avada-megamenu-framework.php:604
+#: includes/class-avada-megamenu-framework.php:605
 msgid "Legacy Mega Menu Number of Columns"
 msgstr ""
 
 # @ Avada
-#: includes/class-avada-megamenu-framework.php:606
+#: includes/class-avada-megamenu-framework.php:607
 #: includes/metaboxes/tabs/tab_off_canvas_design.php:115
 #: includes/metaboxes/tabs/tab_off_canvas_overlay.php:177
 #: includes/metaboxes/tabs/tab_seo.php:59
@@ -5202,23 +5207,23 @@ msgstr ""
 msgid "Auto"
 msgstr "Auto"
 
-#: includes/class-avada-megamenu-framework.php:614
+#: includes/class-avada-megamenu-framework.php:615
 msgid "Select the number of columns you want to use."
 msgstr "Sélectionnez le nombre de colonnes que vous voulez utiliser."
 
-#: includes/class-avada-megamenu-framework.php:632
+#: includes/class-avada-megamenu-framework.php:633
 msgid "Legacy Mega Menu Column Width"
 msgstr ""
 
-#: includes/class-avada-megamenu-framework.php:633
+#: includes/class-avada-megamenu-framework.php:634
 msgid "Set the width of the column. In percentage, ex 60%."
 msgstr "Saisissez la largeur des colonnes (en pourcentage, par ex. : 60%)."
 
-#: includes/class-avada-megamenu-framework.php:655
+#: includes/class-avada-megamenu-framework.php:656
 msgid "Legacy Mega Menu Column Title"
 msgstr ""
 
-#: includes/class-avada-megamenu-framework.php:660
+#: includes/class-avada-megamenu-framework.php:661
 msgid ""
 "Turn on to display item as linked column title. Turn off to display item as "
 "normal mega menu entry."
@@ -5226,43 +5231,43 @@ msgstr ""
 "Activez pour afficher l'élément en tant que titre de colonne lié. Désactivez "
 "pour afficher l'élément comme entrée de menu méga normale."
 
-#: includes/class-avada-megamenu-framework.php:678
+#: includes/class-avada-megamenu-framework.php:679
 msgid "Legacy Mega Menu Widget Area"
 msgstr ""
 
-#: includes/class-avada-megamenu-framework.php:680
+#: includes/class-avada-megamenu-framework.php:681
 msgid "Select a widget area to be used as the content for the column."
 msgstr ""
 "Sélectionnez une zone de Widgets à utiliser comme contenu de la colonne."
 
-#: includes/class-avada-megamenu-framework.php:938
+#: includes/class-avada-megamenu-framework.php:939
 #: includes/lib/inc/fusion-app/helpers.php:628
 msgid "Add Custom Icon Set"
 msgstr "Ajouter des icônes personnalisées"
 
-#: includes/class-avada-megamenu-framework.php:940
+#: includes/class-avada-megamenu-framework.php:941
 #: includes/lib/inc/fusion-app/helpers.php:414
 #: includes/metaboxes/metaboxes.php:1976
 msgid "Search Icons"
 msgstr "Chercher une icône"
 
-#: includes/class-avada-megamenu-framework.php:1030
+#: includes/class-avada-megamenu-framework.php:1031
 #: includes/lib/inc/fusion-app/helpers.php:337
 msgid "Edit"
 msgstr "Éditer"
 
-#: includes/class-avada-megamenu-framework.php:1032
+#: includes/class-avada-megamenu-framework.php:1033
 #: includes/class-avada-taxonomy-meta.php:1165
 #: includes/lib/inc/fusion-app/helpers.php:335
 msgid "Upload Image"
 msgstr "Télécharger l'image"
 
-#: includes/class-avada-megamenu-framework.php:1054
-#: includes/class-avada-megamenu-framework.php:1059
+#: includes/class-avada-megamenu-framework.php:1055
+#: includes/class-avada-megamenu-framework.php:1060
 msgid "Avada Menu Options"
 msgstr "Options du Menu Avada"
 
-#: includes/class-avada-megamenu-framework.php:1063
+#: includes/class-avada-megamenu-framework.php:1064
 #: includes/lib/inc/class-awb-widget-style.php:420
 #: includes/lib/inc/fusion-app/helpers.php:252
 #: includes/lib/inc/fusion-app/templates/front-end-toolbar.php:83
@@ -5270,11 +5275,11 @@ msgid "Save"
 msgstr "Sauvegarder"
 
 # @ Avada
-#: includes/class-avada-megamenu-framework.php:1161
+#: includes/class-avada-megamenu-framework.php:1162
 msgid "Search ..."
 msgstr "Rechercher..."
 
-#: includes/class-avada-megamenu-framework.php:1222
+#: includes/class-avada-megamenu-framework.php:1223
 msgid "Sorry, no posts matched your criteria."
 msgstr ""
 
@@ -29527,6 +29532,14 @@ msgstr "Accueil"
 msgctxt "%s Events plural label"
 msgid "All %s"
 msgstr ""
+
+#~ msgid ""
+#~ "Turn on to only show the icon/image thumbnail while hiding the menu text. "
+#~ "Important: this does not apply to the mobile menu."
+#~ msgstr ""
+#~ "Choisissez \"On\" pour afficher une icône ou une vignette quand le texte "
+#~ "du menu est masqué. Important : cela ne fonctionne pas sur les menus "
+#~ "mobiles."
 
 #~ msgid "Privacy Bar"
 #~ msgstr "Barre de confidentialité"
