@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Avada\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/theme/Avada\n"
-"POT-Creation-Date: 2026-05-26 11:29:14+00:00\n"
+"POT-Creation-Date: 2026-06-01 04:55:00+00:00\n"
 "PO-Revision-Date: 2018-01-31 10:17+0100\n"
 "Last-Translator: Michael Clarke\n"
 "Language-Team: Danish (Denmark) (http://www.transifex.com/projects/p/avada/"
@@ -9525,7 +9525,7 @@ msgstr ""
 # @ woocommerce
 #: includes/lib/inc/fusion-app/helpers.php:387
 #: templates/wc-catalog-ordering.php:52 templates/wc-catalog-ordering.php:101
-#: woocommerce/cart/cart.php:32 woocommerce/cart/cart.php:119
+#: woocommerce/cart/cart.php:32 woocommerce/cart/cart.php:128
 msgid "Price"
 msgstr "Pris"
 
@@ -13017,7 +13017,7 @@ msgstr ""
 # @ Avada
 # @ woocommerce
 #: includes/metaboxes/metaboxes.php:674 templates/wc-view-order.php:93
-#: woocommerce/cart/cart.php:31 woocommerce/cart/cart.php:61
+#: woocommerce/cart/cart.php:31 woocommerce/cart/cart.php:70
 #: woocommerce/checkout/form-pay.php:29
 #: woocommerce/checkout/review-order.php:26
 msgid "Product"
@@ -26729,12 +26729,12 @@ msgstr "Har du en rabat-kode?"
 
 # @ woocommerce
 #: templates/wc-cart-collaterals.php:23 templates/wc-cart-collaterals.php:24
-#: templates/wc-checkout-coupon-form.php:26 woocommerce/cart/cart.php:182
+#: templates/wc-checkout-coupon-form.php:26 woocommerce/cart/cart.php:191
 msgid "Coupon code"
 msgstr "Kupon-kode"
 
 #: templates/wc-cart-collaterals.php:25
-#: templates/wc-checkout-coupon-form.php:30 woocommerce/cart/cart.php:182
+#: templates/wc-checkout-coupon-form.php:30 woocommerce/cart/cart.php:191
 msgid "Apply coupon"
 msgstr "Anvend rabatkode"
 
@@ -26824,7 +26824,7 @@ msgstr "Vis som gitter"
 msgid "View as list"
 msgstr "Vis som liste"
 
-#: templates/wc-proceed-to-checkout.php:15 woocommerce/cart/cart.php:187
+#: templates/wc-proceed-to-checkout.php:15 woocommerce/cart/cart.php:196
 msgid "Update cart"
 msgstr "Opdater kurv"
 
@@ -26876,7 +26876,7 @@ msgid "Order details"
 msgstr "Detajler om ordrern"
 
 # @ woocommerce
-#: templates/wc-view-order.php:94 woocommerce/cart/cart.php:145
+#: templates/wc-view-order.php:94 woocommerce/cart/cart.php:154
 #: woocommerce/checkout/review-order.php:133
 msgid "Total"
 msgstr "Total"
@@ -26951,7 +26951,7 @@ msgid "View All %s"
 msgstr "Se alle %s"
 
 # @ woocommerce
-#: woocommerce/cart/cart.php:33 woocommerce/cart/cart.php:125
+#: woocommerce/cart/cart.php:33 woocommerce/cart/cart.php:134
 msgid "Quantity"
 msgstr "Antal"
 
@@ -26961,16 +26961,16 @@ msgid "Subtotal"
 msgstr "Subtotal for kurv"
 
 # @ woocommerce
-#: woocommerce/cart/cart.php:112
+#: woocommerce/cart/cart.php:121
 msgid "Available on backorder"
 msgstr "Tilgængelig som restordre"
 
 #. translators: %s is the product name
-#: woocommerce/cart/cart.php:160
+#: woocommerce/cart/cart.php:169
 msgid "Remove %s from cart"
 msgstr ""
 
-#: woocommerce/cart/cart.php:182
+#: woocommerce/cart/cart.php:191
 msgid "Coupon:"
 msgstr ""
 

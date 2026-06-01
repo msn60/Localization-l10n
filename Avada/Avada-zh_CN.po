@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Avada\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/theme/Avada\n"
-"POT-Creation-Date: 2026-05-26 11:29:14+00:00\n"
+"POT-Creation-Date: 2026-06-01 04:55:00+00:00\n"
 "PO-Revision-Date: 2026-04-14 11:08+0800\n"
 "Last-Translator: Bo <thewayyouare@vip.qq.com>\n"
 "Language-Team: Chinese (China)\n"
@@ -9806,7 +9806,7 @@ msgstr "货币"
 # @ woocommerce
 #: includes/lib/inc/fusion-app/helpers.php:387
 #: templates/wc-catalog-ordering.php:52 templates/wc-catalog-ordering.php:101
-#: woocommerce/cart/cart.php:32 woocommerce/cart/cart.php:119
+#: woocommerce/cart/cart.php:32 woocommerce/cart/cart.php:128
 msgid "Price"
 msgstr "价格"
 
@@ -13444,7 +13444,7 @@ msgstr "侧边栏"
 # @ Avada
 # @ woocommerce
 #: includes/metaboxes/metaboxes.php:674 templates/wc-view-order.php:93
-#: woocommerce/cart/cart.php:31 woocommerce/cart/cart.php:61
+#: woocommerce/cart/cart.php:31 woocommerce/cart/cart.php:70
 #: woocommerce/checkout/form-pay.php:29
 #: woocommerce/checkout/review-order.php:26
 msgid "Product"
@@ -27812,12 +27812,12 @@ msgstr "拥有一个优惠码？"
 
 # @ woocommerce
 #: templates/wc-cart-collaterals.php:23 templates/wc-cart-collaterals.php:24
-#: templates/wc-checkout-coupon-form.php:26 woocommerce/cart/cart.php:182
+#: templates/wc-checkout-coupon-form.php:26 woocommerce/cart/cart.php:191
 msgid "Coupon code"
 msgstr "优惠码"
 
 #: templates/wc-cart-collaterals.php:25
-#: templates/wc-checkout-coupon-form.php:30 woocommerce/cart/cart.php:182
+#: templates/wc-checkout-coupon-form.php:30 woocommerce/cart/cart.php:191
 msgid "Apply coupon"
 msgstr "使用优惠券"
 
@@ -27907,7 +27907,7 @@ msgstr "网格显示"
 msgid "View as list"
 msgstr "查看列表"
 
-#: templates/wc-proceed-to-checkout.php:15 woocommerce/cart/cart.php:187
+#: templates/wc-proceed-to-checkout.php:15 woocommerce/cart/cart.php:196
 msgid "Update cart"
 msgstr "更新购物车"
 
@@ -27960,7 +27960,7 @@ msgid "Order details"
 msgstr "订单详情"
 
 # @ woocommerce
-#: templates/wc-view-order.php:94 woocommerce/cart/cart.php:145
+#: templates/wc-view-order.php:94 woocommerce/cart/cart.php:154
 #: woocommerce/checkout/review-order.php:133
 msgid "Total"
 msgstr "总计"
@@ -28034,7 +28034,7 @@ msgid "View All %s"
 msgstr "查看全部 %s"
 
 # @ woocommerce
-#: woocommerce/cart/cart.php:33 woocommerce/cart/cart.php:125
+#: woocommerce/cart/cart.php:33 woocommerce/cart/cart.php:134
 msgid "Quantity"
 msgstr "数量"
 
@@ -28044,16 +28044,16 @@ msgid "Subtotal"
 msgstr "小计"
 
 # @ woocommerce
-#: woocommerce/cart/cart.php:112
+#: woocommerce/cart/cart.php:121
 msgid "Available on backorder"
 msgstr "缺货可用"
 
 #. translators: %s is the product name
-#: woocommerce/cart/cart.php:160
+#: woocommerce/cart/cart.php:169
 msgid "Remove %s from cart"
 msgstr "从购物车移除 %s"
 
-#: woocommerce/cart/cart.php:182
+#: woocommerce/cart/cart.php:191
 msgid "Coupon:"
 msgstr "优惠券:"
 
