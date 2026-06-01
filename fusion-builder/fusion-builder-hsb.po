@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Fusion Builder 2.1.2\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/fusion-builder\n"
-"POT-Creation-Date: 2026-06-01 04:57:01+00:00\n"
+"POT-Creation-Date: 2026-06-01 12:07:27+00:00\n"
 "PO-Revision-Date: 2020-02-06 13:18+0200\n"
 "Last-Translator: Ari Stathopoulos <info@theme-fusion.com>\n"
 "Language-Team: Upper Sorbian\n"
@@ -18,8 +18,8 @@ msgstr ""
 msgid "404"
 msgstr ""
 
-#: inc/class-fusion-dynamic-data-callbacks.php:3582
-#: inc/class-fusion-dynamic-data-callbacks.php:3658
+#: inc/class-fusion-dynamic-data-callbacks.php:3603
+#: inc/class-fusion-dynamic-data-callbacks.php:3679
 msgid "12345"
 msgstr ""
 
@@ -527,12 +527,12 @@ msgstr ""
 #: shortcodes/fusion-progress.php:1065 shortcodes/fusion-progress.php:1073
 #: shortcodes/fusion-recent-posts.php:1513
 #: shortcodes/fusion-recent-posts.php:1535
-#: shortcodes/fusion-recent-posts.php:1543 shortcodes/fusion-row-inner.php:114
-#: shortcodes/fusion-row-inner.php:121 shortcodes/fusion-row-inner.php:133
-#: shortcodes/fusion-row-inner.php:144 shortcodes/fusion-row-inner.php:197
-#: shortcodes/fusion-row-inner.php:225 shortcodes/fusion-row-inner.php:231
-#: shortcodes/fusion-row-inner.php:253 shortcodes/fusion-row-inner.php:264
-#: shortcodes/fusion-row-inner.php:309 shortcodes/fusion-soundcloud.php:256
+#: shortcodes/fusion-recent-posts.php:1543 shortcodes/fusion-row-inner.php:115
+#: shortcodes/fusion-row-inner.php:122 shortcodes/fusion-row-inner.php:134
+#: shortcodes/fusion-row-inner.php:145 shortcodes/fusion-row-inner.php:198
+#: shortcodes/fusion-row-inner.php:226 shortcodes/fusion-row-inner.php:232
+#: shortcodes/fusion-row-inner.php:254 shortcodes/fusion-row-inner.php:265
+#: shortcodes/fusion-row-inner.php:310 shortcodes/fusion-soundcloud.php:256
 #: shortcodes/fusion-soundcloud.php:278 shortcodes/fusion-soundcloud.php:286
 #: shortcodes/fusion-submenu.php:594 shortcodes/fusion-table.php:231
 #: shortcodes/fusion-tabs.php:1441 shortcodes/fusion-tabs.php:1449
@@ -2268,9 +2268,10 @@ msgstr ""
 #: inc/class-fusion-dynamic-data.php:2145
 #: inc/class-fusion-dynamic-data.php:2890
 #: inc/class-fusion-dynamic-data.php:2974
-#: inc/class-fusion-dynamic-data.php:3197
-#: inc/class-fusion-dynamic-data.php:3519
-#: inc/class-fusion-dynamic-data.php:3864
+#: inc/class-fusion-dynamic-data.php:3085
+#: inc/class-fusion-dynamic-data.php:3208
+#: inc/class-fusion-dynamic-data.php:3530
+#: inc/class-fusion-dynamic-data.php:3875
 #: inc/class-fusion-form-auth-actions.php:785
 #: inc/class-fusion-form-auth-actions.php:796
 #: inc/class-fusion-form-auth-actions.php:827
@@ -2567,9 +2568,10 @@ msgstr ""
 #: inc/class-fusion-dynamic-data.php:2146
 #: inc/class-fusion-dynamic-data.php:2891
 #: inc/class-fusion-dynamic-data.php:2975
-#: inc/class-fusion-dynamic-data.php:3198
-#: inc/class-fusion-dynamic-data.php:3520
-#: inc/class-fusion-dynamic-data.php:3865
+#: inc/class-fusion-dynamic-data.php:3086
+#: inc/class-fusion-dynamic-data.php:3209
+#: inc/class-fusion-dynamic-data.php:3531
+#: inc/class-fusion-dynamic-data.php:3876
 #: inc/class-fusion-form-auth-actions.php:786
 #: inc/class-fusion-form-auth-actions.php:797
 #: inc/class-fusion-form-auth-actions.php:828
@@ -2931,7 +2933,7 @@ msgstr ""
 #: shortcodes/fusion-post-card-image.php:1082
 #: shortcodes/fusion-post-cards.php:3914 shortcodes/fusion-post-slider.php:610
 #: shortcodes/fusion-pricing-table.php:810 shortcodes/fusion-progress.php:1053
-#: shortcodes/fusion-recent-posts.php:1523
+#: shortcodes/fusion-recent-posts.php:1523 shortcodes/fusion-row-inner.php:314
 #: shortcodes/fusion-scroll-progress.php:432 shortcodes/fusion-search.php:854
 #: shortcodes/fusion-section-separator.php:1905
 #: shortcodes/fusion-separator.php:903 shortcodes/fusion-slider.php:583
@@ -3011,7 +3013,7 @@ msgstr ""
 #: shortcodes/fusion-post-card-image.php:1086
 #: shortcodes/fusion-post-cards.php:3918 shortcodes/fusion-post-slider.php:614
 #: shortcodes/fusion-pricing-table.php:814 shortcodes/fusion-progress.php:1057
-#: shortcodes/fusion-recent-posts.php:1527
+#: shortcodes/fusion-recent-posts.php:1527 shortcodes/fusion-row-inner.php:318
 #: shortcodes/fusion-scroll-progress.php:436 shortcodes/fusion-search.php:858
 #: shortcodes/fusion-section-separator.php:1909
 #: shortcodes/fusion-separator.php:907 shortcodes/fusion-slider.php:587
@@ -3108,7 +3110,7 @@ msgstr ""
 #: shortcodes/fusion-post-card-image.php:1090
 #: shortcodes/fusion-post-cards.php:3922 shortcodes/fusion-post-slider.php:618
 #: shortcodes/fusion-pricing-table.php:818 shortcodes/fusion-progress.php:1061
-#: shortcodes/fusion-recent-posts.php:1531 shortcodes/fusion-row-inner.php:313
+#: shortcodes/fusion-recent-posts.php:1531 shortcodes/fusion-row-inner.php:322
 #: shortcodes/fusion-scroll-progress.php:441 shortcodes/fusion-search.php:863
 #: shortcodes/fusion-section-separator.php:1913
 #: shortcodes/fusion-separator.php:912 shortcodes/fusion-slider.php:591
@@ -3194,7 +3196,7 @@ msgstr ""
 #: shortcodes/fusion-post-card-image.php:1091
 #: shortcodes/fusion-post-cards.php:3923 shortcodes/fusion-post-slider.php:619
 #: shortcodes/fusion-pricing-table.php:819 shortcodes/fusion-progress.php:1062
-#: shortcodes/fusion-recent-posts.php:1532 shortcodes/fusion-row-inner.php:316
+#: shortcodes/fusion-recent-posts.php:1532 shortcodes/fusion-row-inner.php:325
 #: shortcodes/fusion-scroll-progress.php:444 shortcodes/fusion-search.php:866
 #: shortcodes/fusion-section-separator.php:1914
 #: shortcodes/fusion-separator.php:915 shortcodes/fusion-slider.php:592
@@ -3290,7 +3292,7 @@ msgstr ""
 #: shortcodes/fusion-post-card-image.php:1098
 #: shortcodes/fusion-post-cards.php:3929 shortcodes/fusion-post-slider.php:625
 #: shortcodes/fusion-pricing-table.php:826 shortcodes/fusion-progress.php:1069
-#: shortcodes/fusion-recent-posts.php:1539 shortcodes/fusion-row-inner.php:320
+#: shortcodes/fusion-recent-posts.php:1539 shortcodes/fusion-row-inner.php:329
 #: shortcodes/fusion-scroll-progress.php:448 shortcodes/fusion-search.php:870
 #: shortcodes/fusion-section-separator.php:1920
 #: shortcodes/fusion-separator.php:919 shortcodes/fusion-slider.php:598
@@ -3376,7 +3378,7 @@ msgstr ""
 #: shortcodes/fusion-post-card-image.php:1099
 #: shortcodes/fusion-post-cards.php:3930 shortcodes/fusion-post-slider.php:626
 #: shortcodes/fusion-pricing-table.php:827 shortcodes/fusion-progress.php:1070
-#: shortcodes/fusion-recent-posts.php:1540 shortcodes/fusion-row-inner.php:323
+#: shortcodes/fusion-recent-posts.php:1540 shortcodes/fusion-row-inner.php:332
 #: shortcodes/fusion-scroll-progress.php:451 shortcodes/fusion-search.php:873
 #: shortcodes/fusion-section-separator.php:1921
 #: shortcodes/fusion-separator.php:922 shortcodes/fusion-slider.php:599
@@ -4547,7 +4549,7 @@ msgstr ""
 #: inc/class-fusion-builder-library-table.php:110
 #: inc/class-fusion-dynamic-data.php:1683
 #: inc/class-fusion-dynamic-data.php:2073
-#: inc/class-fusion-dynamic-data.php:3443
+#: inc/class-fusion-dynamic-data.php:3454
 #: inc/class-fusion-template-builder-table.php:109
 #: shortcodes/fusion-blog.php:2484 shortcodes/fusion-news-ticker.php:1321
 #: shortcodes/fusion-post-cards.php:3623 shortcodes/fusion-post-cards.php:3696
@@ -5156,9 +5158,9 @@ msgstr ""
 #: shortcodes/fusion-post-card-cart.php:3714
 #: shortcodes/fusion-post-card-image.php:1017
 #: shortcodes/fusion-post-cards.php:5145 shortcodes/fusion-progress.php:1081
-#: shortcodes/fusion-progress.php:1109 shortcodes/fusion-row-inner.php:146
-#: shortcodes/fusion-row-inner.php:183 shortcodes/fusion-row-inner.php:217
-#: shortcodes/fusion-row-inner.php:235 shortcodes/fusion-row-inner.php:276
+#: shortcodes/fusion-progress.php:1109 shortcodes/fusion-row-inner.php:147
+#: shortcodes/fusion-row-inner.php:184 shortcodes/fusion-row-inner.php:218
+#: shortcodes/fusion-row-inner.php:236 shortcodes/fusion-row-inner.php:277
 #: shortcodes/fusion-scroll-progress.php:349 shortcodes/fusion-search.php:473
 #: shortcodes/fusion-search.php:521 shortcodes/fusion-search.php:540
 #: shortcodes/fusion-search.php:559 shortcodes/fusion-search.php:571
@@ -5232,8 +5234,8 @@ msgstr ""
 #: shortcodes/fusion-post-card-cart.php:1584
 #: shortcodes/fusion-post-card-cart.php:1623
 #: shortcodes/fusion-post-cards.php:4262 shortcodes/fusion-post-cards.php:4480
-#: shortcodes/fusion-row-inner.php:148 shortcodes/fusion-row-inner.php:184
-#: shortcodes/fusion-row-inner.php:218
+#: shortcodes/fusion-row-inner.php:149 shortcodes/fusion-row-inner.php:185
+#: shortcodes/fusion-row-inner.php:219
 #: shortcodes/fusion-social-sharing.php:1366
 #: shortcodes/fusion-social-sharing.php:1420 shortcodes/fusion-submenu.php:678
 #: shortcodes/fusion-submenu.php:719 shortcodes/fusion-submenu.php:769
@@ -5301,8 +5303,8 @@ msgstr ""
 #: shortcodes/fusion-post-cards.php:4263 shortcodes/fusion-post-cards.php:4481
 #: shortcodes/fusion-post-cards.php:4694 shortcodes/fusion-post-cards.php:5559
 #: shortcodes/fusion-progress.php:1097 shortcodes/fusion-progress.php:1125
-#: shortcodes/fusion-recent-posts.php:1436 shortcodes/fusion-row-inner.php:149
-#: shortcodes/fusion-row-inner.php:185 shortcodes/fusion-row-inner.php:219
+#: shortcodes/fusion-recent-posts.php:1436 shortcodes/fusion-row-inner.php:150
+#: shortcodes/fusion-row-inner.php:186 shortcodes/fusion-row-inner.php:220
 #: shortcodes/fusion-section-separator.php:1746
 #: shortcodes/fusion-separator.php:745 shortcodes/fusion-slider.php:513
 #: shortcodes/fusion-social-links.php:1167
@@ -5354,8 +5356,8 @@ msgstr ""
 #: shortcodes/fusion-post-card-cart.php:1586
 #: shortcodes/fusion-post-card-cart.php:1625
 #: shortcodes/fusion-post-cards.php:4264 shortcodes/fusion-post-cards.php:4482
-#: shortcodes/fusion-row-inner.php:150 shortcodes/fusion-row-inner.php:186
-#: shortcodes/fusion-row-inner.php:220
+#: shortcodes/fusion-row-inner.php:151 shortcodes/fusion-row-inner.php:187
+#: shortcodes/fusion-row-inner.php:221
 #: shortcodes/fusion-social-sharing.php:1368
 #: shortcodes/fusion-social-sharing.php:1422 shortcodes/fusion-submenu.php:680
 #: shortcodes/fusion-submenu.php:721 shortcodes/fusion-submenu.php:771
@@ -5378,8 +5380,8 @@ msgstr ""
 #: shortcodes/fusion-container.php:2735 shortcodes/fusion-container.php:2784
 #: shortcodes/fusion-content-boxes.php:2148
 #: shortcodes/fusion-image-carousel.php:1267 shortcodes/fusion-menu.php:1173
-#: shortcodes/fusion-post-cards.php:4483 shortcodes/fusion-row-inner.php:147
-#: shortcodes/fusion-row-inner.php:187 shortcodes/fusion-submenu.php:681
+#: shortcodes/fusion-post-cards.php:4483 shortcodes/fusion-row-inner.php:148
+#: shortcodes/fusion-row-inner.php:188 shortcodes/fusion-submenu.php:681
 msgid "Stretch"
 msgstr ""
 
@@ -5429,8 +5431,8 @@ msgstr ""
 #: shortcodes/fusion-menu.php:1826 shortcodes/fusion-menu.php:1928
 #: shortcodes/fusion-menu.php:2283 shortcodes/fusion-post-card-cart.php:1416
 #: shortcodes/fusion-post-card-cart.php:1626
-#: shortcodes/fusion-post-cards.php:4265 shortcodes/fusion-row-inner.php:151
-#: shortcodes/fusion-row-inner.php:221
+#: shortcodes/fusion-post-cards.php:4265 shortcodes/fusion-row-inner.php:152
+#: shortcodes/fusion-row-inner.php:222
 #: shortcodes/fusion-social-sharing.php:1423 shortcodes/fusion-submenu.php:722
 #: shortcodes/fusion-submenu.php:772 shortcodes/fusion-submenu.php:1327
 #: shortcodes/fusion-views-counter.php:608
@@ -5448,8 +5450,8 @@ msgstr ""
 #: shortcodes/fusion-container.php:2830 shortcodes/fusion-menu.php:1215
 #: shortcodes/fusion-menu.php:1929 shortcodes/fusion-post-card-cart.php:1417
 #: shortcodes/fusion-post-card-cart.php:1627
-#: shortcodes/fusion-post-cards.php:4266 shortcodes/fusion-row-inner.php:152
-#: shortcodes/fusion-row-inner.php:222
+#: shortcodes/fusion-post-cards.php:4266 shortcodes/fusion-row-inner.php:153
+#: shortcodes/fusion-row-inner.php:223
 #: shortcodes/fusion-social-sharing.php:1424 shortcodes/fusion-submenu.php:723
 #: shortcodes/fusion-views-counter.php:609
 #: shortcodes/fusion-woo-cart-totals.php:432
@@ -5466,8 +5468,8 @@ msgstr ""
 #: shortcodes/fusion-container.php:2831 shortcodes/fusion-menu.php:1216
 #: shortcodes/fusion-menu.php:1930 shortcodes/fusion-post-card-cart.php:1418
 #: shortcodes/fusion-post-card-cart.php:1628
-#: shortcodes/fusion-post-cards.php:4267 shortcodes/fusion-row-inner.php:153
-#: shortcodes/fusion-row-inner.php:223
+#: shortcodes/fusion-post-cards.php:4267 shortcodes/fusion-row-inner.php:154
+#: shortcodes/fusion-row-inner.php:224
 #: shortcodes/fusion-social-sharing.php:1425 shortcodes/fusion-submenu.php:724
 #: shortcodes/fusion-views-counter.php:610
 #: shortcodes/fusion-woo-cart-totals.php:433
@@ -5492,7 +5494,7 @@ msgid "Enter values including any valid CSS unit, ex: 20px."
 msgstr ""
 
 #: inc/class-fusion-column-element.php:2616
-#: shortcodes/fusion-container.php:2850 shortcodes/fusion-row-inner.php:229
+#: shortcodes/fusion-container.php:2850 shortcodes/fusion-row-inner.php:230
 msgid "Content Wrap"
 msgstr ""
 
@@ -5503,12 +5505,12 @@ msgid ""
 msgstr ""
 
 #: inc/class-fusion-column-element.php:2622
-#: shortcodes/fusion-container.php:2856 shortcodes/fusion-row-inner.php:236
+#: shortcodes/fusion-container.php:2856 shortcodes/fusion-row-inner.php:237
 msgid "Wrap"
 msgstr ""
 
 #: inc/class-fusion-column-element.php:2623
-#: shortcodes/fusion-container.php:2857 shortcodes/fusion-row-inner.php:237
+#: shortcodes/fusion-container.php:2857 shortcodes/fusion-row-inner.php:238
 msgid "No Wrap"
 msgstr ""
 
@@ -5643,7 +5645,7 @@ msgid ""
 "automatic sizing."
 msgstr ""
 
-#: inc/class-fusion-column-element.php:2839 shortcodes/fusion-row-inner.php:250
+#: inc/class-fusion-column-element.php:2839 shortcodes/fusion-row-inner.php:251
 #: shortcodes/fusion-separator.php:687
 msgid "Flex Grow"
 msgstr ""
@@ -5654,7 +5656,7 @@ msgid ""
 "be assigned to the column."
 msgstr ""
 
-#: inc/class-fusion-column-element.php:2858 shortcodes/fusion-row-inner.php:261
+#: inc/class-fusion-column-element.php:2858 shortcodes/fusion-row-inner.php:262
 msgid "Flex Shrink"
 msgstr ""
 
@@ -6048,7 +6050,7 @@ msgid ""
 msgstr ""
 
 #: inc/class-fusion-column-element.php:3112
-#: shortcodes/fusion-container.php:3245 shortcodes/fusion-row-inner.php:272
+#: shortcodes/fusion-container.php:3245 shortcodes/fusion-row-inner.php:273
 msgid "Overflow"
 msgstr ""
 
@@ -6058,19 +6060,19 @@ msgstr ""
 
 #: inc/class-fusion-column-element.php:3117
 #: shortcodes/fusion-container.php:3250 shortcodes/fusion-container.php:4172
-#: shortcodes/fusion-row-inner.php:277
+#: shortcodes/fusion-row-inner.php:278
 msgid "Visible"
 msgstr ""
 
 #: inc/class-fusion-column-element.php:3118
 #: shortcodes/fusion-container.php:3251 shortcodes/fusion-container.php:4174
-#: shortcodes/fusion-row-inner.php:278 shortcodes/fusion-search.php:750
+#: shortcodes/fusion-row-inner.php:279 shortcodes/fusion-search.php:750
 msgid "Hidden"
 msgstr ""
 
 #: inc/class-fusion-column-element.php:3119
 #: shortcodes/fusion-container.php:3252 shortcodes/fusion-image.php:2114
-#: shortcodes/fusion-lottie.php:464 shortcodes/fusion-row-inner.php:279
+#: shortcodes/fusion-lottie.php:464 shortcodes/fusion-row-inner.php:280
 #: shortcodes/fusion-syntax-highlighter.php:446
 #: shortcodes/fusion-syntax-highlighter.php:674
 msgid "Scroll"
@@ -6084,7 +6086,7 @@ msgstr ""
 #: shortcodes/fusion-events.php:944 shortcodes/fusion-gallery.php:1285
 #: shortcodes/fusion-gallery.php:1585 shortcodes/fusion-image-carousel.php:1070
 #: shortcodes/fusion-image-hotspots.php:849 shortcodes/fusion-image.php:1616
-#: shortcodes/fusion-recent-posts.php:1123 shortcodes/fusion-row-inner.php:280
+#: shortcodes/fusion-recent-posts.php:1123 shortcodes/fusion-row-inner.php:281
 #: shortcodes/fusion-star-rating.php:569 shortcodes/fusion-video.php:369
 #: shortcodes/fusion-video.php:461
 #: shortcodes/fusion-woo-featured-products-slider.php:577
@@ -6094,108 +6096,108 @@ msgid "Auto"
 msgstr ""
 
 #: inc/class-fusion-column-element.php:3121
-#: shortcodes/fusion-container.php:3254 shortcodes/fusion-row-inner.php:281
+#: shortcodes/fusion-container.php:3254 shortcodes/fusion-row-inner.php:282
 #: shortcodes/fusion-title.php:1498 shortcodes/fusion-title.php:2078
 msgid "Clip"
 msgstr ""
 
 #: inc/class-fusion-column-element.php:3123
-#: shortcodes/fusion-container.php:3256 shortcodes/fusion-row-inner.php:283
+#: shortcodes/fusion-container.php:3256 shortcodes/fusion-row-inner.php:284
 msgid "Visible Hidden"
 msgstr ""
 
 #: inc/class-fusion-column-element.php:3124
-#: shortcodes/fusion-container.php:3257 shortcodes/fusion-row-inner.php:284
+#: shortcodes/fusion-container.php:3257 shortcodes/fusion-row-inner.php:285
 msgid "Visible Scroll"
 msgstr ""
 
 #: inc/class-fusion-column-element.php:3125
-#: shortcodes/fusion-container.php:3258 shortcodes/fusion-row-inner.php:285
+#: shortcodes/fusion-container.php:3258 shortcodes/fusion-row-inner.php:286
 msgid "Visible Auto"
 msgstr ""
 
 #: inc/class-fusion-column-element.php:3126
-#: shortcodes/fusion-container.php:3259 shortcodes/fusion-row-inner.php:286
+#: shortcodes/fusion-container.php:3259 shortcodes/fusion-row-inner.php:287
 msgid "Visible Clip"
 msgstr ""
 
 #: inc/class-fusion-column-element.php:3128
-#: shortcodes/fusion-container.php:3261 shortcodes/fusion-row-inner.php:288
+#: shortcodes/fusion-container.php:3261 shortcodes/fusion-row-inner.php:289
 msgid "Hidden Visible"
 msgstr ""
 
 #: inc/class-fusion-column-element.php:3129
-#: shortcodes/fusion-container.php:3262 shortcodes/fusion-row-inner.php:289
+#: shortcodes/fusion-container.php:3262 shortcodes/fusion-row-inner.php:290
 msgid "Hidden Scroll"
 msgstr ""
 
 #: inc/class-fusion-column-element.php:3130
-#: shortcodes/fusion-container.php:3263 shortcodes/fusion-row-inner.php:290
+#: shortcodes/fusion-container.php:3263 shortcodes/fusion-row-inner.php:291
 msgid "Hidden Auto"
 msgstr ""
 
 #: inc/class-fusion-column-element.php:3131
-#: shortcodes/fusion-container.php:3264 shortcodes/fusion-row-inner.php:291
+#: shortcodes/fusion-container.php:3264 shortcodes/fusion-row-inner.php:292
 msgid "Hidden Clip"
 msgstr ""
 
 #: inc/class-fusion-column-element.php:3133
-#: shortcodes/fusion-container.php:3266 shortcodes/fusion-row-inner.php:293
+#: shortcodes/fusion-container.php:3266 shortcodes/fusion-row-inner.php:294
 msgid "Scroll Visible"
 msgstr ""
 
 #: inc/class-fusion-column-element.php:3134
-#: shortcodes/fusion-container.php:3267 shortcodes/fusion-row-inner.php:294
+#: shortcodes/fusion-container.php:3267 shortcodes/fusion-row-inner.php:295
 msgid "Scroll Hidden"
 msgstr ""
 
 #: inc/class-fusion-column-element.php:3135
-#: shortcodes/fusion-container.php:3268 shortcodes/fusion-row-inner.php:295
+#: shortcodes/fusion-container.php:3268 shortcodes/fusion-row-inner.php:296
 msgid "Scroll Auto"
 msgstr ""
 
 #: inc/class-fusion-column-element.php:3136
-#: shortcodes/fusion-container.php:3269 shortcodes/fusion-row-inner.php:296
+#: shortcodes/fusion-container.php:3269 shortcodes/fusion-row-inner.php:297
 msgid "Scroll Clip"
 msgstr ""
 
 #: inc/class-fusion-column-element.php:3138
-#: shortcodes/fusion-container.php:3271 shortcodes/fusion-row-inner.php:298
+#: shortcodes/fusion-container.php:3271 shortcodes/fusion-row-inner.php:299
 msgid "Auto Visible"
 msgstr ""
 
 #: inc/class-fusion-column-element.php:3139
-#: shortcodes/fusion-container.php:3272 shortcodes/fusion-row-inner.php:299
+#: shortcodes/fusion-container.php:3272 shortcodes/fusion-row-inner.php:300
 msgid "Auto Hidden"
 msgstr ""
 
 #: inc/class-fusion-column-element.php:3140
-#: shortcodes/fusion-container.php:3273 shortcodes/fusion-row-inner.php:300
+#: shortcodes/fusion-container.php:3273 shortcodes/fusion-row-inner.php:301
 msgid "Auto Scroll"
 msgstr ""
 
 #: inc/class-fusion-column-element.php:3141
-#: shortcodes/fusion-container.php:3274 shortcodes/fusion-row-inner.php:301
+#: shortcodes/fusion-container.php:3274 shortcodes/fusion-row-inner.php:302
 msgid "Auto Clip"
 msgstr ""
 
 #: inc/class-fusion-column-element.php:3143
-#: shortcodes/fusion-container.php:3276 shortcodes/fusion-row-inner.php:303
+#: shortcodes/fusion-container.php:3276 shortcodes/fusion-row-inner.php:304
 msgid "Clip Visible"
 msgstr ""
 
 #: inc/class-fusion-column-element.php:3144
-#: shortcodes/fusion-container.php:3277 shortcodes/fusion-row-inner.php:304
+#: shortcodes/fusion-container.php:3277 shortcodes/fusion-row-inner.php:305
 msgid "Clip Hidden"
 msgstr ""
 
 #: inc/class-fusion-column-element.php:3145
-#: shortcodes/fusion-container.php:3278 shortcodes/fusion-row-inner.php:305
+#: shortcodes/fusion-container.php:3278 shortcodes/fusion-row-inner.php:306
 msgid "Clip Scroll"
 msgstr ""
 
 #: inc/class-fusion-column-element.php:3146
-#: shortcodes/fusion-container.php:3279 shortcodes/fusion-row-inner.php:306
+#: shortcodes/fusion-container.php:3279 shortcodes/fusion-row-inner.php:307
 msgid "Clip Auto"
 msgstr ""
 
@@ -6391,7 +6393,7 @@ msgid "Controls the background color."
 msgstr ""
 
 #: inc/class-fusion-column-element.php:3203
-#: inc/class-fusion-dynamic-data.php:3882
+#: inc/class-fusion-dynamic-data.php:3893
 #: shortcodes/fusion-circles-info.php:1425
 #: shortcodes/fusion-circles-info.php:1885 shortcodes/fusion-container.php:3334
 #: shortcodes/fusion-countdown.php:1286
@@ -7301,71 +7303,84 @@ msgstr ""
 msgid "%1$s: %2$s"
 msgstr ""
 
-#: inc/class-fusion-dynamic-data-callbacks.php:2888
+#. translators: %1$s: Post Object Label. %2$s: Post Title.
+#: inc/class-fusion-dynamic-data-callbacks.php:1175
+#: inc/class-fusion-dynamic-data.php:1101
+#: inc/class-fusion-dynamic-data.php:1144
+#: inc/class-fusion-dynamic-data.php:2969
+#: inc/lib/inc/class-fusion-settings.php:426 shortcodes/awb-text-path.php:754
+#: shortcodes/fusion-fontawesome.php:738
+#: shortcodes/fusion-image-hotspots.php:808
+#: shortcodes/fusion-image-hotspots.php:866 shortcodes/fusion-lightbox.php:249
+#: shortcodes/fusion-testimonials.php:1382
+msgid "Link"
+msgstr ""
+
+#: inc/class-fusion-dynamic-data-callbacks.php:2909
 msgid "Free shipping can be enabled through a coupon."
 msgstr ""
 
-#: inc/class-fusion-dynamic-data-callbacks.php:2903
+#: inc/class-fusion-dynamic-data-callbacks.php:2924
 msgid "No shipping zones available."
 msgstr ""
 
-#: inc/class-fusion-dynamic-data-callbacks.php:3233
+#: inc/class-fusion-dynamic-data-callbacks.php:3254
 #: shortcodes/components/templates/fusion-tb-comments.php:34
 msgid "No Comments"
 msgstr ""
 
-#: inc/class-fusion-dynamic-data-callbacks.php:3235
+#: inc/class-fusion-dynamic-data-callbacks.php:3256
 #: shortcodes/components/templates/fusion-tb-comments.php:34
 msgid "One Comment"
 msgstr ""
 
 #. Translators: Number of comments
-#: inc/class-fusion-dynamic-data-callbacks.php:3238
+#: inc/class-fusion-dynamic-data-callbacks.php:3259
 msgid "%s Comment"
 msgid_plural "%s Comments"
 msgstr[0] ""
 msgstr[1] ""
 
 #. translators: 1: The search count, 2: The search string.
-#: inc/class-fusion-dynamic-data-callbacks.php:3330
+#: inc/class-fusion-dynamic-data-callbacks.php:3351
 msgid "%1$d %2$s"
 msgstr ""
 
-#: inc/class-fusion-dynamic-data-callbacks.php:3578
-#: inc/class-fusion-dynamic-data-callbacks.php:3654
-#: inc/class-fusion-dynamic-data.php:3714
-#: inc/class-fusion-dynamic-data.php:3803
+#: inc/class-fusion-dynamic-data-callbacks.php:3599
+#: inc/class-fusion-dynamic-data-callbacks.php:3675
+#: inc/class-fusion-dynamic-data.php:3725
+#: inc/class-fusion-dynamic-data.php:3814
 #: inc/helpers/class-fusion-builder-form-helper.php:437
 msgid "Address Line 1"
 msgstr ""
 
-#: inc/class-fusion-dynamic-data-callbacks.php:3579
-#: inc/class-fusion-dynamic-data-callbacks.php:3655
-#: inc/class-fusion-dynamic-data.php:3715
-#: inc/class-fusion-dynamic-data.php:3804
+#: inc/class-fusion-dynamic-data-callbacks.php:3600
+#: inc/class-fusion-dynamic-data-callbacks.php:3676
+#: inc/class-fusion-dynamic-data.php:3726
+#: inc/class-fusion-dynamic-data.php:3815
 #: inc/helpers/class-fusion-builder-form-helper.php:438
 msgid "Address Line 2"
 msgstr ""
 
-#: inc/class-fusion-dynamic-data-callbacks.php:3580
-#: inc/class-fusion-dynamic-data-callbacks.php:3656
-#: inc/class-fusion-dynamic-data.php:3716
-#: inc/class-fusion-dynamic-data.php:3805
+#: inc/class-fusion-dynamic-data-callbacks.php:3601
+#: inc/class-fusion-dynamic-data-callbacks.php:3677
+#: inc/class-fusion-dynamic-data.php:3727
+#: inc/class-fusion-dynamic-data.php:3816
 #: shortcodes/fusion-woo-cart-shipping.php:192
 msgid "City"
 msgstr ""
 
-#: inc/class-fusion-dynamic-data-callbacks.php:3581
-#: inc/class-fusion-dynamic-data-callbacks.php:3657
-#: inc/class-fusion-dynamic-data.php:3717
-#: inc/class-fusion-dynamic-data.php:3806
+#: inc/class-fusion-dynamic-data-callbacks.php:3602
+#: inc/class-fusion-dynamic-data-callbacks.php:3678
+#: inc/class-fusion-dynamic-data.php:3728
+#: inc/class-fusion-dynamic-data.php:3817
 msgid "State"
 msgstr ""
 
-#: inc/class-fusion-dynamic-data-callbacks.php:3583
-#: inc/class-fusion-dynamic-data-callbacks.php:3659
-#: inc/class-fusion-dynamic-data.php:3719
-#: inc/class-fusion-dynamic-data.php:3808
+#: inc/class-fusion-dynamic-data-callbacks.php:3604
+#: inc/class-fusion-dynamic-data-callbacks.php:3680
+#: inc/class-fusion-dynamic-data.php:3730
+#: inc/class-fusion-dynamic-data.php:3819
 #: inc/helpers/class-fusion-builder-form-helper.php:444
 msgid "Country"
 msgstr ""
@@ -7422,12 +7437,12 @@ msgid "Your Title Goes Here"
 msgstr ""
 
 #: inc/class-fusion-dynamic-data.php:1059
-#: inc/class-fusion-dynamic-data.php:3859
+#: inc/class-fusion-dynamic-data.php:3870
 msgid "Include Context"
 msgstr ""
 
 #: inc/class-fusion-dynamic-data.php:1060
-#: inc/class-fusion-dynamic-data.php:3860
+#: inc/class-fusion-dynamic-data.php:3871
 msgid "Whether to include title context, ie. Category: Avada."
 msgstr ""
 
@@ -7443,17 +7458,6 @@ msgstr ""
 #. translators: Single post type terms.
 #: inc/class-fusion-dynamic-data.php:1090
 msgid "Number Of Comments"
-msgstr ""
-
-#: inc/class-fusion-dynamic-data.php:1101
-#: inc/class-fusion-dynamic-data.php:1144
-#: inc/class-fusion-dynamic-data.php:2969
-#: inc/lib/inc/class-fusion-settings.php:426 shortcodes/awb-text-path.php:754
-#: shortcodes/fusion-fontawesome.php:738
-#: shortcodes/fusion-image-hotspots.php:808
-#: shortcodes/fusion-image-hotspots.php:866 shortcodes/fusion-lightbox.php:249
-#: shortcodes/fusion-testimonials.php:1382
-msgid "Link"
 msgstr ""
 
 #: inc/class-fusion-dynamic-data.php:1102
@@ -7520,8 +7524,8 @@ msgstr ""
 #: inc/class-fusion-dynamic-data.php:1215
 #: inc/class-fusion-dynamic-data.php:1693
 #: inc/class-fusion-dynamic-data.php:2040
-#: inc/class-fusion-dynamic-data.php:3223
-#: inc/class-fusion-dynamic-data.php:3251
+#: inc/class-fusion-dynamic-data.php:3234
+#: inc/class-fusion-dynamic-data.php:3262
 msgid "Format"
 msgstr ""
 
@@ -7748,29 +7752,29 @@ msgstr ""
 
 #: inc/class-fusion-dynamic-data.php:1475
 #: inc/class-fusion-dynamic-data.php:1502
-#: inc/class-fusion-dynamic-data.php:3471
-#: inc/class-fusion-dynamic-data.php:3608
+#: inc/class-fusion-dynamic-data.php:3482
+#: inc/class-fusion-dynamic-data.php:3619
 msgid "Singular"
 msgstr ""
 
 #: inc/class-fusion-dynamic-data.php:1476
 #: inc/class-fusion-dynamic-data.php:1503
-#: inc/class-fusion-dynamic-data.php:3472
-#: inc/class-fusion-dynamic-data.php:3609
+#: inc/class-fusion-dynamic-data.php:3483
+#: inc/class-fusion-dynamic-data.php:3620
 msgid "Default singular text."
 msgstr ""
 
 #: inc/class-fusion-dynamic-data.php:1482
 #: inc/class-fusion-dynamic-data.php:1509
-#: inc/class-fusion-dynamic-data.php:3478
-#: inc/class-fusion-dynamic-data.php:3615
+#: inc/class-fusion-dynamic-data.php:3489
+#: inc/class-fusion-dynamic-data.php:3626
 msgid "Plural"
 msgstr ""
 
 #: inc/class-fusion-dynamic-data.php:1483
 #: inc/class-fusion-dynamic-data.php:1510
-#: inc/class-fusion-dynamic-data.php:3479
-#: inc/class-fusion-dynamic-data.php:3616
+#: inc/class-fusion-dynamic-data.php:3490
+#: inc/class-fusion-dynamic-data.php:3627
 msgid "Default plural text."
 msgstr ""
 
@@ -8443,7 +8447,7 @@ msgstr ""
 #: inc/class-fusion-dynamic-data.php:3012
 #: inc/class-fusion-dynamic-data.php:3037
 #: inc/class-fusion-dynamic-data.php:3062
-#: inc/class-fusion-dynamic-data.php:3087
+#: inc/class-fusion-dynamic-data.php:3098
 msgid "Advanced Custom Fields"
 msgstr ""
 
@@ -8456,7 +8460,7 @@ msgstr ""
 #: inc/class-fusion-dynamic-data.php:3021
 #: inc/class-fusion-dynamic-data.php:3046
 #: inc/class-fusion-dynamic-data.php:3071
-#: inc/class-fusion-dynamic-data.php:3096
+#: inc/class-fusion-dynamic-data.php:3107
 #: inc/helpers/class-fusion-builder-conditional-render-helper.php:981
 #: inc/lib/inc/fusion-app/helpers.php:424
 msgid "Field"
@@ -8469,7 +8473,7 @@ msgstr ""
 #: inc/class-fusion-dynamic-data.php:3022
 #: inc/class-fusion-dynamic-data.php:3047
 #: inc/class-fusion-dynamic-data.php:3072
-#: inc/class-fusion-dynamic-data.php:3097 shortcodes/fusion-post-cards.php:3358
+#: inc/class-fusion-dynamic-data.php:3108 shortcodes/fusion-post-cards.php:3358
 #: shortcodes/fusion-post-cards.php:3377
 msgid "Enter field name you want to use."
 msgstr ""
@@ -8575,7 +8579,7 @@ msgstr ""
 #: inc/class-fusion-dynamic-data.php:3022
 #: inc/class-fusion-dynamic-data.php:3047
 #: inc/class-fusion-dynamic-data.php:3072
-#: inc/class-fusion-dynamic-data.php:3097
+#: inc/class-fusion-dynamic-data.php:3108
 msgid "Which field you want to use."
 msgstr ""
 
@@ -8591,438 +8595,447 @@ msgstr ""
 msgid "ACF Link"
 msgstr ""
 
-#: inc/class-fusion-dynamic-data.php:3085
+#: inc/class-fusion-dynamic-data.php:3080
+msgid "Return HTML"
+msgstr ""
+
+#: inc/class-fusion-dynamic-data.php:3081
+msgid ""
+"Whether the link should be returned as HTML anchor. Only use for text fields."
+msgstr ""
+
+#: inc/class-fusion-dynamic-data.php:3096
 msgid "ACF Gallery"
 msgstr ""
 
-#: inc/class-fusion-dynamic-data.php:3166
+#: inc/class-fusion-dynamic-data.php:3177
 msgid "Update Cart"
 msgstr ""
 
-#: inc/class-fusion-dynamic-data.php:3168
-#: inc/class-fusion-dynamic-data.php:3182
-#: inc/class-fusion-dynamic-data.php:3214
-#: inc/class-fusion-dynamic-data.php:3242
-#: inc/class-fusion-dynamic-data.php:3268
-#: inc/class-fusion-dynamic-data.php:3280
-#: inc/class-fusion-dynamic-data.php:3292
-#: inc/class-fusion-dynamic-data.php:3304
-#: inc/class-fusion-dynamic-data.php:3316
-#: inc/class-fusion-dynamic-data.php:3328
-#: inc/class-fusion-dynamic-data.php:3340
-#: inc/class-fusion-dynamic-data.php:3352
-#: inc/class-fusion-dynamic-data.php:3364
-#: inc/class-fusion-dynamic-data.php:3377
+#: inc/class-fusion-dynamic-data.php:3179
+#: inc/class-fusion-dynamic-data.php:3193
+#: inc/class-fusion-dynamic-data.php:3225
+#: inc/class-fusion-dynamic-data.php:3253
+#: inc/class-fusion-dynamic-data.php:3279
+#: inc/class-fusion-dynamic-data.php:3291
+#: inc/class-fusion-dynamic-data.php:3303
+#: inc/class-fusion-dynamic-data.php:3315
+#: inc/class-fusion-dynamic-data.php:3327
+#: inc/class-fusion-dynamic-data.php:3339
+#: inc/class-fusion-dynamic-data.php:3351
+#: inc/class-fusion-dynamic-data.php:3363
+#: inc/class-fusion-dynamic-data.php:3375
 #: inc/class-fusion-dynamic-data.php:3388
 #: inc/class-fusion-dynamic-data.php:3399
 #: inc/class-fusion-dynamic-data.php:3410
-#: inc/class-fusion-dynamic-data.php:3422
+#: inc/class-fusion-dynamic-data.php:3421
 #: inc/class-fusion-dynamic-data.php:3433
-#: inc/class-fusion-dynamic-data.php:3466
-#: inc/class-fusion-dynamic-data.php:3493
-#: inc/class-fusion-dynamic-data.php:3529
-#: inc/class-fusion-dynamic-data.php:3556
-#: inc/class-fusion-dynamic-data.php:3568
-#: inc/class-fusion-dynamic-data.php:3580
-#: inc/class-fusion-dynamic-data.php:3592
-#: inc/class-fusion-dynamic-data.php:3631
-#: inc/class-fusion-dynamic-data.php:3643
-#: inc/class-fusion-dynamic-data.php:3655
-#: inc/class-fusion-dynamic-data.php:3668
-#: inc/class-fusion-dynamic-data.php:3680
-#: inc/class-fusion-dynamic-data.php:3692
-#: inc/class-fusion-dynamic-data.php:3704
-#: inc/class-fusion-dynamic-data.php:3733
-#: inc/class-fusion-dynamic-data.php:3745
-#: inc/class-fusion-dynamic-data.php:3757
-#: inc/class-fusion-dynamic-data.php:3769
-#: inc/class-fusion-dynamic-data.php:3781
-#: inc/class-fusion-dynamic-data.php:3793
-#: inc/class-fusion-dynamic-data.php:3822
+#: inc/class-fusion-dynamic-data.php:3444
+#: inc/class-fusion-dynamic-data.php:3477
+#: inc/class-fusion-dynamic-data.php:3504
+#: inc/class-fusion-dynamic-data.php:3540
+#: inc/class-fusion-dynamic-data.php:3567
+#: inc/class-fusion-dynamic-data.php:3579
+#: inc/class-fusion-dynamic-data.php:3591
+#: inc/class-fusion-dynamic-data.php:3603
+#: inc/class-fusion-dynamic-data.php:3642
+#: inc/class-fusion-dynamic-data.php:3654
+#: inc/class-fusion-dynamic-data.php:3666
+#: inc/class-fusion-dynamic-data.php:3679
+#: inc/class-fusion-dynamic-data.php:3691
+#: inc/class-fusion-dynamic-data.php:3703
+#: inc/class-fusion-dynamic-data.php:3715
+#: inc/class-fusion-dynamic-data.php:3744
+#: inc/class-fusion-dynamic-data.php:3756
+#: inc/class-fusion-dynamic-data.php:3768
+#: inc/class-fusion-dynamic-data.php:3780
+#: inc/class-fusion-dynamic-data.php:3792
+#: inc/class-fusion-dynamic-data.php:3804
+#: inc/class-fusion-dynamic-data.php:3833
 #: shortcodes/components/woo-product-images.php:562
 msgid "WooCommerce"
 msgstr ""
 
 #. translators: Single post type date.
-#: inc/class-fusion-dynamic-data.php:3180
+#: inc/class-fusion-dynamic-data.php:3191
 msgid "Product Last Purchased"
 msgstr ""
 
-#: inc/class-fusion-dynamic-data.php:3192
+#: inc/class-fusion-dynamic-data.php:3203
 msgid "Limit To Current User"
 msgstr ""
 
-#: inc/class-fusion-dynamic-data.php:3193
+#: inc/class-fusion-dynamic-data.php:3204
 msgid ""
 "Decide if the purchase check should be limited to the currently visiting "
 "user."
 msgstr ""
 
-#: inc/class-fusion-dynamic-data.php:3202
+#: inc/class-fusion-dynamic-data.php:3213
 #: inc/helpers/class-fusion-builder-conditional-render-helper.php:275
 #: shortcodes/form/date.php:308 shortcodes/fusion-news-ticker.php:752
 msgid "Date Format"
 msgstr ""
 
-#: inc/class-fusion-dynamic-data.php:3203
+#: inc/class-fusion-dynamic-data.php:3214
 msgid ""
 "Date format to use. <a href=\"https://wordpress.org/support/article/"
 "formatting-date-and-time/\" target=\"_blank\" rel=\"noopener "
 "noreferrer\">Formatting Date and Time</a>"
 msgstr ""
 
-#: inc/class-fusion-dynamic-data.php:3212
+#: inc/class-fusion-dynamic-data.php:3223
 #: shortcodes/fusion-stripe-button.php:1293
 msgid "Product Price"
 msgstr ""
 
-#: inc/class-fusion-dynamic-data.php:3224
+#: inc/class-fusion-dynamic-data.php:3235
 msgid "Format of price to display."
 msgstr ""
 
-#: inc/class-fusion-dynamic-data.php:3229 shortcodes/fusion-post-cards.php:3421
+#: inc/class-fusion-dynamic-data.php:3240 shortcodes/fusion-post-cards.php:3421
 msgid "Both"
 msgstr ""
 
-#: inc/class-fusion-dynamic-data.php:3230
+#: inc/class-fusion-dynamic-data.php:3241
 msgid "Original Only (HTML)"
 msgstr ""
 
-#: inc/class-fusion-dynamic-data.php:3231
+#: inc/class-fusion-dynamic-data.php:3242
 msgid "Sale Only (HTML)"
 msgstr ""
 
-#: inc/class-fusion-dynamic-data.php:3232
+#: inc/class-fusion-dynamic-data.php:3243
 msgid "Original Only (Float)"
 msgstr ""
 
-#: inc/class-fusion-dynamic-data.php:3233
+#: inc/class-fusion-dynamic-data.php:3244
 msgid "Sale Only (Float)"
 msgstr ""
 
-#: inc/class-fusion-dynamic-data.php:3240
+#: inc/class-fusion-dynamic-data.php:3251
 msgid "Product Rating"
 msgstr ""
 
-#: inc/class-fusion-dynamic-data.php:3252
+#: inc/class-fusion-dynamic-data.php:3263
 msgid "Format of rating to display."
 msgstr ""
 
-#: inc/class-fusion-dynamic-data.php:3257 shortcodes/fusion-post-cards.php:3635
+#: inc/class-fusion-dynamic-data.php:3268 shortcodes/fusion-post-cards.php:3635
 #: shortcodes/fusion-woo-featured-products-slider.php:628
 #: shortcodes/fusion-woo-product-grid.php:1123
 #: shortcodes/fusion-woo-product-slider.php:636
 msgid "Average Rating"
 msgstr ""
 
-#: inc/class-fusion-dynamic-data.php:3258
+#: inc/class-fusion-dynamic-data.php:3269
 msgid "Rating Count"
 msgstr ""
 
-#: inc/class-fusion-dynamic-data.php:3259
+#: inc/class-fusion-dynamic-data.php:3270
 msgid "Review Count"
 msgstr ""
 
-#: inc/class-fusion-dynamic-data.php:3266 shortcodes/components/meta.php:837
+#: inc/class-fusion-dynamic-data.php:3277 shortcodes/components/meta.php:837
 msgid "Product SKU"
 msgstr ""
 
-#: inc/class-fusion-dynamic-data.php:3278
+#: inc/class-fusion-dynamic-data.php:3289
 msgid "Product Stock"
 msgstr ""
 
-#: inc/class-fusion-dynamic-data.php:3290
+#: inc/class-fusion-dynamic-data.php:3301
 msgid "Product Total Sales"
 msgstr ""
 
-#: inc/class-fusion-dynamic-data.php:3302
+#: inc/class-fusion-dynamic-data.php:3313
 msgid "Woo Gallery"
 msgstr ""
 
-#: inc/class-fusion-dynamic-data.php:3314
+#: inc/class-fusion-dynamic-data.php:3325
 msgid "Add To Cart"
 msgstr ""
 
-#: inc/class-fusion-dynamic-data.php:3326
+#: inc/class-fusion-dynamic-data.php:3337
 msgid "Buy Now"
 msgstr ""
 
-#: inc/class-fusion-dynamic-data.php:3338
+#: inc/class-fusion-dynamic-data.php:3349
 #: shortcodes/fusion-post-card-cart.php:799
 #: shortcodes/fusion-post-card-cart.php:845
 msgid "Quick View"
 msgstr ""
 
-#: inc/class-fusion-dynamic-data.php:3350
+#: inc/class-fusion-dynamic-data.php:3361
 msgid "Submit AJAX Filter"
 msgstr ""
 
-#: inc/class-fusion-dynamic-data.php:3362
+#: inc/class-fusion-dynamic-data.php:3373
 msgid "Category Thumbnail"
 msgstr ""
 
-#: inc/class-fusion-dynamic-data.php:3375
+#: inc/class-fusion-dynamic-data.php:3386
 msgid "Shop Page URL"
 msgstr ""
 
-#: inc/class-fusion-dynamic-data.php:3386
+#: inc/class-fusion-dynamic-data.php:3397
 msgid "Cart Page URL"
 msgstr ""
 
-#: inc/class-fusion-dynamic-data.php:3397
+#: inc/class-fusion-dynamic-data.php:3408
 msgid "Checkout Page URL"
 msgstr ""
 
-#: inc/class-fusion-dynamic-data.php:3408
+#: inc/class-fusion-dynamic-data.php:3419
 msgid "My Account Page URL"
 msgstr ""
 
-#: inc/class-fusion-dynamic-data.php:3420
+#: inc/class-fusion-dynamic-data.php:3431
 msgid "Terms & Conditions URL"
 msgstr ""
 
-#: inc/class-fusion-dynamic-data.php:3431
+#: inc/class-fusion-dynamic-data.php:3442
 msgid "Sale Date"
 msgstr ""
 
-#: inc/class-fusion-dynamic-data.php:3444
+#: inc/class-fusion-dynamic-data.php:3455
 msgid "Sale Date to display."
 msgstr ""
 
-#: inc/class-fusion-dynamic-data.php:3449
+#: inc/class-fusion-dynamic-data.php:3460
 msgid "Sale Start Date"
 msgstr ""
 
-#: inc/class-fusion-dynamic-data.php:3450
+#: inc/class-fusion-dynamic-data.php:3461
 msgid "Sale End Date"
 msgstr ""
 
-#: inc/class-fusion-dynamic-data.php:3454
+#: inc/class-fusion-dynamic-data.php:3465
 #: inc/helpers/class-fusion-builder-conditional-render-helper.php:740
 msgid "Product ID"
 msgstr ""
 
-#: inc/class-fusion-dynamic-data.php:3455
+#: inc/class-fusion-dynamic-data.php:3466
 msgid ""
 "Product Sale Date to display. Leave empty to use the current product ID."
 msgstr ""
 
-#: inc/class-fusion-dynamic-data.php:3464
+#: inc/class-fusion-dynamic-data.php:3475
 msgid "Cart Count"
 msgstr ""
 
-#: inc/class-fusion-dynamic-data.php:3491
+#: inc/class-fusion-dynamic-data.php:3502
 msgid "Cart Totals"
 msgstr ""
 
-#: inc/class-fusion-dynamic-data.php:3502
+#: inc/class-fusion-dynamic-data.php:3513
 msgid "Choose Totals"
 msgstr ""
 
-#: inc/class-fusion-dynamic-data.php:3503
+#: inc/class-fusion-dynamic-data.php:3514
 msgid ""
 "Choose if sub-totals (with or without discounts) or totals should be "
 "displayed."
 msgstr ""
 
-#: inc/class-fusion-dynamic-data.php:3507
+#: inc/class-fusion-dynamic-data.php:3518
 msgid "Sub Totals Before Discounts"
 msgstr ""
 
-#: inc/class-fusion-dynamic-data.php:3508
+#: inc/class-fusion-dynamic-data.php:3519
 msgid "Sub Totals After Discounts"
 msgstr ""
 
-#: inc/class-fusion-dynamic-data.php:3509
+#: inc/class-fusion-dynamic-data.php:3520
 msgid "Totals"
 msgstr ""
 
-#: inc/class-fusion-dynamic-data.php:3514
+#: inc/class-fusion-dynamic-data.php:3525
 msgid "Include Tax Info"
 msgstr ""
 
-#: inc/class-fusion-dynamic-data.php:3515
+#: inc/class-fusion-dynamic-data.php:3526
 msgid ""
 "Adds additional tax info when using \"Totals\" above, if activated in "
 "WooCommerce settings."
 msgstr ""
 
-#: inc/class-fusion-dynamic-data.php:3527
+#: inc/class-fusion-dynamic-data.php:3538
 #: inc/helpers/class-fusion-builder-conditional-render-helper.php:787
 msgid "Free Shipping Min. Amount"
 msgstr ""
 
-#: inc/class-fusion-dynamic-data.php:3534
+#: inc/class-fusion-dynamic-data.php:3545
 #: shortcodes/components/woo-filters-attribute.php:271
 #: shortcodes/components/woo-filters-categories.php:245
 msgid "Display Type"
 msgstr ""
 
-#: inc/class-fusion-dynamic-data.php:3535
+#: inc/class-fusion-dynamic-data.php:3546
 msgid ""
 "Set to \"Full\" to display the minimum order amount, set to \"Missing\" to "
 "display the amount missing until free shipping, and set to \"Percentage\" to "
 "display the percentage already reached."
 msgstr ""
 
-#: inc/class-fusion-dynamic-data.php:3539
+#: inc/class-fusion-dynamic-data.php:3550
 #: inc/helpers/class-fusion-builder-conditional-render-helper.php:793
 #: shortcodes/fusion-highlight.php:253
 msgid "Full"
 msgstr ""
 
-#: inc/class-fusion-dynamic-data.php:3540
+#: inc/class-fusion-dynamic-data.php:3551
 #: inc/helpers/class-fusion-builder-conditional-render-helper.php:794
 msgid "Missing"
 msgstr ""
 
-#: inc/class-fusion-dynamic-data.php:3541
+#: inc/class-fusion-dynamic-data.php:3552
 #: inc/helpers/class-fusion-builder-conditional-render-helper.php:795
 #: shortcodes/components/woo-price.php:600 shortcodes/fusion-progress.php:901
 msgid "Percentage"
 msgstr ""
 
-#: inc/class-fusion-dynamic-data.php:3554
+#: inc/class-fusion-dynamic-data.php:3565
 #: shortcodes/components/woo-order-details.php:412
 msgid "Order Number"
 msgstr ""
 
-#: inc/class-fusion-dynamic-data.php:3566
+#: inc/class-fusion-dynamic-data.php:3577
 #: shortcodes/components/woo-order-details.php:413
 msgid "Order Date"
 msgstr ""
 
-#: inc/class-fusion-dynamic-data.php:3578
+#: inc/class-fusion-dynamic-data.php:3589
 msgid "Order Status"
 msgstr ""
 
-#: inc/class-fusion-dynamic-data.php:3590
+#: inc/class-fusion-dynamic-data.php:3601
 msgid "Order Items Count"
 msgstr ""
 
-#: inc/class-fusion-dynamic-data.php:3597
+#: inc/class-fusion-dynamic-data.php:3608
 msgid "Count Type"
 msgstr ""
 
-#: inc/class-fusion-dynamic-data.php:3598
+#: inc/class-fusion-dynamic-data.php:3609
 msgid ""
 "Choose to either return the total quantity of items or the number of line "
 "item rows."
 msgstr ""
 
-#: inc/class-fusion-dynamic-data.php:3602
+#: inc/class-fusion-dynamic-data.php:3613
 msgid "Total Items"
 msgstr ""
 
-#: inc/class-fusion-dynamic-data.php:3603
+#: inc/class-fusion-dynamic-data.php:3614
 msgid "Line Item Rows"
 msgstr ""
 
-#: inc/class-fusion-dynamic-data.php:3629
+#: inc/class-fusion-dynamic-data.php:3640
 msgid "Order Total"
 msgstr ""
 
-#: inc/class-fusion-dynamic-data.php:3641
+#: inc/class-fusion-dynamic-data.php:3652
 msgid "Order Payment Method"
 msgstr ""
 
-#: inc/class-fusion-dynamic-data.php:3653
+#: inc/class-fusion-dynamic-data.php:3664
 msgid "Order Shipping Method"
 msgstr ""
 
-#: inc/class-fusion-dynamic-data.php:3666
+#: inc/class-fusion-dynamic-data.php:3677
 msgid "Order Billing Company"
 msgstr ""
 
-#: inc/class-fusion-dynamic-data.php:3678
+#: inc/class-fusion-dynamic-data.php:3689
 msgid "Order Billing First Name"
 msgstr ""
 
-#: inc/class-fusion-dynamic-data.php:3690
+#: inc/class-fusion-dynamic-data.php:3701
 msgid "Order Billing Last Name"
 msgstr ""
 
-#: inc/class-fusion-dynamic-data.php:3702
+#: inc/class-fusion-dynamic-data.php:3713
 msgid "Order Billing Address Part"
 msgstr ""
 
-#: inc/class-fusion-dynamic-data.php:3709
-#: inc/class-fusion-dynamic-data.php:3798
+#: inc/class-fusion-dynamic-data.php:3720
+#: inc/class-fusion-dynamic-data.php:3809
 msgid "Address Part"
 msgstr ""
 
-#: inc/class-fusion-dynamic-data.php:3710
-#: inc/class-fusion-dynamic-data.php:3799
+#: inc/class-fusion-dynamic-data.php:3721
+#: inc/class-fusion-dynamic-data.php:3810
 msgid "Choose the address part you want to display."
 msgstr ""
 
-#: inc/class-fusion-dynamic-data.php:3718
-#: inc/class-fusion-dynamic-data.php:3807
+#: inc/class-fusion-dynamic-data.php:3729
+#: inc/class-fusion-dynamic-data.php:3818
 msgid "Post Code"
 msgstr ""
 
-#: inc/class-fusion-dynamic-data.php:3731
+#: inc/class-fusion-dynamic-data.php:3742
 msgid "Order Billing Email"
 msgstr ""
 
-#: inc/class-fusion-dynamic-data.php:3743
+#: inc/class-fusion-dynamic-data.php:3754
 msgid "Order Billing Phone"
 msgstr ""
 
-#: inc/class-fusion-dynamic-data.php:3755
+#: inc/class-fusion-dynamic-data.php:3766
 msgid "Order Shipping Company"
 msgstr ""
 
-#: inc/class-fusion-dynamic-data.php:3767
+#: inc/class-fusion-dynamic-data.php:3778
 msgid "Order Shipping First Name"
 msgstr ""
 
-#: inc/class-fusion-dynamic-data.php:3779
+#: inc/class-fusion-dynamic-data.php:3790
 msgid "Order Shipping Last Name"
 msgstr ""
 
-#: inc/class-fusion-dynamic-data.php:3791
+#: inc/class-fusion-dynamic-data.php:3802
 msgid "Order Shipping Address Part"
 msgstr ""
 
-#: inc/class-fusion-dynamic-data.php:3820
+#: inc/class-fusion-dynamic-data.php:3831
 msgid "Order Shipping Phone"
 msgstr ""
 
-#: inc/class-fusion-dynamic-data.php:3847 shortcodes/fusion-user-login.php:1417
+#: inc/class-fusion-dynamic-data.php:3858 shortcodes/fusion-user-login.php:1417
 #: shortcodes/fusion-user-login.php:1633 shortcodes/fusion-user-login.php:1821
 msgid "Heading"
 msgstr ""
 
-#: inc/class-fusion-dynamic-data.php:3849
-#: inc/class-fusion-dynamic-data.php:3873
+#: inc/class-fusion-dynamic-data.php:3860
 #: inc/class-fusion-dynamic-data.php:3884
 #: inc/class-fusion-dynamic-data.php:3895
+#: inc/class-fusion-dynamic-data.php:3906
 #: inc/class-fusion-template-builder.php:372
 msgid "Page Title Bar"
 msgstr ""
 
-#: inc/class-fusion-dynamic-data.php:3851
+#: inc/class-fusion-dynamic-data.php:3862
 msgid "Your Heading Goes Here"
 msgstr ""
 
-#: inc/class-fusion-dynamic-data.php:3871
+#: inc/class-fusion-dynamic-data.php:3882
 msgid "Subheading"
 msgstr ""
 
-#: inc/class-fusion-dynamic-data.php:3875
+#: inc/class-fusion-dynamic-data.php:3886
 msgid "Your Subheading Goes Here"
 msgstr ""
 
-#: inc/class-fusion-dynamic-data.php:3893
+#: inc/class-fusion-dynamic-data.php:3904
 msgid "Retina Background Image"
 msgstr ""
 
-#: inc/class-fusion-dynamic-data.php:3920
+#: inc/class-fusion-dynamic-data.php:3931
 msgid "Open Live Chat"
 msgstr ""
 
-#: inc/class-fusion-dynamic-data.php:3922
+#: inc/class-fusion-dynamic-data.php:3933
 msgid "HubSpot"
 msgstr ""
 
@@ -16169,7 +16182,7 @@ msgstr ""
 msgid "times."
 msgstr ""
 
-#: inc/lib/inc/fusion-app/helpers.php:304 shortcodes/fusion-row-inner.php:106
+#: inc/lib/inc/fusion-app/helpers.php:304 shortcodes/fusion-row-inner.php:107
 msgid "Nested Columns"
 msgstr ""
 
@@ -28834,23 +28847,23 @@ msgstr ""
 
 #: shortcodes/fusion-container.php:2775
 #: shortcodes/fusion-image-carousel.php:1258
-#: shortcodes/fusion-row-inner.php:177
+#: shortcodes/fusion-row-inner.php:178
 msgid "Column Alignment"
 msgstr ""
 
-#: shortcodes/fusion-container.php:2776 shortcodes/fusion-row-inner.php:178
+#: shortcodes/fusion-container.php:2776 shortcodes/fusion-row-inner.php:179
 msgid "Select how you want columns to align within rows."
 msgstr ""
 
-#: shortcodes/fusion-container.php:2810 shortcodes/fusion-row-inner.php:201
+#: shortcodes/fusion-container.php:2810 shortcodes/fusion-row-inner.php:202
 msgid "Column Justification"
 msgstr ""
 
-#: shortcodes/fusion-container.php:2811 shortcodes/fusion-row-inner.php:202
+#: shortcodes/fusion-container.php:2811 shortcodes/fusion-row-inner.php:203
 msgid "Select how the columns will be justified horizontally."
 msgstr ""
 
-#: shortcodes/fusion-container.php:2851 shortcodes/fusion-row-inner.php:230
+#: shortcodes/fusion-container.php:2851 shortcodes/fusion-row-inner.php:231
 msgid ""
 "Controls whether flex items are forced onto one line or can wrap onto "
 "multiple lines."
@@ -37039,56 +37052,56 @@ msgstr ""
 msgid "Choose to display the post excerpt."
 msgstr ""
 
-#: shortcodes/fusion-row-inner.php:112
+#: shortcodes/fusion-row-inner.php:113
 msgid ""
 "When using \"default\" values for the flex options here, that means they "
 "will inherit from the parent container."
 msgstr ""
 
-#: shortcodes/fusion-row-inner.php:118
+#: shortcodes/fusion-row-inner.php:119
 msgid "Row Minimum Height"
 msgstr ""
 
-#: shortcodes/fusion-row-inner.php:119
+#: shortcodes/fusion-row-inner.php:120
 msgid ""
 "Set a minimum height for the Nested Columns row. Set to 100vh to have it "
 "full viewport height. Leave empty or set to \"auto\" for automatic sizing."
 msgstr ""
 
-#: shortcodes/fusion-row-inner.php:129
+#: shortcodes/fusion-row-inner.php:130
 msgid "Row Maximum Height"
 msgstr ""
 
-#: shortcodes/fusion-row-inner.php:130
+#: shortcodes/fusion-row-inner.php:131
 msgid ""
 "Set a maximum height for the Nested Columns row. Leave empty or set to "
 "\"none\" for automatic sizing."
 msgstr ""
 
-#: shortcodes/fusion-row-inner.php:140
+#: shortcodes/fusion-row-inner.php:141
 msgid "Column Row Alignment"
 msgstr ""
 
-#: shortcodes/fusion-row-inner.php:141
+#: shortcodes/fusion-row-inner.php:142
 msgid ""
 "Defines how column rows should be aligned vertically within the Nested "
 "Columns row. <strong>IMPORTANT:</strong> These settings will only take full "
 "effect when multiple column rows are present."
 msgstr ""
 
-#: shortcodes/fusion-row-inner.php:251
+#: shortcodes/fusion-row-inner.php:252
 msgid ""
 "Flex grow specifies how much of the remaining space in the parent column "
 "should be assigned to the nested columns row."
 msgstr ""
 
-#: shortcodes/fusion-row-inner.php:262
+#: shortcodes/fusion-row-inner.php:263
 msgid ""
 "Flex shrink specifies how much the nested columns row may shrink within the "
 "parent column if not enough space is available."
 msgstr ""
 
-#: shortcodes/fusion-row-inner.php:273
+#: shortcodes/fusion-row-inner.php:274
 msgid "Set the Nested Columns row overflow property."
 msgstr ""
 
@@ -44165,9 +44178,8 @@ msgctxt "post format archive title"
 msgid "Chats"
 msgstr ""
 
-#. translators: %1$s: Post Object Label. %2$s: Post Title.
-#: inc/class-fusion-dynamic-data-callbacks.php:1668
-#: inc/class-fusion-dynamic-data-callbacks.php:1686
+#: inc/class-fusion-dynamic-data-callbacks.php:1689
+#: inc/class-fusion-dynamic-data-callbacks.php:1707
 msgctxt "Cost range separator"
 msgid " – "
 msgstr ""
