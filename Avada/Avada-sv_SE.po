@@ -14,7 +14,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Avada\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/theme/Avada\n"
-"POT-Creation-Date: 2026-06-01 05:07:55+00:00\n"
+"POT-Creation-Date: 2026-06-02 05:57:06+00:00\n"
 "PO-Revision-Date: 2020-02-20 07:28+0100\n"
 "Last-Translator: Jakob Holmberg <jakob@loftreklam.se>\n"
 "Language-Team: Svenska\n"
@@ -4631,8 +4631,8 @@ msgid ""
 msgstr ""
 
 #: includes/class-avada-megamenu-framework.php:196
-msgid "Icon/Thumbnail Only"
-msgstr "Ikon/miniatyr enbart"
+msgid "Icon/Thumbnail"
+msgstr ""
 
 #: includes/class-avada-megamenu-framework.php:197
 msgid ""
@@ -4640,7 +4640,7 @@ msgid ""
 "hides the text on all viewports. \"Mobile Only\" keeps text on desktop but "
 "shows just the icon when the menu collapses on mobile (used together with "
 "the Menu element's \"Keep Search/Cart As Icon On Mobile\" options for the "
-"AWB Search and WooCommerce Cart special items)."
+"Search and WooCommerce Cart special items)."
 msgstr ""
 
 #: includes/class-avada-megamenu-framework.php:202
@@ -27808,6 +27808,9 @@ msgstr "Hem"
 msgctxt "%s Events plural label"
 msgid "All %s"
 msgstr ""
+
+#~ msgid "Icon/Thumbnail Only"
+#~ msgstr "Ikon/miniatyr enbart"
 
 #~ msgid ""
 #~ "Turn on to only show the icon/image thumbnail while hiding the menu text. "
