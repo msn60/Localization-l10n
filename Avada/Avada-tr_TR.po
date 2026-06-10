@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Avada 7.12.2\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/theme/Avada\n"
-"POT-Creation-Date: 2026-06-02 05:57:06+00:00\n"
+"POT-Creation-Date: 2026-06-10 13:32:12+00:00\n"
 "PO-Revision-Date: 2025-07-26 22:27+0300\n"
 "Last-Translator: Kaya Zeren <translator@zeron.net>\n"
 "Language-Team: Turkish (Turkey)\n"
@@ -123,7 +123,7 @@ msgstr "Yorumlar kapalı."
 msgid "Name (required)"
 msgstr "Ad (zorunlu)"
 
-#: comments.php:69 includes/avada-app/class-fusion-panel.php:708
+#: comments.php:69 includes/avada-app/class-fusion-panel.php:707
 #: includes/lib/inc/redux/framework/FusionReduxCore/inc/welcome/views/status_report.php:710
 #: templates/wc-catalog-ordering.php:61 templates/wc-catalog-ordering.php:97
 msgid "Name"
@@ -459,7 +459,7 @@ msgstr ""
 "Seçildiğinde süreç yavaşlar."
 
 #: includes/admin-screens/performance.php:78
-#: includes/avada-app/class-fusion-panel.php:689
+#: includes/avada-app/class-fusion-panel.php:688
 #: includes/class-avada-megamenu-framework.php:128
 #: includes/class-awb-global-typography.php:502
 #: includes/lib/inc/fusion-app/templates/options/typography.php:223
@@ -882,7 +882,7 @@ msgid "Layer Slider"
 msgstr "Layer Slider"
 
 #: includes/admin-screens/performance.php:403
-#: includes/avada-app/class-fusion-panel.php:440
+#: includes/avada-app/class-fusion-panel.php:439
 #: includes/class-awb-site-data.php:435 includes/options/performance.php:511
 msgid "Slider Revolution"
 msgstr "Slider Revolution"
@@ -901,7 +901,7 @@ msgid "Icon"
 msgstr "Simge"
 
 #: includes/admin-screens/performance.php:417
-#: includes/avada-app/class-fusion-panel.php:439
+#: includes/avada-app/class-fusion-panel.php:438
 #: includes/avada-functions.php:1714 includes/class-awb-site-data.php:449
 #: includes/options/advanced.php:653
 msgid "Avada Slider"
@@ -2369,7 +2369,7 @@ msgid "Manage Coming Soon mode."
 msgstr "Yakında yayında kipini yönetin."
 
 #: includes/admin-screens/setup.php:1027
-#: includes/avada-app/class-fusion-panel.php:1783
+#: includes/avada-app/class-fusion-panel.php:1782
 #: includes/avada-functions.php:1905
 #: includes/lib/inc/class-fusion-fusionredux.php:250
 #: includes/options/sidebars.php:198
@@ -3265,67 +3265,67 @@ msgstr "Genel ayarlar güncellendi."
 msgid "You do not have permission to update Global Options."
 msgstr "Genel ayarları güncelleme izniniz yok."
 
-#: includes/avada-app/class-fusion-panel.php:360
+#: includes/avada-app/class-fusion-panel.php:359
 msgid "The page options updated."
 msgstr "Sayfa ayarları güncellendi."
 
-#: includes/avada-app/class-fusion-panel.php:362
+#: includes/avada-app/class-fusion-panel.php:361
 msgid "You do not have permission to update the page options."
 msgstr "Sayfa ayarlarını güncelleme izniniz yok."
 
-#: includes/avada-app/class-fusion-panel.php:383
+#: includes/avada-app/class-fusion-panel.php:382
 msgid "The taxonomy options updated."
 msgstr "Sınıflandırma ayarları güncellendi."
 
-#: includes/avada-app/class-fusion-panel.php:386
+#: includes/avada-app/class-fusion-panel.php:385
 msgid "You do not have permission to update taxonomy options."
 msgstr "Sınıflandırma ayarlarını güncelleme izniniz yok."
 
-#: includes/avada-app/class-fusion-panel.php:425
+#: includes/avada-app/class-fusion-panel.php:424
 msgid "Add Page TitleBar"
 msgstr "Sayfa başlığı çubuğu ekle"
 
-#: includes/avada-app/class-fusion-panel.php:426
+#: includes/avada-app/class-fusion-panel.php:425
 msgid "Edit Global Page TitleBar"
 msgstr "Genel sayfa başlığı çubuğunu düzenle"
 
-#: includes/avada-app/class-fusion-panel.php:427
+#: includes/avada-app/class-fusion-panel.php:426
 msgid "Edit Page TitleBar"
 msgstr "Sayfa başlığı çubuğunu düzenle"
 
-#: includes/avada-app/class-fusion-panel.php:428
+#: includes/avada-app/class-fusion-panel.php:427
 msgid "Edit Page TitleBar Layout Section"
 msgstr "Sayfa başlığı çubuğu yerleşimi bölümünü düzenle"
 
-#: includes/avada-app/class-fusion-panel.php:429
+#: includes/avada-app/class-fusion-panel.php:428
 msgid "Remove Page TitleBar"
 msgstr "Sayfa başlığı çubuğunu kaldır"
 
-#: includes/avada-app/class-fusion-panel.php:430
+#: includes/avada-app/class-fusion-panel.php:429
 #: includes/options/header.php:235
 msgid "Add Slider"
 msgstr "Kaydırıcı ekle"
 
-#: includes/avada-app/class-fusion-panel.php:431
+#: includes/avada-app/class-fusion-panel.php:430
 msgid "Edit Slide"
 msgstr "Slaytı düzenle"
 
-#: includes/avada-app/class-fusion-panel.php:432
+#: includes/avada-app/class-fusion-panel.php:431
 #: includes/avada-functions.php:987
 msgid "Edit Slider"
 msgstr "Kaydırıcıyı düzenle"
 
-#: includes/avada-app/class-fusion-panel.php:433
+#: includes/avada-app/class-fusion-panel.php:432
 msgid "Edit Slider Options"
 msgstr "Kaydırıcı ayarlarını düzenle"
 
-#: includes/avada-app/class-fusion-panel.php:434
+#: includes/avada-app/class-fusion-panel.php:433
 #: includes/avada-functions.php:994 includes/avada-functions.php:995
 #: includes/avada-functions.php:1009
 msgid "Remove Slider"
 msgstr "Kaydırıcıyı sil"
 
-#: includes/avada-app/class-fusion-panel.php:435
+#: includes/avada-app/class-fusion-panel.php:434
 msgid ""
 "You have chosen to edit your selected slider. This operation must be "
 "performed from the WordPress dashboard."
@@ -3333,7 +3333,7 @@ msgstr ""
 "Seçtiğiniz kaydırıcıyı düzenlemeyi seçtiniz. Bu işlem WordPress panosundan "
 "yapılmalıdır."
 
-#: includes/avada-app/class-fusion-panel.php:436
+#: includes/avada-app/class-fusion-panel.php:435
 #: includes/class-avada-megamenu-framework.php:1065
 #: includes/class-avada-nav-walker-megamenu.php:259
 #: includes/lib/inc/class-awb-widget-style.php:421
@@ -3341,44 +3341,44 @@ msgstr ""
 msgid "Cancel"
 msgstr "İptal"
 
-#: includes/avada-app/class-fusion-panel.php:438
+#: includes/avada-app/class-fusion-panel.php:437
 msgid "LayerSlider"
 msgstr "LayerSlider"
 
-#: includes/avada-app/class-fusion-panel.php:441
+#: includes/avada-app/class-fusion-panel.php:440
 #: includes/options/advanced.php:662 includes/options/elastic_slider.php:27
 msgid "Elastic Slider"
 msgstr "Elastic kaydırıcı"
 
-#: includes/avada-app/class-fusion-panel.php:480
+#: includes/avada-app/class-fusion-panel.php:479
 msgid "Invalid CSS Value"
 msgstr "CSS değeri geçersiz"
 
 #. translators: The value.
-#: includes/avada-app/class-fusion-panel.php:482
+#: includes/avada-app/class-fusion-panel.php:481
 msgid "Invalid CSS Value: %s"
 msgstr "CSS değeri geçersiz: %s"
 
-#: includes/avada-app/class-fusion-panel.php:483
+#: includes/avada-app/class-fusion-panel.php:482
 msgid "Invalid Color"
 msgstr "Renk geçersiz"
 
-#: includes/avada-app/class-fusion-panel.php:703
-#: includes/avada-app/class-fusion-panel.php:838
+#: includes/avada-app/class-fusion-panel.php:702
+#: includes/avada-app/class-fusion-panel.php:837
 #: includes/lib/inc/fusion-app/helpers.php:565 includes/options/privacy.php:850
 msgid "Settings"
 msgstr "Ayarlar"
 
-#: includes/avada-app/class-fusion-panel.php:721
-#: includes/avada-app/class-fusion-panel.php:856
+#: includes/avada-app/class-fusion-panel.php:720
+#: includes/avada-app/class-fusion-panel.php:855
 msgid "Slug"
 msgstr "Kısaltma"
 
-#: includes/avada-app/class-fusion-panel.php:734
+#: includes/avada-app/class-fusion-panel.php:733
 msgid "Parent Category"
 msgstr "Üst kategori"
 
-#: includes/avada-app/class-fusion-panel.php:745
+#: includes/avada-app/class-fusion-panel.php:744
 #: includes/class-avada-nav-walker-megamenu.php:213
 #: includes/lib/inc/class-fusion-patcher-admin-screen.php:290
 #: includes/lib/inc/redux/framework/FusionReduxCore/inc/fields/slides/field_slides.php:170
@@ -3388,86 +3388,86 @@ msgstr "Üst kategori"
 msgid "Description"
 msgstr "Açıklama"
 
-#: includes/avada-app/class-fusion-panel.php:784
+#: includes/avada-app/class-fusion-panel.php:783
 msgid "Select Parent"
 msgstr "Üst ögeyi sSeçin"
 
-#: includes/avada-app/class-fusion-panel.php:792
+#: includes/avada-app/class-fusion-panel.php:791
 msgid "(no title)"
 msgstr "(başlık yok)"
 
-#: includes/avada-app/class-fusion-panel.php:804
+#: includes/avada-app/class-fusion-panel.php:803
 #: includes/class-avada-woocommerce.php:2379
 msgid "Default Template"
 msgstr "Varsayılan kalıp"
 
-#: includes/avada-app/class-fusion-panel.php:843
+#: includes/avada-app/class-fusion-panel.php:842
 msgid "Page Title"
 msgstr "Sayfa başlığı"
 
-#: includes/avada-app/class-fusion-panel.php:867
+#: includes/avada-app/class-fusion-panel.php:866
 msgid "Page Attributes"
 msgstr "Sayfa öznitelikleri"
 
-#: includes/avada-app/class-fusion-panel.php:878
-#: includes/avada-app/class-fusion-panel.php:894 includes/options/menu.php:729
+#: includes/avada-app/class-fusion-panel.php:877
+#: includes/avada-app/class-fusion-panel.php:893 includes/options/menu.php:729
 msgid "Parent"
 msgstr "Üst öge"
 
-#: includes/avada-app/class-fusion-panel.php:909
+#: includes/avada-app/class-fusion-panel.php:908
 #: includes/metaboxes/metaboxes.php:693
 #: includes/metaboxes/tabs/tab_fusion_template.php:21
 msgid "Template"
 msgstr "Kalıp"
 
-#: includes/avada-app/class-fusion-panel.php:922
+#: includes/avada-app/class-fusion-panel.php:921
 #: includes/class-avada-admin.php:1852
 msgid "Order"
 msgstr "Sıralama"
 
-#: includes/avada-app/class-fusion-panel.php:933
+#: includes/avada-app/class-fusion-panel.php:932
 msgid "Post Format"
 msgstr "Yazı biçimi"
 
-#: includes/avada-app/class-fusion-panel.php:975
+#: includes/avada-app/class-fusion-panel.php:974
 msgid "Choose"
 msgstr "Seçin"
 
-#: includes/avada-app/class-fusion-panel.php:994 includes/options/blog.php:591
+#: includes/avada-app/class-fusion-panel.php:993 includes/options/blog.php:591
 #: includes/options/portfolio.php:243 includes/options/search.php:474
 msgid "Excerpt"
 msgstr "Giriş yazısı"
 
-#: includes/avada-app/class-fusion-panel.php:1036
+#: includes/avada-app/class-fusion-panel.php:1035
 #: includes/lib/inc/widgets/class-fusion-widget-author.php:287
 #: includes/options/portfolio.php:674 includes/options/search.php:559
 msgid "Author"
 msgstr "Yazar"
 
-#: includes/avada-app/class-fusion-panel.php:1050
-#: includes/avada-app/class-fusion-panel.php:1058
+#: includes/avada-app/class-fusion-panel.php:1049
+#: includes/avada-app/class-fusion-panel.php:1057
 #: includes/class-avada-taxonomy-meta.php:162
 msgid "Featured Image"
 msgstr "Öne çıkarılmış görsel"
 
 #. Translators: Ordinal number of featured image.
-#: includes/avada-app/class-fusion-panel.php:1100
+#: includes/avada-app/class-fusion-panel.php:1099
 msgid "Featured Image %s"
 msgstr "Öne çıkarılmış görsel %s"
 
-#: includes/avada-app/class-fusion-panel.php:1160
+#: includes/avada-app/class-fusion-panel.php:1159
 #: includes/lib/inc/fusion-app/helpers.php:243
 #: includes/options/custom_css.php:27
 msgid "Custom CSS"
 msgstr "Özel CSS"
 
-#: includes/avada-app/class-fusion-panel.php:1165
+#: includes/avada-app/class-fusion-panel.php:1164
 #: includes/options/custom_css.php:34
 msgid "CSS Code"
 msgstr "CSS kodu"
 
 #. translators: <code>!important</code>
-#: includes/avada-app/class-fusion-panel.php:1167
+#: includes/avada-app/class-fusion-panel.php:1166
 #: includes/options/custom_css.php:36
 msgid ""
 "Enter your CSS code in the field below. Do not include any tags or HTML in "
@@ -3480,18 +3480,18 @@ msgstr ""
 "önceliklidir. Bazı durumlarda %s kod imine gerek duyulabilir. Adres, görsel "
 "ya da svg yollarını kodlamayın. Bu alanın içeriği otomatik olarak kodlanır."
 
-#: includes/avada-app/class-fusion-panel.php:1184
-#: includes/avada-app/class-fusion-panel.php:1541
+#: includes/avada-app/class-fusion-panel.php:1183
+#: includes/avada-app/class-fusion-panel.php:1540
 msgid "Import/Export"
 msgstr "İçe/Dışa aktar"
 
-#: includes/avada-app/class-fusion-panel.php:1191
+#: includes/avada-app/class-fusion-panel.php:1190
 #: includes/metaboxes/tabs/tab_avada_page_options.php:82
 #: includes/metaboxes/tabs/tab_avada_page_options.php:93
 msgid "Import Page Options"
 msgstr "Sayfa ayarlarını içe aktar"
 
-#: includes/avada-app/class-fusion-panel.php:1192
+#: includes/avada-app/class-fusion-panel.php:1191
 msgid ""
 "Import Page Options.  You can import via file or copy and paste from JSON "
 "data."
@@ -3499,36 +3499,36 @@ msgstr ""
 "Sayfa ayarlarını içe aktarır. Sayfa ayarlarını dosya olarak ya da JSON "
 "verilerini kopyalayıp yapıştırarak içe aktarabilirsiniz."
 
-#: includes/avada-app/class-fusion-panel.php:1198
+#: includes/avada-app/class-fusion-panel.php:1197
 #: includes/metaboxes/tabs/tab_avada_page_options.php:69
 #: includes/metaboxes/tabs/tab_avada_page_options.php:75
 msgid "Export Page Options"
 msgstr "Sayfa ayarlarını dışa aktar"
 
-#: includes/avada-app/class-fusion-panel.php:1199
+#: includes/avada-app/class-fusion-panel.php:1198
 msgid ""
 "Export your Page Options.  You can either export as a file or copy the data."
 msgstr ""
 "Sayfa ayarlarını dışa aktarır. Sayfa ayarlarını dosya olarak ya da verileri "
 "kopyalayarak dışa aktarabilirsiniz."
 
-#: includes/avada-app/class-fusion-panel.php:1428
-#: includes/avada-app/class-fusion-panel.php:1436
+#: includes/avada-app/class-fusion-panel.php:1427
+#: includes/avada-app/class-fusion-panel.php:1435
 #: includes/avada-app/panel/templates/sidebar.php:63
 #: includes/options/shortcode_styling.php:30
 msgid "Avada Builder Elements"
 msgstr "Avada Builder bileşenleri"
 
-#: includes/avada-app/class-fusion-panel.php:1441
+#: includes/avada-app/class-fusion-panel.php:1440
 #: includes/avada-app/panel/templates/sidebar.php:69
 msgid "Add-on Elements"
 msgstr "Eklenti bileşenleri"
 
-#: includes/avada-app/class-fusion-panel.php:1548
+#: includes/avada-app/class-fusion-panel.php:1547
 msgid "Import Global Options"
 msgstr "Genel ayarları içe aktar"
 
-#: includes/avada-app/class-fusion-panel.php:1549
+#: includes/avada-app/class-fusion-panel.php:1548
 msgid ""
 "Import Global Options. You can import via file, copy and paste or select an "
 "Avada prebuilt website."
@@ -3536,41 +3536,41 @@ msgstr ""
 "Genel ayarları içe aktarır. Ayarları dosya olarak, kopyalayıp yapıştırarak "
 "ya da bir Avada hazır sitesi seçerek içe aktarabilirsiniz."
 
-#: includes/avada-app/class-fusion-panel.php:1556
-#: includes/avada-app/class-fusion-panel.php:1561
+#: includes/avada-app/class-fusion-panel.php:1555
+#: includes/avada-app/class-fusion-panel.php:1560
 msgid "Export Global Options"
 msgstr "Genel ayarları dışa aktar"
 
-#: includes/avada-app/class-fusion-panel.php:1557
+#: includes/avada-app/class-fusion-panel.php:1556
 msgid ""
 "Export your Global Options. You can either export as a file or copy the data."
 msgstr ""
 "Genel ayarları dışa aktarır. Ayarları dosya olarak ya da verileri "
 "kopyalayarak dışa aktarabilirsiniz."
 
-#: includes/avada-app/class-fusion-panel.php:1782
+#: includes/avada-app/class-fusion-panel.php:1781
 #: includes/avada-functions.php:1899
 #: includes/lib/inc/class-fusion-fusionredux.php:249
 msgid "Posts"
 msgstr "Yazılar"
 
-#: includes/avada-app/class-fusion-panel.php:1784
+#: includes/avada-app/class-fusion-panel.php:1783
 #: includes/lib/inc/class-fusion-fusionredux.php:251
 msgid "Portfolio Items"
 msgstr "Portföy ögeleri"
 
-#: includes/avada-app/class-fusion-panel.php:1785
+#: includes/avada-app/class-fusion-panel.php:1784
 #: includes/lib/inc/class-fusion-fusionredux.php:252
 msgid "FAQ Items"
 msgstr "SSS ögeleri"
 
-#: includes/avada-app/class-fusion-panel.php:1786
+#: includes/avada-app/class-fusion-panel.php:1785
 #: includes/lib/inc/class-fusion-fusionredux.php:253
 #: includes/options/sidebars.php:488
 msgid "WooCommerce Products"
 msgstr "WooCommerce ürünleri"
 
-#: includes/avada-app/class-fusion-panel.php:1787
+#: includes/avada-app/class-fusion-panel.php:1786
 #: includes/lib/inc/class-fusion-fusionredux.php:254
 msgid "Events Calendar Posts"
 msgstr "Events Calendar kayıtları"
@@ -5287,8 +5287,15 @@ msgstr "Özgün: %s"
 msgid "Import / Export"
 msgstr "İçe / Dışa aktar"
 
+#: includes/class-avada-page-options.php:356
+#: includes/class-avada-page-options.php:394
+#: includes/class-avada-system-status.php:146
+#: includes/class-avada-system-status.php:178
+msgid "Permission check failed."
+msgstr ""
+
 #. translators: Number.
-#: includes/class-avada-page-options.php:407
+#: includes/class-avada-page-options.php:420
 msgid "Custom page options %d "
 msgstr "%d özel sayfa ayarları "
 
@@ -5503,15 +5510,9 @@ msgid ""
 "Something went wrong while checking API status. Response code: %1$s. %2$s"
 msgstr "API durumu denetlenirken bir sorun çıktı. Yanıt kodu: %1$s. %2$s"
 
-#: includes/class-avada-system-status.php:145
+#: includes/class-avada-system-status.php:149
 msgid "Creating database tables failed."
 msgstr "Veri tabanı tabloları oluşturulamadı."
-
-#: includes/class-avada-system-status.php:148
-#: includes/class-avada-system-status.php:178
-#: includes/class-avada-system-status.php:202
-msgid "Security check failed."
-msgstr "Güvenlik denetimi tamamlanamadı."
 
 #: includes/class-avada-system-status.php:162
 msgid "Database tables are created successfully."
@@ -5524,6 +5525,10 @@ msgstr ""
 #: includes/class-avada-system-status.php:199
 msgid "This is not a multisite."
 msgstr "Bu bir Multisite kurulumu değil."
+
+#: includes/class-avada-system-status.php:202
+msgid "Security check failed."
+msgstr "Güvenlik denetimi tamamlanamadı."
 
 #: includes/class-avada-system-status.php:217
 msgid "Global options were successfully copied across the network."
@@ -8220,26 +8225,26 @@ msgid "Dismiss Message"
 msgstr "İletiyi yok say"
 
 #. translators: The search query.
-#: includes/lib/inc/class-fusion-helper.php:340
+#: includes/lib/inc/class-fusion-helper.php:377
 msgid "Search results for: %s"
 msgstr "%s için arama sonuçları"
 
-#: includes/lib/inc/class-fusion-helper.php:353
+#: includes/lib/inc/class-fusion-helper.php:390
 msgid "Error 404 Page"
 msgstr "404 hatası sayfası"
 
 #. translators: Date.
-#: includes/lib/inc/class-fusion-helper.php:361
+#: includes/lib/inc/class-fusion-helper.php:398
 msgid "Daily Archives: %s"
 msgstr "Günlük arşivler: %s"
 
 #. translators: Date.
-#: includes/lib/inc/class-fusion-helper.php:364
+#: includes/lib/inc/class-fusion-helper.php:401
 msgid "Monthly Archives: %s"
 msgstr "Aylık arşivler: %s"
 
 #. translators: Date.
-#: includes/lib/inc/class-fusion-helper.php:367
+#: includes/lib/inc/class-fusion-helper.php:404
 msgid "Yearly Archives: %s"
 msgstr "Yıllık arşivler: %s"
 
@@ -24303,21 +24308,13 @@ msgstr ""
 msgid ""
 "<strong>IMPORTANT NOTE:</strong> To use the Avada PWA feature your site must "
 "use SSL (HTTPS). For more information about the options in this section, "
-"please see our <a href=\"https://avada.com/documentation/how-to-use-pwa-"
-"progressive-web-apps-with-avada/\" target=\"_blank\">PWA documentation</a> "
-"page. To learn more about caching strategies and their use in general you "
+"please see our <a href=\"https://classic.avada.com/documentation/how-to-use-"
+"pwa-progressive-web-apps-with-avada/\" target=\"_blank\">PWA documentation</"
+"a> page. To learn more about caching strategies and their use in general you "
 "can <a href=\"https://developers.google.com/web/tools/workbox/modules/"
 "workbox-strategies\" target=\"_blank\" rel=\"nofollow\">read this article</"
 "a>."
 msgstr ""
-"<strong>ÖNEMLİ NOT:</strong> Avada PWA özelliğini kullanabilmek için site "
-"SSL (HTTPS) kullanmalıdır. Bu bölümdeki seçenekler hakkında ayrıntılı bilgi "
-"almak için <a href=\"https://avada.com/documentation/how-to-use-pwa-"
-"progressive-web-apps-with-avada/\" target=\"_blank\">PWA belgeleri</a> "
-"bölümüne bakabilirsiniz. Ön bellek stratejileri ve genel kullanımları "
-"hakkında bilgi almak için <a href=\"https://developers.google.com/web/tools/"
-"workbox/modules/workbox-strategies\" target=\"_blank\" rel=\"nofollow\">bu "
-"yazıyı okuyun</a>."
 
 #: includes/options/performance.php:602
 msgid "Enable Progressive Web App"
@@ -27375,15 +27372,9 @@ msgid ""
 "Turn on to enable the WooCommerce product images zoom feature. "
 "<strong>IMPORTANT NOTE:</strong> Every product image you use must be larger "
 "than the product images container for zoom to work correctly. <a "
-"href=\"https://avada.com/documentation/woocommerce-single-product-gallery/\" "
-"target=\"_blank\">See this post for more information.</a>"
+"href=\"https://classic.avada.com/documentation/woocommerce-single-product-"
+"gallery/\" target=\"_blank\">See this post for more information.</a>"
 msgstr ""
-"WooCommerce ürün görsellerinin yakınlaştırılabilmesi için açın. "
-"<strong>ÖNEMLİ NOT:</strong> Yakınlaştırmanın düzgün çalışması için "
-"kullandığınız her ürün görseli, ürün görselleri kapsayıcısından daha büyük "
-"olmalıdır. <a href=\"https://avada.com/documentation/woocommerce-single-"
-"product-gallery/\" target=\"_blank\">Ayrıntılı bilgi almak için bu yazıya "
-"bakın.</a>"
 
 #: includes/options/woocommerce.php:153
 msgid "WooCommerce Product Images Width"
@@ -27396,18 +27387,10 @@ msgid ""
 "gallery size you select for this option. <strong>IMPORTANT NOTE:</strong> "
 "When this option is changed, you may need to adjust the Single Product Image "
 "size setting in WooCommerce Settings to make sure that one is larger and "
-"also regenerate thumbnails. <a href=\"https://avada.com/documentation/"
-"woocommerce-single-product-gallery/\" target=\"_blank\">See this post for "
-"more information.</a><br/>"
+"also regenerate thumbnails. <a href=\"https://classic.avada.com/"
+"documentation/woocommerce-single-product-gallery/\" target=\"_blank\">See "
+"this post for more information.</a><br/>"
 msgstr ""
-"Tek ürün sayfası görsel galerisinin genişliğini yazın. Görsel galerisi "
-"yakınlaştırma özelliğinin çalışması için yüklediğiniz görsellerin bu seçenek "
-"için seçtiğiniz galeri boyutundan büyük olması gerekir. <strong>ÖNEMLİ NOT:</"
-"strong> Bu seçenek değiştirildiğinde, birinin daha büyük olduğundan emin "
-"olmak ve ayrıca küçük görselleri yeniden oluşturmak için WooCommerce "
-"ayarlarında tek ürün görseli boyutu ayarını değiştirmeniz gerekebilir. <a "
-"href=\"https://avada.com/documentation/woocommerce-single-product-gallery/\" "
-"target=\"_blank\">Ayrıntılı bilgi almak için bu yazıya bakın.</a><br/>"
 
 #: includes/options/woocommerce.php:179
 msgid "WooCommerce Product Images Thumbnail Width"
@@ -27417,15 +27400,10 @@ msgstr "WooCommerce küçük ürün görselleri genişliği"
 msgid ""
 "Controls the natural image width of product page image gallery thumbnails. "
 "<strong>IMPORTANT NOTE:</strong> When this option is changed, you need to "
-"make sure to regenerate thumbnails. <a href=\"https://avada.com/"
+"make sure to regenerate thumbnails. <a href=\"https://classic.avada.com/"
 "documentation/woocommerce-single-product-gallery/\" target=\"_blank\">See "
 "this post for more information.</a><br/>"
 msgstr ""
-"Ürün sayfası görsel galerisi küçük görsellerinin doğal görsel genişliğini "
-"yazın. <strong>ÖNEMLİ NOT:</strong> Bu seçenek değiştirildiğinde küçük "
-"görselleri yeniden oluşturduğunuzdan emin olmanız gerekir. <a href=\"https://"
-"avada.com/documentation/woocommerce-single-product-gallery/\" "
-"target=\"_blank\">Ayrıntılı bilgi almak için bu yazıya bakın.</a><br/>"
 
 #: includes/options/woocommerce.php:198
 msgid "WooCommerce Product Images Thumbnail Position"
@@ -28490,8 +28468,8 @@ msgid "Additional information"
 msgstr "Ek bilgiler"
 
 #. Theme URI of the plugin/theme
-msgid "https://avada.com/"
-msgstr "https://avada.com/"
+msgid "https://classic.avada.com/"
+msgstr ""
 
 #. Description of the plugin/theme
 msgid ""
@@ -28616,6 +28594,75 @@ msgstr "Giriş"
 msgctxt "%s Events plural label"
 msgid "All %s"
 msgstr "Tüm %s"
+
+#~ msgid ""
+#~ "<strong>IMPORTANT NOTE:</strong> To use the Avada PWA feature your site "
+#~ "must use SSL (HTTPS). For more information about the options in this "
+#~ "section, please see our <a href=\"https://avada.com/documentation/how-to-"
+#~ "use-pwa-progressive-web-apps-with-avada/\" target=\"_blank\">PWA "
+#~ "documentation</a> page. To learn more about caching strategies and their "
+#~ "use in general you can <a href=\"https://developers.google.com/web/tools/"
+#~ "workbox/modules/workbox-strategies\" target=\"_blank\" "
+#~ "rel=\"nofollow\">read this article</a>."
+#~ msgstr ""
+#~ "<strong>ÖNEMLİ NOT:</strong> Avada PWA özelliğini kullanabilmek için site "
+#~ "SSL (HTTPS) kullanmalıdır. Bu bölümdeki seçenekler hakkında ayrıntılı "
+#~ "bilgi almak için <a href=\"https://avada.com/documentation/how-to-use-pwa-"
+#~ "progressive-web-apps-with-avada/\" target=\"_blank\">PWA belgeleri</a> "
+#~ "bölümüne bakabilirsiniz. Ön bellek stratejileri ve genel kullanımları "
+#~ "hakkında bilgi almak için <a href=\"https://developers.google.com/web/"
+#~ "tools/workbox/modules/workbox-strategies\" target=\"_blank\" "
+#~ "rel=\"nofollow\">bu yazıyı okuyun</a>."
+
+#~ msgid ""
+#~ "Turn on to enable the WooCommerce product images zoom feature. "
+#~ "<strong>IMPORTANT NOTE:</strong> Every product image you use must be "
+#~ "larger than the product images container for zoom to work correctly. <a "
+#~ "href=\"https://avada.com/documentation/woocommerce-single-product-gallery/"
+#~ "\" target=\"_blank\">See this post for more information.</a>"
+#~ msgstr ""
+#~ "WooCommerce ürün görsellerinin yakınlaştırılabilmesi için açın. "
+#~ "<strong>ÖNEMLİ NOT:</strong> Yakınlaştırmanın düzgün çalışması için "
+#~ "kullandığınız her ürün görseli, ürün görselleri kapsayıcısından daha "
+#~ "büyük olmalıdır. <a href=\"https://avada.com/documentation/woocommerce-"
+#~ "single-product-gallery/\" target=\"_blank\">Ayrıntılı bilgi almak için bu "
+#~ "yazıya bakın.</a>"
+
+#~ msgid ""
+#~ "Controls the width of the single product page image gallery. For the "
+#~ "image gallery zoom feature to work, the images you upload must be larger "
+#~ "than the gallery size you select for this option. <strong>IMPORTANT NOTE:"
+#~ "</strong> When this option is changed, you may need to adjust the Single "
+#~ "Product Image size setting in WooCommerce Settings to make sure that one "
+#~ "is larger and also regenerate thumbnails. <a href=\"https://avada.com/"
+#~ "documentation/woocommerce-single-product-gallery/\" target=\"_blank\">See "
+#~ "this post for more information.</a><br/>"
+#~ msgstr ""
+#~ "Tek ürün sayfası görsel galerisinin genişliğini yazın. Görsel galerisi "
+#~ "yakınlaştırma özelliğinin çalışması için yüklediğiniz görsellerin bu "
+#~ "seçenek için seçtiğiniz galeri boyutundan büyük olması gerekir. "
+#~ "<strong>ÖNEMLİ NOT:</strong> Bu seçenek değiştirildiğinde, birinin daha "
+#~ "büyük olduğundan emin olmak ve ayrıca küçük görselleri yeniden oluşturmak "
+#~ "için WooCommerce ayarlarında tek ürün görseli boyutu ayarını "
+#~ "değiştirmeniz gerekebilir. <a href=\"https://avada.com/documentation/"
+#~ "woocommerce-single-product-gallery/\" target=\"_blank\">Ayrıntılı bilgi "
+#~ "almak için bu yazıya bakın.</a><br/>"
+
+#~ msgid ""
+#~ "Controls the natural image width of product page image gallery "
+#~ "thumbnails. <strong>IMPORTANT NOTE:</strong> When this option is changed, "
+#~ "you need to make sure to regenerate thumbnails. <a href=\"https://"
+#~ "avada.com/documentation/woocommerce-single-product-gallery/\" "
+#~ "target=\"_blank\">See this post for more information.</a><br/>"
+#~ msgstr ""
+#~ "Ürün sayfası görsel galerisi küçük görsellerinin doğal görsel genişliğini "
+#~ "yazın. <strong>ÖNEMLİ NOT:</strong> Bu seçenek değiştirildiğinde küçük "
+#~ "görselleri yeniden oluşturduğunuzdan emin olmanız gerekir. <a "
+#~ "href=\"https://avada.com/documentation/woocommerce-single-product-gallery/"
+#~ "\" target=\"_blank\">Ayrıntılı bilgi almak için bu yazıya bakın.</a><br/>"
+
+#~ msgid "https://avada.com/"
+#~ msgstr "https://avada.com/"
 
 #~ msgid "Icon/Thumbnail Only"
 #~ msgstr "Yalnızca simge/küçük görsel"

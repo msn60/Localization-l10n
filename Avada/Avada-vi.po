@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Avada 5.1.6\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/theme/Avada\n"
-"POT-Creation-Date: 2026-06-02 05:57:06+00:00\n"
+"POT-Creation-Date: 2026-06-10 13:32:12+00:00\n"
 "PO-Revision-Date: 2017-06-22 11:03+0300\n"
 "Last-Translator: Aristeides <info@theme-fusion.com>\n"
 "Language-Team: Vietnamese\n"
@@ -122,7 +122,7 @@ msgstr ""
 msgid "Name (required)"
 msgstr ""
 
-#: comments.php:69 includes/avada-app/class-fusion-panel.php:708
+#: comments.php:69 includes/avada-app/class-fusion-panel.php:707
 #: includes/lib/inc/redux/framework/FusionReduxCore/inc/welcome/views/status_report.php:710
 #: templates/wc-catalog-ordering.php:61 templates/wc-catalog-ordering.php:97
 msgid "Name"
@@ -437,7 +437,7 @@ msgid ""
 msgstr ""
 
 #: includes/admin-screens/performance.php:78
-#: includes/avada-app/class-fusion-panel.php:689
+#: includes/avada-app/class-fusion-panel.php:688
 #: includes/class-avada-megamenu-framework.php:128
 #: includes/class-awb-global-typography.php:502
 #: includes/lib/inc/fusion-app/templates/options/typography.php:223
@@ -828,7 +828,7 @@ msgid "Layer Slider"
 msgstr ""
 
 #: includes/admin-screens/performance.php:403
-#: includes/avada-app/class-fusion-panel.php:440
+#: includes/avada-app/class-fusion-panel.php:439
 #: includes/class-awb-site-data.php:435 includes/options/performance.php:511
 msgid "Slider Revolution"
 msgstr ""
@@ -847,7 +847,7 @@ msgid "Icon"
 msgstr ""
 
 #: includes/admin-screens/performance.php:417
-#: includes/avada-app/class-fusion-panel.php:439
+#: includes/avada-app/class-fusion-panel.php:438
 #: includes/avada-functions.php:1714 includes/class-awb-site-data.php:449
 #: includes/options/advanced.php:653
 msgid "Avada Slider"
@@ -2217,7 +2217,7 @@ msgid "Manage Coming Soon mode."
 msgstr ""
 
 #: includes/admin-screens/setup.php:1027
-#: includes/avada-app/class-fusion-panel.php:1783
+#: includes/avada-app/class-fusion-panel.php:1782
 #: includes/avada-functions.php:1905
 #: includes/lib/inc/class-fusion-fusionredux.php:250
 #: includes/options/sidebars.php:198
@@ -3019,73 +3019,73 @@ msgstr ""
 msgid "You do not have permission to update Global Options."
 msgstr ""
 
-#: includes/avada-app/class-fusion-panel.php:360
+#: includes/avada-app/class-fusion-panel.php:359
 msgid "The page options updated."
 msgstr ""
 
-#: includes/avada-app/class-fusion-panel.php:362
+#: includes/avada-app/class-fusion-panel.php:361
 msgid "You do not have permission to update the page options."
 msgstr ""
 
-#: includes/avada-app/class-fusion-panel.php:383
+#: includes/avada-app/class-fusion-panel.php:382
 msgid "The taxonomy options updated."
 msgstr ""
 
-#: includes/avada-app/class-fusion-panel.php:386
+#: includes/avada-app/class-fusion-panel.php:385
 msgid "You do not have permission to update taxonomy options."
 msgstr ""
 
-#: includes/avada-app/class-fusion-panel.php:425
+#: includes/avada-app/class-fusion-panel.php:424
 msgid "Add Page TitleBar"
 msgstr ""
 
-#: includes/avada-app/class-fusion-panel.php:426
+#: includes/avada-app/class-fusion-panel.php:425
 msgid "Edit Global Page TitleBar"
 msgstr ""
 
-#: includes/avada-app/class-fusion-panel.php:427
+#: includes/avada-app/class-fusion-panel.php:426
 msgid "Edit Page TitleBar"
 msgstr ""
 
-#: includes/avada-app/class-fusion-panel.php:428
+#: includes/avada-app/class-fusion-panel.php:427
 msgid "Edit Page TitleBar Layout Section"
 msgstr ""
 
-#: includes/avada-app/class-fusion-panel.php:429
+#: includes/avada-app/class-fusion-panel.php:428
 msgid "Remove Page TitleBar"
 msgstr ""
 
-#: includes/avada-app/class-fusion-panel.php:430
+#: includes/avada-app/class-fusion-panel.php:429
 #: includes/options/header.php:235
 msgid "Add Slider"
 msgstr ""
 
-#: includes/avada-app/class-fusion-panel.php:431
+#: includes/avada-app/class-fusion-panel.php:430
 msgid "Edit Slide"
 msgstr ""
 
-#: includes/avada-app/class-fusion-panel.php:432
+#: includes/avada-app/class-fusion-panel.php:431
 #: includes/avada-functions.php:987
 msgid "Edit Slider"
 msgstr ""
 
-#: includes/avada-app/class-fusion-panel.php:433
+#: includes/avada-app/class-fusion-panel.php:432
 msgid "Edit Slider Options"
 msgstr ""
 
-#: includes/avada-app/class-fusion-panel.php:434
+#: includes/avada-app/class-fusion-panel.php:433
 #: includes/avada-functions.php:994 includes/avada-functions.php:995
 #: includes/avada-functions.php:1009
 msgid "Remove Slider"
 msgstr ""
 
-#: includes/avada-app/class-fusion-panel.php:435
+#: includes/avada-app/class-fusion-panel.php:434
 msgid ""
 "You have chosen to edit your selected slider. This operation must be "
 "performed from the WordPress dashboard."
 msgstr ""
 
-#: includes/avada-app/class-fusion-panel.php:436
+#: includes/avada-app/class-fusion-panel.php:435
 #: includes/class-avada-megamenu-framework.php:1065
 #: includes/class-avada-nav-walker-megamenu.php:259
 #: includes/lib/inc/class-awb-widget-style.php:421
@@ -3093,44 +3093,44 @@ msgstr ""
 msgid "Cancel"
 msgstr ""
 
-#: includes/avada-app/class-fusion-panel.php:438
+#: includes/avada-app/class-fusion-panel.php:437
 msgid "LayerSlider"
 msgstr ""
 
-#: includes/avada-app/class-fusion-panel.php:441
+#: includes/avada-app/class-fusion-panel.php:440
 #: includes/options/advanced.php:662 includes/options/elastic_slider.php:27
 msgid "Elastic Slider"
 msgstr ""
 
-#: includes/avada-app/class-fusion-panel.php:480
+#: includes/avada-app/class-fusion-panel.php:479
 msgid "Invalid CSS Value"
 msgstr ""
 
 #. translators: The value.
-#: includes/avada-app/class-fusion-panel.php:482
+#: includes/avada-app/class-fusion-panel.php:481
 msgid "Invalid CSS Value: %s"
 msgstr ""
 
-#: includes/avada-app/class-fusion-panel.php:483
+#: includes/avada-app/class-fusion-panel.php:482
 msgid "Invalid Color"
 msgstr ""
 
-#: includes/avada-app/class-fusion-panel.php:703
-#: includes/avada-app/class-fusion-panel.php:838
+#: includes/avada-app/class-fusion-panel.php:702
+#: includes/avada-app/class-fusion-panel.php:837
 #: includes/lib/inc/fusion-app/helpers.php:565 includes/options/privacy.php:850
 msgid "Settings"
 msgstr ""
 
-#: includes/avada-app/class-fusion-panel.php:721
-#: includes/avada-app/class-fusion-panel.php:856
+#: includes/avada-app/class-fusion-panel.php:720
+#: includes/avada-app/class-fusion-panel.php:855
 msgid "Slug"
 msgstr ""
 
-#: includes/avada-app/class-fusion-panel.php:734
+#: includes/avada-app/class-fusion-panel.php:733
 msgid "Parent Category"
 msgstr ""
 
-#: includes/avada-app/class-fusion-panel.php:745
+#: includes/avada-app/class-fusion-panel.php:744
 #: includes/class-avada-nav-walker-megamenu.php:213
 #: includes/lib/inc/class-fusion-patcher-admin-screen.php:290
 #: includes/lib/inc/redux/framework/FusionReduxCore/inc/fields/slides/field_slides.php:170
@@ -3140,86 +3140,86 @@ msgstr ""
 msgid "Description"
 msgstr ""
 
-#: includes/avada-app/class-fusion-panel.php:784
+#: includes/avada-app/class-fusion-panel.php:783
 msgid "Select Parent"
 msgstr ""
 
-#: includes/avada-app/class-fusion-panel.php:792
+#: includes/avada-app/class-fusion-panel.php:791
 msgid "(no title)"
 msgstr ""
 
-#: includes/avada-app/class-fusion-panel.php:804
+#: includes/avada-app/class-fusion-panel.php:803
 #: includes/class-avada-woocommerce.php:2379
 msgid "Default Template"
 msgstr ""
 
-#: includes/avada-app/class-fusion-panel.php:843
+#: includes/avada-app/class-fusion-panel.php:842
 msgid "Page Title"
 msgstr ""
 
-#: includes/avada-app/class-fusion-panel.php:867
+#: includes/avada-app/class-fusion-panel.php:866
 msgid "Page Attributes"
 msgstr ""
 
-#: includes/avada-app/class-fusion-panel.php:878
-#: includes/avada-app/class-fusion-panel.php:894 includes/options/menu.php:729
+#: includes/avada-app/class-fusion-panel.php:877
+#: includes/avada-app/class-fusion-panel.php:893 includes/options/menu.php:729
 msgid "Parent"
 msgstr ""
 
-#: includes/avada-app/class-fusion-panel.php:909
+#: includes/avada-app/class-fusion-panel.php:908
 #: includes/metaboxes/metaboxes.php:693
 #: includes/metaboxes/tabs/tab_fusion_template.php:21
 msgid "Template"
 msgstr ""
 
-#: includes/avada-app/class-fusion-panel.php:922
+#: includes/avada-app/class-fusion-panel.php:921
 #: includes/class-avada-admin.php:1852
 msgid "Order"
 msgstr ""
 
-#: includes/avada-app/class-fusion-panel.php:933
+#: includes/avada-app/class-fusion-panel.php:932
 msgid "Post Format"
 msgstr ""
 
-#: includes/avada-app/class-fusion-panel.php:975
+#: includes/avada-app/class-fusion-panel.php:974
 msgid "Choose"
 msgstr ""
 
-#: includes/avada-app/class-fusion-panel.php:994 includes/options/blog.php:591
+#: includes/avada-app/class-fusion-panel.php:993 includes/options/blog.php:591
 #: includes/options/portfolio.php:243 includes/options/search.php:474
 msgid "Excerpt"
 msgstr ""
 
-#: includes/avada-app/class-fusion-panel.php:1036
+#: includes/avada-app/class-fusion-panel.php:1035
 #: includes/lib/inc/widgets/class-fusion-widget-author.php:287
 #: includes/options/portfolio.php:674 includes/options/search.php:559
 msgid "Author"
 msgstr ""
 
-#: includes/avada-app/class-fusion-panel.php:1050
-#: includes/avada-app/class-fusion-panel.php:1058
+#: includes/avada-app/class-fusion-panel.php:1049
+#: includes/avada-app/class-fusion-panel.php:1057
 #: includes/class-avada-taxonomy-meta.php:162
 msgid "Featured Image"
 msgstr ""
 
 #. Translators: Ordinal number of featured image.
-#: includes/avada-app/class-fusion-panel.php:1100
+#: includes/avada-app/class-fusion-panel.php:1099
 msgid "Featured Image %s"
 msgstr ""
 
-#: includes/avada-app/class-fusion-panel.php:1160
+#: includes/avada-app/class-fusion-panel.php:1159
 #: includes/lib/inc/fusion-app/helpers.php:243
 #: includes/options/custom_css.php:27
 msgid "Custom CSS"
 msgstr ""
 
-#: includes/avada-app/class-fusion-panel.php:1165
+#: includes/avada-app/class-fusion-panel.php:1164
 #: includes/options/custom_css.php:34
 msgid "CSS Code"
 msgstr ""
 
 #. translators: <code>!important</code>
-#: includes/avada-app/class-fusion-panel.php:1167
+#: includes/avada-app/class-fusion-panel.php:1166
 #: includes/options/custom_css.php:36
 msgid ""
 "Enter your CSS code in the field below. Do not include any tags or HTML in "
@@ -3228,89 +3228,89 @@ msgid ""
 "Contents of this field will be auto encoded."
 msgstr ""
 
-#: includes/avada-app/class-fusion-panel.php:1184
-#: includes/avada-app/class-fusion-panel.php:1541
+#: includes/avada-app/class-fusion-panel.php:1183
+#: includes/avada-app/class-fusion-panel.php:1540
 msgid "Import/Export"
 msgstr ""
 
-#: includes/avada-app/class-fusion-panel.php:1191
+#: includes/avada-app/class-fusion-panel.php:1190
 #: includes/metaboxes/tabs/tab_avada_page_options.php:82
 #: includes/metaboxes/tabs/tab_avada_page_options.php:93
 msgid "Import Page Options"
 msgstr ""
 
-#: includes/avada-app/class-fusion-panel.php:1192
+#: includes/avada-app/class-fusion-panel.php:1191
 msgid ""
 "Import Page Options.  You can import via file or copy and paste from JSON "
 "data."
 msgstr ""
 
-#: includes/avada-app/class-fusion-panel.php:1198
+#: includes/avada-app/class-fusion-panel.php:1197
 #: includes/metaboxes/tabs/tab_avada_page_options.php:69
 #: includes/metaboxes/tabs/tab_avada_page_options.php:75
 msgid "Export Page Options"
 msgstr ""
 
-#: includes/avada-app/class-fusion-panel.php:1199
+#: includes/avada-app/class-fusion-panel.php:1198
 msgid ""
 "Export your Page Options.  You can either export as a file or copy the data."
 msgstr ""
 
-#: includes/avada-app/class-fusion-panel.php:1428
-#: includes/avada-app/class-fusion-panel.php:1436
+#: includes/avada-app/class-fusion-panel.php:1427
+#: includes/avada-app/class-fusion-panel.php:1435
 #: includes/avada-app/panel/templates/sidebar.php:63
 #: includes/options/shortcode_styling.php:30
 msgid "Avada Builder Elements"
 msgstr ""
 
-#: includes/avada-app/class-fusion-panel.php:1441
+#: includes/avada-app/class-fusion-panel.php:1440
 #: includes/avada-app/panel/templates/sidebar.php:69
 msgid "Add-on Elements"
 msgstr ""
 
-#: includes/avada-app/class-fusion-panel.php:1548
+#: includes/avada-app/class-fusion-panel.php:1547
 msgid "Import Global Options"
 msgstr ""
 
-#: includes/avada-app/class-fusion-panel.php:1549
+#: includes/avada-app/class-fusion-panel.php:1548
 msgid ""
 "Import Global Options. You can import via file, copy and paste or select an "
 "Avada prebuilt website."
 msgstr ""
 
-#: includes/avada-app/class-fusion-panel.php:1556
-#: includes/avada-app/class-fusion-panel.php:1561
+#: includes/avada-app/class-fusion-panel.php:1555
+#: includes/avada-app/class-fusion-panel.php:1560
 msgid "Export Global Options"
 msgstr ""
 
-#: includes/avada-app/class-fusion-panel.php:1557
+#: includes/avada-app/class-fusion-panel.php:1556
 msgid ""
 "Export your Global Options. You can either export as a file or copy the data."
 msgstr ""
 
-#: includes/avada-app/class-fusion-panel.php:1782
+#: includes/avada-app/class-fusion-panel.php:1781
 #: includes/avada-functions.php:1899
 #: includes/lib/inc/class-fusion-fusionredux.php:249
 msgid "Posts"
 msgstr ""
 
-#: includes/avada-app/class-fusion-panel.php:1784
+#: includes/avada-app/class-fusion-panel.php:1783
 #: includes/lib/inc/class-fusion-fusionredux.php:251
 msgid "Portfolio Items"
 msgstr ""
 
-#: includes/avada-app/class-fusion-panel.php:1785
+#: includes/avada-app/class-fusion-panel.php:1784
 #: includes/lib/inc/class-fusion-fusionredux.php:252
 msgid "FAQ Items"
 msgstr ""
 
-#: includes/avada-app/class-fusion-panel.php:1786
+#: includes/avada-app/class-fusion-panel.php:1785
 #: includes/lib/inc/class-fusion-fusionredux.php:253
 #: includes/options/sidebars.php:488
 msgid "WooCommerce Products"
 msgstr ""
 
-#: includes/avada-app/class-fusion-panel.php:1787
+#: includes/avada-app/class-fusion-panel.php:1786
 #: includes/lib/inc/class-fusion-fusionredux.php:254
 msgid "Events Calendar Posts"
 msgstr ""
@@ -4882,8 +4882,15 @@ msgstr ""
 msgid "Import / Export"
 msgstr ""
 
+#: includes/class-avada-page-options.php:356
+#: includes/class-avada-page-options.php:394
+#: includes/class-avada-system-status.php:146
+#: includes/class-avada-system-status.php:178
+msgid "Permission check failed."
+msgstr ""
+
 #. translators: Number.
-#: includes/class-avada-page-options.php:407
+#: includes/class-avada-page-options.php:420
 msgid "Custom page options %d "
 msgstr ""
 
@@ -5097,14 +5104,8 @@ msgid ""
 "Something went wrong while checking API status. Response code: %1$s. %2$s"
 msgstr ""
 
-#: includes/class-avada-system-status.php:145
+#: includes/class-avada-system-status.php:149
 msgid "Creating database tables failed."
-msgstr ""
-
-#: includes/class-avada-system-status.php:148
-#: includes/class-avada-system-status.php:178
-#: includes/class-avada-system-status.php:202
-msgid "Security check failed."
 msgstr ""
 
 #: includes/class-avada-system-status.php:162
@@ -5117,6 +5118,10 @@ msgstr ""
 
 #: includes/class-avada-system-status.php:199
 msgid "This is not a multisite."
+msgstr ""
+
+#: includes/class-avada-system-status.php:202
+msgid "Security check failed."
 msgstr ""
 
 #: includes/class-avada-system-status.php:217
@@ -7627,26 +7632,26 @@ msgid "Dismiss Message"
 msgstr ""
 
 #. translators: The search query.
-#: includes/lib/inc/class-fusion-helper.php:340
+#: includes/lib/inc/class-fusion-helper.php:377
 msgid "Search results for: %s"
 msgstr ""
 
-#: includes/lib/inc/class-fusion-helper.php:353
+#: includes/lib/inc/class-fusion-helper.php:390
 msgid "Error 404 Page"
 msgstr ""
 
 #. translators: Date.
-#: includes/lib/inc/class-fusion-helper.php:361
+#: includes/lib/inc/class-fusion-helper.php:398
 msgid "Daily Archives: %s"
 msgstr ""
 
 #. translators: Date.
-#: includes/lib/inc/class-fusion-helper.php:364
+#: includes/lib/inc/class-fusion-helper.php:401
 msgid "Monthly Archives: %s"
 msgstr ""
 
 #. translators: Date.
-#: includes/lib/inc/class-fusion-helper.php:367
+#: includes/lib/inc/class-fusion-helper.php:404
 msgid "Yearly Archives: %s"
 msgstr ""
 
@@ -22456,9 +22461,9 @@ msgstr ""
 msgid ""
 "<strong>IMPORTANT NOTE:</strong> To use the Avada PWA feature your site must "
 "use SSL (HTTPS). For more information about the options in this section, "
-"please see our <a href=\"https://avada.com/documentation/how-to-use-pwa-"
-"progressive-web-apps-with-avada/\" target=\"_blank\">PWA documentation</a> "
-"page. To learn more about caching strategies and their use in general you "
+"please see our <a href=\"https://classic.avada.com/documentation/how-to-use-"
+"pwa-progressive-web-apps-with-avada/\" target=\"_blank\">PWA documentation</"
+"a> page. To learn more about caching strategies and their use in general you "
 "can <a href=\"https://developers.google.com/web/tools/workbox/modules/"
 "workbox-strategies\" target=\"_blank\" rel=\"nofollow\">read this article</"
 "a>."
@@ -25249,8 +25254,8 @@ msgid ""
 "Turn on to enable the WooCommerce product images zoom feature. "
 "<strong>IMPORTANT NOTE:</strong> Every product image you use must be larger "
 "than the product images container for zoom to work correctly. <a "
-"href=\"https://avada.com/documentation/woocommerce-single-product-gallery/\" "
-"target=\"_blank\">See this post for more information.</a>"
+"href=\"https://classic.avada.com/documentation/woocommerce-single-product-"
+"gallery/\" target=\"_blank\">See this post for more information.</a>"
 msgstr ""
 
 #: includes/options/woocommerce.php:153
@@ -25264,9 +25269,9 @@ msgid ""
 "gallery size you select for this option. <strong>IMPORTANT NOTE:</strong> "
 "When this option is changed, you may need to adjust the Single Product Image "
 "size setting in WooCommerce Settings to make sure that one is larger and "
-"also regenerate thumbnails. <a href=\"https://avada.com/documentation/"
-"woocommerce-single-product-gallery/\" target=\"_blank\">See this post for "
-"more information.</a><br/>"
+"also regenerate thumbnails. <a href=\"https://classic.avada.com/"
+"documentation/woocommerce-single-product-gallery/\" target=\"_blank\">See "
+"this post for more information.</a><br/>"
 msgstr ""
 
 #: includes/options/woocommerce.php:179
@@ -25277,7 +25282,7 @@ msgstr ""
 msgid ""
 "Controls the natural image width of product page image gallery thumbnails. "
 "<strong>IMPORTANT NOTE:</strong> When this option is changed, you need to "
-"make sure to regenerate thumbnails. <a href=\"https://avada.com/"
+"make sure to regenerate thumbnails. <a href=\"https://classic.avada.com/"
 "documentation/woocommerce-single-product-gallery/\" target=\"_blank\">See "
 "this post for more information.</a><br/>"
 msgstr ""
@@ -26306,7 +26311,7 @@ msgid "Additional information"
 msgstr ""
 
 #. Theme URI of the plugin/theme
-msgid "https://avada.com/"
+msgid "https://classic.avada.com/"
 msgstr ""
 
 #. Description of the plugin/theme
