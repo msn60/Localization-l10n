@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Fusion Core 3.1.6\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/fusion-core\n"
-"POT-Creation-Date: 2026-06-10 13:34:38+00:00\n"
+"POT-Creation-Date: 2026-06-11 09:32:32+00:00\n"
 "PO-Revision-Date: 2026-04-14 11:08+0800\n"
 "Last-Translator: Bo <thewayyouare@vip.qq.com>\n"
 "Language-Team: Chinese (China)\n"
@@ -214,43 +214,43 @@ msgstr "错误：无法导出滑块"
 msgid "Please make sure wp-content/uploads folder is writeable."
 msgstr "请确保 wp-content/uploads 文件夹可写。"
 
-#: fusion-slider/class-fusion-slider.php:984
+#: fusion-slider/class-fusion-slider.php:978
 msgid "Error: No file to import"
 msgstr "错误：没有要导入的文件"
 
-#: fusion-slider/class-fusion-slider.php:985
+#: fusion-slider/class-fusion-slider.php:979
 msgid ""
 "Please make sure to upload a zip file containing valid Avada Slider export "
 "data."
 msgstr "请确保上传包含有效 Avada Slider 导出数据的 zip 文件。"
 
-#: fusion-slider/class-fusion-slider.php:1042
+#: fusion-slider/class-fusion-slider.php:1036
 #: fusion-slider/templates/clone-button-after-title.php:19
 msgid "Clone this slide"
 msgstr "克隆此幻灯片"
 
-#: fusion-slider/class-fusion-slider.php:1042
-#: fusion-slider/class-fusion-slider.php:1063
+#: fusion-slider/class-fusion-slider.php:1036
+#: fusion-slider/class-fusion-slider.php:1057
 msgid "Clone"
 msgstr "克隆"
 
-#: fusion-slider/class-fusion-slider.php:1063
+#: fusion-slider/class-fusion-slider.php:1057
 msgid "Clone this slider"
 msgstr "克隆此滑块"
 
 #. translators: The term title.
 #. translators: The post title.
-#: fusion-slider/class-fusion-slider.php:1114
-#: fusion-slider/class-fusion-slider.php:1236
+#: fusion-slider/class-fusion-slider.php:1108
+#: fusion-slider/class-fusion-slider.php:1230
 msgid "%s ( Cloned )"
 msgstr "%s ( 已克隆 )"
 
-#: fusion-slider/class-fusion-slider.php:1184
+#: fusion-slider/class-fusion-slider.php:1178
 msgid "No slide to clone."
 msgstr "没有可克隆的幻灯片。"
 
 #. translators: The ID found.
-#: fusion-slider/class-fusion-slider.php:1204
+#: fusion-slider/class-fusion-slider.php:1198
 msgid "Cloning failed. Post not found. ID: %s"
 msgstr "克隆失败。文章未找到。ID: %s"
 
@@ -2716,8 +2716,8 @@ msgid "Avada Core"
 msgstr "Avada Core"
 
 #. Plugin URI of the plugin/theme
-msgid "https://classic.avada.com"
-msgstr ""
+msgid "https://avada.com"
+msgstr "https://avada.com"
 
 #. Description of the plugin/theme
 msgid ""
@@ -2805,9 +2805,6 @@ msgstr "群组"
 msgctxt "Taxonomy Singular Name"
 msgid "Group"
 msgstr "群组"
-
-#~ msgid "https://avada.com"
-#~ msgstr "https://avada.com"
 
 #~ msgid "Privacy"
 #~ msgstr "隐私"

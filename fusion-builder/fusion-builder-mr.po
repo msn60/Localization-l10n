@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Fusion Builder 1.1.6\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/fusion-builder\n"
-"POT-Creation-Date: 2026-06-10 13:35:41+00:00\n"
+"POT-Creation-Date: 2026-06-11 09:33:34+00:00\n"
 "PO-Revision-Date: 2017-06-22 11:06+0300\n"
 "Last-Translator: Aristeides <info@theme-fusion.com>\n"
 "Language-Team: Marathi\n"
@@ -39,7 +39,7 @@ msgstr ""
 #: inc/admin-screens/options.php:58
 #: inc/admin-screens/role-manager-options.php:62
 #: inc/class-fusion-builder-gutenberg.php:203
-#: inc/class-fusion-builder-gutenberg.php:444 inc/class-fusion-builder.php:2621
+#: inc/class-fusion-builder-gutenberg.php:444 inc/class-fusion-builder.php:2629
 #: inc/class-fusion-template-builder.php:377
 #: inc/class-fusion-template-builder.php:2738 inc/helpers.php:2992
 msgid "Live Builder"
@@ -100,7 +100,7 @@ msgstr ""
 
 #: front-end/class-fusion-builder-front.php:1572
 #: inc/class-awb-demo-import.php:286 inc/class-fusion-builder-admin.php:102
-#: inc/helpers.php:2391 inc/lib/inc/fusion-app/class-fusion-app.php:2563
+#: inc/helpers.php:2391 inc/lib/inc/fusion-app/class-fusion-app.php:2569
 #: inc/lib/inc/fusion-app/helpers.php:223
 #: inc/lib/inc/fusion-app/templates/front-end-toolbar.php:149
 msgid "Preview"
@@ -1340,7 +1340,7 @@ msgstr ""
 #: inc/admin-screens/library.php:40
 #: inc/class-fusion-builder-library-table.php:229
 #: inc/class-fusion-dynamic-data.php:1016
-#: inc/lib/inc/fusion-app/class-fusion-app.php:1041
+#: inc/lib/inc/fusion-app/class-fusion-app.php:1047
 #: shortcodes/components/post-card-archives.php:595
 #: shortcodes/components/post-card-archives.php:644
 #: shortcodes/fusion-post-cards.php:3131 shortcodes/fusion-post-cards.php:3180
@@ -1349,7 +1349,7 @@ msgstr ""
 
 #: inc/admin-screens/library.php:41
 #: inc/class-fusion-builder-library-table.php:231
-#: inc/lib/inc/fusion-app/class-fusion-app.php:1083
+#: inc/lib/inc/fusion-app/class-fusion-app.php:1089
 msgid "Mega Menu"
 msgstr ""
 
@@ -1374,7 +1374,7 @@ msgstr ""
 #: inc/class-fusion-dynamic-data.php:1955
 #: inc/class-fusion-dynamic-data.php:1967
 #: inc/class-fusion-dynamic-data.php:1976
-#: inc/lib/inc/fusion-app/class-fusion-app.php:1118
+#: inc/lib/inc/fusion-app/class-fusion-app.php:1124
 msgid "Off Canvas"
 msgstr ""
 
@@ -1437,8 +1437,8 @@ msgstr ""
 #: inc/admin-screens/options.php:59
 #: inc/admin-screens/role-manager-options.php:50
 #: inc/class-fusion-builder-gutenberg.php:199
-#: inc/class-fusion-builder-gutenberg.php:460 inc/class-fusion-builder.php:2609
-#: inc/class-fusion-builder.php:2616 inc/helpers.php:3005
+#: inc/class-fusion-builder-gutenberg.php:460 inc/class-fusion-builder.php:2617
+#: inc/class-fusion-builder.php:2624 inc/helpers.php:3005
 msgid "Back-end Builder"
 msgstr ""
 
@@ -1909,7 +1909,7 @@ msgstr ""
 msgid "Log In"
 msgstr ""
 
-#: inc/class-awb-nav-walker.php:1609 inc/class-fusion-form-auth-actions.php:847
+#: inc/class-awb-nav-walker.php:1609 inc/class-fusion-form-auth-actions.php:854
 #: shortcodes/fusion-user-login.php:189 shortcodes/fusion-user-login.php:303
 #: shortcodes/fusion-user-login.php:453
 msgid "Register"
@@ -2274,22 +2274,22 @@ msgstr ""
 #: inc/class-fusion-dynamic-data.php:3208
 #: inc/class-fusion-dynamic-data.php:3530
 #: inc/class-fusion-dynamic-data.php:3875
-#: inc/class-fusion-form-auth-actions.php:785
-#: inc/class-fusion-form-auth-actions.php:796
-#: inc/class-fusion-form-auth-actions.php:827
-#: inc/class-fusion-form-auth-actions.php:838
-#: inc/class-fusion-form-auth-actions.php:876
-#: inc/class-fusion-form-auth-actions.php:915
-#: inc/class-fusion-form-auth-actions.php:926
-#: inc/class-fusion-form-auth-actions.php:937
-#: inc/class-fusion-form-auth-actions.php:948
-#: inc/class-fusion-form-auth-actions.php:959
-#: inc/class-fusion-form-auth-actions.php:977
-#: inc/class-fusion-form-auth-actions.php:1016
-#: inc/class-fusion-form-auth-actions.php:1027
-#: inc/class-fusion-form-auth-actions.php:1065
-#: inc/class-fusion-form-auth-actions.php:1076
-#: inc/class-fusion-form-auth-actions.php:1087
+#: inc/class-fusion-form-auth-actions.php:792
+#: inc/class-fusion-form-auth-actions.php:803
+#: inc/class-fusion-form-auth-actions.php:834
+#: inc/class-fusion-form-auth-actions.php:845
+#: inc/class-fusion-form-auth-actions.php:883
+#: inc/class-fusion-form-auth-actions.php:922
+#: inc/class-fusion-form-auth-actions.php:933
+#: inc/class-fusion-form-auth-actions.php:944
+#: inc/class-fusion-form-auth-actions.php:955
+#: inc/class-fusion-form-auth-actions.php:966
+#: inc/class-fusion-form-auth-actions.php:984
+#: inc/class-fusion-form-auth-actions.php:1023
+#: inc/class-fusion-form-auth-actions.php:1034
+#: inc/class-fusion-form-auth-actions.php:1072
+#: inc/class-fusion-form-auth-actions.php:1083
+#: inc/class-fusion-form-auth-actions.php:1094
 #: inc/class-fusion-mailchimp.php:1167
 #: inc/class-fusion-woo-products-component.php:750
 #: inc/class-fusion-woo-products-component.php:768
@@ -2574,22 +2574,22 @@ msgstr ""
 #: inc/class-fusion-dynamic-data.php:3209
 #: inc/class-fusion-dynamic-data.php:3531
 #: inc/class-fusion-dynamic-data.php:3876
-#: inc/class-fusion-form-auth-actions.php:786
-#: inc/class-fusion-form-auth-actions.php:797
-#: inc/class-fusion-form-auth-actions.php:828
-#: inc/class-fusion-form-auth-actions.php:839
-#: inc/class-fusion-form-auth-actions.php:877
-#: inc/class-fusion-form-auth-actions.php:916
-#: inc/class-fusion-form-auth-actions.php:927
-#: inc/class-fusion-form-auth-actions.php:938
-#: inc/class-fusion-form-auth-actions.php:949
-#: inc/class-fusion-form-auth-actions.php:960
-#: inc/class-fusion-form-auth-actions.php:978
-#: inc/class-fusion-form-auth-actions.php:1017
-#: inc/class-fusion-form-auth-actions.php:1028
-#: inc/class-fusion-form-auth-actions.php:1066
-#: inc/class-fusion-form-auth-actions.php:1077
-#: inc/class-fusion-form-auth-actions.php:1088
+#: inc/class-fusion-form-auth-actions.php:793
+#: inc/class-fusion-form-auth-actions.php:804
+#: inc/class-fusion-form-auth-actions.php:835
+#: inc/class-fusion-form-auth-actions.php:846
+#: inc/class-fusion-form-auth-actions.php:884
+#: inc/class-fusion-form-auth-actions.php:923
+#: inc/class-fusion-form-auth-actions.php:934
+#: inc/class-fusion-form-auth-actions.php:945
+#: inc/class-fusion-form-auth-actions.php:956
+#: inc/class-fusion-form-auth-actions.php:967
+#: inc/class-fusion-form-auth-actions.php:985
+#: inc/class-fusion-form-auth-actions.php:1024
+#: inc/class-fusion-form-auth-actions.php:1035
+#: inc/class-fusion-form-auth-actions.php:1073
+#: inc/class-fusion-form-auth-actions.php:1084
+#: inc/class-fusion-form-auth-actions.php:1095
 #: inc/class-fusion-mailchimp.php:1168
 #: inc/class-fusion-woo-products-component.php:751
 #: inc/class-fusion-woo-products-component.php:769
@@ -4473,7 +4473,7 @@ msgid "Form Entries"
 msgstr ""
 
 #: inc/class-fusion-builder-admin.php:150
-#: inc/class-fusion-builder-admin.php:170 inc/class-fusion-builder.php:3166
+#: inc/class-fusion-builder-admin.php:170 inc/class-fusion-builder.php:3174
 msgid "Builder Options"
 msgstr ""
 
@@ -4916,32 +4916,32 @@ msgid ""
 "contact the individual Add-on creator you purchased them from."
 msgstr ""
 
-#: inc/class-fusion-builder.php:1069
+#: inc/class-fusion-builder.php:1077
 msgid "Go to the Avada plugin installation page"
 msgstr ""
 
-#: inc/class-fusion-builder.php:1563
+#: inc/class-fusion-builder.php:1571
 msgid ""
 "You are editing a saved container from the Avada Builder Library which will "
 "update with your changes when you click the update button. This is not a "
 "real page, only a saved container."
 msgstr ""
 
-#: inc/class-fusion-builder.php:1565
+#: inc/class-fusion-builder.php:1573
 msgid ""
 "You are editing a saved column from the Avada Builder Library which will "
 "update with your changes when you click the update button. This is not a "
 "real page, only a saved column."
 msgstr ""
 
-#: inc/class-fusion-builder.php:1567
+#: inc/class-fusion-builder.php:1575
 msgid ""
 "You are editing a saved element from the Avada Builder Library which will "
 "update with your changes when you click the update button. This is not a "
 "real page, only a saved element."
 msgstr ""
 
-#: inc/class-fusion-builder.php:1569
+#: inc/class-fusion-builder.php:1577
 msgid ""
 "You are editing a post card from the Avada Builder Library which will update "
 "with your changes when you click the update button. This is not a real page, "
@@ -4949,15 +4949,15 @@ msgid ""
 "element as a way of displaying posts."
 msgstr ""
 
-#: inc/class-fusion-builder.php:1591
+#: inc/class-fusion-builder.php:1599
 msgid "Avada Builder Settings"
 msgstr ""
 
-#: inc/class-fusion-builder.php:1593
+#: inc/class-fusion-builder.php:1601
 msgid "Important"
 msgstr ""
 
-#: inc/class-fusion-builder.php:2609 inc/class-fusion-builder.php:2616
+#: inc/class-fusion-builder.php:2617 inc/class-fusion-builder.php:2624
 msgid "Default Editor"
 msgstr ""
 
@@ -9046,9 +9046,9 @@ msgid "3rd Party Element"
 msgstr ""
 
 #: inc/class-fusion-form-auth-actions.php:91
-#: inc/class-fusion-form-auth-actions.php:223
-#: inc/class-fusion-form-auth-actions.php:365
-#: inc/class-fusion-form-auth-actions.php:439
+#: inc/class-fusion-form-auth-actions.php:230
+#: inc/class-fusion-form-auth-actions.php:372
+#: inc/class-fusion-form-auth-actions.php:446
 msgid "Please ensure all fields are filled out."
 msgstr ""
 
@@ -9064,220 +9064,220 @@ msgstr ""
 msgid "Thank you for logging in %s."
 msgstr ""
 
-#: inc/class-fusion-form-auth-actions.php:231
+#: inc/class-fusion-form-auth-actions.php:238
 msgid "Form fields were not mapped to WordPress registration fields."
 msgstr ""
 
-#: inc/class-fusion-form-auth-actions.php:335
+#: inc/class-fusion-form-auth-actions.php:342
 msgid "The user with the ID %d was successfully created."
 msgstr ""
 
-#: inc/class-fusion-form-auth-actions.php:341
+#: inc/class-fusion-form-auth-actions.php:348
 msgid "User could not be created."
 msgstr ""
 
-#: inc/class-fusion-form-auth-actions.php:373
+#: inc/class-fusion-form-auth-actions.php:380
 msgid "Form fields were not mapped to the WordPress lost password field."
 msgstr ""
 
-#: inc/class-fusion-form-auth-actions.php:400
+#: inc/class-fusion-form-auth-actions.php:407
 msgid ""
 "If the account exists, a password reset link will be sent to its email "
 "address."
 msgstr ""
 
-#: inc/class-fusion-form-auth-actions.php:406
-#: inc/class-fusion-form-auth-actions.php:521
+#: inc/class-fusion-form-auth-actions.php:413
+#: inc/class-fusion-form-auth-actions.php:528
 msgid "There is no account with that username or email address."
 msgstr ""
 
-#: inc/class-fusion-form-auth-actions.php:414
+#: inc/class-fusion-form-auth-actions.php:421
 msgid "User could not be identified."
 msgstr ""
 
-#: inc/class-fusion-form-auth-actions.php:447
+#: inc/class-fusion-form-auth-actions.php:454
 msgid "Form fields were not mapped to the WordPress reset password field."
 msgstr ""
 
-#: inc/class-fusion-form-auth-actions.php:461
+#: inc/class-fusion-form-auth-actions.php:468
 msgid "No password provided."
 msgstr ""
 
-#: inc/class-fusion-form-auth-actions.php:477
+#: inc/class-fusion-form-auth-actions.php:484
 msgid "The password reset key is invalid."
 msgstr ""
 
-#: inc/class-fusion-form-auth-actions.php:498
+#: inc/class-fusion-form-auth-actions.php:505
 msgid "The password was successfully reset."
 msgstr ""
 
-#: inc/class-fusion-form-auth-actions.php:505
+#: inc/class-fusion-form-auth-actions.php:512
 msgid "An unexpected error happened."
 msgstr ""
 
-#: inc/class-fusion-form-auth-actions.php:530
+#: inc/class-fusion-form-auth-actions.php:537
 msgid "Password reset is not allowed for this user."
 msgstr ""
 
-#: inc/class-fusion-form-auth-actions.php:587
+#: inc/class-fusion-form-auth-actions.php:594
 msgid "An email address is required for registration."
 msgstr ""
 
-#: inc/class-fusion-form-auth-actions.php:595
+#: inc/class-fusion-form-auth-actions.php:602
 msgid "The email address is not valid."
 msgstr ""
 
-#: inc/class-fusion-form-auth-actions.php:603
+#: inc/class-fusion-form-auth-actions.php:610
 msgid "This email address is already registered."
 msgstr ""
 
-#: inc/class-fusion-form-auth-actions.php:624
+#: inc/class-fusion-form-auth-actions.php:631
 msgid "A username is required."
 msgstr ""
 
-#: inc/class-fusion-form-auth-actions.php:632
+#: inc/class-fusion-form-auth-actions.php:639
 msgid "The username is not valid."
 msgstr ""
 
-#: inc/class-fusion-form-auth-actions.php:640
+#: inc/class-fusion-form-auth-actions.php:647
 msgid "This username is already registered."
 msgstr ""
 
-#: inc/class-fusion-form-auth-actions.php:662
+#: inc/class-fusion-form-auth-actions.php:669
 msgid "A password is required."
 msgstr ""
 
-#: inc/class-fusion-form-auth-actions.php:670
+#: inc/class-fusion-form-auth-actions.php:677
 msgid "The password needs to be at least %s characters long."
 msgstr ""
 
-#: inc/class-fusion-form-auth-actions.php:728
+#: inc/class-fusion-form-auth-actions.php:735
 msgid "Select form field"
 msgstr ""
 
-#: inc/class-fusion-form-auth-actions.php:729
+#: inc/class-fusion-form-auth-actions.php:736
 msgid "Field: Login"
 msgstr ""
 
-#: inc/class-fusion-form-auth-actions.php:730
+#: inc/class-fusion-form-auth-actions.php:737
 msgid "Field: Password"
 msgstr ""
 
-#: inc/class-fusion-form-auth-actions.php:731
+#: inc/class-fusion-form-auth-actions.php:738
 msgid "Field: Remember Me"
 msgstr ""
 
-#: inc/class-fusion-form-auth-actions.php:732
+#: inc/class-fusion-form-auth-actions.php:739
 msgid "Field: Username"
 msgstr ""
 
-#: inc/class-fusion-form-auth-actions.php:733
+#: inc/class-fusion-form-auth-actions.php:740
 msgid "Field: Email"
 msgstr ""
 
-#: inc/class-fusion-form-auth-actions.php:734
+#: inc/class-fusion-form-auth-actions.php:741
 msgid "Field: First Name"
 msgstr ""
 
-#: inc/class-fusion-form-auth-actions.php:735
+#: inc/class-fusion-form-auth-actions.php:742
 msgid "Field: Last Name"
 msgstr ""
 
-#: inc/class-fusion-form-auth-actions.php:736
-#: inc/class-fusion-form-auth-actions.php:882
+#: inc/class-fusion-form-auth-actions.php:743
+#: inc/class-fusion-form-auth-actions.php:889
 #: inc/helpers/class-fusion-builder-conditional-render-helper.php:192
 msgid "User Role"
 msgstr ""
 
-#: inc/class-fusion-form-auth-actions.php:737
+#: inc/class-fusion-form-auth-actions.php:744
 msgid "Field: Username Or Email Address"
 msgstr ""
 
-#: inc/class-fusion-form-auth-actions.php:756
+#: inc/class-fusion-form-auth-actions.php:763
 msgid "Login"
 msgstr ""
 
-#: inc/class-fusion-form-auth-actions.php:773
-#: inc/class-fusion-form-auth-actions.php:864
-#: inc/class-fusion-form-auth-actions.php:1003
-#: inc/class-fusion-form-auth-actions.php:1053
+#: inc/class-fusion-form-auth-actions.php:780
+#: inc/class-fusion-form-auth-actions.php:871
+#: inc/class-fusion-form-auth-actions.php:1010
+#: inc/class-fusion-form-auth-actions.php:1060
 msgid "Form Field Mapping"
 msgstr ""
 
-#: inc/class-fusion-form-auth-actions.php:774
+#: inc/class-fusion-form-auth-actions.php:781
 msgid "Map fields from the form to the WordPress login fields."
 msgstr ""
 
-#: inc/class-fusion-form-auth-actions.php:780
+#: inc/class-fusion-form-auth-actions.php:787
 msgid "Use WooCommerce Login"
 msgstr ""
 
-#: inc/class-fusion-form-auth-actions.php:781
+#: inc/class-fusion-form-auth-actions.php:788
 msgid ""
 "If WooCommerce is active, route the login through its filters so "
 "woocommerce_process_login_errors validation, woocommerce_login_credentials "
 "and woocommerce_login_redirect run, and the customer session is merged."
 msgstr ""
 
-#: inc/class-fusion-form-auth-actions.php:791
+#: inc/class-fusion-form-auth-actions.php:798
 msgid "Use WP Redirect To"
 msgstr ""
 
-#: inc/class-fusion-form-auth-actions.php:792
+#: inc/class-fusion-form-auth-actions.php:799
 msgid ""
 "Set to \"yes\" if you want to use the WordPress redirect to feature, to take "
 "the logged in user back to the protected page that was initially visited."
 msgstr ""
 
-#: inc/class-fusion-form-auth-actions.php:802
+#: inc/class-fusion-form-auth-actions.php:809
 msgid "Redirect After"
 msgstr ""
 
-#: inc/class-fusion-form-auth-actions.php:803
+#: inc/class-fusion-form-auth-actions.php:810
 msgid "Set a timeout before the redirect takes place. In milliseconds."
 msgstr ""
 
-#: inc/class-fusion-form-auth-actions.php:822
-#: inc/class-fusion-form-auth-actions.php:921
-#: inc/class-fusion-form-auth-actions.php:1060
+#: inc/class-fusion-form-auth-actions.php:829
+#: inc/class-fusion-form-auth-actions.php:928
+#: inc/class-fusion-form-auth-actions.php:1067
 msgid "Encrypt Password"
 msgstr ""
 
-#: inc/class-fusion-form-auth-actions.php:823
-#: inc/class-fusion-form-auth-actions.php:922
-#: inc/class-fusion-form-auth-actions.php:1061
+#: inc/class-fusion-form-auth-actions.php:830
+#: inc/class-fusion-form-auth-actions.php:929
+#: inc/class-fusion-form-auth-actions.php:1068
 msgid ""
 "If set to \"yes\", the password will be encrypted in any other form data "
 "transmission, like saving to database or a notification email."
 msgstr ""
 
-#: inc/class-fusion-form-auth-actions.php:833
-#: inc/class-fusion-form-auth-actions.php:972
-#: inc/class-fusion-form-auth-actions.php:1022
-#: inc/class-fusion-form-auth-actions.php:1082
+#: inc/class-fusion-form-auth-actions.php:840
+#: inc/class-fusion-form-auth-actions.php:979
+#: inc/class-fusion-form-auth-actions.php:1029
+#: inc/class-fusion-form-auth-actions.php:1089
 msgid "Display Notices"
 msgstr ""
 
-#: inc/class-fusion-form-auth-actions.php:834
-#: inc/class-fusion-form-auth-actions.php:973
-#: inc/class-fusion-form-auth-actions.php:1023
-#: inc/class-fusion-form-auth-actions.php:1083
+#: inc/class-fusion-form-auth-actions.php:841
+#: inc/class-fusion-form-auth-actions.php:980
+#: inc/class-fusion-form-auth-actions.php:1030
+#: inc/class-fusion-form-auth-actions.php:1090
 msgid ""
 "Set to \"yes\" to add additional internal notices to the Notice element."
 msgstr ""
 
-#: inc/class-fusion-form-auth-actions.php:865
+#: inc/class-fusion-form-auth-actions.php:872
 msgid ""
 "Map fields from the form to the WordPress registration fields. To customize "
 "the emails sent to admin and the new user use the %1$s and %2$s hook "
 "respectively."
 msgstr ""
 
-#: inc/class-fusion-form-auth-actions.php:871
+#: inc/class-fusion-form-auth-actions.php:878
 msgid "Use WooCommerce Registration"
 msgstr ""
 
-#: inc/class-fusion-form-auth-actions.php:872
+#: inc/class-fusion-form-auth-actions.php:879
 msgid ""
 "If WooCommerce is active, create the user via wc_create_new_customer() so "
 "woocommerce_created_customer fires (CRM/mailer integrations) and the "
@@ -9285,7 +9285,7 @@ msgid ""
 "\"customer\" and WordPress new user notification is skipped."
 msgstr ""
 
-#: inc/class-fusion-form-auth-actions.php:883
+#: inc/class-fusion-form-auth-actions.php:890
 msgid ""
 "Select the role for the new user. Administrator is disabled for security "
 "reasons. Roles with elevated capabilities (e.g. Editor, or any custom role "
@@ -9294,70 +9294,70 @@ msgid ""
 "be assigned at registration."
 msgstr ""
 
-#: inc/class-fusion-form-auth-actions.php:897
+#: inc/class-fusion-form-auth-actions.php:904
 msgid "Password Minimum Length"
 msgstr ""
 
-#: inc/class-fusion-form-auth-actions.php:898
+#: inc/class-fusion-form-auth-actions.php:905
 msgid ""
 "Set a minimum length for the password. Set to \"0\" to disable minimum "
 "length. If the password is auto-created, the minimum length will always be "
 "at least 12."
 msgstr ""
 
-#: inc/class-fusion-form-auth-actions.php:910
+#: inc/class-fusion-form-auth-actions.php:917
 msgid "Auto Create Username"
 msgstr ""
 
-#: inc/class-fusion-form-auth-actions.php:911
+#: inc/class-fusion-form-auth-actions.php:918
 msgid ""
 "If set to \"yes\" and no username is specified in the form, the username "
 "will be auto-created based on the given email address."
 msgstr ""
 
-#: inc/class-fusion-form-auth-actions.php:932
+#: inc/class-fusion-form-auth-actions.php:939
 msgid "Auto Create Password"
 msgstr ""
 
-#: inc/class-fusion-form-auth-actions.php:933
+#: inc/class-fusion-form-auth-actions.php:940
 msgid ""
 "If set to \"yes\" and no password is specified in the form, the password "
 "will be auto-created with respect to the minimum length option."
 msgstr ""
 
-#: inc/class-fusion-form-auth-actions.php:943
+#: inc/class-fusion-form-auth-actions.php:950
 msgid "Log In User"
 msgstr ""
 
-#: inc/class-fusion-form-auth-actions.php:944
+#: inc/class-fusion-form-auth-actions.php:951
 msgid "Set to \"yes\" to log in the user after successful registration."
 msgstr ""
 
-#: inc/class-fusion-form-auth-actions.php:954
+#: inc/class-fusion-form-auth-actions.php:961
 msgid "Send WordPress Notification"
 msgstr ""
 
-#: inc/class-fusion-form-auth-actions.php:955
+#: inc/class-fusion-form-auth-actions.php:962
 msgid ""
 "Send WordPress new user notification, by triggering the "
 "\"register_new_user\" action."
 msgstr ""
 
-#: inc/class-fusion-form-auth-actions.php:986
+#: inc/class-fusion-form-auth-actions.php:993
 msgid "Lost Password"
 msgstr ""
 
-#: inc/class-fusion-form-auth-actions.php:1004
+#: inc/class-fusion-form-auth-actions.php:1011
 msgid ""
 "Map fields from the form to the WordPress lost password field. To customize "
 "the email with the password reset instructions, use the %s filter."
 msgstr ""
 
-#: inc/class-fusion-form-auth-actions.php:1011
+#: inc/class-fusion-form-auth-actions.php:1018
 msgid "Use WooCommerce Lost Password"
 msgstr ""
 
-#: inc/class-fusion-form-auth-actions.php:1012
+#: inc/class-fusion-form-auth-actions.php:1019
 msgid ""
 "If WooCommerce is active, send the WooCommerce branded reset password email "
 "(via woocommerce_reset_password_notification) instead of the plain WordPress "
@@ -9365,20 +9365,20 @@ msgid ""
 "one is configured under Custom Authentication Pages."
 msgstr ""
 
-#: inc/class-fusion-form-auth-actions.php:1036
+#: inc/class-fusion-form-auth-actions.php:1043
 #: shortcodes/fusion-user-login.php:192 shortcodes/fusion-user-login.php:537
 msgid "Reset Password"
 msgstr ""
 
-#: inc/class-fusion-form-auth-actions.php:1054
+#: inc/class-fusion-form-auth-actions.php:1061
 msgid "Map fields from the form to the WordPress reset password field."
 msgstr ""
 
-#: inc/class-fusion-form-auth-actions.php:1071
+#: inc/class-fusion-form-auth-actions.php:1078
 msgid "Use WooCommerce Reset Password"
 msgstr ""
 
-#: inc/class-fusion-form-auth-actions.php:1072
+#: inc/class-fusion-form-auth-actions.php:1079
 msgid ""
 "If WooCommerce is active, also clear the password nag, auto-login the user "
 "via the WooCommerce auth cookie (merging the cart session) and respect the "
@@ -9387,7 +9387,7 @@ msgid ""
 msgstr ""
 
 #: inc/class-fusion-form-builder-table.php:50
-#: inc/lib/inc/fusion-app/class-fusion-app.php:998
+#: inc/lib/inc/fusion-app/class-fusion-app.php:1004
 #: shortcodes/form/fusion-form.php:1138
 msgid "Form"
 msgstr ""
@@ -10069,7 +10069,7 @@ msgstr ""
 
 #: inc/class-fusion-template-builder.php:2329
 #: inc/helpers/class-fusion-builder-form-helper.php:415
-#: inc/lib/inc/fusion-app/class-fusion-app.php:668
+#: inc/lib/inc/fusion-app/class-fusion-app.php:674
 msgid "Page"
 msgstr ""
 
@@ -15590,138 +15590,138 @@ msgstr ""
 msgid "Checkout"
 msgstr ""
 
-#: inc/lib/inc/fusion-app/class-fusion-app.php:836
+#: inc/lib/inc/fusion-app/class-fusion-app.php:842
 msgid "Edit Live"
 msgstr ""
 
 #. translators: Name of post type.
-#: inc/lib/inc/fusion-app/class-fusion-app.php:897
+#: inc/lib/inc/fusion-app/class-fusion-app.php:903
 msgid "Edit %s"
 msgstr ""
 
 #. translators: Number of layout.
-#: inc/lib/inc/fusion-app/class-fusion-app.php:936
+#: inc/lib/inc/fusion-app/class-fusion-app.php:942
 msgid "Edit Layout: %s"
 msgstr ""
 
-#: inc/lib/inc/fusion-app/class-fusion-app.php:959
+#: inc/lib/inc/fusion-app/class-fusion-app.php:965
 msgid "Use Layouts"
 msgstr ""
 
-#: inc/lib/inc/fusion-app/class-fusion-app.php:959
+#: inc/lib/inc/fusion-app/class-fusion-app.php:965
 msgid "Manage"
 msgstr ""
 
-#: inc/lib/inc/fusion-app/class-fusion-app.php:1898
+#: inc/lib/inc/fusion-app/class-fusion-app.php:1904
 msgid "You do not have permission to edit this post."
 msgstr ""
 
-#: inc/lib/inc/fusion-app/class-fusion-app.php:1978
+#: inc/lib/inc/fusion-app/class-fusion-app.php:1984
 msgid "The page contents updated."
 msgstr ""
 
-#: inc/lib/inc/fusion-app/class-fusion-app.php:1985
+#: inc/lib/inc/fusion-app/class-fusion-app.php:1991
 msgid "You do not have permission to edit this archive."
 msgstr ""
 
-#: inc/lib/inc/fusion-app/class-fusion-app.php:2020
+#: inc/lib/inc/fusion-app/class-fusion-app.php:2026
 msgid "The archive details updated."
 msgstr ""
 
-#: inc/lib/inc/fusion-app/class-fusion-app.php:2273
-#: inc/lib/inc/fusion-app/class-fusion-app.php:2274
+#: inc/lib/inc/fusion-app/class-fusion-app.php:2279
+#: inc/lib/inc/fusion-app/class-fusion-app.php:2280
 msgid "Ultra-Light 100"
 msgstr ""
 
-#: inc/lib/inc/fusion-app/class-fusion-app.php:2275
+#: inc/lib/inc/fusion-app/class-fusion-app.php:2281
 msgid "Ultra-Light 100 Italic"
 msgstr ""
 
-#: inc/lib/inc/fusion-app/class-fusion-app.php:2276
+#: inc/lib/inc/fusion-app/class-fusion-app.php:2282
 msgid "Light 200"
 msgstr ""
 
-#: inc/lib/inc/fusion-app/class-fusion-app.php:2277
+#: inc/lib/inc/fusion-app/class-fusion-app.php:2283
 msgid "Light 200 Italic"
 msgstr ""
 
-#: inc/lib/inc/fusion-app/class-fusion-app.php:2278
+#: inc/lib/inc/fusion-app/class-fusion-app.php:2284
 msgid "Book 300"
 msgstr ""
 
-#: inc/lib/inc/fusion-app/class-fusion-app.php:2279
+#: inc/lib/inc/fusion-app/class-fusion-app.php:2285
 msgid "Book 300 Italic"
 msgstr ""
 
-#: inc/lib/inc/fusion-app/class-fusion-app.php:2280
-#: inc/lib/inc/fusion-app/class-fusion-app.php:2281
+#: inc/lib/inc/fusion-app/class-fusion-app.php:2286
+#: inc/lib/inc/fusion-app/class-fusion-app.php:2287
 msgid "Normal 400"
 msgstr ""
 
-#: inc/lib/inc/fusion-app/class-fusion-app.php:2282
+#: inc/lib/inc/fusion-app/class-fusion-app.php:2288
 msgid "Normal 400 Italic"
 msgstr ""
 
-#: inc/lib/inc/fusion-app/class-fusion-app.php:2283
+#: inc/lib/inc/fusion-app/class-fusion-app.php:2289
 msgid "Medium 500"
 msgstr ""
 
-#: inc/lib/inc/fusion-app/class-fusion-app.php:2284
+#: inc/lib/inc/fusion-app/class-fusion-app.php:2290
 msgid "Medium 500 Italic"
 msgstr ""
 
-#: inc/lib/inc/fusion-app/class-fusion-app.php:2285
-#: inc/lib/inc/fusion-app/class-fusion-app.php:2286
+#: inc/lib/inc/fusion-app/class-fusion-app.php:2291
+#: inc/lib/inc/fusion-app/class-fusion-app.php:2292
 msgid "Semi-Bold 600"
 msgstr ""
 
-#: inc/lib/inc/fusion-app/class-fusion-app.php:2287
+#: inc/lib/inc/fusion-app/class-fusion-app.php:2293
 msgid "Semi-Bold 600 Italic"
 msgstr ""
 
-#: inc/lib/inc/fusion-app/class-fusion-app.php:2288
+#: inc/lib/inc/fusion-app/class-fusion-app.php:2294
 msgid "Bold 700"
 msgstr ""
 
-#: inc/lib/inc/fusion-app/class-fusion-app.php:2289
+#: inc/lib/inc/fusion-app/class-fusion-app.php:2295
 msgid "Bold 700 Italic"
 msgstr ""
 
-#: inc/lib/inc/fusion-app/class-fusion-app.php:2290
-#: inc/lib/inc/fusion-app/class-fusion-app.php:2291
+#: inc/lib/inc/fusion-app/class-fusion-app.php:2296
+#: inc/lib/inc/fusion-app/class-fusion-app.php:2297
 msgid "Extra-Bold 800"
 msgstr ""
 
-#: inc/lib/inc/fusion-app/class-fusion-app.php:2292
+#: inc/lib/inc/fusion-app/class-fusion-app.php:2298
 msgid "Extra-Bold 800 Italic"
 msgstr ""
 
-#: inc/lib/inc/fusion-app/class-fusion-app.php:2293
-#: inc/lib/inc/fusion-app/class-fusion-app.php:2294
+#: inc/lib/inc/fusion-app/class-fusion-app.php:2299
+#: inc/lib/inc/fusion-app/class-fusion-app.php:2300
 msgid "Ultra-Bold 900"
 msgstr ""
 
-#: inc/lib/inc/fusion-app/class-fusion-app.php:2295
+#: inc/lib/inc/fusion-app/class-fusion-app.php:2301
 msgid "Ultra-Bold 900 Italic"
 msgstr ""
 
-#: inc/lib/inc/fusion-app/class-fusion-app.php:2550
+#: inc/lib/inc/fusion-app/class-fusion-app.php:2556
 msgid "Go back"
 msgstr ""
 
-#: inc/lib/inc/fusion-app/class-fusion-app.php:2558
+#: inc/lib/inc/fusion-app/class-fusion-app.php:2564
 msgid "Back to"
 msgstr ""
 
-#: inc/lib/inc/fusion-app/class-fusion-app.php:2565
+#: inc/lib/inc/fusion-app/class-fusion-app.php:2571
 msgid "Take Over"
 msgstr ""
 
-#: inc/lib/inc/fusion-app/class-fusion-app.php:2574
+#: inc/lib/inc/fusion-app/class-fusion-app.php:2580
 msgid "is currently editing this post. Do you want to take over?"
 msgstr ""
 
-#: inc/lib/inc/fusion-app/class-fusion-app.php:2580
+#: inc/lib/inc/fusion-app/class-fusion-app.php:2586
 msgid "has taken over and is currently editing."
 msgstr ""
 
@@ -23895,6 +23895,7 @@ msgid "Button Styling"
 msgstr ""
 
 #: shortcodes/components/woo-cart.php:3673
+#: shortcodes/components/woo-order-details.php:542
 #: shortcodes/components/woo-reviews.php:702 shortcodes/form/submit.php:488
 #: shortcodes/fusion-button.php:1367 shortcodes/fusion-button.php:1962
 #: shortcodes/fusion-post-card-cart.php:2283
@@ -24624,7 +24625,6 @@ msgid "Controls the range button background color of price filter."
 msgstr ""
 
 #: shortcodes/components/woo-filters-price.php:280
-#: shortcodes/components/woo-order-details.php:542
 #: shortcodes/fusion-tagline.php:598
 msgid "Button Color"
 msgstr ""
@@ -24802,7 +24802,7 @@ msgid "Select the border color of buttons."
 msgstr ""
 
 #: shortcodes/components/woo-order-details.php:591
-msgid "Button Color Hover"
+msgid "Button Text Color Hover"
 msgstr ""
 
 #: shortcodes/components/woo-order-details.php:592
@@ -25126,8 +25126,8 @@ msgid ""
 "Turn on to enable the WooCommerce product images zoom feature. "
 "<strong>IMPORTANT NOTE:</strong> Every product image you use must be larger "
 "than the product images container for zoom to work correctly. <a "
-"href=\"https://classic.avada.com/documentation/woocommerce-single-product-"
-"gallery/\" target=\"_blank\">See this post for more information.</a>"
+"href=\"https://avada.com/documentation/woocommerce-single-product-gallery/\" "
+"target=\"_blank\">See this post for more information.</a>"
 msgstr ""
 
 #: shortcodes/components/woo-product-images.php:589
@@ -25141,7 +25141,7 @@ msgid ""
 "than the gallery size you select for this option. <strong>IMPORTANT NOTE:</"
 "strong> When this option is changed, you may need to adjust the Single "
 "Product Image size setting in WooCommerce Settings to make sure that one is "
-"larger and also regenerate thumbnails. <a href=\"https://classic.avada.com/"
+"larger and also regenerate thumbnails. <a href=\"https://avada.com/"
 "documentation/woocommerce-single-product-gallery/\" target=\"_blank\">See "
 "this post for more information.</a><br/>"
 msgstr ""
@@ -44036,7 +44036,7 @@ msgid "Woo Up/Cross-sells"
 msgstr ""
 
 #. Plugin URI of the plugin/theme
-msgid "https://classic.avada.com"
+msgid "https://avada.com"
 msgstr ""
 
 #. Description of the plugin/theme

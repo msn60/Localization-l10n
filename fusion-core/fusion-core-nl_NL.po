@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Avada\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/fusion-core\n"
-"POT-Creation-Date: 2026-06-10 13:34:38+00:00\n"
+"POT-Creation-Date: 2026-06-11 09:32:32+00:00\n"
 "PO-Revision-Date: 2019-12-27 10:28+0100\n"
 "Last-Translator: Michael Clarke\n"
 "Language-Team: Dutch (Netherlands) (http://www.transifex.com/projects/p/"
@@ -247,43 +247,43 @@ msgstr ""
 msgid "Please make sure wp-content/uploads folder is writeable."
 msgstr ""
 
-#: fusion-slider/class-fusion-slider.php:984
+#: fusion-slider/class-fusion-slider.php:978
 msgid "Error: No file to import"
 msgstr ""
 
-#: fusion-slider/class-fusion-slider.php:985
+#: fusion-slider/class-fusion-slider.php:979
 msgid ""
 "Please make sure to upload a zip file containing valid Avada Slider export "
 "data."
 msgstr ""
 
-#: fusion-slider/class-fusion-slider.php:1042
+#: fusion-slider/class-fusion-slider.php:1036
 #: fusion-slider/templates/clone-button-after-title.php:19
 msgid "Clone this slide"
 msgstr ""
 
-#: fusion-slider/class-fusion-slider.php:1042
-#: fusion-slider/class-fusion-slider.php:1063
+#: fusion-slider/class-fusion-slider.php:1036
+#: fusion-slider/class-fusion-slider.php:1057
 msgid "Clone"
 msgstr ""
 
-#: fusion-slider/class-fusion-slider.php:1063
+#: fusion-slider/class-fusion-slider.php:1057
 msgid "Clone this slider"
 msgstr ""
 
 #. translators: The term title.
 #. translators: The post title.
-#: fusion-slider/class-fusion-slider.php:1114
-#: fusion-slider/class-fusion-slider.php:1236
+#: fusion-slider/class-fusion-slider.php:1108
+#: fusion-slider/class-fusion-slider.php:1230
 msgid "%s ( Cloned )"
 msgstr ""
 
-#: fusion-slider/class-fusion-slider.php:1184
+#: fusion-slider/class-fusion-slider.php:1178
 msgid "No slide to clone."
 msgstr ""
 
 #. translators: The ID found.
-#: fusion-slider/class-fusion-slider.php:1204
+#: fusion-slider/class-fusion-slider.php:1198
 msgid "Cloning failed. Post not found. ID: %s"
 msgstr ""
 
@@ -2816,7 +2816,7 @@ msgid "Avada Core"
 msgstr ""
 
 #. Plugin URI of the plugin/theme
-msgid "https://classic.avada.com"
+msgid "https://avada.com"
 msgstr ""
 
 #. Description of the plugin/theme

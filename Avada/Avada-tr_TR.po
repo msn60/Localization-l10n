@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Avada 7.12.2\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/theme/Avada\n"
-"POT-Creation-Date: 2026-06-10 13:32:12+00:00\n"
+"POT-Creation-Date: 2026-06-11 09:29:56+00:00\n"
 "PO-Revision-Date: 2025-07-26 22:27+0300\n"
 "Last-Translator: Kaya Zeren <translator@zeron.net>\n"
 "Language-Team: Turkish (Turkey)\n"
@@ -1326,7 +1326,7 @@ msgstr "Bir bölümünü içe aktar"
 
 #: includes/admin-screens/prebuilt-websites-demo.php:89
 #: includes/avada-app/fusion-panel.php:156
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2563
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2569
 #: includes/lib/inc/fusion-app/helpers.php:223
 #: includes/lib/inc/fusion-app/templates/front-end-toolbar.php:149
 #: includes/metaboxes/metaboxes.php:675
@@ -2242,7 +2242,7 @@ msgstr "Formlar"
 
 #: includes/admin-screens/setup.php:910 includes/class-avada-admin-bar.php:69
 #: includes/class-avada-megamenu-framework.php:522
-#: includes/lib/inc/fusion-app/class-fusion-app.php:1118
+#: includes/lib/inc/fusion-app/class-fusion-app.php:1124
 #: includes/metaboxes/tabs/tab_form_submission.php:211
 #: includes/options/typography.php:331
 msgid "Off Canvas"
@@ -4662,7 +4662,7 @@ msgstr ""
 "ekranda görüntülenir."
 
 #: includes/class-avada-megamenu-framework.php:158
-#: includes/lib/inc/fusion-app/class-fusion-app.php:1083
+#: includes/lib/inc/fusion-app/class-fusion-app.php:1089
 #: includes/metaboxes/metaboxes.php:703
 #: includes/metaboxes/tabs/tab_template.php:163
 msgid "Mega Menu"
@@ -8897,168 +8897,168 @@ msgstr "% yorum"
 msgid "Pages:"
 msgstr "Sayfalar:"
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:668
+#: includes/lib/inc/fusion-app/class-fusion-app.php:674
 msgid "Page"
 msgstr "Sayfa"
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:836
+#: includes/lib/inc/fusion-app/class-fusion-app.php:842
 msgid "Edit Live"
 msgstr "Canlı düzenle"
 
 #. translators: Name of post type.
-#: includes/lib/inc/fusion-app/class-fusion-app.php:897
+#: includes/lib/inc/fusion-app/class-fusion-app.php:903
 msgid "Edit %s"
 msgstr "%s düzenle"
 
 #. translators: Number of layout.
-#: includes/lib/inc/fusion-app/class-fusion-app.php:936
+#: includes/lib/inc/fusion-app/class-fusion-app.php:942
 msgid "Edit Layout: %s"
 msgstr "Yerleşimi düzenle: %s"
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:959
+#: includes/lib/inc/fusion-app/class-fusion-app.php:965
 msgid "Use Layouts"
 msgstr "Yerleşimleri kullan"
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:959
+#: includes/lib/inc/fusion-app/class-fusion-app.php:965
 msgid "Manage"
 msgstr "Yönet"
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:998
+#: includes/lib/inc/fusion-app/class-fusion-app.php:1004
 msgid "Form"
 msgstr "Form"
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:1041
+#: includes/lib/inc/fusion-app/class-fusion-app.php:1047
 msgid "Post Card"
 msgstr "Kartpostal"
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:1898
+#: includes/lib/inc/fusion-app/class-fusion-app.php:1904
 msgid "You do not have permission to edit this post."
 msgstr "Bu yazıyı düzenleme izniniz yok."
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:1978
+#: includes/lib/inc/fusion-app/class-fusion-app.php:1984
 msgid "The page contents updated."
 msgstr "Sayfa içeriği güncellendi."
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:1985
+#: includes/lib/inc/fusion-app/class-fusion-app.php:1991
 msgid "You do not have permission to edit this archive."
 msgstr "Bu arşivi düzenleme izniniz yok."
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2020
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2026
 msgid "The archive details updated."
 msgstr "Arşiv bilgileri güncellendi."
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2273
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2274
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2279
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2280
 #: includes/options/performance.php:119 includes/options/typography.php:1225
 msgid "Ultra-Light 100"
 msgstr "Çok hafif 100"
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2275
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2281
 #: includes/options/performance.php:120
 msgid "Ultra-Light 100 Italic"
 msgstr "Çok hafif 100 yatık"
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2276
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2282
 #: includes/options/performance.php:121 includes/options/typography.php:1226
 msgid "Light 200"
 msgstr "Hafif 200"
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2277
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2283
 #: includes/options/performance.php:122
 msgid "Light 200 Italic"
 msgstr "Hafif 200 yatık"
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2278
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2284
 #: includes/options/performance.php:123 includes/options/typography.php:1227
 msgid "Book 300"
 msgstr "Kitap 300"
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2279
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2285
 #: includes/options/performance.php:124
 msgid "Book 300 Italic"
 msgstr "Kitap 300 yatık"
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2280
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2281
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2286
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2287
 #: includes/options/performance.php:125 includes/options/typography.php:1228
 msgid "Normal 400"
 msgstr "Normal 400"
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2282
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2288
 #: includes/options/performance.php:126
 msgid "Normal 400 Italic"
 msgstr "Normal 400 yatık"
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2283
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2289
 #: includes/options/performance.php:127 includes/options/typography.php:1229
 msgid "Medium 500"
 msgstr "Orta 500"
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2284
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2290
 #: includes/options/performance.php:128
 msgid "Medium 500 Italic"
 msgstr "Orta 500 yatık"
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2285
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2286
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2291
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2292
 #: includes/options/performance.php:129 includes/options/typography.php:1230
 msgid "Semi-Bold 600"
 msgstr "Hafif koyu 600"
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2287
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2293
 #: includes/options/performance.php:130
 msgid "Semi-Bold 600 Italic"
 msgstr "Hafif koyu 600 yatık"
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2288
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2294
 #: includes/options/performance.php:131 includes/options/typography.php:1231
 msgid "Bold 700"
 msgstr "Koyu 700"
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2289
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2295
 #: includes/options/performance.php:132
 msgid "Bold 700 Italic"
 msgstr "Koyu 700 yatık"
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2290
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2291
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2296
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2297
 #: includes/options/performance.php:133 includes/options/typography.php:1232
 msgid "Extra-Bold 800"
 msgstr "Daha koyu 800"
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2292
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2298
 #: includes/options/performance.php:134
 msgid "Extra-Bold 800 Italic"
 msgstr "Daha koyu 800 yatık"
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2293
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2294
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2299
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2300
 #: includes/options/performance.php:135 includes/options/typography.php:1233
 msgid "Ultra-Bold 900"
 msgstr "Çok koyu 900"
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2295
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2301
 #: includes/options/performance.php:136
 msgid "Ultra-Bold 900 Italic"
 msgstr "Çok koyu 900 yatık"
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2550
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2556
 msgid "Go back"
 msgstr "Geri git"
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2558
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2564
 msgid "Back to"
 msgstr "Şuraya dön"
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2565
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2571
 msgid "Take Over"
 msgstr "Devral"
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2574
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2580
 msgid "is currently editing this post. Do you want to take over?"
 msgstr "şu anda bu yazıyı düzenliyor. Devralmak ister misiniz?"
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2580
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2586
 msgid "has taken over and is currently editing."
 msgstr "devraldı ve şu anda düzenliyor."
 
@@ -24308,13 +24308,21 @@ msgstr ""
 msgid ""
 "<strong>IMPORTANT NOTE:</strong> To use the Avada PWA feature your site must "
 "use SSL (HTTPS). For more information about the options in this section, "
-"please see our <a href=\"https://classic.avada.com/documentation/how-to-use-"
-"pwa-progressive-web-apps-with-avada/\" target=\"_blank\">PWA documentation</"
-"a> page. To learn more about caching strategies and their use in general you "
+"please see our <a href=\"https://avada.com/documentation/how-to-use-pwa-"
+"progressive-web-apps-with-avada/\" target=\"_blank\">PWA documentation</a> "
+"page. To learn more about caching strategies and their use in general you "
 "can <a href=\"https://developers.google.com/web/tools/workbox/modules/"
 "workbox-strategies\" target=\"_blank\" rel=\"nofollow\">read this article</"
 "a>."
 msgstr ""
+"<strong>ÖNEMLİ NOT:</strong> Avada PWA özelliğini kullanabilmek için site "
+"SSL (HTTPS) kullanmalıdır. Bu bölümdeki seçenekler hakkında ayrıntılı bilgi "
+"almak için <a href=\"https://avada.com/documentation/how-to-use-pwa-"
+"progressive-web-apps-with-avada/\" target=\"_blank\">PWA belgeleri</a> "
+"bölümüne bakabilirsiniz. Ön bellek stratejileri ve genel kullanımları "
+"hakkında bilgi almak için <a href=\"https://developers.google.com/web/tools/"
+"workbox/modules/workbox-strategies\" target=\"_blank\" rel=\"nofollow\">bu "
+"yazıyı okuyun</a>."
 
 #: includes/options/performance.php:602
 msgid "Enable Progressive Web App"
@@ -27372,9 +27380,15 @@ msgid ""
 "Turn on to enable the WooCommerce product images zoom feature. "
 "<strong>IMPORTANT NOTE:</strong> Every product image you use must be larger "
 "than the product images container for zoom to work correctly. <a "
-"href=\"https://classic.avada.com/documentation/woocommerce-single-product-"
-"gallery/\" target=\"_blank\">See this post for more information.</a>"
+"href=\"https://avada.com/documentation/woocommerce-single-product-gallery/\" "
+"target=\"_blank\">See this post for more information.</a>"
 msgstr ""
+"WooCommerce ürün görsellerinin yakınlaştırılabilmesi için açın. "
+"<strong>ÖNEMLİ NOT:</strong> Yakınlaştırmanın düzgün çalışması için "
+"kullandığınız her ürün görseli, ürün görselleri kapsayıcısından daha büyük "
+"olmalıdır. <a href=\"https://avada.com/documentation/woocommerce-single-"
+"product-gallery/\" target=\"_blank\">Ayrıntılı bilgi almak için bu yazıya "
+"bakın.</a>"
 
 #: includes/options/woocommerce.php:153
 msgid "WooCommerce Product Images Width"
@@ -27387,10 +27401,18 @@ msgid ""
 "gallery size you select for this option. <strong>IMPORTANT NOTE:</strong> "
 "When this option is changed, you may need to adjust the Single Product Image "
 "size setting in WooCommerce Settings to make sure that one is larger and "
-"also regenerate thumbnails. <a href=\"https://classic.avada.com/"
-"documentation/woocommerce-single-product-gallery/\" target=\"_blank\">See "
-"this post for more information.</a><br/>"
+"also regenerate thumbnails. <a href=\"https://avada.com/documentation/"
+"woocommerce-single-product-gallery/\" target=\"_blank\">See this post for "
+"more information.</a><br/>"
 msgstr ""
+"Tek ürün sayfası görsel galerisinin genişliğini yazın. Görsel galerisi "
+"yakınlaştırma özelliğinin çalışması için yüklediğiniz görsellerin bu seçenek "
+"için seçtiğiniz galeri boyutundan büyük olması gerekir. <strong>ÖNEMLİ NOT:</"
+"strong> Bu seçenek değiştirildiğinde, birinin daha büyük olduğundan emin "
+"olmak ve ayrıca küçük görselleri yeniden oluşturmak için WooCommerce "
+"ayarlarında tek ürün görseli boyutu ayarını değiştirmeniz gerekebilir. <a "
+"href=\"https://avada.com/documentation/woocommerce-single-product-gallery/\" "
+"target=\"_blank\">Ayrıntılı bilgi almak için bu yazıya bakın.</a><br/>"
 
 #: includes/options/woocommerce.php:179
 msgid "WooCommerce Product Images Thumbnail Width"
@@ -27400,10 +27422,15 @@ msgstr "WooCommerce küçük ürün görselleri genişliği"
 msgid ""
 "Controls the natural image width of product page image gallery thumbnails. "
 "<strong>IMPORTANT NOTE:</strong> When this option is changed, you need to "
-"make sure to regenerate thumbnails. <a href=\"https://classic.avada.com/"
+"make sure to regenerate thumbnails. <a href=\"https://avada.com/"
 "documentation/woocommerce-single-product-gallery/\" target=\"_blank\">See "
 "this post for more information.</a><br/>"
 msgstr ""
+"Ürün sayfası görsel galerisi küçük görsellerinin doğal görsel genişliğini "
+"yazın. <strong>ÖNEMLİ NOT:</strong> Bu seçenek değiştirildiğinde küçük "
+"görselleri yeniden oluşturduğunuzdan emin olmanız gerekir. <a href=\"https://"
+"avada.com/documentation/woocommerce-single-product-gallery/\" "
+"target=\"_blank\">Ayrıntılı bilgi almak için bu yazıya bakın.</a><br/>"
 
 #: includes/options/woocommerce.php:198
 msgid "WooCommerce Product Images Thumbnail Position"
@@ -28468,8 +28495,8 @@ msgid "Additional information"
 msgstr "Ek bilgiler"
 
 #. Theme URI of the plugin/theme
-msgid "https://classic.avada.com/"
-msgstr ""
+msgid "https://avada.com/"
+msgstr "https://avada.com/"
 
 #. Description of the plugin/theme
 msgid ""
@@ -28594,75 +28621,6 @@ msgstr "Giriş"
 msgctxt "%s Events plural label"
 msgid "All %s"
 msgstr "Tüm %s"
-
-#~ msgid ""
-#~ "<strong>IMPORTANT NOTE:</strong> To use the Avada PWA feature your site "
-#~ "must use SSL (HTTPS). For more information about the options in this "
-#~ "section, please see our <a href=\"https://avada.com/documentation/how-to-"
-#~ "use-pwa-progressive-web-apps-with-avada/\" target=\"_blank\">PWA "
-#~ "documentation</a> page. To learn more about caching strategies and their "
-#~ "use in general you can <a href=\"https://developers.google.com/web/tools/"
-#~ "workbox/modules/workbox-strategies\" target=\"_blank\" "
-#~ "rel=\"nofollow\">read this article</a>."
-#~ msgstr ""
-#~ "<strong>ÖNEMLİ NOT:</strong> Avada PWA özelliğini kullanabilmek için site "
-#~ "SSL (HTTPS) kullanmalıdır. Bu bölümdeki seçenekler hakkında ayrıntılı "
-#~ "bilgi almak için <a href=\"https://avada.com/documentation/how-to-use-pwa-"
-#~ "progressive-web-apps-with-avada/\" target=\"_blank\">PWA belgeleri</a> "
-#~ "bölümüne bakabilirsiniz. Ön bellek stratejileri ve genel kullanımları "
-#~ "hakkında bilgi almak için <a href=\"https://developers.google.com/web/"
-#~ "tools/workbox/modules/workbox-strategies\" target=\"_blank\" "
-#~ "rel=\"nofollow\">bu yazıyı okuyun</a>."
-
-#~ msgid ""
-#~ "Turn on to enable the WooCommerce product images zoom feature. "
-#~ "<strong>IMPORTANT NOTE:</strong> Every product image you use must be "
-#~ "larger than the product images container for zoom to work correctly. <a "
-#~ "href=\"https://avada.com/documentation/woocommerce-single-product-gallery/"
-#~ "\" target=\"_blank\">See this post for more information.</a>"
-#~ msgstr ""
-#~ "WooCommerce ürün görsellerinin yakınlaştırılabilmesi için açın. "
-#~ "<strong>ÖNEMLİ NOT:</strong> Yakınlaştırmanın düzgün çalışması için "
-#~ "kullandığınız her ürün görseli, ürün görselleri kapsayıcısından daha "
-#~ "büyük olmalıdır. <a href=\"https://avada.com/documentation/woocommerce-"
-#~ "single-product-gallery/\" target=\"_blank\">Ayrıntılı bilgi almak için bu "
-#~ "yazıya bakın.</a>"
-
-#~ msgid ""
-#~ "Controls the width of the single product page image gallery. For the "
-#~ "image gallery zoom feature to work, the images you upload must be larger "
-#~ "than the gallery size you select for this option. <strong>IMPORTANT NOTE:"
-#~ "</strong> When this option is changed, you may need to adjust the Single "
-#~ "Product Image size setting in WooCommerce Settings to make sure that one "
-#~ "is larger and also regenerate thumbnails. <a href=\"https://avada.com/"
-#~ "documentation/woocommerce-single-product-gallery/\" target=\"_blank\">See "
-#~ "this post for more information.</a><br/>"
-#~ msgstr ""
-#~ "Tek ürün sayfası görsel galerisinin genişliğini yazın. Görsel galerisi "
-#~ "yakınlaştırma özelliğinin çalışması için yüklediğiniz görsellerin bu "
-#~ "seçenek için seçtiğiniz galeri boyutundan büyük olması gerekir. "
-#~ "<strong>ÖNEMLİ NOT:</strong> Bu seçenek değiştirildiğinde, birinin daha "
-#~ "büyük olduğundan emin olmak ve ayrıca küçük görselleri yeniden oluşturmak "
-#~ "için WooCommerce ayarlarında tek ürün görseli boyutu ayarını "
-#~ "değiştirmeniz gerekebilir. <a href=\"https://avada.com/documentation/"
-#~ "woocommerce-single-product-gallery/\" target=\"_blank\">Ayrıntılı bilgi "
-#~ "almak için bu yazıya bakın.</a><br/>"
-
-#~ msgid ""
-#~ "Controls the natural image width of product page image gallery "
-#~ "thumbnails. <strong>IMPORTANT NOTE:</strong> When this option is changed, "
-#~ "you need to make sure to regenerate thumbnails. <a href=\"https://"
-#~ "avada.com/documentation/woocommerce-single-product-gallery/\" "
-#~ "target=\"_blank\">See this post for more information.</a><br/>"
-#~ msgstr ""
-#~ "Ürün sayfası görsel galerisi küçük görsellerinin doğal görsel genişliğini "
-#~ "yazın. <strong>ÖNEMLİ NOT:</strong> Bu seçenek değiştirildiğinde küçük "
-#~ "görselleri yeniden oluşturduğunuzdan emin olmanız gerekir. <a "
-#~ "href=\"https://avada.com/documentation/woocommerce-single-product-gallery/"
-#~ "\" target=\"_blank\">Ayrıntılı bilgi almak için bu yazıya bakın.</a><br/>"
-
-#~ msgid "https://avada.com/"
-#~ msgstr "https://avada.com/"
 
 #~ msgid "Icon/Thumbnail Only"
 #~ msgstr "Yalnızca simge/küçük görsel"
