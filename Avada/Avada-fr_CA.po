@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Avada 5.1.6\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/theme/Avada\n"
-"POT-Creation-Date: 2026-06-11 09:29:56+00:00\n"
+"POT-Creation-Date: 2026-06-12 08:09:18+00:00\n"
 "PO-Revision-Date: 2018-02-01 23:47-0500\n"
 "Last-Translator: Robin Lavoie. Québec libre! <robinlavoie@icloud.com>\n"
 "Language-Team: French\n"
@@ -7570,9 +7570,9 @@ msgstr "Droit"
 #: includes/metaboxes/options/options_slide.php:140
 #: includes/metaboxes/tabs/tab_form_steps.php:984
 #: includes/metaboxes/tabs/tab_off_canvas_general.php:182
-#: includes/metaboxes/tabs/tab_off_canvas_general.php:208
-#: includes/metaboxes/tabs/tab_off_canvas_general.php:283
-#: includes/metaboxes/tabs/tab_off_canvas_general.php:319
+#: includes/metaboxes/tabs/tab_off_canvas_general.php:209
+#: includes/metaboxes/tabs/tab_off_canvas_general.php:285
+#: includes/metaboxes/tabs/tab_off_canvas_general.php:321
 #: includes/metaboxes/tabs/tab_pagetitlebar.php:197
 #: includes/options/blog.php:532 includes/options/elastic_slider.php:84
 #: includes/options/logo.php:55 includes/options/menu.php:1093
@@ -9035,7 +9035,7 @@ msgstr ""
 #: includes/lib/inc/fusion-app/helpers.php:273
 #: includes/lib/inc/fusion-app/helpers.php:397
 #: includes/lib/inc/fusion-app/helpers.php:540
-#: includes/metaboxes/tabs/tab_off_canvas_general.php:266
+#: includes/metaboxes/tabs/tab_off_canvas_general.php:268
 msgid "Column"
 msgstr ""
 
@@ -9975,7 +9975,7 @@ msgstr ""
 #: includes/metaboxes/tabs/tab_off_canvas_animation.php:77
 #: includes/metaboxes/tabs/tab_off_canvas_animation.php:214
 #: includes/metaboxes/tabs/tab_off_canvas_general.php:70
-#: includes/metaboxes/tabs/tab_off_canvas_general.php:207
+#: includes/metaboxes/tabs/tab_off_canvas_general.php:208
 #: includes/metaboxes/tabs/tab_template.php:466 includes/options/extra.php:524
 #: includes/options/header.php:131 includes/options/menu.php:1452
 #: includes/options/menu.php:3181 includes/options/sliding_bar.php:145
@@ -9991,7 +9991,7 @@ msgstr "Haut"
 #: includes/metaboxes/tabs/tab_off_canvas_animation.php:79
 #: includes/metaboxes/tabs/tab_off_canvas_animation.php:216
 #: includes/metaboxes/tabs/tab_off_canvas_general.php:72
-#: includes/metaboxes/tabs/tab_off_canvas_general.php:209
+#: includes/metaboxes/tabs/tab_off_canvas_general.php:210
 #: includes/options/extra.php:523 includes/options/lightbox.php:119
 #: includes/options/menu.php:1451 includes/options/menu.php:3183
 #: includes/options/sliding_bar.php:147 includes/options/social_media.php:259
@@ -10003,7 +10003,7 @@ msgstr "Bas"
 #: includes/lib/inc/fusion-app/helpers.php:531
 #: includes/lib/inc/redux/custom-fields/dimensions/field_dimensions.php:84
 #: includes/metaboxes/tabs/tab_off_canvas_general.php:127
-#: includes/metaboxes/tabs/tab_off_canvas_general.php:229
+#: includes/metaboxes/tabs/tab_off_canvas_general.php:231
 msgid "Height"
 msgstr "Hauteur"
 
@@ -10038,7 +10038,7 @@ msgid "Vertical"
 msgstr ""
 
 #: includes/lib/inc/fusion-app/helpers.php:541
-#: includes/metaboxes/tabs/tab_off_canvas_general.php:267
+#: includes/metaboxes/tabs/tab_off_canvas_general.php:269
 msgid "Row"
 msgstr ""
 
@@ -13114,7 +13114,7 @@ msgstr ""
 #: includes/metaboxes/metaboxes.php:676 includes/metaboxes/metaboxes.php:685
 #: includes/metaboxes/tabs/tab_form_general.php:31
 #: includes/metaboxes/tabs/tab_off_canvas_general.php:21
-#: includes/metaboxes/tabs/tab_off_canvas_general.php:264
+#: includes/metaboxes/tabs/tab_off_canvas_general.php:266
 msgid "General"
 msgstr ""
 
@@ -13409,7 +13409,7 @@ msgid "Content Options"
 msgstr ""
 
 #: includes/metaboxes/options/options_slide.php:137
-#: includes/metaboxes/tabs/tab_off_canvas_general.php:276
+#: includes/metaboxes/tabs/tab_off_canvas_general.php:278
 msgid "Content Alignment"
 msgstr "Alignement du contenu"
 
@@ -14622,12 +14622,12 @@ msgid "Controls the spacing justification around the steps."
 msgstr ""
 
 #: includes/metaboxes/tabs/tab_form_steps.php:275
-#: includes/metaboxes/tabs/tab_off_canvas_general.php:286
+#: includes/metaboxes/tabs/tab_off_canvas_general.php:288
 msgid "Space Around"
 msgstr ""
 
 #: includes/metaboxes/tabs/tab_form_steps.php:276
-#: includes/metaboxes/tabs/tab_off_canvas_general.php:285
+#: includes/metaboxes/tabs/tab_off_canvas_general.php:287
 msgid "Space Between"
 msgstr ""
 
@@ -15773,97 +15773,97 @@ msgstr ""
 msgid "End"
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_off_canvas_general.php:202
+#: includes/metaboxes/tabs/tab_off_canvas_general.php:203
 msgid "Vertical Position"
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_off_canvas_general.php:203
+#: includes/metaboxes/tabs/tab_off_canvas_general.php:204
 msgid "Select the vertical position."
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_off_canvas_general.php:230
+#: includes/metaboxes/tabs/tab_off_canvas_general.php:232
 msgid ""
 "Select Off Canvas height. Enter value including any valid CSS unit, ex: "
 "300px."
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_off_canvas_general.php:259
+#: includes/metaboxes/tabs/tab_off_canvas_general.php:261
 msgid "Content Layout"
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_off_canvas_general.php:260
+#: includes/metaboxes/tabs/tab_off_canvas_general.php:262
 msgid ""
 "Choose Content Layout type. Block will not use Flex positioning, but will "
 "allow floated elements."
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_off_canvas_general.php:268
+#: includes/metaboxes/tabs/tab_off_canvas_general.php:270
 #: includes/options/performance.php:91
 msgid "Block"
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_off_canvas_general.php:277
+#: includes/metaboxes/tabs/tab_off_canvas_general.php:279
 msgid "Choose how to align Content containers."
-msgstr ""
-
-#: includes/metaboxes/tabs/tab_off_canvas_general.php:282
-#: includes/metaboxes/tabs/tab_off_canvas_general.php:318
-msgid "Flex Start"
 msgstr ""
 
 #: includes/metaboxes/tabs/tab_off_canvas_general.php:284
 #: includes/metaboxes/tabs/tab_off_canvas_general.php:320
+msgid "Flex Start"
+msgstr ""
+
+#: includes/metaboxes/tabs/tab_off_canvas_general.php:286
+#: includes/metaboxes/tabs/tab_off_canvas_general.php:322
 msgid "Flex End"
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_off_canvas_general.php:287
+#: includes/metaboxes/tabs/tab_off_canvas_general.php:289
 msgid "Space Evenly"
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_off_canvas_general.php:312
+#: includes/metaboxes/tabs/tab_off_canvas_general.php:314
 msgid "Content Vertical Alignment"
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_off_canvas_general.php:313
+#: includes/metaboxes/tabs/tab_off_canvas_general.php:315
 msgid "Choose how to align Content containers vertically."
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_off_canvas_general.php:321
+#: includes/metaboxes/tabs/tab_off_canvas_general.php:323
 msgid "Stretch"
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_off_canvas_general.php:344
+#: includes/metaboxes/tabs/tab_off_canvas_general.php:346
 msgid "Wrap Content"
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_off_canvas_general.php:345
+#: includes/metaboxes/tabs/tab_off_canvas_general.php:347
 msgid ""
 "\"Wrap\" wraps elements onto multiple rows, while \"No Wrap\" will force "
 "rlements onto one row."
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_off_canvas_general.php:350
+#: includes/metaboxes/tabs/tab_off_canvas_general.php:352
 msgid "Wrap"
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_off_canvas_general.php:351
+#: includes/metaboxes/tabs/tab_off_canvas_general.php:353
 msgid "No Wrap"
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_off_canvas_general.php:366
+#: includes/metaboxes/tabs/tab_off_canvas_general.php:368
 #: includes/plugins/multiple_sidebars.php:286
 msgid "CSS Class"
 msgstr "Classe du CSS"
 
-#: includes/metaboxes/tabs/tab_off_canvas_general.php:367
+#: includes/metaboxes/tabs/tab_off_canvas_general.php:369
 msgid "Add a class to the wrapping HTML element."
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_off_canvas_general.php:377
+#: includes/metaboxes/tabs/tab_off_canvas_general.php:379
 msgid "CSS ID"
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_off_canvas_general.php:378
+#: includes/metaboxes/tabs/tab_off_canvas_general.php:380
 msgid ""
 "Add a unique ID to the wrapping HTML element. This ID will used in Off "
 "Canvas link."

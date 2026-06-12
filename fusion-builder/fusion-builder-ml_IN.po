@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Fusion Builder 1.1.6\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/fusion-builder\n"
-"POT-Creation-Date: 2026-06-11 09:33:34+00:00\n"
+"POT-Creation-Date: 2026-06-12 08:13:06+00:00\n"
 "PO-Revision-Date: 2017-06-22 11:06+0300\n"
 "Last-Translator: Aristeides <info@theme-fusion.com>\n"
 "Language-Team: Malayalam\n"
@@ -538,7 +538,7 @@ msgstr ""
 #: shortcodes/fusion-tabs.php:1441 shortcodes/fusion-tabs.php:1449
 #: shortcodes/fusion-testimonials.php:1226
 #: shortcodes/fusion-testimonials.php:1248
-#: shortcodes/fusion-testimonials.php:1256 shortcodes/fusion-title.php:1703
+#: shortcodes/fusion-testimonials.php:1256 shortcodes/fusion-title.php:1707
 #: shortcodes/fusion-toggle.php:1324 shortcodes/fusion-toggle.php:1344
 #: shortcodes/fusion-toggle.php:1352 shortcodes/fusion-user-login.php:1562
 #: shortcodes/fusion-user-login.php:1584 shortcodes/fusion-user-login.php:1592
@@ -1478,7 +1478,7 @@ msgstr ""
 #: shortcodes/fusion-menu.php:2306 shortcodes/fusion-menu.php:2344
 #: shortcodes/fusion-menu.php:2368 shortcodes/fusion-menu.php:2392
 #: shortcodes/fusion-menu.php:2510 shortcodes/fusion-tagcloud.php:751
-#: shortcodes/fusion-title.php:1808 shortcodes/fusion-views-counter.php:510
+#: shortcodes/fusion-title.php:1812 shortcodes/fusion-views-counter.php:510
 #: shortcodes/fusion-vimeo.php:424 shortcodes/fusion-vimeo.php:466
 #: shortcodes/fusion-youtube.php:463 shortcodes/fusion-youtube.php:497
 #: shortcodes/fusion-youtube.php:547
@@ -1687,7 +1687,7 @@ msgstr ""
 #: shortcodes/fusion-facebook-page.php:551 shortcodes/fusion-menu.php:2305
 #: shortcodes/fusion-menu.php:2343 shortcodes/fusion-menu.php:2367
 #: shortcodes/fusion-menu.php:2391 shortcodes/fusion-menu.php:2509
-#: shortcodes/fusion-tagcloud.php:750 shortcodes/fusion-title.php:1807
+#: shortcodes/fusion-tagcloud.php:750 shortcodes/fusion-title.php:1811
 #: shortcodes/fusion-vimeo.php:423 shortcodes/fusion-vimeo.php:465
 #: shortcodes/fusion-youtube.php:462 shortcodes/fusion-youtube.php:496
 #: shortcodes/fusion-youtube.php:546
@@ -1944,8 +1944,8 @@ msgstr ""
 #: shortcodes/fusion-circles-info.php:791
 #: shortcodes/fusion-content-boxes.php:2827
 #: shortcodes/fusion-open-street-map.php:1172 shortcodes/fusion-person.php:1016
-#: shortcodes/fusion-person.php:1019 shortcodes/fusion-title.php:1041
-#: shortcodes/fusion-title.php:1253 shortcodes/fusion-title.php:1782
+#: shortcodes/fusion-person.php:1019 shortcodes/fusion-title.php:1043
+#: shortcodes/fusion-title.php:1255 shortcodes/fusion-title.php:1786
 #: shortcodes/fusion-toggle.php:1400 shortcodes/fusion-woo-cart-table.php:83
 #: shortcodes/fusion-woo-featured-products-slider.php:623
 #: shortcodes/fusion-woo-product-grid.php:1118
@@ -2508,8 +2508,8 @@ msgstr ""
 #: shortcodes/fusion-tabs.php:1316 shortcodes/fusion-tabs.php:1366
 #: shortcodes/fusion-tabs.php:1656 shortcodes/fusion-tagline.php:703
 #: shortcodes/fusion-testimonials.php:1219 shortcodes/fusion-text.php:802
-#: shortcodes/fusion-title.php:1425 shortcodes/fusion-title.php:1461
-#: shortcodes/fusion-title.php:1633 shortcodes/fusion-title.php:2030
+#: shortcodes/fusion-title.php:1427 shortcodes/fusion-title.php:1463
+#: shortcodes/fusion-title.php:1637 shortcodes/fusion-title.php:2034
 #: shortcodes/fusion-toggle.php:1018 shortcodes/fusion-toggle.php:1099
 #: shortcodes/fusion-toggle.php:1239 shortcodes/fusion-toggle.php:1438
 #: shortcodes/fusion-twitter-timeline.php:499
@@ -2811,8 +2811,8 @@ msgstr ""
 #: shortcodes/fusion-tabs.php:1317 shortcodes/fusion-tabs.php:1367
 #: shortcodes/fusion-tabs.php:1657 shortcodes/fusion-tagline.php:704
 #: shortcodes/fusion-testimonials.php:1220 shortcodes/fusion-text.php:803
-#: shortcodes/fusion-title.php:1426 shortcodes/fusion-title.php:1462
-#: shortcodes/fusion-title.php:1634 shortcodes/fusion-title.php:2031
+#: shortcodes/fusion-title.php:1428 shortcodes/fusion-title.php:1464
+#: shortcodes/fusion-title.php:1638 shortcodes/fusion-title.php:2035
 #: shortcodes/fusion-toggle.php:1019 shortcodes/fusion-toggle.php:1100
 #: shortcodes/fusion-toggle.php:1240 shortcodes/fusion-toggle.php:1439
 #: shortcodes/fusion-twitter-timeline.php:500
@@ -2947,7 +2947,7 @@ msgstr ""
 #: shortcodes/fusion-table-of-contents.php:654 shortcodes/fusion-table.php:241
 #: shortcodes/fusion-tabs.php:1429 shortcodes/fusion-tagcloud.php:1003
 #: shortcodes/fusion-tagline.php:949 shortcodes/fusion-testimonials.php:1236
-#: shortcodes/fusion-text.php:808 shortcodes/fusion-title.php:2269
+#: shortcodes/fusion-text.php:808 shortcodes/fusion-title.php:2273
 #: shortcodes/fusion-toggle.php:1332 shortcodes/fusion-twitter-timeline.php:558
 #: shortcodes/fusion-user-login.php:1572 shortcodes/fusion-user-login.php:1748
 #: shortcodes/fusion-user-login.php:1943 shortcodes/fusion-video.php:601
@@ -3027,7 +3027,7 @@ msgstr ""
 #: shortcodes/fusion-table-of-contents.php:658 shortcodes/fusion-table.php:242
 #: shortcodes/fusion-tabs.php:1433 shortcodes/fusion-tagcloud.php:1007
 #: shortcodes/fusion-tagline.php:950 shortcodes/fusion-testimonials.php:1237
-#: shortcodes/fusion-text.php:812 shortcodes/fusion-title.php:2273
+#: shortcodes/fusion-text.php:812 shortcodes/fusion-title.php:2277
 #: shortcodes/fusion-toggle.php:1336 shortcodes/fusion-twitter-timeline.php:562
 #: shortcodes/fusion-user-login.php:1576 shortcodes/fusion-user-login.php:1752
 #: shortcodes/fusion-user-login.php:1947 shortcodes/fusion-video.php:605
@@ -3124,7 +3124,7 @@ msgstr ""
 #: shortcodes/fusion-table-of-contents.php:662 shortcodes/fusion-table.php:249
 #: shortcodes/fusion-tabs.php:1437 shortcodes/fusion-tagcloud.php:1012
 #: shortcodes/fusion-tagline.php:957 shortcodes/fusion-testimonials.php:1244
-#: shortcodes/fusion-text.php:817 shortcodes/fusion-title.php:2278
+#: shortcodes/fusion-text.php:817 shortcodes/fusion-title.php:2282
 #: shortcodes/fusion-toggle.php:1340 shortcodes/fusion-toggle.php:1479
 #: shortcodes/fusion-tooltip.php:193 shortcodes/fusion-twitter-timeline.php:567
 #: shortcodes/fusion-user-login.php:1580 shortcodes/fusion-user-login.php:1756
@@ -3210,7 +3210,7 @@ msgstr ""
 #: shortcodes/fusion-table-of-contents.php:663 shortcodes/fusion-table.php:250
 #: shortcodes/fusion-tabs.php:1438 shortcodes/fusion-tagcloud.php:1015
 #: shortcodes/fusion-tagline.php:958 shortcodes/fusion-testimonials.php:1245
-#: shortcodes/fusion-text.php:818 shortcodes/fusion-title.php:2281
+#: shortcodes/fusion-text.php:818 shortcodes/fusion-title.php:2285
 #: shortcodes/fusion-toggle.php:1341 shortcodes/fusion-tooltip.php:196
 #: shortcodes/fusion-twitter-timeline.php:570
 #: shortcodes/fusion-user-login.php:1581 shortcodes/fusion-user-login.php:1757
@@ -3306,7 +3306,7 @@ msgstr ""
 #: shortcodes/fusion-table-of-contents.php:669 shortcodes/fusion-table.php:256
 #: shortcodes/fusion-tabs.php:1445 shortcodes/fusion-tagcloud.php:1019
 #: shortcodes/fusion-tagline.php:964 shortcodes/fusion-testimonials.php:1252
-#: shortcodes/fusion-text.php:824 shortcodes/fusion-title.php:2285
+#: shortcodes/fusion-text.php:824 shortcodes/fusion-title.php:2289
 #: shortcodes/fusion-toggle.php:1348 shortcodes/fusion-toggle.php:1486
 #: shortcodes/fusion-tooltip.php:200 shortcodes/fusion-twitter-timeline.php:574
 #: shortcodes/fusion-user-login.php:1588 shortcodes/fusion-user-login.php:1764
@@ -3392,7 +3392,7 @@ msgstr ""
 #: shortcodes/fusion-table-of-contents.php:670 shortcodes/fusion-table.php:257
 #: shortcodes/fusion-tabs.php:1446 shortcodes/fusion-tagcloud.php:1022
 #: shortcodes/fusion-tagline.php:965 shortcodes/fusion-testimonials.php:1253
-#: shortcodes/fusion-text.php:825 shortcodes/fusion-title.php:2288
+#: shortcodes/fusion-text.php:825 shortcodes/fusion-title.php:2292
 #: shortcodes/fusion-toggle.php:1349 shortcodes/fusion-tooltip.php:203
 #: shortcodes/fusion-twitter-timeline.php:577
 #: shortcodes/fusion-user-login.php:1589 shortcodes/fusion-user-login.php:1765
@@ -4266,14 +4266,14 @@ msgstr ""
 #: shortcodes/fusion-testimonials.php:1201 shortcodes/fusion-text.php:659
 #: shortcodes/fusion-text.php:670 shortcodes/fusion-text.php:681
 #: shortcodes/fusion-text.php:703 shortcodes/fusion-text.php:712
-#: shortcodes/fusion-text.php:736 shortcodes/fusion-title.php:1897
-#: shortcodes/fusion-title.php:1922 shortcodes/fusion-title.php:1931
-#: shortcodes/fusion-title.php:1958 shortcodes/fusion-title.php:1982
-#: shortcodes/fusion-title.php:1991 shortcodes/fusion-title.php:2012
-#: shortcodes/fusion-title.php:2028 shortcodes/fusion-title.php:2043
-#: shortcodes/fusion-title.php:2059 shortcodes/fusion-title.php:2074
-#: shortcodes/fusion-title.php:2146 shortcodes/fusion-title.php:2161
-#: shortcodes/fusion-title.php:2182 shortcodes/fusion-title.php:2208
+#: shortcodes/fusion-text.php:736 shortcodes/fusion-title.php:1901
+#: shortcodes/fusion-title.php:1926 shortcodes/fusion-title.php:1935
+#: shortcodes/fusion-title.php:1962 shortcodes/fusion-title.php:1986
+#: shortcodes/fusion-title.php:1995 shortcodes/fusion-title.php:2016
+#: shortcodes/fusion-title.php:2032 shortcodes/fusion-title.php:2047
+#: shortcodes/fusion-title.php:2063 shortcodes/fusion-title.php:2078
+#: shortcodes/fusion-title.php:2150 shortcodes/fusion-title.php:2165
+#: shortcodes/fusion-title.php:2186 shortcodes/fusion-title.php:2212
 #: shortcodes/fusion-toggle.php:1022 shortcodes/fusion-toggle.php:1041
 #: shortcodes/fusion-toggle.php:1062 shortcodes/fusion-toggle.php:1078
 #: shortcodes/fusion-toggle.php:1110 shortcodes/fusion-toggle.php:1131
@@ -5040,7 +5040,7 @@ msgstr ""
 #: shortcodes/fusion-star-rating.php:600
 #: shortcodes/fusion-stripe-button.php:1372 shortcodes/fusion-tagcloud.php:790
 #: shortcodes/fusion-testimonials.php:1415 shortcodes/fusion-text.php:740
-#: shortcodes/fusion-title.php:1884 shortcodes/fusion-twitter-timeline.php:531
+#: shortcodes/fusion-title.php:1888 shortcodes/fusion-twitter-timeline.php:531
 #: shortcodes/fusion-video.php:583 shortcodes/fusion-views-counter.php:590
 #: shortcodes/fusion-views-counter.php:623 shortcodes/fusion-vimeo.php:350
 #: shortcodes/fusion-youtube.php:359 shortcodes/woo-checkout-payment.php:675
@@ -5191,8 +5191,8 @@ msgstr ""
 #: shortcodes/fusion-tagline.php:603 shortcodes/fusion-tagline.php:841
 #: shortcodes/fusion-tagline.php:863 shortcodes/fusion-testimonials.php:1075
 #: shortcodes/fusion-testimonials.php:1218 shortcodes/fusion-text.php:581
-#: shortcodes/fusion-text.php:648 shortcodes/fusion-title.php:1054
-#: shortcodes/fusion-title.php:2076 shortcodes/fusion-title.php:2133
+#: shortcodes/fusion-text.php:648 shortcodes/fusion-title.php:1056
+#: shortcodes/fusion-title.php:2080 shortcodes/fusion-title.php:2137
 #: shortcodes/fusion-toggle.php:1005 shortcodes/fusion-toggle.php:1017
 #: shortcodes/fusion-toggle.php:1098 shortcodes/fusion-toggle.php:1238
 #: shortcodes/fusion-toggle.php:1267 shortcodes/fusion-user-login.php:1397
@@ -5317,7 +5317,7 @@ msgstr ""
 #: shortcodes/fusion-submenu.php:720 shortcodes/fusion-submenu.php:770
 #: shortcodes/fusion-submenu.php:1325 shortcodes/fusion-tabs.php:1344
 #: shortcodes/fusion-tagcloud.php:796 shortcodes/fusion-tagline.php:775
-#: shortcodes/fusion-text.php:751 shortcodes/fusion-title.php:1893
+#: shortcodes/fusion-text.php:751 shortcodes/fusion-title.php:1897
 #: shortcodes/fusion-twitter-timeline.php:537
 #: shortcodes/fusion-user-login.php:1281 shortcodes/fusion-user-login.php:1399
 #: shortcodes/fusion-user-login.php:1627 shortcodes/fusion-user-login.php:1803
@@ -5545,7 +5545,7 @@ msgstr ""
 #: shortcodes/fusion-countdown.php:1200
 #: shortcodes/fusion-image-before-after.php:1078
 #: shortcodes/fusion-lightbox.php:292 shortcodes/fusion-lottie.php:428
-#: shortcodes/fusion-title.php:1826
+#: shortcodes/fusion-title.php:1830
 msgid "Link URL"
 msgstr ""
 
@@ -5567,7 +5567,7 @@ msgstr ""
 #: shortcodes/fusion-lottie.php:436 shortcodes/fusion-news-ticker.php:864
 #: shortcodes/fusion-person.php:1065 shortcodes/fusion-post-card-image.php:1049
 #: shortcodes/fusion-slider.php:745 shortcodes/fusion-tagline.php:804
-#: shortcodes/fusion-testimonials.php:1389 shortcodes/fusion-title.php:1851
+#: shortcodes/fusion-testimonials.php:1389 shortcodes/fusion-title.php:1855
 msgid "Link Target"
 msgstr ""
 
@@ -5797,8 +5797,8 @@ msgstr ""
 #: shortcodes/fusion-table-of-contents.php:795
 #: shortcodes/fusion-tagline.php:764 shortcodes/fusion-testimonials.php:1296
 #: shortcodes/fusion-text.php:432 shortcodes/fusion-text.php:582
-#: shortcodes/fusion-title.php:1055 shortcodes/fusion-title.php:1083
-#: shortcodes/fusion-title.php:1568 shortcodes/fusion-title.php:2143
+#: shortcodes/fusion-title.php:1057 shortcodes/fusion-title.php:1085
+#: shortcodes/fusion-title.php:1572 shortcodes/fusion-title.php:2147
 #: shortcodes/fusion-video.php:371 shortcodes/fusion-video.php:463
 msgid "None"
 msgstr ""
@@ -6099,7 +6099,7 @@ msgstr ""
 
 #: inc/class-fusion-column-element.php:3121
 #: shortcodes/fusion-container.php:3254 shortcodes/fusion-row-inner.php:282
-#: shortcodes/fusion-title.php:1498 shortcodes/fusion-title.php:2078
+#: shortcodes/fusion-title.php:1502 shortcodes/fusion-title.php:2082
 msgid "Clip"
 msgstr ""
 
@@ -6855,13 +6855,13 @@ msgstr ""
 #: inc/templates/previews/fusion-form-element-preview.php:16
 #: shortcodes/form/submit.php:793 shortcodes/fusion-alert.php:901
 #: shortcodes/fusion-container.php:3963 shortcodes/fusion-text.php:759
-#: shortcodes/fusion-title.php:2234
+#: shortcodes/fusion-title.php:2238
 msgid "Conditional Logic"
 msgstr ""
 
 #: inc/class-fusion-column-element.php:3515 shortcodes/form/submit.php:795
 #: shortcodes/fusion-alert.php:903 shortcodes/fusion-container.php:3965
-#: shortcodes/fusion-text.php:761 shortcodes/fusion-title.php:2236
+#: shortcodes/fusion-text.php:761 shortcodes/fusion-title.php:2240
 msgid "Add conditional logic when the element is used within a form."
 msgstr ""
 
@@ -6912,7 +6912,7 @@ msgstr ""
 #: shortcodes/fusion-container.php:4120 shortcodes/fusion-container.php:4137
 #: shortcodes/fusion-container.php:4154 shortcodes/fusion-container.php:4169
 #: shortcodes/fusion-post-cards.php:5775 shortcodes/fusion-text.php:762
-#: shortcodes/fusion-title.php:2237 shortcodes/fusion-vimeo.php:468
+#: shortcodes/fusion-title.php:2241 shortcodes/fusion-vimeo.php:468
 #: shortcodes/fusion-vimeo.php:475 shortcodes/fusion-vimeo.php:489
 #: shortcodes/fusion-vimeo.php:543 shortcodes/fusion-vimeo.php:558
 #: shortcodes/fusion-vimeo.php:572 shortcodes/fusion-youtube.php:549
@@ -6926,7 +6926,7 @@ msgstr ""
 #: inc/helpers/class-fusion-builder-form-logics-helper.php:49
 #: shortcodes/form/submit.php:799 shortcodes/fusion-alert.php:907
 #: shortcodes/fusion-container.php:3969 shortcodes/fusion-text.php:765
-#: shortcodes/fusion-title.php:2240
+#: shortcodes/fusion-title.php:2244
 msgid "Select A Field"
 msgstr ""
 
@@ -6990,7 +6990,7 @@ msgstr ""
 #: shortcodes/fusion-alert.php:910 shortcodes/fusion-alert.php:919
 #: shortcodes/fusion-container.php:3972 shortcodes/fusion-container.php:3981
 #: shortcodes/fusion-text.php:768 shortcodes/fusion-text.php:777
-#: shortcodes/fusion-title.php:2243 shortcodes/fusion-title.php:2252
+#: shortcodes/fusion-title.php:2247 shortcodes/fusion-title.php:2256
 msgid "Equal To"
 msgstr ""
 
@@ -7054,7 +7054,7 @@ msgstr ""
 #: shortcodes/fusion-alert.php:911 shortcodes/fusion-alert.php:920
 #: shortcodes/fusion-container.php:3973 shortcodes/fusion-container.php:3982
 #: shortcodes/fusion-text.php:769 shortcodes/fusion-text.php:778
-#: shortcodes/fusion-title.php:2244 shortcodes/fusion-title.php:2253
+#: shortcodes/fusion-title.php:2248 shortcodes/fusion-title.php:2257
 msgid "Not Equal To"
 msgstr ""
 
@@ -7092,7 +7092,7 @@ msgstr ""
 #: shortcodes/fusion-alert.php:912 shortcodes/fusion-alert.php:921
 #: shortcodes/fusion-container.php:3974 shortcodes/fusion-container.php:3983
 #: shortcodes/fusion-text.php:770 shortcodes/fusion-text.php:779
-#: shortcodes/fusion-title.php:2245 shortcodes/fusion-title.php:2254
+#: shortcodes/fusion-title.php:2249 shortcodes/fusion-title.php:2258
 msgid "Greater Than"
 msgstr ""
 
@@ -7130,7 +7130,7 @@ msgstr ""
 #: shortcodes/fusion-alert.php:913 shortcodes/fusion-alert.php:922
 #: shortcodes/fusion-container.php:3975 shortcodes/fusion-container.php:3984
 #: shortcodes/fusion-text.php:771 shortcodes/fusion-text.php:780
-#: shortcodes/fusion-title.php:2246 shortcodes/fusion-title.php:2255
+#: shortcodes/fusion-title.php:2250 shortcodes/fusion-title.php:2259
 msgid "Less Than"
 msgstr ""
 
@@ -7152,7 +7152,7 @@ msgstr ""
 #: shortcodes/fusion-alert.php:914 shortcodes/fusion-alert.php:923
 #: shortcodes/fusion-container.php:3976 shortcodes/fusion-container.php:3985
 #: shortcodes/fusion-text.php:772 shortcodes/fusion-text.php:781
-#: shortcodes/fusion-title.php:2247 shortcodes/fusion-title.php:2256
+#: shortcodes/fusion-title.php:2251 shortcodes/fusion-title.php:2260
 msgid "Contains"
 msgstr ""
 
@@ -7173,7 +7173,7 @@ msgstr ""
 #: shortcodes/fusion-alert.php:915 shortcodes/fusion-alert.php:924
 #: shortcodes/fusion-container.php:3977 shortcodes/fusion-container.php:3986
 #: shortcodes/fusion-text.php:773 shortcodes/fusion-text.php:782
-#: shortcodes/fusion-title.php:2248 shortcodes/fusion-title.php:2257
+#: shortcodes/fusion-title.php:2252 shortcodes/fusion-title.php:2261
 msgid "Does Not Contain"
 msgstr ""
 
@@ -7494,7 +7494,7 @@ msgstr ""
 #: shortcodes/components/post-card-archives.php:1152
 #: shortcodes/fusion-breadcrumbs.php:367 shortcodes/fusion-news-ticker.php:826
 #: shortcodes/fusion-post-cards.php:4610 shortcodes/fusion-separator.php:531
-#: shortcodes/fusion-separator.php:659 shortcodes/fusion-title.php:2129
+#: shortcodes/fusion-separator.php:659 shortcodes/fusion-title.php:2133
 #: shortcodes/fusion-views-counter.php:489
 msgid "Separator"
 msgstr ""
@@ -8414,7 +8414,7 @@ msgstr ""
 #: inc/class-fusion-dynamic-data.php:2675
 #: inc/helpers/class-fusion-builder-pattern-helper.php:70
 #: shortcodes/fusion-social-sharing.php:798
-#: shortcodes/fusion-social-sharing.php:1147 shortcodes/fusion-title.php:1549
+#: shortcodes/fusion-social-sharing.php:1147 shortcodes/fusion-title.php:1553
 msgid "X"
 msgstr ""
 
@@ -10325,7 +10325,7 @@ msgstr ""
 #: shortcodes/components/woo-additional-info.php:424
 #: shortcodes/components/woo-order-customer-details.php:441
 #: shortcodes/components/woo-reviews.php:452
-#: shortcodes/fusion-content-boxes.php:2170 shortcodes/fusion-title.php:1908
+#: shortcodes/fusion-content-boxes.php:2170 shortcodes/fusion-title.php:1912
 msgid "HTML Heading Tag"
 msgstr ""
 
@@ -10334,7 +10334,7 @@ msgstr ""
 #: shortcodes/components/related.php:844
 #: shortcodes/components/woo-additional-info.php:425
 #: shortcodes/components/woo-reviews.php:453
-#: shortcodes/fusion-content-boxes.php:2171 shortcodes/fusion-title.php:1909
+#: shortcodes/fusion-content-boxes.php:2171 shortcodes/fusion-title.php:1913
 msgid ""
 "Choose HTML tag of the heading, either div, p or the heading tag, h1-h6."
 msgstr ""
@@ -10695,7 +10695,7 @@ msgstr ""
 #: shortcodes/fusion-tagline.php:763 shortcodes/fusion-tagline.php:776
 #: shortcodes/fusion-testimonials.php:1420
 #: shortcodes/fusion-testimonials.php:1447 shortcodes/fusion-text.php:752
-#: shortcodes/fusion-title.php:1444 shortcodes/fusion-title.php:1894
+#: shortcodes/fusion-title.php:1446 shortcodes/fusion-title.php:1898
 #: shortcodes/fusion-toggle.php:745 shortcodes/fusion-toggle.php:1269
 #: shortcodes/fusion-tooltip.php:174 shortcodes/fusion-video.php:592
 #: shortcodes/fusion-vimeo.php:358 shortcodes/fusion-youtube.php:367
@@ -10800,7 +10800,7 @@ msgstr ""
 #: shortcodes/fusion-tagline.php:762 shortcodes/fusion-tagline.php:774
 #: shortcodes/fusion-testimonials.php:1419
 #: shortcodes/fusion-testimonials.php:1446 shortcodes/fusion-text.php:750
-#: shortcodes/fusion-title.php:1443 shortcodes/fusion-title.php:1892
+#: shortcodes/fusion-title.php:1445 shortcodes/fusion-title.php:1896
 #: shortcodes/fusion-toggle.php:744 shortcodes/fusion-toggle.php:1268
 #: shortcodes/fusion-tooltip.php:173 shortcodes/fusion-video.php:590
 #: shortcodes/fusion-vimeo.php:356 shortcodes/fusion-youtube.php:365
@@ -10923,7 +10923,7 @@ msgstr ""
 #: shortcodes/components/post-card-archives.php:1575
 #: shortcodes/fusion-audio.php:493 shortcodes/fusion-image-carousel.php:1240
 #: shortcodes/fusion-lottie.php:547 shortcodes/fusion-post-cards.php:5031
-#: shortcodes/fusion-title.php:1566
+#: shortcodes/fusion-title.php:1570
 msgid "Loop"
 msgstr ""
 
@@ -10973,7 +10973,7 @@ msgstr ""
 #: shortcodes/fusion-image-carousel.php:1034 shortcodes/fusion-menu.php:1340
 #: shortcodes/fusion-menu.php:1735 shortcodes/fusion-menu.php:1779
 #: shortcodes/fusion-post-cards.php:4031 shortcodes/fusion-submenu.php:844
-#: shortcodes/fusion-submenu.php:1254 shortcodes/fusion-title.php:1499
+#: shortcodes/fusion-submenu.php:1254 shortcodes/fusion-title.php:1503
 msgid "Fade"
 msgstr ""
 
@@ -10998,7 +10998,7 @@ msgstr ""
 
 #: inc/helpers/class-fusion-builder-background-slider-helper.php:201
 #: inc/helpers.php:174 inc/lib/inc/class-fusion-settings.php:428
-#: shortcodes/fusion-container.php:2352 shortcodes/fusion-title.php:1505
+#: shortcodes/fusion-container.php:2352 shortcodes/fusion-title.php:1509
 msgid "Zoom"
 msgstr ""
 
@@ -11818,7 +11818,7 @@ msgstr ""
 
 #: inc/helpers/class-fusion-builder-filter-helper.php:234
 #: inc/helpers/class-fusion-builder-motion-effects-helper.php:75
-#: shortcodes/fusion-title.php:1496
+#: shortcodes/fusion-title.php:1498
 msgid "Blur"
 msgstr ""
 
@@ -12433,7 +12433,7 @@ msgstr ""
 #: inc/helpers/class-fusion-builder-motion-effects-helper.php:74
 #: inc/helpers/class-fusion-builder-motion-effects-helper.php:472
 #: inc/helpers/class-fusion-builder-transform-helper.php:179
-#: shortcodes/awb-text-path.php:1142 shortcodes/fusion-title.php:1297
+#: shortcodes/awb-text-path.php:1142 shortcodes/fusion-title.php:1299
 msgid "Rotate"
 msgstr ""
 
@@ -12482,7 +12482,7 @@ msgid "Choose the element scale type."
 msgstr ""
 
 #: inc/helpers/class-fusion-builder-motion-effects-helper.php:162
-#: shortcodes/fusion-title.php:1298
+#: shortcodes/fusion-title.php:1300
 msgid "Scale Up"
 msgstr ""
 
@@ -12933,7 +12933,7 @@ msgid ""
 "website</a> to create custom easing."
 msgstr ""
 
-#: inc/helpers.php:167 shortcodes/fusion-title.php:1497
+#: inc/helpers.php:167 shortcodes/fusion-title.php:1499
 msgid "Bounce"
 msgstr ""
 
@@ -12963,7 +12963,7 @@ msgstr ""
 msgid "Flip Horizontally"
 msgstr ""
 
-#: inc/helpers.php:177 shortcodes/fusion-title.php:1501
+#: inc/helpers.php:177 shortcodes/fusion-title.php:1505
 msgid "Light Speed"
 msgstr ""
 
@@ -17155,7 +17155,7 @@ msgstr ""
 #: shortcodes/form/submit.php:654 shortcodes/fusion-button.php:2150
 #: shortcodes/fusion-news-ticker.php:905
 #: shortcodes/fusion-stripe-button.php:1803 shortcodes/fusion-text.php:709
-#: shortcodes/fusion-title.php:1954 shortcodes/woo-checkout-payment.php:442
+#: shortcodes/fusion-title.php:1958 shortcodes/woo-checkout-payment.php:442
 msgid "Typography"
 msgstr ""
 
@@ -17769,21 +17769,21 @@ msgstr ""
 #: inc/lib/inc/fusion-app/templates/typography-set.php:141
 #: inc/lib/inc/redux/custom-fields/typography/field_typography.php:299
 #: shortcodes/fusion-alert.php:474 shortcodes/fusion-alert.php:846
-#: shortcodes/fusion-title.php:1056
+#: shortcodes/fusion-title.php:1058
 msgid "Uppercase"
 msgstr ""
 
 #: inc/lib/inc/fusion-app/templates/options/typography.php:231
 #: inc/lib/inc/fusion-app/templates/typography-set.php:145
 #: inc/lib/inc/redux/custom-fields/typography/field_typography.php:303
-#: shortcodes/fusion-title.php:1057
+#: shortcodes/fusion-title.php:1059
 msgid "Lowercase"
 msgstr ""
 
 #: inc/lib/inc/fusion-app/templates/options/typography.php:235
 #: inc/lib/inc/fusion-app/templates/typography-set.php:149
 #: inc/lib/inc/redux/custom-fields/typography/field_typography.php:307
-#: shortcodes/fusion-title.php:1058
+#: shortcodes/fusion-title.php:1060
 msgid "Capitalize"
 msgstr ""
 
@@ -17791,14 +17791,14 @@ msgstr ""
 #: inc/lib/inc/fusion-app/templates/typography-set.php:154
 #: inc/lib/inc/redux/custom-fields/typography/field_typography.php:267
 #: shortcodes/fusion-alert.php:467 shortcodes/fusion-alert.php:839
-#: shortcodes/fusion-title.php:1048
+#: shortcodes/fusion-title.php:1050
 msgid "Text Transform"
 msgstr ""
 
 #: inc/lib/inc/fusion-app/templates/options/typography.php:268
 #: inc/lib/inc/redux/custom-fields/typography/field_typography.php:332
 #: shortcodes/awb-text-path.php:878 shortcodes/fusion-highlight.php:305
-#: shortcodes/fusion-text.php:731 shortcodes/fusion-title.php:1977
+#: shortcodes/fusion-text.php:731 shortcodes/fusion-title.php:1981
 msgid "Font Color"
 msgstr ""
 
@@ -20256,7 +20256,7 @@ msgstr ""
 
 #: shortcodes/awb-text-path.php:712 shortcodes/components/author.php:328
 #: shortcodes/components/comments.php:396 shortcodes/fusion-chart.php:798
-#: shortcodes/fusion-title.php:1539
+#: shortcodes/fusion-title.php:1543
 msgid "Circle"
 msgstr ""
 
@@ -20301,7 +20301,7 @@ msgstr ""
 #: shortcodes/fusion-content-boxes.php:1986
 #: shortcodes/fusion-content-boxes.php:2521
 #: shortcodes/fusion-post-card-cart.php:3715
-#: shortcodes/fusion-tagcloud.php:1032 shortcodes/fusion-title.php:1276
+#: shortcodes/fusion-tagcloud.php:1032 shortcodes/fusion-title.php:1278
 #: shortcodes/fusion-woo-sorting.php:1773
 msgid "Text"
 msgstr ""
@@ -20331,7 +20331,7 @@ msgstr ""
 #: shortcodes/fusion-testimonials.php:1287
 #: shortcodes/fusion-testimonials.php:1377
 #: shortcodes/fusion-testimonials.php:1410 shortcodes/fusion-text.php:533
-#: shortcodes/fusion-title.php:1785 shortcodes/fusion-toggle.php:997
+#: shortcodes/fusion-title.php:1789 shortcodes/fusion-toggle.php:997
 #: shortcodes/fusion-toggle.php:1403 shortcodes/fusion-toggle.php:1448
 #: shortcodes/fusion-user-login.php:1420 shortcodes/fusion-user-login.php:1443
 #: shortcodes/fusion-user-login.php:1636 shortcodes/fusion-user-login.php:1659
@@ -20357,7 +20357,7 @@ msgstr ""
 #: shortcodes/fusion-news-ticker.php:868 shortcodes/fusion-person.php:1069
 #: shortcodes/fusion-post-card-image.php:1053 shortcodes/fusion-slider.php:749
 #: shortcodes/fusion-tagline.php:808 shortcodes/fusion-testimonials.php:1393
-#: shortcodes/fusion-title.php:1855
+#: shortcodes/fusion-title.php:1859
 msgid "Same Window/Tab"
 msgstr ""
 
@@ -20374,7 +20374,7 @@ msgstr ""
 #: shortcodes/fusion-news-ticker.php:869 shortcodes/fusion-person.php:1070
 #: shortcodes/fusion-post-card-image.php:1054 shortcodes/fusion-slider.php:750
 #: shortcodes/fusion-tagline.php:809 shortcodes/fusion-testimonials.php:1394
-#: shortcodes/fusion-title.php:1856
+#: shortcodes/fusion-title.php:1860
 msgid "New Window/Tab"
 msgstr ""
 
@@ -20475,32 +20475,32 @@ msgid "Controls the color of the text, ex: #000."
 msgstr ""
 
 #: shortcodes/awb-text-path.php:888 shortcodes/fusion-highlight.php:324
-#: shortcodes/fusion-title.php:2024
+#: shortcodes/fusion-title.php:2028
 msgid "Text Stroke"
 msgstr ""
 
 #: shortcodes/awb-text-path.php:889 shortcodes/fusion-highlight.php:325
-#: shortcodes/fusion-title.php:2025
+#: shortcodes/fusion-title.php:2029
 msgid "Set to \"Yes\" to enable text stroke."
 msgstr ""
 
 #: shortcodes/awb-text-path.php:900 shortcodes/fusion-highlight.php:336
-#: shortcodes/fusion-title.php:2036
+#: shortcodes/fusion-title.php:2040
 msgid "Text Stroke Size"
 msgstr ""
 
 #: shortcodes/awb-text-path.php:901 shortcodes/fusion-highlight.php:337
-#: shortcodes/fusion-title.php:2037
+#: shortcodes/fusion-title.php:2041
 msgid "Set text stroke size. In pixels."
 msgstr ""
 
 #: shortcodes/awb-text-path.php:918 shortcodes/fusion-highlight.php:354
-#: shortcodes/fusion-title.php:2054
+#: shortcodes/fusion-title.php:2058
 msgid "Text Stroke Color"
 msgstr ""
 
 #: shortcodes/awb-text-path.php:919 shortcodes/fusion-highlight.php:355
-#: shortcodes/fusion-title.php:2055
+#: shortcodes/fusion-title.php:2059
 msgid "Controls the color of the text stroke."
 msgstr ""
 
@@ -21175,7 +21175,7 @@ msgid "Set left padding for child comments. In pixels."
 msgstr ""
 
 #: shortcodes/components/comments.php:514 shortcodes/components/meta.php:1165
-#: shortcodes/fusion-search.php:692 shortcodes/fusion-title.php:2178
+#: shortcodes/fusion-search.php:692 shortcodes/fusion-title.php:2182
 #: shortcodes/fusion-user-login.php:1507 shortcodes/fusion-user-login.php:1723
 #: shortcodes/fusion-user-login.php:1911
 #: shortcodes/woo-checkout-payment.php:589 shortcodes/woo-checkout-tabs.php:953
@@ -21184,7 +21184,7 @@ msgstr ""
 msgid "Link Color"
 msgstr ""
 
-#: shortcodes/components/comments.php:515 shortcodes/fusion-title.php:2181
+#: shortcodes/components/comments.php:515 shortcodes/fusion-title.php:2185
 msgid "Controls the link color."
 msgstr ""
 
@@ -21235,7 +21235,7 @@ msgid "Set the first letter of first paragraph as a dropcap."
 msgstr ""
 
 #. translators: URL for the link.
-#: shortcodes/components/content.php:690 shortcodes/fusion-title.php:1956
+#: shortcodes/components/content.php:690 shortcodes/fusion-title.php:1960
 msgid ""
 "Controls the title text typography.  Leave empty if the global typography "
 "for the corresponding heading size (h1-h6) should be used: %s."
@@ -21995,7 +21995,7 @@ msgstr ""
 
 #: shortcodes/components/post-card-archives.php:911
 #: shortcodes/fusion-image-carousel.php:1021
-#: shortcodes/fusion-post-cards.php:3943 shortcodes/fusion-title.php:1277
+#: shortcodes/fusion-post-cards.php:3943 shortcodes/fusion-title.php:1279
 msgid "Marquee"
 msgstr ""
 
@@ -22012,13 +22012,13 @@ msgstr ""
 
 #: shortcodes/components/post-card-archives.php:921
 #: shortcodes/fusion-image-carousel.php:1126
-#: shortcodes/fusion-post-cards.php:3953 shortcodes/fusion-title.php:1438
+#: shortcodes/fusion-post-cards.php:3953 shortcodes/fusion-title.php:1440
 msgid "Marquee Direction"
 msgstr ""
 
 #: shortcodes/components/post-card-archives.php:922
 #: shortcodes/fusion-image-carousel.php:1127
-#: shortcodes/fusion-post-cards.php:3954 shortcodes/fusion-title.php:1439
+#: shortcodes/fusion-post-cards.php:3954 shortcodes/fusion-title.php:1441
 msgid "Select the marquee direction."
 msgstr ""
 
@@ -22067,7 +22067,7 @@ msgstr ""
 
 #: shortcodes/components/post-card-archives.php:1000
 #: shortcodes/fusion-image-carousel.php:1035
-#: shortcodes/fusion-post-cards.php:4032 shortcodes/fusion-title.php:1500
+#: shortcodes/fusion-post-cards.php:4032 shortcodes/fusion-title.php:1504
 msgid "Flip"
 msgstr ""
 
@@ -22136,7 +22136,7 @@ msgstr ""
 #: shortcodes/components/woo-order-customer-details.php:536
 #: shortcodes/fusion-breadcrumbs.php:456 shortcodes/fusion-post-cards.php:4638
 #: shortcodes/fusion-separator.php:557 shortcodes/fusion-separator.php:810
-#: shortcodes/fusion-title.php:2157 shortcodes/woo-mini-cart.php:550
+#: shortcodes/fusion-title.php:2161 shortcodes/woo-mini-cart.php:550
 msgid "Separator Color"
 msgstr ""
 
@@ -22222,7 +22222,7 @@ msgstr ""
 
 #: shortcodes/components/post-card-archives.php:1405
 #: shortcodes/fusion-image-carousel.php:1402
-#: shortcodes/fusion-post-cards.php:4862 shortcodes/fusion-title.php:1456
+#: shortcodes/fusion-post-cards.php:4862 shortcodes/fusion-title.php:1458
 msgid "Mask Edges"
 msgstr ""
 
@@ -24706,7 +24706,7 @@ msgstr ""
 #: shortcodes/fusion-circles-info.php:1088
 #: shortcodes/fusion-circles-info.php:1173
 #: shortcodes/fusion-image-carousel.php:1814 shortcodes/fusion-text.php:436
-#: shortcodes/fusion-text.php:586 shortcodes/fusion-title.php:1543
+#: shortcodes/fusion-text.php:586 shortcodes/fusion-title.php:1547
 msgid "Double"
 msgstr ""
 
@@ -26977,7 +26977,7 @@ msgid "Choose how the content should be displayed."
 msgstr ""
 
 #: shortcodes/fusion-alert.php:468 shortcodes/fusion-alert.php:840
-#: shortcodes/fusion-title.php:1049
+#: shortcodes/fusion-title.php:1051
 msgid "Choose how the text is displayed."
 msgstr ""
 
@@ -28262,7 +28262,7 @@ msgstr ""
 #: shortcodes/fusion-news-ticker.php:865 shortcodes/fusion-person.php:1066
 #: shortcodes/fusion-post-card-image.php:1050 shortcodes/fusion-slider.php:746
 #: shortcodes/fusion-tagline.php:805 shortcodes/fusion-testimonials.php:1390
-#: shortcodes/fusion-title.php:1852
+#: shortcodes/fusion-title.php:1856
 msgid "Controls how the link will open."
 msgstr ""
 
@@ -28685,7 +28685,7 @@ msgid ""
 msgstr ""
 
 #: shortcodes/fusion-container.php:2344 shortcodes/fusion-menu.php:1736
-#: shortcodes/fusion-submenu.php:1255 shortcodes/fusion-title.php:1294
+#: shortcodes/fusion-submenu.php:1255 shortcodes/fusion-title.php:1296
 msgid "Slide Up"
 msgstr ""
 
@@ -32106,7 +32106,7 @@ msgstr ""
 msgid "Specify whether or not to use Ajax to submit the form."
 msgstr ""
 
-#: shortcodes/fusion-highlight.php:230 shortcodes/fusion-title.php:1279
+#: shortcodes/fusion-highlight.php:230 shortcodes/fusion-title.php:1281
 msgid "Highlight"
 msgstr ""
 
@@ -33931,7 +33931,7 @@ msgid "Submenu Expand Transition"
 msgstr ""
 
 #: shortcodes/fusion-menu.php:1737 shortcodes/fusion-submenu.php:1256
-#: shortcodes/fusion-title.php:1295 shortcodes/fusion-title.php:1504
+#: shortcodes/fusion-title.php:1297 shortcodes/fusion-title.php:1508
 msgid "Slide Down"
 msgstr ""
 
@@ -34827,7 +34827,7 @@ msgid ""
 msgstr ""
 
 #: shortcodes/fusion-open-street-map.php:807
-#: shortcodes/fusion-open-street-map.php:1156 shortcodes/fusion-title.php:1541
+#: shortcodes/fusion-open-street-map.php:1156 shortcodes/fusion-title.php:1545
 msgid "Marker"
 msgstr ""
 
@@ -40060,7 +40060,7 @@ msgstr ""
 msgid "Tagline Title"
 msgstr ""
 
-#: shortcodes/fusion-tagline.php:901 shortcodes/fusion-title.php:1783
+#: shortcodes/fusion-tagline.php:901 shortcodes/fusion-title.php:1787
 msgid "Insert the title text."
 msgstr ""
 
@@ -40471,374 +40471,382 @@ msgid ""
 "this element."
 msgstr ""
 
-#: shortcodes/fusion-title.php:1067
+#: shortcodes/fusion-title.php:1069
 msgid "Title Separator"
 msgstr ""
 
-#: shortcodes/fusion-title.php:1068
+#: shortcodes/fusion-title.php:1070
 msgid "Controls the type of title separator that will display."
 msgstr ""
 
-#: shortcodes/fusion-title.php:1074 shortcodes/fusion-title.php:2134
+#: shortcodes/fusion-title.php:1076 shortcodes/fusion-title.php:2138
 msgid "Single Solid"
 msgstr ""
 
-#: shortcodes/fusion-title.php:1075 shortcodes/fusion-title.php:2135
+#: shortcodes/fusion-title.php:1077 shortcodes/fusion-title.php:2139
 msgid "Single Dashed"
 msgstr ""
 
-#: shortcodes/fusion-title.php:1076 shortcodes/fusion-title.php:2136
+#: shortcodes/fusion-title.php:1078 shortcodes/fusion-title.php:2140
 msgid "Single Dotted"
 msgstr ""
 
-#: shortcodes/fusion-title.php:1077 shortcodes/fusion-title.php:2137
+#: shortcodes/fusion-title.php:1079 shortcodes/fusion-title.php:2141
 msgid "Double Solid"
 msgstr ""
 
-#: shortcodes/fusion-title.php:1078 shortcodes/fusion-title.php:2138
+#: shortcodes/fusion-title.php:1080 shortcodes/fusion-title.php:2142
 msgid "Double Dashed"
 msgstr ""
 
-#: shortcodes/fusion-title.php:1079 shortcodes/fusion-title.php:2139
+#: shortcodes/fusion-title.php:1081 shortcodes/fusion-title.php:2143
 msgid "Double Dotted"
 msgstr ""
 
-#: shortcodes/fusion-title.php:1080 shortcodes/fusion-title.php:2140
+#: shortcodes/fusion-title.php:1082 shortcodes/fusion-title.php:2144
 msgid "Underline Solid"
 msgstr ""
 
-#: shortcodes/fusion-title.php:1081 shortcodes/fusion-title.php:2141
+#: shortcodes/fusion-title.php:1083 shortcodes/fusion-title.php:2145
 msgid "Underline Dashed"
 msgstr ""
 
-#: shortcodes/fusion-title.php:1082 shortcodes/fusion-title.php:2142
+#: shortcodes/fusion-title.php:1084 shortcodes/fusion-title.php:2146
 msgid "Underline Dotted"
 msgstr ""
 
-#: shortcodes/fusion-title.php:1087
+#: shortcodes/fusion-title.php:1089
 msgid "Title Separator Color"
 msgstr ""
 
-#: shortcodes/fusion-title.php:1088
+#: shortcodes/fusion-title.php:1090
 msgid "Controls the color of the title separators."
 msgstr ""
 
-#: shortcodes/fusion-title.php:1101
+#: shortcodes/fusion-title.php:1103
 msgid "Title Margins"
 msgstr ""
 
-#: shortcodes/fusion-title.php:1102
+#: shortcodes/fusion-title.php:1104
 msgid ""
 "Controls the margin of the titles. Leave empty to use corresponding heading "
 "margins."
 msgstr ""
 
-#: shortcodes/fusion-title.php:1138
+#: shortcodes/fusion-title.php:1140
 msgid "Title Mobile Margins"
 msgstr ""
 
-#: shortcodes/fusion-title.php:1139
+#: shortcodes/fusion-title.php:1141
 msgid ""
 "Controls the margin of the titles on mobiles. Leave empty together with "
 "desktop margins to use corresponding heading margins."
 msgstr ""
 
-#: shortcodes/fusion-title.php:1244 shortcodes/fusion-title.php:1246
+#: shortcodes/fusion-title.php:1246 shortcodes/fusion-title.php:1248
 msgid "Global Options Heading Settings"
 msgstr ""
 
-#: shortcodes/fusion-title.php:1272
+#: shortcodes/fusion-title.php:1274
 msgid "Title Type"
 msgstr ""
 
-#: shortcodes/fusion-title.php:1273
+#: shortcodes/fusion-title.php:1275
 msgid "Choose the title type."
 msgstr ""
 
-#: shortcodes/fusion-title.php:1278
+#: shortcodes/fusion-title.php:1280
 msgid "Rotating"
 msgstr ""
 
-#: shortcodes/fusion-title.php:1280
+#: shortcodes/fusion-title.php:1282
 msgid "Scroll Reveal"
 msgstr ""
 
-#: shortcodes/fusion-title.php:1286
+#: shortcodes/fusion-title.php:1288
 msgid "Scroll Reveal Effect"
 msgstr ""
 
-#: shortcodes/fusion-title.php:1287
+#: shortcodes/fusion-title.php:1289
 msgid "Select the style for the scroll reveal animation."
 msgstr ""
 
-#: shortcodes/fusion-title.php:1291
+#: shortcodes/fusion-title.php:1293
 msgid "Color Change"
 msgstr ""
 
-#: shortcodes/fusion-title.php:1292
+#: shortcodes/fusion-title.php:1294
 msgid "Unblur"
 msgstr ""
 
-#: shortcodes/fusion-title.php:1293
+#: shortcodes/fusion-title.php:1295
 msgid "Random Assemble"
 msgstr ""
 
-#: shortcodes/fusion-title.php:1296
+#: shortcodes/fusion-title.php:1298
 msgid "Turn"
 msgstr ""
 
-#: shortcodes/fusion-title.php:1310
+#: shortcodes/fusion-title.php:1312
 msgid "Scroll Reveal Basis"
 msgstr ""
 
-#: shortcodes/fusion-title.php:1311
+#: shortcodes/fusion-title.php:1313
 msgid "Select the basis for the reveal effect."
 msgstr ""
 
-#: shortcodes/fusion-title.php:1315
+#: shortcodes/fusion-title.php:1317
 msgid "Lines"
 msgstr ""
 
-#: shortcodes/fusion-title.php:1316
+#: shortcodes/fusion-title.php:1318
 msgid "Words"
 msgstr ""
 
-#: shortcodes/fusion-title.php:1317
+#: shortcodes/fusion-title.php:1319
 msgid "Chars"
 msgstr ""
 
-#: shortcodes/fusion-title.php:1344
+#: shortcodes/fusion-title.php:1346
 msgid "Scroll Reveal Behavior"
 msgstr ""
 
-#: shortcodes/fusion-title.php:1345
+#: shortcodes/fusion-title.php:1347
 msgid "Select how the scroll reveal effects behave on scroll.."
 msgstr ""
 
-#: shortcodes/fusion-title.php:1349
+#: shortcodes/fusion-title.php:1351
 msgid "Animate on down & up"
 msgstr ""
 
-#: shortcodes/fusion-title.php:1350
+#: shortcodes/fusion-title.php:1352
 msgid "Animate on down"
 msgstr ""
 
-#: shortcodes/fusion-title.php:1351
+#: shortcodes/fusion-title.php:1353
 msgid "Animate once"
 msgstr ""
 
-#: shortcodes/fusion-title.php:1364
+#: shortcodes/fusion-title.php:1366
 msgid "Scroll Reveal Duration"
 msgstr ""
 
-#: shortcodes/fusion-title.php:1365
+#: shortcodes/fusion-title.php:1367
 msgid "Controls the duration of the scroll animation effect. In milliseconds."
 msgstr ""
 
-#: shortcodes/fusion-title.php:1381
+#: shortcodes/fusion-title.php:1383
 msgid "Scroll Reveal Stagger"
 msgstr ""
 
-#: shortcodes/fusion-title.php:1382
+#: shortcodes/fusion-title.php:1384
 msgid ""
 "Controls how the start times of the individual animations within a scroll "
 "reveal effect are staggered. In milliseconds."
 msgstr ""
 
-#: shortcodes/fusion-title.php:1403
+#: shortcodes/fusion-title.php:1405
 msgid "Scroll Reveal Delay"
 msgstr ""
 
-#: shortcodes/fusion-title.php:1404
+#: shortcodes/fusion-title.php:1406
 msgid "Controls the delay for the start of the scroll effect. In milliseconds."
 msgstr ""
 
-#: shortcodes/fusion-title.php:1420
+#: shortcodes/fusion-title.php:1422
 msgid "Enable Scroll Reveal Above The Fold"
 msgstr ""
 
-#: shortcodes/fusion-title.php:1421
+#: shortcodes/fusion-title.php:1423
 msgid ""
 "Set to \"yes\" to enable the scroll reveal effect even if the title is above "
 "the fold. This can lead to a flash of unstyled content."
 msgstr ""
 
-#: shortcodes/fusion-title.php:1457
+#: shortcodes/fusion-title.php:1459
 msgid ""
 "Choose if the edges of the marquee should be masked with a fade out effect."
 msgstr ""
 
-#: shortcodes/fusion-title.php:1474
+#: shortcodes/fusion-title.php:1476
 msgid "Marquee Speed"
 msgstr ""
 
-#: shortcodes/fusion-title.php:1475
+#: shortcodes/fusion-title.php:1477
 msgid ""
 "Controls the speed of the marquee effect. In milliseconds, 1000 = 1 second."
 msgstr ""
 
-#: shortcodes/fusion-title.php:1491
+#: shortcodes/fusion-title.php:1493
 msgid "Rotation Effect"
 msgstr ""
 
-#: shortcodes/fusion-title.php:1492
+#: shortcodes/fusion-title.php:1494
 msgid "Select the style for rotation text."
 msgstr ""
 
-#: shortcodes/fusion-title.php:1502
+#: shortcodes/fusion-title.php:1500
+msgid "Carousel Down"
+msgstr ""
+
+#: shortcodes/fusion-title.php:1501
+msgid "Carousel Up"
+msgstr ""
+
+#: shortcodes/fusion-title.php:1506
 msgid "Roll"
 msgstr ""
 
-#: shortcodes/fusion-title.php:1503
+#: shortcodes/fusion-title.php:1507
 msgid "Typing"
 msgstr ""
 
-#: shortcodes/fusion-title.php:1517
+#: shortcodes/fusion-title.php:1521
 msgid "Display Time"
 msgstr ""
 
-#: shortcodes/fusion-title.php:1518
+#: shortcodes/fusion-title.php:1522
 msgid ""
 "Controls the animation delay between each text in a set. In milliseconds."
 msgstr ""
 
-#: shortcodes/fusion-title.php:1534
+#: shortcodes/fusion-title.php:1538
 msgid "Highlight Effect"
 msgstr ""
 
-#: shortcodes/fusion-title.php:1535
+#: shortcodes/fusion-title.php:1539
 msgid "Select the highlight effect."
 msgstr ""
 
-#: shortcodes/fusion-title.php:1540
+#: shortcodes/fusion-title.php:1544
 msgid "Curly"
 msgstr ""
 
-#: shortcodes/fusion-title.php:1542
+#: shortcodes/fusion-title.php:1546
 msgid "Underline"
 msgstr ""
 
-#: shortcodes/fusion-title.php:1544
+#: shortcodes/fusion-title.php:1548
 msgid "Double Underline"
 msgstr ""
 
-#: shortcodes/fusion-title.php:1545
+#: shortcodes/fusion-title.php:1549
 msgid "Underline Zigzag"
 msgstr ""
 
-#: shortcodes/fusion-title.php:1546
+#: shortcodes/fusion-title.php:1550
 msgid "Diagonal Bottom Left"
 msgstr ""
 
-#: shortcodes/fusion-title.php:1547
+#: shortcodes/fusion-title.php:1551
 msgid "Diagonal Top Left"
 msgstr ""
 
-#: shortcodes/fusion-title.php:1548
+#: shortcodes/fusion-title.php:1552
 msgid "Strikethrough"
 msgstr ""
 
-#: shortcodes/fusion-title.php:1561
+#: shortcodes/fusion-title.php:1565
 msgid "Animation Mode"
 msgstr ""
 
-#: shortcodes/fusion-title.php:1562
+#: shortcodes/fusion-title.php:1566
 msgid ""
 "Controls if and how the text should be animated. Rotating text will either "
 "run once or loop."
 msgstr ""
 
-#: shortcodes/fusion-title.php:1567
+#: shortcodes/fusion-title.php:1571
 msgid "Once"
 msgstr ""
 
-#: shortcodes/fusion-title.php:1590
+#: shortcodes/fusion-title.php:1594
 msgid "Highlight Animation Duration"
 msgstr ""
 
-#: shortcodes/fusion-title.php:1591
+#: shortcodes/fusion-title.php:1595
 msgid "Controls the duration of the highlight animation. In milliseconds."
 msgstr ""
 
-#: shortcodes/fusion-title.php:1612
+#: shortcodes/fusion-title.php:1616
 msgid "Highlight Shape Thickness"
 msgstr ""
 
-#: shortcodes/fusion-title.php:1613
+#: shortcodes/fusion-title.php:1617
 msgid "Controls the thickness of highlight shape."
 msgstr ""
 
-#: shortcodes/fusion-title.php:1629
+#: shortcodes/fusion-title.php:1633
 msgid "Highlight Smudge Effect"
 msgstr ""
 
-#: shortcodes/fusion-title.php:1630
+#: shortcodes/fusion-title.php:1634
 msgid ""
 "Choose if the highlight shape should have a slightly smudged gradient effect."
 msgstr ""
 
-#: shortcodes/fusion-title.php:1647
+#: shortcodes/fusion-title.php:1651
 msgid "Highlight Top Margin"
 msgstr ""
 
-#: shortcodes/fusion-title.php:1648
+#: shortcodes/fusion-title.php:1652
 msgid "Controls the top margin of highlight shape."
 msgstr ""
 
-#: shortcodes/fusion-title.php:1699
+#: shortcodes/fusion-title.php:1703
 msgid "Before Text"
 msgstr ""
 
-#: shortcodes/fusion-title.php:1700
+#: shortcodes/fusion-title.php:1704
 msgid "Enter before text."
 msgstr ""
 
-#: shortcodes/fusion-title.php:1725
+#: shortcodes/fusion-title.php:1729
 msgid "Rotation Text"
 msgstr ""
 
-#: shortcodes/fusion-title.php:1726
+#: shortcodes/fusion-title.php:1730
 msgid "Enter text for rotation."
 msgstr ""
 
-#: shortcodes/fusion-title.php:1742
+#: shortcodes/fusion-title.php:1746
 msgid "Highlighted Text"
 msgstr ""
 
-#: shortcodes/fusion-title.php:1743
+#: shortcodes/fusion-title.php:1747
 msgid "Enter text which should be highlighted."
 msgstr ""
 
-#: shortcodes/fusion-title.php:1757
+#: shortcodes/fusion-title.php:1761
 msgid "After Text"
 msgstr ""
 
-#: shortcodes/fusion-title.php:1758
+#: shortcodes/fusion-title.php:1762
 msgid "Enter after text."
 msgstr ""
 
-#: shortcodes/fusion-title.php:1803
+#: shortcodes/fusion-title.php:1807
 msgid "Title Link"
 msgstr ""
 
-#: shortcodes/fusion-title.php:1804
+#: shortcodes/fusion-title.php:1808
 msgid "Choose if title text should have a link."
 msgstr ""
 
-#: shortcodes/fusion-title.php:1827
+#: shortcodes/fusion-title.php:1831
 msgid "Add an URL for the link. E.g: https://example.com."
 msgstr ""
 
-#: shortcodes/fusion-title.php:1885
+#: shortcodes/fusion-title.php:1889
 msgid "Choose to align the heading left, right or center."
 msgstr ""
 
-#: shortcodes/fusion-title.php:1926
+#: shortcodes/fusion-title.php:1930
 msgid "Animated Text Font Size"
 msgstr ""
 
 #. translators: URL for the link.
-#: shortcodes/fusion-title.php:1928
+#: shortcodes/fusion-title.php:1932
 msgid ""
 "Controls the font size of the animated text. Enter value including any valid "
 "CSS unit, ex: 20px. Leave empty if the global font size for the "
@@ -40846,67 +40854,67 @@ msgid ""
 msgstr ""
 
 #. translators: URL for the link.
-#: shortcodes/fusion-title.php:1979
+#: shortcodes/fusion-title.php:1983
 msgid ""
 "Controls the color of the title, ex: #000. Leave empty if the global color "
 "for the corresponding heading size (h1-h6) should be used: %s."
 msgstr ""
 
-#: shortcodes/fusion-title.php:1986
+#: shortcodes/fusion-title.php:1990
 msgid "Animated Text Font Color"
 msgstr ""
 
 #. translators: URL for the link.
-#: shortcodes/fusion-title.php:1988
+#: shortcodes/fusion-title.php:1992
 msgid ""
 "Controls the color of the animated title, ex: #000. Leave empty if the "
 "global color for the corresponding heading size (h1-h6) should be used: %s."
 msgstr ""
 
-#: shortcodes/fusion-title.php:2007
+#: shortcodes/fusion-title.php:2011
 msgid "Highlight Shape Color"
 msgstr ""
 
-#: shortcodes/fusion-title.php:2008
+#: shortcodes/fusion-title.php:2012
 msgid "Controls the color of the highlight shape, ex: #000."
 msgstr ""
 
-#: shortcodes/fusion-title.php:2070
+#: shortcodes/fusion-title.php:2074
 msgid "Text Overflow"
 msgstr ""
 
-#: shortcodes/fusion-title.php:2071
+#: shortcodes/fusion-title.php:2075
 msgid "Controls the text overflow for longer texts."
 msgstr ""
 
-#: shortcodes/fusion-title.php:2077
+#: shortcodes/fusion-title.php:2081
 msgid "Ellipsis"
 msgstr ""
 
-#: shortcodes/fusion-title.php:2102
+#: shortcodes/fusion-title.php:2106
 msgid "Mobile Margin"
 msgstr ""
 
-#: shortcodes/fusion-title.php:2103
+#: shortcodes/fusion-title.php:2107
 msgid ""
 "Spacing above and below the title on mobiles. In px, em or %, e.g. 10px."
 msgstr ""
 
-#: shortcodes/fusion-title.php:2130
+#: shortcodes/fusion-title.php:2134
 msgid "Choose the kind of the title separator you want to use."
 msgstr ""
 
-#: shortcodes/fusion-title.php:2160
+#: shortcodes/fusion-title.php:2164
 msgid "Controls the separator color. "
 msgstr ""
 
-#: shortcodes/fusion-title.php:2204 shortcodes/woo-checkout-tabs.php:965
+#: shortcodes/fusion-title.php:2208 shortcodes/woo-checkout-tabs.php:965
 #: shortcodes/woo-notices.php:885 shortcodes/woo-notices.php:974
 #: shortcodes/woo-notices.php:1063
 msgid "Link Hover Color"
 msgstr ""
 
-#: shortcodes/fusion-title.php:2207
+#: shortcodes/fusion-title.php:2211
 msgid "Controls the link hover color."
 msgstr ""
 
