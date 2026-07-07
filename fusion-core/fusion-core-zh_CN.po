@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Fusion Core 3.1.6\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/fusion-core\n"
-"POT-Creation-Date: 2026-06-11 09:32:32+00:00\n"
+"POT-Creation-Date: 2026-07-07 04:55:30+00:00\n"
 "PO-Revision-Date: 2026-04-14 11:08+0800\n"
 "Last-Translator: Bo <thewayyouare@vip.qq.com>\n"
 "Language-Team: Chinese (China)\n"
@@ -695,13 +695,34 @@ msgstr "主题"
 msgid "Submit Form"
 msgstr "提交表单"
 
-#: includes/class-fusion-portfolio.php:91
+#: includes/class-fusion-portfolio.php:94
 msgid "All items displayed."
 msgstr "所有项目已显示。"
 
-#: includes/class-fusion-portfolio.php:92
+#: includes/class-fusion-portfolio.php:95
 msgid "Loading the next set of posts..."
 msgstr "正在加载下一组文章..."
+
+#: includes/class-fusion-portfolio.php:224 shortcodes/fusion-portfolio.php:1605
+#: shortcodes/fusion-portfolio.php:2063
+msgid "Portfolio"
+msgstr "作品集"
+
+#: includes/class-fusion-portfolio.php:229
+msgid "Project URL"
+msgstr ""
+
+#: includes/class-fusion-portfolio.php:240
+msgid "Project URL Text"
+msgstr ""
+
+#: includes/class-fusion-portfolio.php:251
+msgid "Copyright URL"
+msgstr ""
+
+#: includes/class-fusion-portfolio.php:262
+msgid "Copyright URL Text"
+msgstr ""
 
 #: includes/class-fusioncore-plugin.php:401
 msgid "Add New Portfolio Post"
@@ -1570,10 +1591,6 @@ msgstr "加载更多文章"
 #: shortcodes/fusion-portfolio.php:1178
 msgid "Portfolio Filters"
 msgstr "作品集筛选器"
-
-#: shortcodes/fusion-portfolio.php:1605 shortcodes/fusion-portfolio.php:2063
-msgid "Portfolio"
-msgstr "作品集"
 
 #: shortcodes/fusion-portfolio.php:1612
 msgid "Portfolio Featured Image Size"

@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Avada 5.1.6\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/theme/Avada\n"
-"POT-Creation-Date: 2026-06-12 08:09:18+00:00\n"
+"POT-Creation-Date: 2026-07-07 04:54:07+00:00\n"
 "PO-Revision-Date: 2017-06-22 11:01+0300\n"
 "Last-Translator: Aristeides <info@theme-fusion.com>\n"
 "Language-Team: English\n"
@@ -468,7 +468,7 @@ msgstr ""
 #: includes/metaboxes/tabs/tab_template.php:426 includes/options/footer.php:160
 #: includes/options/footer.php:675 includes/options/menu.php:731
 #: includes/options/page_title_bar.php:103 includes/options/performance.php:80
-#: includes/options/performance.php:107 includes/options/performance.php:479
+#: includes/options/performance.php:107 includes/options/performance.php:493
 #: includes/options/portfolio.php:305 includes/options/sidebars.php:104
 #: includes/options/social_media.php:261 includes/options/social_media.php:516
 #: includes/options/social_media.php:879
@@ -622,7 +622,7 @@ msgstr ""
 #: includes/admin-screens/performance.php:226
 #: includes/admin-screens/performance.php:346
 #: includes/admin-screens/performance.php:506
-#: includes/admin-screens/performance.php:627
+#: includes/admin-screens/performance.php:632
 #: includes/lib/inc/redux/framework/FusionReduxCore/templates/panel/footer.tpl.php:57
 #: includes/lib/inc/redux/framework/FusionReduxCore/templates/panel/header_stickybar.tpl.php:21
 #: includes/lib/inc/redux/panel_templates/header_stickybar.tpl.php:27
@@ -665,7 +665,7 @@ msgstr "Title"
 
 #: includes/admin-screens/performance.php:204
 #: includes/class-avada-admin.php:1483 includes/class-awb-setup-wizard.php:1436
-#: includes/lib/inc/fusion-app/helpers.php:655
+#: includes/lib/inc/fusion-app/helpers.php:657
 #: includes/metaboxes/metaboxes.php:670
 #: includes/metaboxes/tabs/tab_content.php:24
 #: includes/metaboxes/tabs/tab_sidebars.php:291
@@ -809,39 +809,39 @@ msgid "Element scan has completed and only used elements have been selected."
 msgstr ""
 
 #: includes/admin-screens/performance.php:383
-#: includes/class-awb-site-data.php:415
+#: includes/class-awb-site-data.php:421
 msgid "Woo Featured"
 msgstr ""
 
 #: includes/admin-screens/performance.php:388
-#: includes/class-awb-site-data.php:420
+#: includes/class-awb-site-data.php:426
 msgid "Woo Carousel"
 msgstr ""
 
 #: includes/admin-screens/performance.php:393
-#: includes/class-awb-site-data.php:425
+#: includes/class-awb-site-data.php:431
 msgid "Woo Shortcodes"
 msgstr ""
 
 #: includes/admin-screens/performance.php:398
-#: includes/class-awb-site-data.php:430
+#: includes/class-awb-site-data.php:436
 msgid "Layer Slider"
 msgstr ""
 
 #: includes/admin-screens/performance.php:403
 #: includes/avada-app/class-fusion-panel.php:439
-#: includes/class-awb-site-data.php:435 includes/options/performance.php:511
+#: includes/class-awb-site-data.php:441 includes/options/performance.php:525
 msgid "Slider Revolution"
 msgstr ""
 
 #: includes/admin-screens/performance.php:408
 #: includes/admin-screens/setup.php:897 includes/avada-functions.php:1947
-#: includes/class-awb-site-data.php:440
+#: includes/class-awb-site-data.php:446
 msgid "Events"
 msgstr ""
 
 #: includes/admin-screens/performance.php:413
-#: includes/class-awb-site-data.php:445
+#: includes/class-awb-site-data.php:451
 #: includes/lib/inc/redux/custom-fields/iconpicker/field_iconpicker.php:49
 #: includes/options/social_media.php:123
 msgid "Icon"
@@ -849,7 +849,7 @@ msgstr ""
 
 #: includes/admin-screens/performance.php:417
 #: includes/avada-app/class-fusion-panel.php:438
-#: includes/avada-functions.php:1714 includes/class-awb-site-data.php:449
+#: includes/avada-functions.php:1714 includes/class-awb-site-data.php:455
 #: includes/options/advanced.php:653
 msgid "Avada Slider"
 msgstr ""
@@ -987,15 +987,22 @@ msgid ""
 "object caching."
 msgstr ""
 
-#: includes/admin-screens/performance.php:628
+#: includes/admin-screens/performance.php:629
+msgid ""
+"Recommend setting a limit (e.g. 5 to 25) rather than -1, to keep the "
+"database lean and prevent the post editor from running out of memory on "
+"pages with a long edit history. Use 0 to disable revisions entirely."
+msgstr ""
+
+#: includes/admin-screens/performance.php:633
 msgid "Finish Wizard"
 msgstr ""
 
-#: includes/admin-screens/performance.php:635
+#: includes/admin-screens/performance.php:640
 msgid "Performance Wizard Complete!"
 msgstr ""
 
-#: includes/admin-screens/performance.php:636
+#: includes/admin-screens/performance.php:641
 msgid ""
 "Thank you for completing the Performance Wizard. You should now be set up "
 "for fast page load times. Please note though, content, plugins and setup "
@@ -1003,48 +1010,48 @@ msgid ""
 "Performance documentation. Some links can be found below."
 msgstr ""
 
-#: includes/admin-screens/performance.php:647
+#: includes/admin-screens/performance.php:652
 #: includes/lib/inc/fusion-app/helpers.php:447
 #: includes/metaboxes/tabs/tab_form_steps.php:816
 msgid "Before"
 msgstr ""
 
-#: includes/admin-screens/performance.php:657
-#: includes/admin-screens/performance.php:705
+#: includes/admin-screens/performance.php:662
+#: includes/admin-screens/performance.php:710
 msgid "Score"
 msgstr ""
 
-#: includes/admin-screens/performance.php:668
-#: includes/admin-screens/performance.php:716
+#: includes/admin-screens/performance.php:673
+#: includes/admin-screens/performance.php:721
 msgid "FCP"
 msgstr ""
 
-#: includes/admin-screens/performance.php:679
-#: includes/admin-screens/performance.php:727
+#: includes/admin-screens/performance.php:684
+#: includes/admin-screens/performance.php:732
 msgid "LCP"
 msgstr ""
 
-#: includes/admin-screens/performance.php:690
-#: includes/admin-screens/performance.php:738
+#: includes/admin-screens/performance.php:695
+#: includes/admin-screens/performance.php:743
 msgid "CLS"
 msgstr ""
 
-#: includes/admin-screens/performance.php:695
+#: includes/admin-screens/performance.php:700
 #: includes/lib/inc/fusion-app/helpers.php:448
 #: includes/metaboxes/tabs/tab_form_steps.php:815
 msgid "After"
 msgstr ""
 
-#: includes/admin-screens/performance.php:749
+#: includes/admin-screens/performance.php:754
 msgid "Clearing Cache"
 msgstr ""
 
 #. translators: The number of active plugins.
-#: includes/admin-screens/performance.php:765
+#: includes/admin-screens/performance.php:770
 msgid "Active Plugins: %s"
 msgstr ""
 
-#: includes/admin-screens/performance.php:766
+#: includes/admin-screens/performance.php:771
 msgid ""
 "Try to minimize the number of plugins you have. Make sure you really need "
 "each plugin you have. Try to use the features already included in Avada "
@@ -1055,19 +1062,19 @@ msgid ""
 "plugins."
 msgstr ""
 
-#: includes/admin-screens/performance.php:780
+#: includes/admin-screens/performance.php:785
 msgid "Possible Improvements"
 msgstr ""
 
-#: includes/admin-screens/performance.php:790
+#: includes/admin-screens/performance.php:795
 msgid "What are Google core web vitals"
 msgstr ""
 
-#: includes/admin-screens/performance.php:791
+#: includes/admin-screens/performance.php:796
 msgid "How to optimize above the fold content for performance"
 msgstr ""
 
-#: includes/admin-screens/performance.php:792
+#: includes/admin-screens/performance.php:797
 msgid "How to optimize the images on your website"
 msgstr ""
 
@@ -1130,7 +1137,7 @@ msgstr ""
 #: includes/admin-screens/prebuilt-websites.php:72
 #: includes/admin-screens/status.php:21 includes/class-avada-admin-bar.php:87
 #: includes/class-avada-admin.php:415 includes/class-avada-admin.php:697
-#: includes/options/performance.php:336
+#: includes/options/performance.php:350
 msgid "System Status"
 msgstr "System Status"
 
@@ -1179,7 +1186,7 @@ msgstr ""
 #: includes/admin-screens/prebuilt-websites-demo.php:27
 #: includes/class-awb-views-count.php:114
 #: includes/lib/inc/fusion-app/helpers.php:537
-#: includes/lib/inc/fusion-app/helpers.php:641
+#: includes/lib/inc/fusion-app/helpers.php:643
 #: includes/lib/inc/redux/custom-fields/spacing/field_border_radius.php:84
 #: includes/lib/inc/redux/custom-fields/spacing/field_spacing.php:84
 #: includes/lib/inc/redux/framework/FusionReduxCore/inc/fields/border/field_border.php:128
@@ -1393,8 +1400,8 @@ msgid ""
 msgstr ""
 
 #: includes/admin-screens/prebuilt-websites.php:32
-#: includes/options/performance.php:396 includes/options/performance.php:411
-#: includes/options/performance.php:432
+#: includes/options/performance.php:410 includes/options/performance.php:425
+#: includes/options/performance.php:446
 msgid "Regenerate Thumbnails"
 msgstr "Regenerate Thumbnails"
 
@@ -1941,7 +1948,7 @@ msgstr ""
 #: includes/metaboxes/tabs/tab_sliders.php:166
 #: includes/metaboxes/tabs/tab_sliders.php:187
 #: includes/metaboxes/tabs/tab_template.php:245
-#: includes/options/performance.php:341
+#: includes/options/performance.php:355
 msgid "Default"
 msgstr "Default"
 
@@ -1950,7 +1957,7 @@ msgid "Select Header"
 msgstr ""
 
 #: includes/admin-screens/setup.php:530
-#: includes/lib/inc/fusion-app/helpers.php:639 includes/options/logo.php:32
+#: includes/lib/inc/fusion-app/helpers.php:641 includes/options/logo.php:32
 #: includes/options/logo.php:40 templates/logo.php:60
 msgid "Logo"
 msgstr "Logo"
@@ -2430,7 +2437,7 @@ msgid ""
 "your preferred format in Global Options:"
 msgstr ""
 
-#: includes/admin-screens/status.php:259 includes/options/performance.php:334
+#: includes/admin-screens/status.php:259 includes/options/performance.php:348
 msgid "Upload Image Format"
 msgstr ""
 
@@ -3148,7 +3155,7 @@ msgstr ""
 
 #: includes/avada-app/class-fusion-panel.php:702
 #: includes/avada-app/class-fusion-panel.php:837
-#: includes/lib/inc/fusion-app/helpers.php:565 includes/options/privacy.php:850
+#: includes/lib/inc/fusion-app/helpers.php:565 includes/options/privacy.php:991
 msgid "Settings"
 msgstr ""
 
@@ -3412,17 +3419,17 @@ msgstr ""
 msgid "No page specific options are available for this page."
 msgstr ""
 
-#: includes/avada-functions.php:352 includes/lib/inc/fusion-app/helpers.php:621
+#: includes/avada-functions.php:352 includes/lib/inc/fusion-app/helpers.php:623
 #: includes/options/blog.php:880
 msgid "Related Posts"
 msgstr "Related Posts"
 
-#: includes/avada-functions.php:355 includes/lib/inc/fusion-app/helpers.php:622
+#: includes/avada-functions.php:355 includes/lib/inc/fusion-app/helpers.php:624
 #: includes/options/portfolio.php:704
 msgid "Related Projects"
 msgstr "Related Projects"
 
-#: includes/avada-functions.php:358 includes/lib/inc/fusion-app/helpers.php:623
+#: includes/avada-functions.php:358 includes/lib/inc/fusion-app/helpers.php:625
 msgid "Related Faqs"
 msgstr "Related Faqs"
 
@@ -3505,7 +3512,7 @@ msgid "Learn How To Import Sliders"
 msgstr "Learn How To Import Sliders"
 
 #: includes/avada-functions.php:1366
-#: includes/lib/inc/fusion-app/helpers.php:637 includes/options/menu.php:79
+#: includes/lib/inc/fusion-app/helpers.php:639 includes/options/menu.php:79
 #: includes/options/menu.php:103
 msgid "Main Menu"
 msgstr "Main Menu"
@@ -3562,7 +3569,7 @@ msgstr ""
 
 #: includes/avada-functions.php:1895 includes/class-avada-pwa.php:170
 #: includes/class-awb-setup-wizard.php:1989
-#: includes/options/performance.php:315
+#: includes/options/performance.php:329
 msgid "Images"
 msgstr ""
 
@@ -3584,7 +3591,7 @@ msgstr ""
 msgid "Products"
 msgstr ""
 
-#: includes/avada-functions.php:1959 includes/options/performance.php:512
+#: includes/avada-functions.php:1959 includes/options/performance.php:526
 msgid "Convert Plus"
 msgstr ""
 
@@ -3818,8 +3825,8 @@ msgstr "Plugins"
 msgid "All Avada caches have been reset."
 msgstr ""
 
-#: includes/class-avada-admin-bar.php:93 includes/options/performance.php:568
-#: includes/options/performance.php:574
+#: includes/class-avada-admin-bar.php:93 includes/options/performance.php:582
+#: includes/options/performance.php:588
 msgid "Reset Avada Caches"
 msgstr ""
 
@@ -3935,7 +3942,7 @@ msgstr ""
 
 #. translators: The iconset name.
 #: includes/class-avada-admin.php:921
-#: includes/lib/inc/fusion-app/helpers.php:636
+#: includes/lib/inc/fusion-app/helpers.php:638
 #: includes/lib/inc/redux/custom-fields/iconpicker/field_iconpicker.php:115
 msgid "No Results in \"%s\""
 msgstr ""
@@ -4039,7 +4046,7 @@ msgid ""
 msgstr ""
 
 #: includes/class-avada-admin.php:1498
-#: includes/lib/inc/fusion-app/helpers.php:654
+#: includes/lib/inc/fusion-app/helpers.php:656
 msgid ""
 "The import process has timed out, but already imported steps have been "
 "saved. Click \"continue\", and the importer will attempt to complete the "
@@ -4281,15 +4288,15 @@ msgstr ""
 msgid "XXL"
 msgstr ""
 
-#: includes/class-avada-eventscalendar.php:281
-#: includes/class-avada-eventscalendar.php:313
-#: includes/class-avada-eventscalendar.php:345
+#: includes/class-avada-eventscalendar.php:290
+#: includes/class-avada-eventscalendar.php:322
+#: includes/class-avada-eventscalendar.php:354
 #: includes/class-avada-woocommerce.php:2146
 msgid "NOTE"
 msgstr ""
 
 #. translators: EC Customizer notice.
-#: includes/class-avada-eventscalendar.php:283
+#: includes/class-avada-eventscalendar.php:292
 msgid ""
 "You can control the post title color from the Avada Global Options panel "
 "through the <a href=\"%1$s\" target=\"_blank\">Events Primary Color Overlay "
@@ -4298,7 +4305,7 @@ msgid ""
 msgstr ""
 
 #. translators: EC Customizer notice.
-#: includes/class-avada-eventscalendar.php:315
+#: includes/class-avada-eventscalendar.php:324
 msgid ""
 "You can control the photo background color from Avada's Global Options panel "
 "through the <a href=\"%1$s\" target=\"_blank\">Grid Box Color</a> setting. "
@@ -4307,7 +4314,7 @@ msgid ""
 msgstr ""
 
 #. translators: EC Customizer notice.
-#: includes/class-avada-eventscalendar.php:347
+#: includes/class-avada-eventscalendar.php:356
 msgid ""
 "You can control the calendar highlight color from Avada's Global Options "
 "panel through the <a href=\"%1$s\" target=\"_blank\">Primary Color</a> "
@@ -4316,12 +4323,12 @@ msgid ""
 msgstr ""
 
 #. Translators: 1: Author name; 2: Site name.
-#: includes/class-avada-head.php:278
+#: includes/class-avada-head.php:280
 msgid "%1$s, Author at %2$s"
 msgstr ""
 
 #. Translators: Site name.
-#: includes/class-avada-head.php:281
+#: includes/class-avada-head.php:283
 msgid " Authored by %s"
 msgstr ""
 
@@ -4730,7 +4737,7 @@ msgid "Select a widget area to be used as the content for the column."
 msgstr "Select a widget area to be used as the content for the column."
 
 #: includes/class-avada-megamenu-framework.php:939
-#: includes/lib/inc/fusion-app/helpers.php:628
+#: includes/lib/inc/fusion-app/helpers.php:630
 msgid "Add Custom Icon Set"
 msgstr ""
 
@@ -4964,123 +4971,129 @@ msgstr ""
 msgid "Custom page options %d "
 msgstr ""
 
-#: includes/class-avada-privacy-embeds.php:421
+#: includes/class-avada-privacy-embeds.php:427
 msgid "YouTube"
 msgstr ""
 
-#: includes/class-avada-privacy-embeds.php:422
+#: includes/class-avada-privacy-embeds.php:428
 #: includes/metaboxes/options/options_slide.php:28
 msgid "Vimeo"
 msgstr "Vimeo"
 
-#: includes/class-avada-privacy-embeds.php:423
+#: includes/class-avada-privacy-embeds.php:429
 msgid "SoundCloud"
 msgstr ""
 
-#: includes/class-avada-privacy-embeds.php:424
+#: includes/class-avada-privacy-embeds.php:430
 #: includes/options/social_media.php:832
 msgid "Facebook"
 msgstr "Facebook"
 
-#: includes/class-avada-privacy-embeds.php:425
+#: includes/class-avada-privacy-embeds.php:431
 msgid "Flickr"
 msgstr ""
 
-#: includes/class-avada-privacy-embeds.php:426
+#: includes/class-avada-privacy-embeds.php:432
 #: includes/options/social_media.php:833
 msgid "X"
 msgstr ""
 
-#: includes/class-avada-privacy-embeds.php:427
+#: includes/class-avada-privacy-embeds.php:433
 msgid "Google Maps"
 msgstr ""
 
-#: includes/class-avada-privacy-embeds.php:428
+#: includes/class-avada-privacy-embeds.php:434
 msgid "Instagram"
 msgstr ""
 
-#: includes/class-avada-privacy-embeds.php:429
+#: includes/class-avada-privacy-embeds.php:435
+#: includes/metaboxes/tabs/tab_form_submission.php:24
+#: includes/options/forms.php:444 includes/options/privacy.php:407
+msgid "HubSpot"
+msgstr ""
+
+#: includes/class-avada-privacy-embeds.php:436
 msgid "Google Analytics Storage"
 msgstr ""
 
-#: includes/class-avada-privacy-embeds.php:430
+#: includes/class-avada-privacy-embeds.php:437
 msgid "Google Ad Storage"
 msgstr ""
 
-#: includes/class-avada-privacy-embeds.php:431
+#: includes/class-avada-privacy-embeds.php:438
 msgid "Google Ad User Data"
 msgstr ""
 
-#: includes/class-avada-privacy-embeds.php:432
+#: includes/class-avada-privacy-embeds.php:439
 msgid "Google Ad Personalization"
 msgstr ""
 
-#: includes/class-avada-privacy-embeds.php:694
-#: includes/class-avada-privacy-embeds.php:698
+#: includes/class-avada-privacy-embeds.php:701
+#: includes/class-avada-privacy-embeds.php:705
 msgid "Used to store your authentication details."
 msgstr ""
 
-#: includes/class-avada-privacy-embeds.php:695
-#: includes/class-avada-privacy-embeds.php:699
-#: includes/class-avada-privacy-embeds.php:703
-#: includes/class-avada-privacy-embeds.php:731
-#: includes/class-avada-privacy-embeds.php:735
+#: includes/class-avada-privacy-embeds.php:702
+#: includes/class-avada-privacy-embeds.php:706
+#: includes/class-avada-privacy-embeds.php:710
+#: includes/class-avada-privacy-embeds.php:738
+#: includes/class-avada-privacy-embeds.php:742
 msgid "Session"
 msgstr ""
 
-#: includes/class-avada-privacy-embeds.php:702
+#: includes/class-avada-privacy-embeds.php:709
 msgid "Used to check if your browser has cookies enabled."
 msgstr ""
 
-#: includes/class-avada-privacy-embeds.php:706
+#: includes/class-avada-privacy-embeds.php:713
 msgid "Used to persist your user configuration in the admin dashboard."
 msgstr ""
 
-#: includes/class-avada-privacy-embeds.php:707
-#: includes/class-avada-privacy-embeds.php:711
-#: includes/class-avada-privacy-embeds.php:747
+#: includes/class-avada-privacy-embeds.php:714
+#: includes/class-avada-privacy-embeds.php:718
+#: includes/class-avada-privacy-embeds.php:754
 msgid "1 year"
 msgstr ""
 
-#: includes/class-avada-privacy-embeds.php:710
+#: includes/class-avada-privacy-embeds.php:717
 msgid "The time at which wp-settings-[user_id] was set."
 msgstr ""
 
-#: includes/class-avada-privacy-embeds.php:730
+#: includes/class-avada-privacy-embeds.php:737
 msgid ""
 "Stores a hash of the cart contents so WooCommerce can detect when cart "
 "contents change."
 msgstr ""
 
-#: includes/class-avada-privacy-embeds.php:734
+#: includes/class-avada-privacy-embeds.php:741
 msgid "Helps WooCommerce determine when cart contents/data changes."
 msgstr ""
 
-#: includes/class-avada-privacy-embeds.php:738
+#: includes/class-avada-privacy-embeds.php:745
 msgid ""
 "Contains a unique session token to maintain your shopping session and cart "
 "data."
 msgstr ""
 
-#: includes/class-avada-privacy-embeds.php:739
+#: includes/class-avada-privacy-embeds.php:746
 msgid "2 days"
 msgstr ""
 
-#: includes/class-avada-privacy-embeds.php:746
+#: includes/class-avada-privacy-embeds.php:753
 msgid "Remembers your preferred calendar view (month, list, day, etc.)."
 msgstr ""
 
 #. translators: The placeholder label (embed-type).
-#: includes/class-avada-privacy-embeds.php:1276
+#: includes/class-avada-privacy-embeds.php:1283
 msgid "For privacy reasons %s needs your permission to be loaded."
 msgstr ""
 
 #. translators: The link to the privacy page (embed-type).
-#: includes/class-avada-privacy-embeds.php:1282
+#: includes/class-avada-privacy-embeds.php:1289
 msgid "For more details, please see our %s."
 msgstr ""
 
-#: includes/class-avada-privacy-embeds.php:1289
+#: includes/class-avada-privacy-embeds.php:1296
 msgid "I Accept"
 msgstr ""
 
@@ -5097,27 +5110,27 @@ msgstr ""
 msgid "Styles"
 msgstr ""
 
-#: includes/class-avada-scripts.php:749
+#: includes/class-avada-scripts.php:753
 msgid "No search results match your query. Please try again"
 msgstr ""
 
-#: includes/class-avada-scripts.php:796
+#: includes/class-avada-scripts.php:800
 msgid "Go to..."
 msgstr "Go to..."
 
-#: includes/class-avada-scripts.php:797
+#: includes/class-avada-scripts.php:801
 msgid "Shopping Cart"
 msgstr "Shopping Cart"
 
 #. Translators: The submenu title.
 #. Translators: The menu item title.
-#: includes/class-avada-scripts.php:799
+#: includes/class-avada-scripts.php:803
 #: includes/lib/inc/class-fusion-nav-walker.php:926
 msgid "Open submenu of %s"
 msgstr ""
 
 #. Translators: The submenu title.
-#: includes/class-avada-scripts.php:801
+#: includes/class-avada-scripts.php:805
 msgid "Close submenu of %s"
 msgstr ""
 
@@ -5886,7 +5899,7 @@ msgstr[1] ""
 
 #: includes/class-avada-woocommerce.php:2086
 #: includes/class-avada-woocommerce.php:2104
-#: includes/lib/inc/fusion-app/helpers.php:651
+#: includes/lib/inc/fusion-app/helpers.php:653
 msgid "Continue"
 msgstr "Continue"
 
@@ -6526,29 +6539,29 @@ msgstr ""
 msgid "Invert"
 msgstr ""
 
-#: includes/class-awb-site-data.php:540
+#: includes/class-awb-site-data.php:546
 msgid "Help Us Improve Avada"
 msgstr ""
 
-#: includes/class-awb-site-data.php:541
+#: includes/class-awb-site-data.php:547
 msgid ""
 "Become a contribution hero by opting in to share some non-sensitive usage "
 "data with us, that will help us to improve the product."
 msgstr ""
 
-#: includes/class-awb-site-data.php:541
+#: includes/class-awb-site-data.php:547
 msgid "Learn more."
 msgstr ""
 
-#: includes/class-awb-site-data.php:542
+#: includes/class-awb-site-data.php:548
 msgid "Send Data"
 msgstr ""
 
-#: includes/class-awb-site-data.php:544
+#: includes/class-awb-site-data.php:550
 msgid "Thank you, the data has been sent successfully."
 msgstr ""
 
-#: includes/class-awb-site-data.php:545
+#: includes/class-awb-site-data.php:551
 msgid "There was an error trying to send the data. Please try again."
 msgstr ""
 
@@ -6588,7 +6601,7 @@ msgstr ""
 #: includes/metaboxes/tabs/tab_off_canvas_design.php:165
 #: includes/metaboxes/tabs/tab_off_canvas_overlay.php:237
 #: includes/options/blog.php:813 includes/options/events_calendar.php:309
-#: includes/options/forms.php:228 includes/options/performance.php:498
+#: includes/options/forms.php:228 includes/options/performance.php:512
 msgid "Disabled"
 msgstr "Disabled"
 
@@ -8169,7 +8182,6 @@ msgstr "Link & Zoom"
 #: includes/lib/inc/class-fusion-settings.php:426
 #: includes/metaboxes/tabs/tab_portfolio_post.php:185
 #: includes/metaboxes/tabs/tab_post.php:110 includes/options/extra.php:567
-#: includes/options/privacy.php:822
 msgid "Link"
 msgstr "Link"
 
@@ -8961,7 +8973,8 @@ msgstr ""
 msgid "Column"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:274 includes/options/privacy.php:914
+#: includes/lib/inc/fusion-app/helpers.php:274
+#: includes/options/privacy.php:1055
 msgid "Columns"
 msgstr ""
 
@@ -10271,107 +10284,115 @@ msgstr ""
 msgid "Post Title"
 msgstr "Post Title"
 
-#: includes/lib/inc/fusion-app/helpers.php:624
-msgid "Related products"
+#: includes/lib/inc/fusion-app/helpers.php:621
+msgid "Previous Post Title"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:625
-msgid "You may also like&hellip;"
+#: includes/lib/inc/fusion-app/helpers.php:622
+msgid "Next Post Title"
 msgstr ""
 
 #: includes/lib/inc/fusion-app/helpers.php:626
-msgid "You may be interested in&hellip;"
+msgid "Related products"
 msgstr ""
 
 #: includes/lib/inc/fusion-app/helpers.php:627
+msgid "You may also like&hellip;"
+msgstr ""
+
+#: includes/lib/inc/fusion-app/helpers.php:628
+msgid "You may be interested in&hellip;"
+msgstr ""
+
+#: includes/lib/inc/fusion-app/helpers.php:629
 #: includes/options/portfolio.php:649
 msgid "Project Details"
 msgstr "Project Details"
 
-#: includes/lib/inc/fusion-app/helpers.php:629
+#: includes/lib/inc/fusion-app/helpers.php:631
 msgid "Edit Layout Section"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:630
+#: includes/lib/inc/fusion-app/helpers.php:632
 msgid "Edit Content Layout Section"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:631
+#: includes/lib/inc/fusion-app/helpers.php:633
 msgid "Edit Footer Layout Section"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:632
+#: includes/lib/inc/fusion-app/helpers.php:634
 msgid "Edit Header Layout Section"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:633
+#: includes/lib/inc/fusion-app/helpers.php:635
 msgid "Set dynamic data to update preview source."
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:634
+#: includes/lib/inc/fusion-app/helpers.php:636
 msgid "Avada Builder Library"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:638
+#: includes/lib/inc/fusion-app/helpers.php:640
 #: includes/options/background.php:27 includes/options/menu.php:187
 msgid "Background"
 msgstr "Background"
 
-#: includes/lib/inc/fusion-app/helpers.php:640
+#: includes/lib/inc/fusion-app/helpers.php:642
 msgid "Only numbers and phone characters are accepted"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:642
+#: includes/lib/inc/fusion-app/helpers.php:644
 msgid "Importing Studio Content"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:643
+#: includes/lib/inc/fusion-app/helpers.php:645
 msgid "Importing Studio Content Failed"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:644
+#: includes/lib/inc/fusion-app/helpers.php:646
 msgid "Importing Studio Media:"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:645
+#: includes/lib/inc/fusion-app/helpers.php:647
 msgid "Failed to retrieve data from API"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:646
+#: includes/lib/inc/fusion-app/helpers.php:648
 msgid "Importing Prebuilt Page Content"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:647
+#: includes/lib/inc/fusion-app/helpers.php:649
 msgid "Importing Prebuilt Page Content Failed"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:648
+#: includes/lib/inc/fusion-app/helpers.php:650
 msgid "Importing Prebuilt Page Media:"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:649
+#: includes/lib/inc/fusion-app/helpers.php:651
 msgid "Plugin Installation Failed"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:650
+#: includes/lib/inc/fusion-app/helpers.php:652
 msgid "Importing Prebuilt Website Failed"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:652
+#: includes/lib/inc/fusion-app/helpers.php:654
 msgid "Something Went Wrong"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:653
+#: includes/lib/inc/fusion-app/helpers.php:655
 msgid ""
 "An error occured and the process could not be completed. Please check your "
 "error log for details."
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:656
+#: includes/lib/inc/fusion-app/helpers.php:658
 msgid "Loading the next set of gallery items..."
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:657
+#: includes/lib/inc/fusion-app/helpers.php:659
 msgid "Dummy Title Placeholder"
 msgstr ""
 
@@ -10516,13 +10537,13 @@ msgstr ""
 
 #: includes/lib/inc/fusion-app/templates/options/export.php:19
 #: includes/lib/inc/fusion-app/templates/options/import.php:19
-#: includes/options/performance.php:496
+#: includes/options/performance.php:510
 msgid "File"
 msgstr "File"
 
 #: includes/lib/inc/fusion-app/templates/options/export.php:22
 #: includes/lib/inc/fusion-app/templates/options/import.php:25
-#: includes/options/performance.php:497
+#: includes/options/performance.php:511
 msgid "Database"
 msgstr "Database"
 
@@ -10954,14 +10975,14 @@ msgstr "FusionRedux Framework"
 
 #: includes/lib/inc/redux/framework/FusionReduxCore/framework.php:1549
 #: includes/options/performance.php:240 includes/options/performance.php:253
-#: includes/options/performance.php:327 includes/options/performance.php:355
+#: includes/options/performance.php:341 includes/options/performance.php:369
 msgid "Enable"
 msgstr "Enable"
 
 #: includes/lib/inc/redux/framework/FusionReduxCore/framework.php:1554
 #: includes/options/events_calendar.php:60 includes/options/performance.php:241
-#: includes/options/performance.php:254 includes/options/performance.php:328
-#: includes/options/performance.php:356
+#: includes/options/performance.php:254 includes/options/performance.php:342
+#: includes/options/performance.php:370
 msgid "Disable"
 msgstr "Disable"
 
@@ -11552,7 +11573,7 @@ msgid "Language"
 msgstr "Language"
 
 #: includes/lib/inc/redux/framework/FusionReduxCore/inc/welcome/views/status_report.php:270
-#: includes/options/performance.php:686
+#: includes/options/performance.php:700
 msgid "Browser"
 msgstr "Browser"
 
@@ -13520,7 +13541,7 @@ msgid "Slide Link Type"
 msgstr "Slide Link Type"
 
 #: includes/metaboxes/options/options_slide.php:305
-#: includes/options/privacy.php:823
+#: includes/options/privacy.php:963
 msgid "Button"
 msgstr "Button"
 
@@ -14763,11 +14784,6 @@ msgstr ""
 #: includes/metaboxes/tabs/tab_form_submission.php:23
 #: includes/options/forms.php:513
 msgid "Mailchimp"
-msgstr ""
-
-#: includes/metaboxes/tabs/tab_form_submission.php:24
-#: includes/options/forms.php:444
-msgid "HubSpot"
 msgstr ""
 
 #: includes/metaboxes/tabs/tab_form_submission.php:25
@@ -17101,19 +17117,19 @@ msgstr ""
 msgid "Do Not Add To A Group"
 msgstr ""
 
-#: includes/options/advanced.php:30 includes/options/privacy.php:413
+#: includes/options/advanced.php:30 includes/options/privacy.php:471
 msgid "Necessary Cookies"
 msgstr ""
 
-#: includes/options/advanced.php:31 includes/options/privacy.php:414
+#: includes/options/advanced.php:31 includes/options/privacy.php:472
 msgid "Functional Cookies (Third Party Embeds)"
 msgstr ""
 
-#: includes/options/advanced.php:32 includes/options/privacy.php:415
+#: includes/options/advanced.php:32 includes/options/privacy.php:473
 msgid "Statistics Cookies (Analytics)"
 msgstr ""
 
-#: includes/options/advanced.php:33 includes/options/privacy.php:416
+#: includes/options/advanced.php:33 includes/options/privacy.php:474
 msgid "Marketing Cookies (Advertising & Targeting)"
 msgstr ""
 
@@ -17681,7 +17697,7 @@ msgstr ""
 "Turn on to have the main content background image display at 100% in width "
 "and height according to the window size."
 
-#: includes/options/bbpress.php:30 includes/options/performance.php:514
+#: includes/options/bbpress.php:30 includes/options/performance.php:528
 msgid "bbPress"
 msgstr "bbPress"
 
@@ -21948,7 +21964,7 @@ msgid ""
 "parent level menu items."
 msgstr ""
 
-#: includes/options/menu.php:2081 includes/options/performance.php:375
+#: includes/options/menu.php:2081 includes/options/performance.php:389
 msgid "Modern"
 msgstr "Modern"
 
@@ -22352,7 +22368,7 @@ msgid ""
 "improve performance."
 msgstr ""
 
-#: includes/options/performance.php:79 includes/options/performance.php:478
+#: includes/options/performance.php:79 includes/options/performance.php:492
 msgid "WordPress"
 msgstr ""
 
@@ -22630,18 +22646,32 @@ msgid ""
 "remove posts."
 msgstr ""
 
-#: includes/options/performance.php:321
+#: includes/options/performance.php:315
+msgid "Number Of Post Revisions"
+msgstr ""
+
+#: includes/options/performance.php:316
+msgid ""
+"Controls how many revisions WordPress keeps for each post or page. Set to "
+"\"-1\" to use the WordPress default (unlimited), \"0\" to disable revisions "
+"completely, or any higher number to keep only that many of the most recent "
+"revisions. Limiting revisions keeps the database smaller and prevents the "
+"post editor from running out of memory on content-heavy pages that have "
+"built up a large revision history."
+msgstr ""
+
+#: includes/options/performance.php:335
 msgid "SVG Media Upload"
 msgstr ""
 
-#: includes/options/performance.php:322
+#: includes/options/performance.php:336
 msgid ""
 "Enable upload of SVG files and improve performance through their smaller "
 "image and logo file size."
 msgstr ""
 
 #. translators: "System Statuss" page link.
-#: includes/options/performance.php:336
+#: includes/options/performance.php:350
 msgid ""
 "Select a modern format to use when uploading new images to the media "
 "library. If you choose AVIF but your server is not able to convert to this "
@@ -22649,46 +22679,46 @@ msgid ""
 "your existing images on the %s page."
 msgstr ""
 
-#: includes/options/performance.php:342
+#: includes/options/performance.php:356
 msgid "WebP"
 msgstr ""
 
-#: includes/options/performance.php:343
+#: includes/options/performance.php:357
 msgid "AVIF"
 msgstr ""
 
-#: includes/options/performance.php:349
+#: includes/options/performance.php:363
 msgid "Keep Original Upload Images"
 msgstr ""
 
-#: includes/options/performance.php:350
+#: includes/options/performance.php:364
 msgid ""
 "If enabled, not only the image with its original upload format will be kept, "
 "but also the created thumbnails. This will increase the filesystem storage "
 "use of your images."
 msgstr ""
 
-#: includes/options/performance.php:369
+#: includes/options/performance.php:383
 msgid "Display Image Format"
 msgstr ""
 
-#: includes/options/performance.php:370
+#: includes/options/performance.php:384
 msgid ""
 "If set to \"original\", Avada will try to load the images in their original "
 "upload format. If set to \"modern\", it will try to load the images in the "
 "upload image format you set above."
 msgstr ""
 
-#: includes/options/performance.php:376
+#: includes/options/performance.php:390
 msgid "Original"
 msgstr ""
 
-#: includes/options/performance.php:394
+#: includes/options/performance.php:408
 msgid "WordPress Image Quality"
 msgstr ""
 
 #. translators: "Regenerate Thumbnails" plugin link.
-#: includes/options/performance.php:396
+#: includes/options/performance.php:410
 msgid ""
 "Controls the quality of the generated image sizes for every uploaded image. "
 "Ranges between 0 and 100 percent. Higher values lead to better image quality "
@@ -22696,12 +22726,12 @@ msgid ""
 "value, please install and run the %s plugin once."
 msgstr ""
 
-#: includes/options/performance.php:409
+#: includes/options/performance.php:423
 msgid "WordPress webP Image Quality"
 msgstr ""
 
 #. translators: "Regenerate Thumbnails" plugin link.
-#: includes/options/performance.php:411
+#: includes/options/performance.php:425
 msgid ""
 "Controls the quality of the generated image sizes for every uploaded webP "
 "image. Ranges between 0 and 100 percent. Higher values lead to better image "
@@ -22709,11 +22739,11 @@ msgid ""
 "this value, please install and run the %s plugin once."
 msgstr ""
 
-#: includes/options/performance.php:431
+#: includes/options/performance.php:445
 msgid "Avada Image Sizes"
 msgstr ""
 
-#: includes/options/performance.php:432
+#: includes/options/performance.php:446
 msgid ""
 "Choose which Avada image sizes should be created for every image uploaded to "
 "the Media Library. <strong>NOTE:</strong> Image sizes used in legacy areas/"
@@ -22722,93 +22752,93 @@ msgid ""
 "changing this value, please install and run the %s plugin once."
 msgstr ""
 
-#: includes/options/performance.php:438
+#: includes/options/performance.php:452
 msgid "200px Width"
 msgstr ""
 
-#: includes/options/performance.php:439
+#: includes/options/performance.php:453
 msgid "400px Width"
 msgstr ""
 
-#: includes/options/performance.php:440
+#: includes/options/performance.php:454
 msgid "600px Width"
 msgstr ""
 
-#: includes/options/performance.php:441
+#: includes/options/performance.php:455
 msgid "800px Width"
 msgstr ""
 
-#: includes/options/performance.php:442
+#: includes/options/performance.php:456
 msgid "1200px Width"
 msgstr ""
 
-#: includes/options/performance.php:443
+#: includes/options/performance.php:457
 msgid "Blog Large (L)"
 msgstr ""
 
-#: includes/options/performance.php:444
+#: includes/options/performance.php:458
 msgid "Blog Medium (L)"
 msgstr ""
 
-#: includes/options/performance.php:445
+#: includes/options/performance.php:459
 msgid "Recent Posts (L)"
 msgstr ""
 
-#: includes/options/performance.php:446
+#: includes/options/performance.php:460
 msgid "Recent Works (L)"
 msgstr ""
 
-#: includes/options/performance.php:447
+#: includes/options/performance.php:461
 msgid "Portfolio Full (L)"
 msgstr ""
 
-#: includes/options/performance.php:448
+#: includes/options/performance.php:462
 msgid "Portfolio 1 Col (L)"
 msgstr ""
 
-#: includes/options/performance.php:449
+#: includes/options/performance.php:463
 msgid "Portfolio 2 Col (L)"
 msgstr ""
 
-#: includes/options/performance.php:450
+#: includes/options/performance.php:464
 msgid "Portfolio 3 Col (L)"
 msgstr ""
 
-#: includes/options/performance.php:451
+#: includes/options/performance.php:465
 msgid "Portfolio 5 Col (L)"
 msgstr ""
 
-#: includes/options/performance.php:457
+#: includes/options/performance.php:471
 msgid "WordPress Big Image Size Threshold"
 msgstr ""
 
-#: includes/options/performance.php:458
+#: includes/options/performance.php:472
 msgid ""
 "Sets the threshold for image height and width, above which WordPress will "
 "scale down newly uploaded images to this values as max-width or max-height. "
 "Set to \"0\" to disable the threshold completely."
 msgstr ""
 
-#: includes/options/performance.php:471
+#: includes/options/performance.php:485
 msgid "Image Lazy Loading"
 msgstr ""
 
-#: includes/options/performance.php:472
+#: includes/options/performance.php:486
 msgid ""
 "Choose your preferred lazy loading method for your website's images to "
 "improve performance. <strong>IMPORTANT:</strong> The WordPress native method "
 "can cause issues with dynamically loaded elements like image carousels."
 msgstr ""
 
-#: includes/options/performance.php:484
+#: includes/options/performance.php:498
 msgid "Dynamic CSS & JS"
 msgstr "Dynamic CSS & JS"
 
-#: includes/options/performance.php:490
+#: includes/options/performance.php:504
 msgid "CSS Compiling Method"
 msgstr ""
 
-#: includes/options/performance.php:491
+#: includes/options/performance.php:505
 msgid ""
 "Select \"File\" mode to compile the dynamic CSS to files (a separate file "
 "will be created for each of your pages & posts inside of the uploads/fusion-"
@@ -22820,11 +22850,11 @@ msgstr ""
 "styles folder), \"Database\" mode to cache the CSS in your database, or "
 "select \"Disabled\" to disable."
 
-#: includes/options/performance.php:503
+#: includes/options/performance.php:517
 msgid "Combine Third Party CSS Files"
 msgstr ""
 
-#: includes/options/performance.php:504
+#: includes/options/performance.php:518
 msgid ""
 "Third party CSS files of the selected plugins will be combined into Avada's "
 "main stylesheet.<br><strong>IMPORTANT:</strong> Enabling this option is not "
@@ -22833,41 +22863,41 @@ msgid ""
 "for changes to apply."
 msgstr ""
 
-#: includes/options/performance.php:510
+#: includes/options/performance.php:524
 msgid "The Events Calendar"
 msgstr ""
 
-#: includes/options/performance.php:513
+#: includes/options/performance.php:527
 msgid "Contact Form 7"
 msgstr ""
 
-#: includes/options/performance.php:527
+#: includes/options/performance.php:541
 msgid "Load Media-Queries Files Asynchronously"
 msgstr ""
 
-#: includes/options/performance.php:528
+#: includes/options/performance.php:542
 msgid ""
 "When enabled, the CSS media-queries will be enqueued separately and then "
 "loaded asynchronously, improving performance on mobile and desktop."
 msgstr ""
 
-#: includes/options/performance.php:535
+#: includes/options/performance.php:549
 msgid "Enable Critical CSS"
 msgstr ""
 
 #. translators: URL for the critical CSS page.
-#: includes/options/performance.php:546
+#: includes/options/performance.php:560
 msgid "Cache Server IP"
 msgstr "Cache Server IP"
 
-#: includes/options/performance.php:547
+#: includes/options/performance.php:561
 msgid ""
 "For unique cases where you are using CloudFlare and a cache server, ex: "
 "varnish cache. Enter your cache server IP to clear the Global Options "
 "dynamic CSS cache. Consult with your server admin for help."
 msgstr ""
 
-#: includes/options/performance.php:555
+#: includes/options/performance.php:569
 msgid ""
 "<strong>IMPORTANT NOTE:</strong> JS Compiler is disabled. File does not "
 "exist or access is restricted."
@@ -22875,11 +22905,11 @@ msgstr ""
 "<strong>IMPORTANT NOTE:</strong> JS Compiler is disabled. File does not "
 "exist or access is restricted."
 
-#: includes/options/performance.php:560
+#: includes/options/performance.php:574
 msgid "Enable JS Compiler"
 msgstr "Enable JS Compiler"
 
-#: includes/options/performance.php:561
+#: includes/options/performance.php:575
 msgid ""
 "By default all the JavaScript files are combined. Disabling the JS compiler "
 "will load non-combined JavaScript files. This will have an impact on the "
@@ -22888,7 +22918,7 @@ msgstr ""
 
 #. translators: %1$s: <code>uploads/fusion-styles</code>. %2$s:
 #. <code>uploads/fusion-scripts</code>.
-#: includes/options/performance.php:570
+#: includes/options/performance.php:584
 msgid ""
 "Resets all Dynamic CSS & Dynamic JS, cleans-up the database and deletes the "
 "%1$s and %2$s folders. When resetting the caches on the main site of a "
@@ -22902,7 +22932,7 @@ msgstr ""
 "NOTE: On large multisite installations with a low PHP timeout setting, bulk-"
 "resetting the caches may timeout."
 
-#: includes/options/performance.php:570
+#: includes/options/performance.php:584
 msgid ""
 "Resets all Dynamic CSS & Dynamic JS, cleans-up the database and deletes the "
 "%1$s and %2$s folders."
@@ -22910,12 +22940,12 @@ msgstr ""
 "Resets all Dynamic CSS & Dynamic JS, cleans-up the database and deletes the "
 "%1$s and %2$s folders."
 
-#: includes/options/performance.php:580
+#: includes/options/performance.php:594
 msgid "Progressive Web App"
 msgstr ""
 
 #. translators: URL for the plugins page.
-#: includes/options/performance.php:589
+#: includes/options/performance.php:603
 msgid ""
 "<strong>IMPORTANT NOTE:</strong> To use the Avada PWA feature you need to "
 "install and activate the latest version of the PWA plugin. Please <a "
@@ -22923,7 +22953,7 @@ msgid ""
 "plugin and then refresh Global Options to edit the options."
 msgstr ""
 
-#: includes/options/performance.php:597
+#: includes/options/performance.php:611
 msgid ""
 "<strong>IMPORTANT NOTE:</strong> To use the Avada PWA feature your site must "
 "use SSL (HTTPS). For more information about the options in this section, "
@@ -22935,32 +22965,32 @@ msgid ""
 "a>."
 msgstr ""
 
-#: includes/options/performance.php:602
+#: includes/options/performance.php:616
 msgid "Enable Progressive Web App"
 msgstr ""
 
-#: includes/options/performance.php:603
+#: includes/options/performance.php:617
 msgid ""
 "Enable this option if you want to enable the Progressive Web App feature and "
 "options on your website."
 msgstr ""
 
-#: includes/options/performance.php:610
+#: includes/options/performance.php:624
 msgid "Cache-First strategy file types"
 msgstr ""
 
-#: includes/options/performance.php:611
+#: includes/options/performance.php:625
 msgid ""
 "File types added in this list will be cached in the browser. Subsequent page "
 "requests will use the cached assets. Use this for static assets that don't "
 "change like images and fonts."
 msgstr ""
 
-#: includes/options/performance.php:627
+#: includes/options/performance.php:641
 msgid "Network-First strategy file types"
 msgstr ""
 
-#: includes/options/performance.php:628
+#: includes/options/performance.php:642
 msgid ""
 "File types added in this list will be cached in the browser. Subsequent page "
 "requests will first try to get a more recent version of these files from the "
@@ -22969,11 +22999,11 @@ msgid ""
 "use this for your content."
 msgstr ""
 
-#: includes/options/performance.php:644
+#: includes/options/performance.php:658
 msgid "Stale-While-Revalidating strategy file types"
 msgstr ""
 
-#: includes/options/performance.php:645
+#: includes/options/performance.php:659
 msgid ""
 "Any file types added here will be served with a cache-first strategy, and "
 "after the page has been loaded the caches will be updated with more recent "
@@ -22981,21 +23011,21 @@ msgid ""
 "that may get updated but having their latest version is not critical."
 msgstr ""
 
-#: includes/options/performance.php:661
+#: includes/options/performance.php:675
 msgid "App Splash Screen Logo"
 msgstr ""
 
-#: includes/options/performance.php:662
+#: includes/options/performance.php:676
 msgid ""
 "Logo displayed for your website at 512px x 512px when installing as an app. "
 "Logo image must be in PNG format."
 msgstr ""
 
-#: includes/options/performance.php:677
+#: includes/options/performance.php:691
 msgid "App Display Mode"
 msgstr ""
 
-#: includes/options/performance.php:678
+#: includes/options/performance.php:692
 msgid ""
 "If the user installs your site as an app, select how the app will behave. "
 "For more information about these options please refer to <a href=\"https://"
@@ -23003,23 +23033,23 @@ msgid ""
 "target=\"_blank\">this document.</a>"
 msgstr ""
 
-#: includes/options/performance.php:683
+#: includes/options/performance.php:697
 msgid "Fullscreen"
 msgstr ""
 
-#: includes/options/performance.php:684
+#: includes/options/performance.php:698
 msgid "Standalone"
 msgstr ""
 
-#: includes/options/performance.php:685
+#: includes/options/performance.php:699
 msgid "Minimal UI"
 msgstr ""
 
-#: includes/options/performance.php:719
+#: includes/options/performance.php:733
 msgid "App Theme Color"
 msgstr ""
 
-#: includes/options/performance.php:720
+#: includes/options/performance.php:734
 msgid ""
 "Select a color that will be used for the header of your app, as well as the "
 "browser toolbar-color on mobile devices."
@@ -23540,11 +23570,38 @@ msgid ""
 "browsing history."
 msgstr ""
 
-#: includes/options/privacy.php:386 includes/options/privacy.php:399
+#: includes/options/privacy.php:386
+msgid "HubSpot Consent"
+msgstr ""
+
+#: includes/options/privacy.php:404
+msgid "HubSpot Label"
+msgstr ""
+
+#: includes/options/privacy.php:405
+msgid "Controls the frontend label for the HubSpot consent checkbox."
+msgstr ""
+
+#: includes/options/privacy.php:424
+msgid "HubSpot Description"
+msgstr ""
+
+#: includes/options/privacy.php:425
+msgid ""
+"Controls the frontend description shown below the HubSpot consent checkbox."
+msgstr ""
+
+#: includes/options/privacy.php:427
+msgid ""
+"Enables HubSpot to track your activity on this site, power the live chat "
+"widget, and manage marketing interactions."
+msgstr ""
+
+#: includes/options/privacy.php:444 includes/options/privacy.php:457
 msgid "Consent Categories"
 msgstr ""
 
-#: includes/options/privacy.php:400
+#: includes/options/privacy.php:458
 msgid ""
 "Defines the consent categories displayed in the Privacy & Consent Bar and "
 "the Privacy & Consent Element. Each entry sets the category type, title, and "
@@ -23552,37 +23609,37 @@ msgid ""
 "button to add additional categories."
 msgstr ""
 
-#: includes/options/privacy.php:410
+#: includes/options/privacy.php:468
 msgid "Select the type of cookie/content to display."
 msgstr ""
 
-#: includes/options/privacy.php:417
+#: includes/options/privacy.php:475
 msgid "Custom Content"
 msgstr ""
 
-#: includes/options/privacy.php:423
+#: includes/options/privacy.php:481
 msgid "Title for the content"
 msgstr ""
 
-#: includes/options/privacy.php:429
+#: includes/options/privacy.php:487
 msgid "Description for the content"
 msgstr ""
 
-#: includes/options/privacy.php:450
+#: includes/options/privacy.php:508
 msgid "Group Master Toggle"
 msgstr ""
 
-#: includes/options/privacy.php:451
+#: includes/options/privacy.php:509
 msgid ""
 "Display a master checkbox next to each group title to enable or disable all "
 "items in the group at once. The \"Necessary\" group is excluded."
 msgstr ""
 
-#: includes/options/privacy.php:464
+#: includes/options/privacy.php:522
 msgid "List WordPress Necessary Cookies"
 msgstr ""
 
-#: includes/options/privacy.php:465
+#: includes/options/privacy.php:523
 msgid ""
 "Enable to automatically list standard WordPress necessary cookies. If "
 "WooCommerce or The Events Calendar are active, their necessary cookies are "
@@ -23591,378 +23648,452 @@ msgid ""
 "Categories above."
 msgstr ""
 
-#: includes/options/privacy.php:478
+#: includes/options/privacy.php:536
 msgid "Necessary Cookies Opacity"
 msgstr ""
 
-#: includes/options/privacy.php:479
+#: includes/options/privacy.php:537
 msgid ""
 "Controls the opacity of necessary cookie items to visually indicate they "
 "cannot be toggled off."
 msgstr ""
 
-#: includes/options/privacy.php:507
+#: includes/options/privacy.php:565
 msgid "Show Cookie Lifespan"
 msgstr ""
 
-#: includes/options/privacy.php:508
+#: includes/options/privacy.php:566
 msgid "Whether to display the cookie lifespan next to each consent item."
 msgstr ""
 
-#: includes/options/privacy.php:521
+#: includes/options/privacy.php:579
 msgid "Show Cookie Description"
 msgstr ""
 
-#: includes/options/privacy.php:522
+#: includes/options/privacy.php:580
 msgid "Whether to display the cookie description for each consent item."
 msgstr ""
 
-#: includes/options/privacy.php:535
+#: includes/options/privacy.php:593
 msgid "Cookie Description Toggle"
 msgstr ""
 
-#: includes/options/privacy.php:536
+#: includes/options/privacy.php:594
 msgid ""
 "Add a toggle button next to each consent item to expand/collapse its "
 "description. Descriptions start collapsed."
 msgstr ""
 
-#: includes/options/privacy.php:554 includes/options/privacy.php:560
+#: includes/options/privacy.php:612 includes/options/privacy.php:618
 msgid "Privacy & Consent Bar"
 msgstr ""
 
-#: includes/options/privacy.php:561
+#: includes/options/privacy.php:619
 msgid "Turn on to enable a privacy & consent bar at the bottom of the page."
 msgstr ""
 
-#: includes/options/privacy.php:567
+#: includes/options/privacy.php:625
 msgid "Privacy Bar Expanded Padding"
 msgstr ""
 
-#: includes/options/privacy.php:568
+#: includes/options/privacy.php:626
 msgid "Controls the top/right/bottom/left paddings of the privacy bar area."
 msgstr ""
 
-#: includes/options/privacy.php:610
+#: includes/options/privacy.php:668
 msgid "Privacy Bar Background Color"
 msgstr ""
 
-#: includes/options/privacy.php:611
+#: includes/options/privacy.php:669
 msgid "Controls the background color for the privacy bar."
 msgstr ""
 
-#: includes/options/privacy.php:630
+#: includes/options/privacy.php:688
 msgid "Privacy Bar Font Size"
 msgstr ""
 
-#: includes/options/privacy.php:631
+#: includes/options/privacy.php:689
 msgid "Controls the font size for the privacy bar content."
 msgstr ""
 
-#: includes/options/privacy.php:652
+#: includes/options/privacy.php:710
 msgid "Privacy Bar Text Color"
 msgstr ""
 
-#: includes/options/privacy.php:653
+#: includes/options/privacy.php:711
 msgid "Controls the text color for the privacy bar content."
 msgstr ""
 
-#: includes/options/privacy.php:672
+#: includes/options/privacy.php:730
 msgid "Privacy Bar Link Color"
 msgstr ""
 
-#: includes/options/privacy.php:673
+#: includes/options/privacy.php:731
 msgid "Controls the link color for the privacy bar."
 msgstr ""
 
-#: includes/options/privacy.php:692
+#: includes/options/privacy.php:750
 msgid "Privacy Bar Link Hover Color"
 msgstr ""
 
-#: includes/options/privacy.php:693
+#: includes/options/privacy.php:751
 msgid "Controls the link hover color for the privacy bar."
 msgstr ""
 
-#: includes/options/privacy.php:712
+#: includes/options/privacy.php:770
 msgid "Privacy Bar Text"
 msgstr ""
 
-#: includes/options/privacy.php:713
+#: includes/options/privacy.php:771
 msgid "Enter the text which you want to appear on the privacy bar."
 msgstr ""
 
-#: includes/options/privacy.php:715
+#: includes/options/privacy.php:773
 msgid "This website uses cookies and third party services."
 msgstr ""
 
-#: includes/options/privacy.php:735
-msgid "Privacy Bar Button Text"
-msgstr ""
-
-#: includes/options/privacy.php:736
-msgid "Controls the button text for the privacy bar acceptance."
-msgstr ""
-
-#: includes/options/privacy.php:738
-msgid "OK"
-msgstr ""
-
-#: includes/options/privacy.php:758
-msgid "Privacy Bar Button Save On Click"
-msgstr ""
-
-#: includes/options/privacy.php:759
-msgid ""
-"Controls what the primary bar button does when clicked on the collapsed bar. "
-"When disabled, it acts as an acknowledgment — the bar dismisses and visitors "
-"grant consents individually via placeholder buttons or the details panel. "
-"When enabled, clicking the button grants the consent types selected under "
-"\"Privacy Selected Consent Types\". Either way, once the details panel is "
-"open, clicking the button always saves the current checkbox selection."
-msgstr ""
-
 #: includes/options/privacy.php:793
-msgid "Privacy Bar Settings"
+msgid "Privacy Bar Primary Button Action"
 msgstr ""
 
 #: includes/options/privacy.php:794
+msgid ""
+"\"Dismiss Only\" — the button closes the bar without saving any consent; "
+"visitors grant consent via placeholders or the details panel. \"Save Pre-"
+"selected\" — the button immediately saves the consent types selected under "
+"\"Privacy Selected Consent Types\". \"Save on Change\" — the button is "
+"hidden until the visitor opens the details panel and changes a checkbox; it "
+"then appears as a contextual save action. Note: regardless of this setting, "
+"once the settings panel is open the button always saves the current checkbox "
+"selection."
+msgstr ""
+
+#: includes/options/privacy.php:799
+msgid "Dismiss Only"
+msgstr ""
+
+#: includes/options/privacy.php:800
+msgid "Save Pre-selected"
+msgstr ""
+
+#: includes/options/privacy.php:801
+msgid "Save on Change"
+msgstr ""
+
+#: includes/options/privacy.php:833
+msgid "Privacy Bar Primary Button Text"
+msgstr ""
+
+#: includes/options/privacy.php:834
+msgid ""
+"Controls the text for the primary privacy bar button. With the \"Save on "
+"Change\" action this text is not shown, as the button only appears after a "
+"checkbox changes and uses the \"Privacy Bar Primary Button Update Text\" "
+"instead."
+msgstr ""
+
+#: includes/options/privacy.php:836
+msgid "OK"
+msgstr ""
+
+#: includes/options/privacy.php:861
+msgid "Privacy Bar Button Font Size"
+msgstr ""
+
+#: includes/options/privacy.php:862
+msgid ""
+"Controls the font size of the privacy bar buttons. Leave empty to inherit "
+"the global button font size."
+msgstr ""
+
+#: includes/options/privacy.php:883
+msgid "Privacy Bar Layout"
+msgstr ""
+
+#: includes/options/privacy.php:884
+msgid ""
+"Controls how the message text and action buttons are arranged. \"Centered\" "
+"keeps them together, centered on one row. \"Edges\" places the text and "
+"buttons on one row, pushed to opposite sides. \"Stacked\" moves the buttons "
+"to a centered second row below the message text."
+msgstr ""
+
+#: includes/options/privacy.php:889
+msgid "Centered"
+msgstr ""
+
+#: includes/options/privacy.php:890
+msgid "Edges"
+msgstr ""
+
+#: includes/options/privacy.php:891 includes/options/sliding_bar.php:308
+msgid "Stacked"
+msgstr ""
+
+#: includes/options/privacy.php:911
+msgid "Privacy Bar Message Max Width"
+msgstr ""
+
+#: includes/options/privacy.php:912
+msgid ""
+"Controls the maximum width of the privacy bar's main row (the message text "
+"and action buttons), centered within the bar. Leave empty for full width. "
+"With the \"Stacked\" layout, this width applies to the message text only."
+msgstr ""
+
+#: includes/options/privacy.php:933
+msgid "Privacy Bar Settings"
+msgstr ""
+
+#: includes/options/privacy.php:934
 msgid ""
 "If enabled, a settings section will be added to show more information and to "
 "provide checkboxes for tracking and third party embeds."
 msgstr ""
 
-#: includes/options/privacy.php:816
+#: includes/options/privacy.php:956
 msgid "Privacy Bar Settings Style"
 msgstr ""
 
-#: includes/options/privacy.php:817
+#: includes/options/privacy.php:957
 msgid ""
-"Controls how the settings entry is rendered. \"Link\" shows it inline within "
-"the bar text. \"Button\" renders it as a button alongside the other action "
-"buttons (more visible, recommended for clearer consent UX)."
+"Controls how the settings entry is rendered. \"Inline Link\" shows it inline "
+"within the bar text. \"Button\" renders it as a button alongside the other "
+"action buttons (more visible, recommended for clearer consent UX). "
+"\"Standalone Link\" shows it as a link placed next to the action buttons "
+"rather than within the text."
 msgstr ""
 
-#: includes/options/privacy.php:847
+#: includes/options/privacy.php:962
+msgid "Inline Link"
+msgstr ""
+
+#: includes/options/privacy.php:964
+msgid "Standalone Link"
+msgstr ""
+
+#: includes/options/privacy.php:988
 msgid "Privacy Bar Settings Text"
 msgstr ""
 
-#: includes/options/privacy.php:848
+#: includes/options/privacy.php:989
 msgid "Controls the link text for the privacy bar settings."
 msgstr ""
 
-#: includes/options/privacy.php:875
-msgid "Privacy Bar Update Button Text"
+#: includes/options/privacy.php:1016
+msgid "Privacy Bar Primary Button Update Text"
 msgstr ""
 
-#: includes/options/privacy.php:876
+#: includes/options/privacy.php:1017
 msgid ""
-"Controls the button text for the privacy bar after a checkbox has changed."
+"Controls the text shown on the primary privacy bar button after a checkbox "
+"has changed in the details panel."
 msgstr ""
 
-#: includes/options/privacy.php:878
+#: includes/options/privacy.php:1019
 msgid "Update Settings"
 msgstr ""
 
-#: includes/options/privacy.php:908
+#: includes/options/privacy.php:1049
 msgid "Privacy Bar Content Layout"
 msgstr ""
 
-#: includes/options/privacy.php:909
+#: includes/options/privacy.php:1050
 msgid "Controls the layout for the privacy bar content."
 msgstr ""
 
-#: includes/options/privacy.php:915
+#: includes/options/privacy.php:1056
 msgid "Tabs"
 msgstr ""
 
-#: includes/options/privacy.php:939
+#: includes/options/privacy.php:1080
 msgid "Privacy Bar Content Max Width"
 msgstr ""
 
-#: includes/options/privacy.php:940
+#: includes/options/privacy.php:1081
 msgid "Controls the maximum width of the content container."
 msgstr ""
 
-#: includes/options/privacy.php:966
+#: includes/options/privacy.php:1107
 msgid "Privacy Bar Tabs Content Height"
 msgstr ""
 
-#: includes/options/privacy.php:967
+#: includes/options/privacy.php:1108
 msgid ""
 "Set a height for the tab content area, that all tabs will share. Content "
 "taller than this height will be scrollable. Leave empty to auto-size each "
 "tab to its content."
 msgstr ""
 
-#: includes/options/privacy.php:999
+#: includes/options/privacy.php:1140
 msgid "Privacy Bar Heading Font Size"
 msgstr ""
 
-#: includes/options/privacy.php:1000
+#: includes/options/privacy.php:1141
 msgid "Controls the font size for the privacy bar heading text."
 msgstr ""
 
-#: includes/options/privacy.php:1027
+#: includes/options/privacy.php:1168
 msgid "Privacy Bar Headings Color"
 msgstr ""
 
-#: includes/options/privacy.php:1028
+#: includes/options/privacy.php:1169
 msgid "Controls the text color of the privacy bar heading font."
 msgstr ""
 
-#: includes/options/privacy.php:1052
+#: includes/options/privacy.php:1193
 msgid "Privacy Bar Tabs Border Size"
 msgstr ""
 
-#: includes/options/privacy.php:1053
+#: includes/options/privacy.php:1194
 msgid "Controls the border size for the tabs layout. In Pixels."
 msgstr ""
 
-#: includes/options/privacy.php:1087
+#: includes/options/privacy.php:1228
 msgid "Privacy Bar Tabs Border Color"
 msgstr ""
 
-#: includes/options/privacy.php:1088
+#: includes/options/privacy.php:1229
 msgid "Controls the border color for the tabs layout."
 msgstr ""
 
-#: includes/options/privacy.php:1117
+#: includes/options/privacy.php:1258
 msgid "Privacy Bar Tabs Active Background Color"
 msgstr ""
 
-#: includes/options/privacy.php:1118
+#: includes/options/privacy.php:1259
 msgid "Controls the background color of the active tab."
 msgstr ""
 
-#: includes/options/privacy.php:1147
+#: includes/options/privacy.php:1288
 msgid "Privacy Bar Tabs Content Padding"
 msgstr ""
 
-#: includes/options/privacy.php:1148
+#: includes/options/privacy.php:1289
 msgid "Controls the padding for the tab content area."
 msgstr ""
 
-#: includes/options/privacy.php:1201
+#: includes/options/privacy.php:1342
 msgid "Privacy Bar Column Gap"
 msgstr ""
 
-#: includes/options/privacy.php:1202
+#: includes/options/privacy.php:1343
 msgid "Controls the gap between columns in the privacy bar content."
 msgstr ""
 
-#: includes/options/privacy.php:1233
+#: includes/options/privacy.php:1374
 msgid "Privacy Bar Consent Item Style"
 msgstr ""
 
-#: includes/options/privacy.php:1234
+#: includes/options/privacy.php:1375
 msgid ""
 "Choose between standard checkboxes or slide toggles for the consent items."
 msgstr ""
 
-#: includes/options/privacy.php:1239
+#: includes/options/privacy.php:1380
 msgid "Checkbox"
 msgstr ""
 
-#: includes/options/privacy.php:1240
+#: includes/options/privacy.php:1381
 msgid "Toggle"
 msgstr ""
 
-#: includes/options/privacy.php:1264
+#: includes/options/privacy.php:1405
 msgid "Privacy Bar Consent Toggle Inactive Color"
 msgstr ""
 
-#: includes/options/privacy.php:1265
+#: includes/options/privacy.php:1406
 msgid "Track color when a consent item is disabled."
 msgstr ""
 
-#: includes/options/privacy.php:1294
+#: includes/options/privacy.php:1435
 msgid "Privacy Bar Consent Toggle Active Color"
 msgstr ""
 
-#: includes/options/privacy.php:1295
+#: includes/options/privacy.php:1436
 msgid "Track color when a consent item is enabled."
 msgstr ""
 
-#: includes/options/privacy.php:1324
+#: includes/options/privacy.php:1465
 msgid "Privacy Bar Consent Toggle Thumb Color"
 msgstr ""
 
-#: includes/options/privacy.php:1325
+#: includes/options/privacy.php:1466
 msgid "Color of the toggle thumb."
 msgstr ""
 
-#: includes/options/privacy.php:1354
+#: includes/options/privacy.php:1495
 msgid "Privacy Bar Cookie Lifespan Color"
 msgstr ""
 
-#: includes/options/privacy.php:1355
+#: includes/options/privacy.php:1496
 msgid ""
 "Controls the text color for the cookie lifespan shown next to each consent "
 "option. Leave empty to inherit from \"Privacy Bar Text Color\"."
 msgstr ""
 
-#: includes/options/privacy.php:1384
+#: includes/options/privacy.php:1525
 msgid "Privacy Bar Cookie Description Color"
 msgstr ""
 
-#: includes/options/privacy.php:1385
+#: includes/options/privacy.php:1526
 msgid ""
 "Controls the text color for the cookie descriptions shown below each consent "
 "option.  Leave empty to inherit from \"Privacy Bar Text Color\"."
 msgstr ""
 
-#: includes/options/privacy.php:1414
+#: includes/options/privacy.php:1555
 msgid "Privacy Bar Cookie Description Font Size"
 msgstr ""
 
-#: includes/options/privacy.php:1415
+#: includes/options/privacy.php:1556
 msgid ""
 "Controls the font size for the cookie descriptions shown below each consent "
 "option."
 msgstr ""
 
-#: includes/options/privacy.php:1447
+#: includes/options/privacy.php:1588
 msgid "Privacy Bar Accept All Button"
 msgstr ""
 
-#: includes/options/privacy.php:1448
+#: includes/options/privacy.php:1589
 msgid ""
 "If enabled, the privacy bar will be extended with a button that grants "
 "consent for every available type, regardless of which checkboxes the visitor "
 "has toggled."
 msgstr ""
 
-#: includes/options/privacy.php:1474
+#: includes/options/privacy.php:1615
 msgid "Privacy Bar Accept All Button Text"
 msgstr ""
 
-#: includes/options/privacy.php:1475
+#: includes/options/privacy.php:1616
 msgid "Controls the link text for the privacy bar accept all button."
 msgstr ""
 
-#: includes/options/privacy.php:1477
+#: includes/options/privacy.php:1618
 msgid "Accept All"
 msgstr ""
 
-#: includes/options/privacy.php:1506
+#: includes/options/privacy.php:1647
 msgid "Privacy Bar Reject All Button"
 msgstr ""
 
-#: includes/options/privacy.php:1507
+#: includes/options/privacy.php:1648
 msgid ""
 "If enabled, the privacy bar will be extended with a button that allows users "
 "to reject all."
 msgstr ""
 
-#: includes/options/privacy.php:1534
+#: includes/options/privacy.php:1675
 msgid "Privacy Bar Reject All Button Text"
 msgstr ""
 
-#: includes/options/privacy.php:1535
+#: includes/options/privacy.php:1676
 msgid "Controls the link text for the privacy bar reject all button."
 msgstr ""
 
-#: includes/options/privacy.php:1537
+#: includes/options/privacy.php:1678
 msgid "Reject All"
 msgstr ""
 
@@ -24925,10 +25056,6 @@ msgstr ""
 msgid ""
 "Allows your sliding bar columns to be stacked (one above the other) or "
 "floated (side by side) when using the left or right position."
-msgstr ""
-
-#: includes/options/sliding_bar.php:308
-msgid "Stacked"
 msgstr ""
 
 #: includes/options/sliding_bar.php:309
@@ -26578,16 +26705,16 @@ msgstr "Toggle mobile search"
 msgid "Toggle mobile cart"
 msgstr "Toggle mobile cart"
 
-#: templates/privacy-bar.php:78
+#: templates/privacy-bar.php:73
 msgid "Toggle all items in this group"
 msgstr ""
 
-#: templates/privacy-bar.php:80
+#: templates/privacy-bar.php:75
 msgid "Toggle description"
 msgstr ""
 
 #. translators: %s: number of days
-#: templates/privacy-bar.php:85
+#: templates/privacy-bar.php:82
 msgid "%s day"
 msgid_plural "%s days"
 msgstr[0] ""

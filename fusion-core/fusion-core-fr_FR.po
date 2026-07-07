@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Avada\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/fusion-core\n"
-"POT-Creation-Date: 2026-06-11 09:32:32+00:00\n"
+"POT-Creation-Date: 2026-07-07 04:55:30+00:00\n"
 "PO-Revision-Date: 2021-08-05 13:41+0200\n"
 "Last-Translator: Cédric - COMITRONIC-BTI <comitronicbti93@gmail.com>\n"
 "Language-Team: French (France) (http://www.transifex.com/projects/p/avada/"
@@ -795,13 +795,34 @@ msgstr "Sujet"
 msgid "Submit Form"
 msgstr "Soumettre le formulaire"
 
-#: includes/class-fusion-portfolio.php:91
+#: includes/class-fusion-portfolio.php:94
 msgid "All items displayed."
 msgstr "Tous les éléments affichés."
 
-#: includes/class-fusion-portfolio.php:92
+#: includes/class-fusion-portfolio.php:95
 msgid "Loading the next set of posts..."
 msgstr "Chargement des articles suivants..."
+
+#: includes/class-fusion-portfolio.php:224 shortcodes/fusion-portfolio.php:1605
+#: shortcodes/fusion-portfolio.php:2063
+msgid "Portfolio"
+msgstr "Portfolio"
+
+#: includes/class-fusion-portfolio.php:229
+msgid "Project URL"
+msgstr ""
+
+#: includes/class-fusion-portfolio.php:240
+msgid "Project URL Text"
+msgstr ""
+
+#: includes/class-fusion-portfolio.php:251
+msgid "Copyright URL"
+msgstr ""
+
+#: includes/class-fusion-portfolio.php:262
+msgid "Copyright URL Text"
+msgstr ""
 
 #: includes/class-fusioncore-plugin.php:401
 msgid "Add New Portfolio Post"
@@ -1726,10 +1747,6 @@ msgstr "Charger plus d’articles"
 #: shortcodes/fusion-portfolio.php:1178
 msgid "Portfolio Filters"
 msgstr ""
-
-#: shortcodes/fusion-portfolio.php:1605 shortcodes/fusion-portfolio.php:2063
-msgid "Portfolio"
-msgstr "Portfolio"
 
 #: shortcodes/fusion-portfolio.php:1612
 msgid "Portfolio Featured Image Size"

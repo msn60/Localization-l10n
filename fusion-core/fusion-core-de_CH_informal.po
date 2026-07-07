@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Fusion Core 4.0.2\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/fusion-core\n"
-"POT-Creation-Date: 2026-06-11 09:32:32+00:00\n"
+"POT-Creation-Date: 2026-07-07 04:55:30+00:00\n"
 "PO-Revision-Date: 2019-08-26 12:41+0300\n"
 "Last-Translator:  <info@theme-fusion.com>\n"
 "Language-Team: German\n"
@@ -680,12 +680,33 @@ msgstr ""
 msgid "Submit Form"
 msgstr ""
 
-#: includes/class-fusion-portfolio.php:91
+#: includes/class-fusion-portfolio.php:94
 msgid "All items displayed."
 msgstr ""
 
-#: includes/class-fusion-portfolio.php:92
+#: includes/class-fusion-portfolio.php:95
 msgid "Loading the next set of posts..."
+msgstr ""
+
+#: includes/class-fusion-portfolio.php:224 shortcodes/fusion-portfolio.php:1605
+#: shortcodes/fusion-portfolio.php:2063
+msgid "Portfolio"
+msgstr ""
+
+#: includes/class-fusion-portfolio.php:229
+msgid "Project URL"
+msgstr ""
+
+#: includes/class-fusion-portfolio.php:240
+msgid "Project URL Text"
+msgstr ""
+
+#: includes/class-fusion-portfolio.php:251
+msgid "Copyright URL"
+msgstr ""
+
+#: includes/class-fusion-portfolio.php:262
+msgid "Copyright URL Text"
 msgstr ""
 
 #: includes/class-fusioncore-plugin.php:401
@@ -1551,10 +1572,6 @@ msgstr ""
 
 #: shortcodes/fusion-portfolio.php:1178
 msgid "Portfolio Filters"
-msgstr ""
-
-#: shortcodes/fusion-portfolio.php:1605 shortcodes/fusion-portfolio.php:2063
-msgid "Portfolio"
 msgstr ""
 
 #: shortcodes/fusion-portfolio.php:1612
