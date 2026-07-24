@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Avada 5.1.6\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/theme/Avada\n"
-"POT-Creation-Date: 2026-07-07 04:54:07+00:00\n"
+"POT-Creation-Date: 2026-07-24 09:40:58+00:00\n"
 "PO-Revision-Date: 2017-06-22 10:59+0300\n"
 "Last-Translator: Aristeides <info@theme-fusion.com>\n"
 "Language-Team: Afrikaans\n"
@@ -47,7 +47,7 @@ msgstr ""
 #: includes/class-avada-layout-bbpress.php:148
 #: includes/class-avada-megamenu-framework.php:310
 #: includes/lib/inc/class-fusion-searchform.php:86
-#: includes/lib/inc/fusion-app/helpers.php:287
+#: includes/lib/inc/fusion-app/helpers.php:302
 #: includes/lib/inc/redux/custom-fields/iconpicker/field_iconpicker.php:55
 #: includes/metaboxes/tabs/tab_template.php:255 includes/options/header.php:437
 #: includes/options/search.php:38
@@ -96,7 +96,7 @@ msgstr[1] ""
 #: includes/class-avada-woocommerce.php:913
 #: includes/lib/inc/class-fusion-scripts.php:593
 #: includes/lib/inc/functions.php:1096
-#: includes/lib/inc/fusion-app/helpers.php:618 single-wpfc_sermon.php:21
+#: includes/lib/inc/fusion-app/helpers.php:638 single-wpfc_sermon.php:21
 #: single.php:20
 msgid "Previous"
 msgstr ""
@@ -109,7 +109,7 @@ msgstr ""
 #: includes/class-avada-woocommerce.php:914
 #: includes/lib/inc/class-fusion-scripts.php:592
 #: includes/lib/inc/functions.php:1142
-#: includes/lib/inc/fusion-app/helpers.php:619 single-wpfc_sermon.php:22
+#: includes/lib/inc/fusion-app/helpers.php:639 single-wpfc_sermon.php:22
 #: single.php:21
 msgid "Next"
 msgstr ""
@@ -133,7 +133,7 @@ msgid "Email (required)"
 msgstr ""
 
 #: comments.php:70 includes/lib/inc/class-fusion-social-icon.php:216
-#: includes/metaboxes/tabs/tab_form_notifications.php:89
+#: includes/metaboxes/tabs/tab_form_notifications.php:118
 #: includes/options/social_media.php:845
 msgid "Email"
 msgstr ""
@@ -145,7 +145,7 @@ msgstr ""
 #: comments.php:78 includes/class-avada-nav-walker-megamenu.php:176
 #: includes/lib/inc/redux/framework/FusionReduxCore/inc/fields/slides/field_slides.php:174
 #: includes/lib/inc/redux/framework/FusionReduxCore/inc/fields/slides/field_slides.php:228
-#: includes/metaboxes/tabs/tab_form_submission.php:141
+#: includes/metaboxes/tabs/tab_form_submission.php:165
 msgid "URL"
 msgstr ""
 
@@ -234,7 +234,7 @@ msgid "Avada Resources"
 msgstr ""
 
 #: includes/admin-screens/dashboard.php:92
-#: includes/class-avada-tgm-plugin-activation.php:2341
+#: includes/class-avada-tgm-plugin-activation.php:2344
 msgid "Recommended"
 msgstr ""
 
@@ -540,9 +540,10 @@ msgstr ""
 #: includes/lib/inc/fusion-app/class-fusion-preferences.php:290
 #: includes/lib/inc/fusion-app/class-fusion-preferences.php:301
 #: includes/lib/inc/fusion-app/class-fusion-preferences.php:312
-#: includes/lib/inc/fusion-app/helpers.php:516
+#: includes/lib/inc/fusion-app/helpers.php:536
 #: includes/lib/inc/redux/framework/FusionReduxCore/inc/fields/switch/field_switch.php:45
-#: includes/metaboxes/tabs/tab_page.php:204 includes/options/advanced.php:506
+#: includes/metaboxes/tabs/tab_form_notifications.php:70
+#: includes/metaboxes/tabs/tab_page.php:194 includes/options/advanced.php:506
 #: includes/options/performance.php:299 includes/options/responsive.php:43
 #: includes/options/responsive.php:213
 msgid "On"
@@ -565,9 +566,10 @@ msgstr ""
 #: includes/lib/inc/fusion-app/class-fusion-preferences.php:291
 #: includes/lib/inc/fusion-app/class-fusion-preferences.php:302
 #: includes/lib/inc/fusion-app/class-fusion-preferences.php:313
-#: includes/lib/inc/fusion-app/helpers.php:517
+#: includes/lib/inc/fusion-app/helpers.php:537
 #: includes/lib/inc/redux/framework/FusionReduxCore/inc/fields/switch/field_switch.php:48
-#: includes/metaboxes/tabs/tab_page.php:205 includes/options/advanced.php:507
+#: includes/metaboxes/tabs/tab_form_notifications.php:71
+#: includes/metaboxes/tabs/tab_page.php:195 includes/options/advanced.php:507
 #: includes/options/extra.php:1092 includes/options/forms.php:458
 #: includes/options/forms.php:527 includes/options/maintenance.php:59
 #: includes/options/performance.php:300 includes/options/responsive.php:44
@@ -664,7 +666,7 @@ msgstr ""
 
 #: includes/admin-screens/performance.php:204
 #: includes/class-avada-admin.php:1483 includes/class-awb-setup-wizard.php:1436
-#: includes/lib/inc/fusion-app/helpers.php:657
+#: includes/lib/inc/fusion-app/helpers.php:677
 #: includes/metaboxes/metaboxes.php:670
 #: includes/metaboxes/tabs/tab_content.php:24
 #: includes/metaboxes/tabs/tab_sidebars.php:291
@@ -748,7 +750,7 @@ msgid "Search Font Families"
 msgstr ""
 
 #: includes/admin-screens/performance.php:308
-#: includes/lib/inc/fusion-app/helpers.php:571
+#: includes/lib/inc/fusion-app/helpers.php:591
 #: includes/lib/inc/fusion-app/templates/options/typography.php:160
 #: includes/lib/inc/fusion-app/templates/typography-set.php:101
 #: includes/lib/inc/redux/custom-fields/typography/field_typography.php:203
@@ -854,17 +856,17 @@ msgid "Avada Slider"
 msgstr ""
 
 #: includes/admin-screens/performance.php:425
-#: includes/lib/inc/fusion-app/helpers.php:296
+#: includes/lib/inc/fusion-app/helpers.php:311
 msgid "Design Elements"
 msgstr ""
 
 #: includes/admin-screens/performance.php:461
-#: includes/lib/inc/fusion-app/helpers.php:297
+#: includes/lib/inc/fusion-app/helpers.php:312
 msgid "Layout Elements"
 msgstr ""
 
 #: includes/admin-screens/performance.php:479
-#: includes/lib/inc/fusion-app/helpers.php:298
+#: includes/lib/inc/fusion-app/helpers.php:313
 msgid "Form Elements"
 msgstr ""
 
@@ -1010,7 +1012,7 @@ msgid ""
 msgstr ""
 
 #: includes/admin-screens/performance.php:652
-#: includes/lib/inc/fusion-app/helpers.php:447
+#: includes/lib/inc/fusion-app/helpers.php:467
 #: includes/metaboxes/tabs/tab_form_steps.php:816
 msgid "Before"
 msgstr ""
@@ -1036,7 +1038,7 @@ msgid "CLS"
 msgstr ""
 
 #: includes/admin-screens/performance.php:700
-#: includes/lib/inc/fusion-app/helpers.php:448
+#: includes/lib/inc/fusion-app/helpers.php:468
 #: includes/metaboxes/tabs/tab_form_steps.php:815
 msgid "After"
 msgstr ""
@@ -1169,8 +1171,8 @@ msgid "Available Version: %s"
 msgstr ""
 
 #: includes/admin-screens/plugins.php:185
-#: includes/class-avada-tgm-plugin-activation.php:2338
-#: includes/lib/inc/fusion-app/helpers.php:417
+#: includes/class-avada-tgm-plugin-activation.php:2341
+#: includes/lib/inc/fusion-app/helpers.php:437
 msgid "Required"
 msgstr ""
 
@@ -1184,8 +1186,8 @@ msgstr ""
 
 #: includes/admin-screens/prebuilt-websites-demo.php:27
 #: includes/class-awb-views-count.php:114
-#: includes/lib/inc/fusion-app/helpers.php:537
-#: includes/lib/inc/fusion-app/helpers.php:643
+#: includes/lib/inc/fusion-app/helpers.php:557
+#: includes/lib/inc/fusion-app/helpers.php:663
 #: includes/lib/inc/redux/custom-fields/spacing/field_border_radius.php:84
 #: includes/lib/inc/redux/custom-fields/spacing/field_spacing.php:84
 #: includes/lib/inc/redux/framework/FusionReduxCore/inc/fields/border/field_border.php:128
@@ -1228,7 +1230,7 @@ msgstr ""
 
 #: includes/admin-screens/prebuilt-websites-demo.php:89
 #: includes/avada-app/fusion-panel.php:156
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2569
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2626
 #: includes/lib/inc/fusion-app/helpers.php:223
 #: includes/lib/inc/fusion-app/templates/front-end-toolbar.php:149
 #: includes/metaboxes/metaboxes.php:675
@@ -1260,13 +1262,13 @@ msgstr ""
 
 #: includes/admin-screens/prebuilt-websites-import-modal.php:47
 #: includes/class-avada-admin.php:1170
-#: includes/class-avada-tgm-plugin-activation.php:2786
+#: includes/class-avada-tgm-plugin-activation.php:2789
 msgid "Install"
 msgstr ""
 
 #: includes/admin-screens/prebuilt-websites-import-modal.php:50
 #: includes/class-avada-admin.php:1504
-#: includes/class-avada-tgm-plugin-activation.php:2386
+#: includes/class-avada-tgm-plugin-activation.php:2389
 #: includes/lib/inc/redux/framework/FusionReduxCore/inc/fields/link_color/field_link_color.php:104
 #: includes/metaboxes/tabs/tab_form_steps.php:108
 #: includes/metaboxes/tabs/tab_form_steps.php:245
@@ -1279,7 +1281,7 @@ msgstr ""
 
 #: includes/admin-screens/prebuilt-websites-import-modal.php:53
 #: includes/class-avada-admin.php:1189
-#: includes/class-avada-tgm-plugin-activation.php:2795
+#: includes/class-avada-tgm-plugin-activation.php:2798
 msgid "Activate"
 msgstr ""
 
@@ -1299,7 +1301,7 @@ msgstr ""
 #: includes/admin-screens/prebuilt-websites-import-modal.php:114
 #: includes/class-avada-megamenu-framework.php:1032
 #: includes/class-avada-nav-walker-megamenu.php:249
-#: includes/lib/inc/fusion-app/helpers.php:601
+#: includes/lib/inc/fusion-app/helpers.php:621
 #: includes/lib/inc/redux/framework/FusionReduxCore/inc/fields/background/field_background.php:325
 #: includes/lib/inc/redux/framework/FusionReduxCore/inc/fields/media/field_media.php:209
 #: includes/lib/inc/redux/framework/FusionReduxCore/inc/fields/multi_text/field_multi_text.php:74
@@ -1889,7 +1891,7 @@ msgstr ""
 #: includes/class-avada-taxonomy-meta.php:308
 #: includes/class-avada-taxonomy-meta.php:451
 #: includes/lib/inc/class-fusion-images.php:1072
-#: includes/lib/inc/fusion-app/helpers.php:572
+#: includes/lib/inc/fusion-app/helpers.php:592
 #: includes/lib/inc/fusion-app/templates/front-end-toolbar.php:160
 #: includes/lib/inc/fusion-app/templates/options/typography.php:218
 #: includes/lib/inc/redux/custom-fields/typography/field_typography.php:287
@@ -1909,8 +1911,8 @@ msgstr ""
 #: includes/metaboxes/tabs/tab_page.php:53
 #: includes/metaboxes/tabs/tab_page.php:89
 #: includes/metaboxes/tabs/tab_page.php:110
-#: includes/metaboxes/tabs/tab_page.php:133
-#: includes/metaboxes/tabs/tab_page.php:203
+#: includes/metaboxes/tabs/tab_page.php:143
+#: includes/metaboxes/tabs/tab_page.php:193
 #: includes/metaboxes/tabs/tab_pagetitlebar.php:148
 #: includes/metaboxes/tabs/tab_pagetitlebar.php:165
 #: includes/metaboxes/tabs/tab_pagetitlebar.php:181
@@ -1950,7 +1952,7 @@ msgid "Select Header"
 msgstr ""
 
 #: includes/admin-screens/setup.php:530
-#: includes/lib/inc/fusion-app/helpers.php:641 includes/options/logo.php:32
+#: includes/lib/inc/fusion-app/helpers.php:661 includes/options/logo.php:32
 #: includes/options/logo.php:40 templates/logo.php:60
 msgid "Logo"
 msgstr ""
@@ -2102,8 +2104,8 @@ msgstr ""
 
 #: includes/admin-screens/setup.php:910 includes/class-avada-admin-bar.php:69
 #: includes/class-avada-megamenu-framework.php:522
-#: includes/lib/inc/fusion-app/class-fusion-app.php:1124
-#: includes/metaboxes/tabs/tab_form_submission.php:211
+#: includes/lib/inc/fusion-app/class-fusion-app.php:1127
+#: includes/metaboxes/tabs/tab_form_submission.php:235
 #: includes/options/typography.php:331
 msgid "Off Canvas"
 msgstr ""
@@ -2236,7 +2238,7 @@ msgid "Edit the pages of your website."
 msgstr ""
 
 #: includes/admin-screens/setup.php:1028
-#: includes/lib/inc/fusion-app/helpers.php:340
+#: includes/lib/inc/fusion-app/helpers.php:355
 #: includes/options/advanced.php:109
 msgid "Avada Studio"
 msgstr ""
@@ -2844,7 +2846,7 @@ msgid ""
 msgstr ""
 
 #: includes/admin-screens/status.php:752
-#: includes/class-avada-tgm-plugin-activation.php:2380
+#: includes/class-avada-tgm-plugin-activation.php:2383
 msgid "Not Installed"
 msgstr ""
 
@@ -3096,7 +3098,7 @@ msgstr ""
 #: includes/class-avada-megamenu-framework.php:1065
 #: includes/class-avada-nav-walker-megamenu.php:259
 #: includes/lib/inc/class-awb-widget-style.php:421
-#: includes/lib/inc/fusion-app/helpers.php:294
+#: includes/lib/inc/fusion-app/helpers.php:309
 msgid "Cancel"
 msgstr ""
 
@@ -3124,7 +3126,7 @@ msgstr ""
 
 #: includes/avada-app/class-fusion-panel.php:702
 #: includes/avada-app/class-fusion-panel.php:837
-#: includes/lib/inc/fusion-app/helpers.php:565 includes/options/privacy.php:991
+#: includes/lib/inc/fusion-app/helpers.php:585 includes/options/privacy.php:991
 msgid "Settings"
 msgstr ""
 
@@ -3140,6 +3142,7 @@ msgstr ""
 #: includes/avada-app/class-fusion-panel.php:744
 #: includes/class-avada-nav-walker-megamenu.php:213
 #: includes/lib/inc/class-fusion-patcher-admin-screen.php:290
+#: includes/lib/inc/fusion-app/helpers.php:402
 #: includes/lib/inc/redux/framework/FusionReduxCore/inc/fields/slides/field_slides.php:170
 #: includes/lib/inc/redux/framework/FusionReduxCore/inc/fields/slides/field_slides.php:225
 #: includes/options/advanced.php:576
@@ -3215,7 +3218,7 @@ msgid "Featured Image %s"
 msgstr ""
 
 #: includes/avada-app/class-fusion-panel.php:1159
-#: includes/lib/inc/fusion-app/helpers.php:243
+#: includes/lib/inc/fusion-app/helpers.php:258
 #: includes/options/custom_css.php:27
 msgid "Custom CSS"
 msgstr ""
@@ -3367,7 +3370,7 @@ msgstr ""
 #: includes/class-avada-taxonomy-meta.php:333
 #: includes/lib/inc/class-fusion-settings.php:587
 #: includes/lib/inc/class-fusion-settings.php:625
-#: includes/lib/inc/fusion-app/helpers.php:306
+#: includes/lib/inc/fusion-app/helpers.php:321
 #: includes/metaboxes/tabs/tab_sliders.php:226
 msgid "Element Options"
 msgstr ""
@@ -3388,17 +3391,17 @@ msgstr ""
 msgid "No page specific options are available for this page."
 msgstr ""
 
-#: includes/avada-functions.php:352 includes/lib/inc/fusion-app/helpers.php:623
+#: includes/avada-functions.php:352 includes/lib/inc/fusion-app/helpers.php:643
 #: includes/options/blog.php:880
 msgid "Related Posts"
 msgstr ""
 
-#: includes/avada-functions.php:355 includes/lib/inc/fusion-app/helpers.php:624
+#: includes/avada-functions.php:355 includes/lib/inc/fusion-app/helpers.php:644
 #: includes/options/portfolio.php:704
 msgid "Related Projects"
 msgstr ""
 
-#: includes/avada-functions.php:358 includes/lib/inc/fusion-app/helpers.php:625
+#: includes/avada-functions.php:358 includes/lib/inc/fusion-app/helpers.php:645
 msgid "Related Faqs"
 msgstr ""
 
@@ -3481,7 +3484,7 @@ msgid "Learn How To Import Sliders"
 msgstr ""
 
 #: includes/avada-functions.php:1366
-#: includes/lib/inc/fusion-app/helpers.php:639 includes/options/menu.php:79
+#: includes/lib/inc/fusion-app/helpers.php:659 includes/options/menu.php:79
 #: includes/options/menu.php:103
 msgid "Main Menu"
 msgstr ""
@@ -3680,7 +3683,7 @@ msgid "Return to the Avada Plugins page."
 msgstr ""
 
 #: includes/avada-tgm.php:96 includes/class-avada-tgm-plugin-activation.php:385
-#: includes/class-avada-tgm-plugin-activation.php:3228
+#: includes/class-avada-tgm-plugin-activation.php:3231
 msgid "Plugin activated successfully."
 msgstr ""
 
@@ -3754,7 +3757,7 @@ msgid "Studio"
 msgstr ""
 
 #: includes/class-avada-admin-bar.php:82
-#: includes/lib/inc/fusion-app/helpers.php:247
+#: includes/lib/inc/fusion-app/helpers.php:262
 msgid "Library"
 msgstr ""
 
@@ -3883,7 +3886,7 @@ msgstr ""
 
 #. translators: The iconset name.
 #: includes/class-avada-admin.php:921
-#: includes/lib/inc/fusion-app/helpers.php:638
+#: includes/lib/inc/fusion-app/helpers.php:658
 #: includes/lib/inc/redux/custom-fields/iconpicker/field_iconpicker.php:115
 msgid "No Results in \"%s\""
 msgstr ""
@@ -3908,7 +3911,7 @@ msgid "Update %s"
 msgstr ""
 
 #: includes/class-avada-admin.php:1211
-#: includes/class-avada-tgm-plugin-activation.php:2792
+#: includes/class-avada-tgm-plugin-activation.php:2795
 #: templates/wc-cart-shipping-calc.php:91
 msgid "Update"
 msgstr ""
@@ -3987,7 +3990,7 @@ msgid ""
 msgstr ""
 
 #: includes/class-avada-admin.php:1498
-#: includes/lib/inc/fusion-app/helpers.php:656
+#: includes/lib/inc/fusion-app/helpers.php:676
 msgid ""
 "The import process has timed out, but already imported steps have been "
 "saved. Click \"continue\", and the importer will attempt to complete the "
@@ -4324,7 +4327,7 @@ msgid ""
 msgstr ""
 
 #: includes/class-avada-megamenu-framework.php:158
-#: includes/lib/inc/fusion-app/class-fusion-app.php:1089
+#: includes/lib/inc/fusion-app/class-fusion-app.php:1092
 #: includes/metaboxes/metaboxes.php:703
 #: includes/metaboxes/tabs/tab_template.php:163
 msgid "Mega Menu"
@@ -4677,24 +4680,24 @@ msgid "Select a widget area to be used as the content for the column."
 msgstr ""
 
 #: includes/class-avada-megamenu-framework.php:939
-#: includes/lib/inc/fusion-app/helpers.php:630
+#: includes/lib/inc/fusion-app/helpers.php:650
 msgid "Add Custom Icon Set"
 msgstr ""
 
 #: includes/class-avada-megamenu-framework.php:941
-#: includes/lib/inc/fusion-app/helpers.php:414
+#: includes/lib/inc/fusion-app/helpers.php:434
 #: includes/metaboxes/metaboxes.php:1976
 msgid "Search Icons"
 msgstr ""
 
 #: includes/class-avada-megamenu-framework.php:1031
-#: includes/lib/inc/fusion-app/helpers.php:337
+#: includes/lib/inc/fusion-app/helpers.php:352
 msgid "Edit"
 msgstr ""
 
 #: includes/class-avada-megamenu-framework.php:1033
 #: includes/class-avada-taxonomy-meta.php:1165
-#: includes/lib/inc/fusion-app/helpers.php:335
+#: includes/lib/inc/fusion-app/helpers.php:350
 msgid "Upload Image"
 msgstr ""
 
@@ -4705,7 +4708,7 @@ msgstr ""
 
 #: includes/class-avada-megamenu-framework.php:1064
 #: includes/lib/inc/class-awb-widget-style.php:420
-#: includes/lib/inc/fusion-app/helpers.php:252
+#: includes/lib/inc/fusion-app/helpers.php:267
 #: includes/lib/inc/fusion-app/templates/front-end-toolbar.php:83
 msgid "Save"
 msgstr ""
@@ -5137,12 +5140,12 @@ msgstr ""
 msgid "Updating submissions database table failed."
 msgstr ""
 
-#: includes/class-avada-system-status.php:199
-msgid "This is not a multisite."
+#: includes/class-avada-system-status.php:200
+msgid "Security check failed."
 msgstr ""
 
-#: includes/class-avada-system-status.php:202
-msgid "Security check failed."
+#: includes/class-avada-system-status.php:203
+msgid "This is not a multisite."
 msgstr ""
 
 #: includes/class-avada-system-status.php:217
@@ -5480,12 +5483,12 @@ msgid "Return to Required Plugins Installer"
 msgstr ""
 
 #: includes/class-avada-tgm-plugin-activation.php:384
-#: includes/class-avada-tgm-plugin-activation.php:3649
+#: includes/class-avada-tgm-plugin-activation.php:3652
 msgid "Return to the Dashboard"
 msgstr ""
 
 #: includes/class-avada-tgm-plugin-activation.php:386
-#: includes/class-avada-tgm-plugin-activation.php:3021
+#: includes/class-avada-tgm-plugin-activation.php:3024
 msgid "The following plugin was activated successfully:"
 msgstr ""
 
@@ -5549,214 +5552,215 @@ msgid ""
 "not packaged in a folder."
 msgstr ""
 
-#: includes/class-avada-tgm-plugin-activation.php:1160
+#: includes/class-avada-tgm-plugin-activation.php:1163
 msgid "Install/Activation/Update Of Required Plugin(s) Needed"
 msgstr ""
 
 #. translators: %s: version number
-#: includes/class-avada-tgm-plugin-activation.php:2043
+#: includes/class-avada-tgm-plugin-activation.php:2046
 msgid "TGMPA v%s"
 msgstr ""
 
-#: includes/class-avada-tgm-plugin-activation.php:2357
+#: includes/class-avada-tgm-plugin-activation.php:2360
 msgid "WordPress Repository"
 msgstr ""
 
-#: includes/class-avada-tgm-plugin-activation.php:2360
+#: includes/class-avada-tgm-plugin-activation.php:2363
 msgid "External Source"
 msgstr ""
 
-#: includes/class-avada-tgm-plugin-activation.php:2363
+#: includes/class-avada-tgm-plugin-activation.php:2366
 msgid "Pre-Packaged"
 msgstr ""
 
-#: includes/class-avada-tgm-plugin-activation.php:2384
+#: includes/class-avada-tgm-plugin-activation.php:2387
 msgid "Installed But Not Activated"
 msgstr ""
 
-#: includes/class-avada-tgm-plugin-activation.php:2392
+#: includes/class-avada-tgm-plugin-activation.php:2395
 msgid "Required Update not Available"
 msgstr ""
 
-#: includes/class-avada-tgm-plugin-activation.php:2395
+#: includes/class-avada-tgm-plugin-activation.php:2398
 msgid "Requires Update"
 msgstr ""
 
-#: includes/class-avada-tgm-plugin-activation.php:2398
+#: includes/class-avada-tgm-plugin-activation.php:2401
 msgid "Update recommended"
 msgstr ""
 
 #. translators: 1: number of plugins.
-#: includes/class-avada-tgm-plugin-activation.php:2457
+#: includes/class-avada-tgm-plugin-activation.php:2460
 msgid "To Install <span class=\"count\">(%s)</span>"
 msgid_plural "To Install <span class=\"count\">(%s)</span>"
 msgstr[0] ""
 msgstr[1] ""
 
 #. translators: 1: number of plugins.
-#: includes/class-avada-tgm-plugin-activation.php:2461
+#: includes/class-avada-tgm-plugin-activation.php:2464
 msgid "Update Available <span class=\"count\">(%s)</span>"
 msgid_plural "Update Available <span class=\"count\">(%s)</span>"
 msgstr[0] ""
 msgstr[1] ""
 
 #. translators: 1: number of plugins.
-#: includes/class-avada-tgm-plugin-activation.php:2465
+#: includes/class-avada-tgm-plugin-activation.php:2468
 msgid "To Activate <span class=\"count\">(%s)</span>"
 msgid_plural "To Activate <span class=\"count\">(%s)</span>"
 msgstr[0] ""
 msgstr[1] ""
 
-#: includes/class-avada-tgm-plugin-activation.php:2555
+#: includes/class-avada-tgm-plugin-activation.php:2558
 msgid "Installed version:"
 msgstr ""
 
-#: includes/class-avada-tgm-plugin-activation.php:2563
+#: includes/class-avada-tgm-plugin-activation.php:2566
 msgid "Minimum required version:"
 msgstr ""
 
-#: includes/class-avada-tgm-plugin-activation.php:2575
+#: includes/class-avada-tgm-plugin-activation.php:2578
 msgid "Available version:"
 msgstr ""
 
 #. translators: Dashboard URL.
-#: includes/class-avada-tgm-plugin-activation.php:2600
+#: includes/class-avada-tgm-plugin-activation.php:2603
 msgid ""
 "No plugins to install, update or activate. <a href=\"%s\">Return to the "
 "Dashboard</a>"
 msgstr ""
 
-#: includes/class-avada-tgm-plugin-activation.php:2616
+#: includes/class-avada-tgm-plugin-activation.php:2619
 msgid "Plugin"
 msgstr ""
 
-#: includes/class-avada-tgm-plugin-activation.php:2617
+#: includes/class-avada-tgm-plugin-activation.php:2620
 msgid "Source"
 msgstr ""
 
-#: includes/class-avada-tgm-plugin-activation.php:2618
+#: includes/class-avada-tgm-plugin-activation.php:2621
 msgid "Type"
 msgstr ""
 
-#: includes/class-avada-tgm-plugin-activation.php:2622
+#: includes/class-avada-tgm-plugin-activation.php:2625
 #: includes/lib/inc/redux/framework/FusionReduxCore/inc/welcome/views/status_report.php:715
 msgid "Version"
 msgstr ""
 
-#: includes/class-avada-tgm-plugin-activation.php:2623
+#: includes/class-avada-tgm-plugin-activation.php:2626
 #: includes/lib/inc/redux/framework/FusionReduxCore/inc/welcome/welcome.php:323
+#: includes/metaboxes/tabs/tab_form_notifications.php:98
 msgid "Status"
 msgstr ""
 
 #. translators: %2$s: plugin name in screen reader markup
-#: includes/class-avada-tgm-plugin-activation.php:2672
+#: includes/class-avada-tgm-plugin-activation.php:2675
 msgid "Install %2$s"
 msgstr ""
 
 #. translators: %2$s: plugin name in screen reader markup
-#: includes/class-avada-tgm-plugin-activation.php:2677
+#: includes/class-avada-tgm-plugin-activation.php:2680
 msgid "Update %2$s"
 msgstr ""
 
 #. translators: %2$s: plugin name in screen reader markup
-#: includes/class-avada-tgm-plugin-activation.php:2683
+#: includes/class-avada-tgm-plugin-activation.php:2686
 msgid "Activate %2$s"
 msgstr ""
 
-#: includes/class-avada-tgm-plugin-activation.php:2753
+#: includes/class-avada-tgm-plugin-activation.php:2756
 msgid "Upgrade message from the plugin author:"
 msgstr ""
 
-#: includes/class-avada-tgm-plugin-activation.php:2826
+#: includes/class-avada-tgm-plugin-activation.php:2829
 msgid "No plugins were selected to be installed. No action taken."
 msgstr ""
 
-#: includes/class-avada-tgm-plugin-activation.php:2828
+#: includes/class-avada-tgm-plugin-activation.php:2831
 msgid "No plugins were selected to be updated. No action taken."
 msgstr ""
 
-#: includes/class-avada-tgm-plugin-activation.php:2869
+#: includes/class-avada-tgm-plugin-activation.php:2872
 msgid "No plugins are available to be installed at this time."
 msgstr ""
 
-#: includes/class-avada-tgm-plugin-activation.php:2871
+#: includes/class-avada-tgm-plugin-activation.php:2874
 msgid "No plugins are available to be updated at this time."
 msgstr ""
 
-#: includes/class-avada-tgm-plugin-activation.php:2977
+#: includes/class-avada-tgm-plugin-activation.php:2980
 msgid "No plugins were selected to be activated. No action taken."
 msgstr ""
 
-#: includes/class-avada-tgm-plugin-activation.php:3003
+#: includes/class-avada-tgm-plugin-activation.php:3006
 msgid "No plugins are available to be activated at this time."
 msgstr ""
 
-#: includes/class-avada-tgm-plugin-activation.php:3227
+#: includes/class-avada-tgm-plugin-activation.php:3230
 msgid "Plugin activation failed."
 msgstr ""
 
 #. translators: 1: plugin name, 2: action number 3: total number of actions.
-#: includes/class-avada-tgm-plugin-activation.php:3567
+#: includes/class-avada-tgm-plugin-activation.php:3570
 msgid "Updating Plugin %1$s (%2$d/%3$d)"
 msgstr ""
 
 #. translators: 1: plugin name, 2: error message.
-#: includes/class-avada-tgm-plugin-activation.php:3570
+#: includes/class-avada-tgm-plugin-activation.php:3573
 msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
 msgstr ""
 
 #. translators: 1: plugin name.
-#: includes/class-avada-tgm-plugin-activation.php:3572
+#: includes/class-avada-tgm-plugin-activation.php:3575
 msgid "The installation of %1$s failed."
 msgstr ""
 
-#: includes/class-avada-tgm-plugin-activation.php:3576
+#: includes/class-avada-tgm-plugin-activation.php:3579
 msgid ""
 "The installation and activation process is starting. This process may take a "
 "while on some hosts, so please be patient."
 msgstr ""
 
 #. translators: 1: plugin name.
-#: includes/class-avada-tgm-plugin-activation.php:3578
+#: includes/class-avada-tgm-plugin-activation.php:3581
 msgid "%1$s installed and activated successfully."
 msgstr ""
 
-#: includes/class-avada-tgm-plugin-activation.php:3578
-#: includes/class-avada-tgm-plugin-activation.php:3586
+#: includes/class-avada-tgm-plugin-activation.php:3581
+#: includes/class-avada-tgm-plugin-activation.php:3589
 msgid "Show Details"
 msgstr ""
 
-#: includes/class-avada-tgm-plugin-activation.php:3578
-#: includes/class-avada-tgm-plugin-activation.php:3586
+#: includes/class-avada-tgm-plugin-activation.php:3581
+#: includes/class-avada-tgm-plugin-activation.php:3589
 msgid "Hide Details"
 msgstr ""
 
-#: includes/class-avada-tgm-plugin-activation.php:3579
+#: includes/class-avada-tgm-plugin-activation.php:3582
 msgid "All installations and activations have been completed."
 msgstr ""
 
 #. translators: 1: plugin name, 2: action number 3: total number of actions.
-#: includes/class-avada-tgm-plugin-activation.php:3581
+#: includes/class-avada-tgm-plugin-activation.php:3584
 msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
 msgstr ""
 
-#: includes/class-avada-tgm-plugin-activation.php:3584
+#: includes/class-avada-tgm-plugin-activation.php:3587
 msgid ""
 "The installation process is starting. This process may take a while on some "
 "hosts, so please be patient."
 msgstr ""
 
 #. translators: 1: plugin name.
-#: includes/class-avada-tgm-plugin-activation.php:3586
+#: includes/class-avada-tgm-plugin-activation.php:3589
 msgid "%1$s installed successfully."
 msgstr ""
 
-#: includes/class-avada-tgm-plugin-activation.php:3587
+#: includes/class-avada-tgm-plugin-activation.php:3590
 msgid "All installations have been completed."
 msgstr ""
 
 #. translators: 1: plugin name, 2: action number 3: total number of actions.
-#: includes/class-avada-tgm-plugin-activation.php:3589
+#: includes/class-avada-tgm-plugin-activation.php:3592
 msgid "Installing Plugin %1$s (%2$d/%3$d)"
 msgstr ""
 
@@ -5778,7 +5782,7 @@ msgid "Avada Product Attribute Options"
 msgstr ""
 
 #: includes/class-avada-woocommerce-variations.php:392
-#: includes/lib/inc/fusion-app/helpers.php:407
+#: includes/lib/inc/fusion-app/helpers.php:427
 #: includes/metaboxes/options/options_slide.php:25
 msgid "Image"
 msgstr ""
@@ -5825,7 +5829,7 @@ msgstr[1] ""
 
 #: includes/class-avada-woocommerce.php:2086
 #: includes/class-avada-woocommerce.php:2104
-#: includes/lib/inc/fusion-app/helpers.php:653
+#: includes/lib/inc/fusion-app/helpers.php:673
 msgid "Continue"
 msgstr ""
 
@@ -5854,11 +5858,11 @@ msgstr ""
 msgid "Enter the slug of the Avada icon you want to display."
 msgstr ""
 
-#: includes/class-awb-adobe-typography.php:301
+#: includes/class-awb-adobe-typography.php:305
 msgid "No Adobe Fonts detected."
 msgstr ""
 
-#: includes/class-awb-adobe-typography.php:304
+#: includes/class-awb-adobe-typography.php:308
 msgid "Adobe Fonts detected:"
 msgstr ""
 
@@ -6371,7 +6375,7 @@ msgid "Run PageSpeed Insights"
 msgstr ""
 
 #: includes/class-awb-performance-wizard.php:1496
-#: includes/lib/inc/fusion-app/helpers.php:364
+#: includes/lib/inc/fusion-app/helpers.php:379
 #: includes/metaboxes/tabs/tab_off_canvas_general.php:181
 msgid "Start"
 msgstr ""
@@ -6435,7 +6439,7 @@ msgid "Colors"
 msgstr ""
 
 #: includes/class-awb-setup-wizard.php:1434
-#: includes/lib/inc/fusion-app/helpers.php:564
+#: includes/lib/inc/fusion-app/helpers.php:584
 #: includes/options/typography.php:163
 msgid "Typography"
 msgstr ""
@@ -6461,7 +6465,7 @@ msgid "Use Placeholders"
 msgstr ""
 
 #: includes/class-awb-setup-wizard.php:2017
-#: includes/lib/inc/fusion-app/helpers.php:379
+#: includes/lib/inc/fusion-app/helpers.php:394
 msgid "Invert"
 msgstr ""
 
@@ -6524,6 +6528,7 @@ msgstr ""
 #: includes/class-awb-views-count.php:130
 #: includes/lib/inc/fusion-app/templates/options/connected-sortable.php:39
 #: includes/metaboxes/tabs/tab_form_general.php:77
+#: includes/metaboxes/tabs/tab_form_notifications.php:105
 #: includes/metaboxes/tabs/tab_off_canvas_design.php:165
 #: includes/metaboxes/tabs/tab_off_canvas_overlay.php:237
 #: includes/options/blog.php:813 includes/options/events_calendar.php:309
@@ -7062,7 +7067,7 @@ msgstr ""
 #: includes/lib/inc/class-awb-widget-style.php:170
 #: includes/lib/inc/class-fusion-settings.php:515
 #: includes/lib/inc/class-fusion-settings.php:541
-#: includes/lib/inc/fusion-app/helpers.php:400
+#: includes/lib/inc/fusion-app/helpers.php:420
 #: includes/lib/inc/widgets/class-fusion-widget-social-links.php:595
 #: includes/lib/inc/widgets/class-fusion-widget-social-links.php:629
 #: includes/lib/inc/widgets/class-fusion-widget-social-links.php:637
@@ -7085,9 +7090,9 @@ msgstr ""
 #: includes/metaboxes/tabs/tab_form_appearance.php:115
 #: includes/metaboxes/tabs/tab_form_appearance.php:276
 #: includes/metaboxes/tabs/tab_form_general.php:43
-#: includes/metaboxes/tabs/tab_form_notifications.php:126
-#: includes/metaboxes/tabs/tab_form_notifications.php:162
-#: includes/metaboxes/tabs/tab_form_notifications.php:182
+#: includes/metaboxes/tabs/tab_form_notifications.php:155
+#: includes/metaboxes/tabs/tab_form_notifications.php:191
+#: includes/metaboxes/tabs/tab_form_notifications.php:211
 #: includes/metaboxes/tabs/tab_form_privacy.php:31
 #: includes/metaboxes/tabs/tab_form_steps.php:538
 #: includes/metaboxes/tabs/tab_form_steps.php:794
@@ -7135,7 +7140,7 @@ msgstr ""
 #: includes/lib/inc/class-awb-widget-style.php:171
 #: includes/lib/inc/class-fusion-settings.php:515
 #: includes/lib/inc/class-fusion-settings.php:541
-#: includes/lib/inc/fusion-app/helpers.php:401
+#: includes/lib/inc/fusion-app/helpers.php:421
 #: includes/lib/inc/widgets/class-fusion-widget-author.php:330
 #: includes/lib/inc/widgets/class-fusion-widget-author.php:364
 #: includes/lib/inc/widgets/class-fusion-widget-social-links.php:594
@@ -7160,9 +7165,9 @@ msgstr ""
 #: includes/metaboxes/tabs/tab_form_appearance.php:116
 #: includes/metaboxes/tabs/tab_form_appearance.php:277
 #: includes/metaboxes/tabs/tab_form_general.php:44
-#: includes/metaboxes/tabs/tab_form_notifications.php:127
-#: includes/metaboxes/tabs/tab_form_notifications.php:163
-#: includes/metaboxes/tabs/tab_form_notifications.php:183
+#: includes/metaboxes/tabs/tab_form_notifications.php:156
+#: includes/metaboxes/tabs/tab_form_notifications.php:192
+#: includes/metaboxes/tabs/tab_form_notifications.php:212
 #: includes/metaboxes/tabs/tab_form_privacy.php:32
 #: includes/metaboxes/tabs/tab_form_steps.php:539
 #: includes/metaboxes/tabs/tab_form_steps.php:795
@@ -7232,7 +7237,7 @@ msgid ""
 msgstr ""
 
 #: includes/lib/inc/class-awb-widget-style.php:191
-#: includes/lib/inc/fusion-app/helpers.php:472
+#: includes/lib/inc/fusion-app/helpers.php:492
 #: includes/metaboxes/tabs/tab_header.php:96
 #: includes/metaboxes/tabs/tab_off_canvas_design.php:26
 #: includes/metaboxes/tabs/tab_off_canvas_overlay.php:64
@@ -7252,7 +7257,7 @@ msgid "Controls the background border radius for this widget container."
 msgstr ""
 
 #: includes/lib/inc/class-awb-widget-style.php:205
-#: includes/lib/inc/fusion-app/helpers.php:495
+#: includes/lib/inc/fusion-app/helpers.php:515
 msgid "Border Size"
 msgstr ""
 
@@ -7287,7 +7292,7 @@ msgid "Dashed"
 msgstr ""
 
 #: includes/lib/inc/class-awb-widget-style.php:236
-#: includes/lib/inc/fusion-app/helpers.php:473
+#: includes/lib/inc/fusion-app/helpers.php:493
 #: includes/metaboxes/tabs/tab_off_canvas_design.php:276
 msgid "Border Color"
 msgstr ""
@@ -7325,7 +7330,7 @@ msgstr ""
 #: includes/lib/inc/class-awb-widget-style.php:263
 #: includes/lib/inc/class-awb-widget-style.php:276
 #: includes/lib/inc/fusion-app/class-fusion-preferences.php:167
-#: includes/lib/inc/fusion-app/helpers.php:529
+#: includes/lib/inc/fusion-app/helpers.php:549
 #: includes/lib/inc/redux/custom-fields/spacing/field_spacing.php:129
 #: includes/lib/inc/redux/framework/FusionReduxCore/inc/fields/border/field_border.php:162
 #: includes/lib/inc/widgets/class-fusion-widget-menu.php:188
@@ -7359,7 +7364,7 @@ msgstr ""
 #: includes/lib/inc/class-awb-widget-style.php:264
 #: includes/lib/inc/class-awb-widget-style.php:277
 #: includes/lib/inc/fusion-app/class-fusion-preferences.php:168
-#: includes/lib/inc/fusion-app/helpers.php:530
+#: includes/lib/inc/fusion-app/helpers.php:550
 #: includes/lib/inc/redux/custom-fields/spacing/field_spacing.php:115
 #: includes/lib/inc/redux/framework/FusionReduxCore/inc/fields/border/field_border.php:148
 #: includes/lib/inc/widgets/class-fusion-widget-menu.php:190
@@ -8040,11 +8045,11 @@ msgstr ""
 msgid "Slideshow"
 msgstr ""
 
-#: includes/lib/inc/class-fusion-scripts.php:643
+#: includes/lib/inc/class-fusion-scripts.php:642
 msgid "Loading the next set of posts..."
 msgstr ""
 
-#: includes/lib/inc/class-fusion-scripts.php:644
+#: includes/lib/inc/class-fusion-scripts.php:643
 msgid "All items displayed."
 msgstr ""
 
@@ -8066,7 +8071,7 @@ msgstr ""
 #: includes/lib/inc/class-fusion-settings.php:428
 #: includes/metaboxes/tabs/tab_off_canvas_animation.php:28
 #: includes/metaboxes/tabs/tab_off_canvas_animation.php:40
-#: includes/metaboxes/tabs/tab_page.php:143
+#: includes/metaboxes/tabs/tab_page.php:153
 #: includes/metaboxes/tabs/tab_portfolio_post.php:186
 #: includes/metaboxes/tabs/tab_post.php:111 includes/options/extra.php:568
 msgid "Zoom"
@@ -8238,7 +8243,7 @@ msgstr ""
 #. translators: The tags list.
 #. Translators: List of tags.
 #: includes/lib/inc/functions.php:419
-#: includes/lib/inc/fusion-app/helpers.php:610
+#: includes/lib/inc/fusion-app/helpers.php:630
 msgid "Tags: %s"
 msgstr ""
 
@@ -8258,168 +8263,180 @@ msgstr ""
 msgid "Pages:"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:674
+#: includes/lib/inc/fusion-app/class-fusion-app.php:677
 msgid "Page"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:842
+#: includes/lib/inc/fusion-app/class-fusion-app.php:845
 msgid "Edit Live"
 msgstr ""
 
 #. translators: Name of post type.
-#: includes/lib/inc/fusion-app/class-fusion-app.php:903
+#: includes/lib/inc/fusion-app/class-fusion-app.php:906
 msgid "Edit %s"
 msgstr ""
 
 #. translators: Number of layout.
-#: includes/lib/inc/fusion-app/class-fusion-app.php:942
+#: includes/lib/inc/fusion-app/class-fusion-app.php:945
 msgid "Edit Layout: %s"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:965
+#: includes/lib/inc/fusion-app/class-fusion-app.php:968
 msgid "Use Layouts"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:965
+#: includes/lib/inc/fusion-app/class-fusion-app.php:968
 msgid "Manage"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:1004
+#: includes/lib/inc/fusion-app/class-fusion-app.php:1007
 msgid "Form"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:1047
+#: includes/lib/inc/fusion-app/class-fusion-app.php:1050
 msgid "Post Card"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:1904
+#: includes/lib/inc/fusion-app/class-fusion-app.php:1789
+msgid "Hours"
+msgstr ""
+
+#: includes/lib/inc/fusion-app/class-fusion-app.php:1790
+msgid "Minutes"
+msgstr ""
+
+#: includes/lib/inc/fusion-app/class-fusion-app.php:1791
+msgid "Seconds"
+msgstr ""
+
+#: includes/lib/inc/fusion-app/class-fusion-app.php:1961
 msgid "You do not have permission to edit this post."
 msgstr ""
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:1984
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2041
 msgid "The page contents updated."
 msgstr ""
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:1991
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2048
 msgid "You do not have permission to edit this archive."
 msgstr ""
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2026
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2083
 msgid "The archive details updated."
 msgstr ""
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2279
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2280
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2336
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2337
 #: includes/options/performance.php:119 includes/options/typography.php:1225
 msgid "Ultra-Light 100"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2281
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2338
 #: includes/options/performance.php:120
 msgid "Ultra-Light 100 Italic"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2282
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2339
 #: includes/options/performance.php:121 includes/options/typography.php:1226
 msgid "Light 200"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2283
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2340
 #: includes/options/performance.php:122
 msgid "Light 200 Italic"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2284
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2341
 #: includes/options/performance.php:123 includes/options/typography.php:1227
 msgid "Book 300"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2285
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2342
 #: includes/options/performance.php:124
 msgid "Book 300 Italic"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2286
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2287
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2343
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2344
 #: includes/options/performance.php:125 includes/options/typography.php:1228
 msgid "Normal 400"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2288
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2345
 #: includes/options/performance.php:126
 msgid "Normal 400 Italic"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2289
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2346
 #: includes/options/performance.php:127 includes/options/typography.php:1229
 msgid "Medium 500"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2290
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2347
 #: includes/options/performance.php:128
 msgid "Medium 500 Italic"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2291
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2292
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2348
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2349
 #: includes/options/performance.php:129 includes/options/typography.php:1230
 msgid "Semi-Bold 600"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2293
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2350
 #: includes/options/performance.php:130
 msgid "Semi-Bold 600 Italic"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2294
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2351
 #: includes/options/performance.php:131 includes/options/typography.php:1231
 msgid "Bold 700"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2295
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2352
 #: includes/options/performance.php:132
 msgid "Bold 700 Italic"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2296
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2297
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2353
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2354
 #: includes/options/performance.php:133 includes/options/typography.php:1232
 msgid "Extra-Bold 800"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2298
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2355
 #: includes/options/performance.php:134
 msgid "Extra-Bold 800 Italic"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2299
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2300
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2356
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2357
 #: includes/options/performance.php:135 includes/options/typography.php:1233
 msgid "Ultra-Bold 900"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2301
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2358
 #: includes/options/performance.php:136
 msgid "Ultra-Bold 900 Italic"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2556
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2613
 msgid "Go back"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2564
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2621
 msgid "Back to"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2571
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2628
 msgid "Take Over"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2580
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2637
 msgid "is currently editing this post. Do you want to take over?"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2586
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2643
 msgid "has taken over and is currently editing."
 msgstr ""
 
@@ -8734,339 +8751,396 @@ msgstr ""
 msgid "Clear Layout"
 msgstr ""
 
+#: includes/lib/inc/fusion-app/helpers.php:242
+msgid "Copy Page Content"
+msgstr ""
+
+#: includes/lib/inc/fusion-app/helpers.php:243
+msgid "Page content copied."
+msgstr ""
+
 #: includes/lib/inc/fusion-app/helpers.php:244
+msgid "Nothing to copy, the page is empty."
+msgstr ""
+
+#: includes/lib/inc/fusion-app/helpers.php:245
+msgid "Paste Page Content"
+msgstr ""
+
+#: includes/lib/inc/fusion-app/helpers.php:246
+msgid "Page content pasted."
+msgstr ""
+
+#: includes/lib/inc/fusion-app/helpers.php:247
+msgid "No copied page content found."
+msgstr ""
+
+#: includes/lib/inc/fusion-app/helpers.php:248
+msgid "Pasted Page Content"
+msgstr ""
+
+#: includes/lib/inc/fusion-app/helpers.php:249
+msgid "Find & Replace"
+msgstr ""
+
+#: includes/lib/inc/fusion-app/helpers.php:250
+msgid "Find"
+msgstr ""
+
+#: includes/lib/inc/fusion-app/helpers.php:251
+msgid "Replace with"
+msgstr ""
+
+#: includes/lib/inc/fusion-app/helpers.php:252
+msgid "Replace All"
+msgstr ""
+
+#: includes/lib/inc/fusion-app/helpers.php:253
+msgid "No matches found."
+msgstr ""
+
+#. translators: The number of replacements.
+#: includes/lib/inc/fusion-app/helpers.php:255
+msgid "%s replacements made."
+msgstr ""
+
+#: includes/lib/inc/fusion-app/helpers.php:256
+msgid "Replacing…"
+msgstr ""
+
+#: includes/lib/inc/fusion-app/helpers.php:259
 #: includes/metaboxes/metaboxes.php:696
 #: includes/metaboxes/tabs/tab_code_fields.php:22
 msgid "Code Fields"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:245
+#: includes/lib/inc/fusion-app/helpers.php:260
 #: includes/metaboxes/tabs/tab_code_fields.php:78
 msgid "Custom Code"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:246
+#: includes/lib/inc/fusion-app/helpers.php:261
 #: includes/lib/inc/redux/framework/class.fusionredux-plugin.php:415
 msgid "Builder"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:248
+#: includes/lib/inc/fusion-app/helpers.php:263
 msgid "Add your CSS code here..."
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:249
+#: includes/lib/inc/fusion-app/helpers.php:264
 msgid "Delete page layout"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:250
+#: includes/lib/inc/fusion-app/helpers.php:265
 msgid "Undo"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:251
+#: includes/lib/inc/fusion-app/helpers.php:266
 msgid "Redo"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:253
+#: includes/lib/inc/fusion-app/helpers.php:268
 msgid "Don't Save"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:254
+#: includes/lib/inc/fusion-app/helpers.php:269
 msgid "Save & Leave"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:255
+#: includes/lib/inc/fusion-app/helpers.php:270
 msgid "Just Leave"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:256
+#: includes/lib/inc/fusion-app/helpers.php:271
 msgid "Delete item"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:257
+#: includes/lib/inc/fusion-app/helpers.php:272
 msgid "Clone item"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:258
+#: includes/lib/inc/fusion-app/helpers.php:273
 msgid "Edit item"
 msgstr ""
 
 #. translators: Element settings.
-#: includes/lib/inc/fusion-app/helpers.php:260
+#: includes/lib/inc/fusion-app/helpers.php:275
 msgid "%s Options"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:261
+#: includes/lib/inc/fusion-app/helpers.php:276
 msgid "Container"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:262
+#: includes/lib/inc/fusion-app/helpers.php:277
 msgid "Container Options"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:263
+#: includes/lib/inc/fusion-app/helpers.php:278
 msgid "Insert Container"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:264
+#: includes/lib/inc/fusion-app/helpers.php:279
 msgid "Clone Container"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:265
+#: includes/lib/inc/fusion-app/helpers.php:280
 msgid "Save Container"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:266
+#: includes/lib/inc/fusion-app/helpers.php:281
 msgid "Delete Container"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:267
+#: includes/lib/inc/fusion-app/helpers.php:282
 msgid "Builder Containers"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:268
+#: includes/lib/inc/fusion-app/helpers.php:283
 msgid "Click to toggle"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:269
+#: includes/lib/inc/fusion-app/helpers.php:284
 msgid "Save Custom Container"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:270
+#: includes/lib/inc/fusion-app/helpers.php:285
 msgid "Save Custom Template"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:271
+#: includes/lib/inc/fusion-app/helpers.php:286
 msgid "Custom containers will be stored and managed on the Library tab"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:272
+#: includes/lib/inc/fusion-app/helpers.php:287
 msgid "Enter Name..."
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:273
-#: includes/lib/inc/fusion-app/helpers.php:397
-#: includes/lib/inc/fusion-app/helpers.php:540
+#: includes/lib/inc/fusion-app/helpers.php:288
+#: includes/lib/inc/fusion-app/helpers.php:417
+#: includes/lib/inc/fusion-app/helpers.php:560
 #: includes/metaboxes/tabs/tab_off_canvas_general.php:268
 msgid "Column"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:274
+#: includes/lib/inc/fusion-app/helpers.php:289
 #: includes/options/privacy.php:1055
 msgid "Columns"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:275
+#: includes/lib/inc/fusion-app/helpers.php:290
 msgid "Resize column"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:276
+#: includes/lib/inc/fusion-app/helpers.php:291
 msgid "Resized Column to"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:277
+#: includes/lib/inc/fusion-app/helpers.php:292
 msgid "Column Options"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:278
+#: includes/lib/inc/fusion-app/helpers.php:293
 msgid "Save column"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:279
+#: includes/lib/inc/fusion-app/helpers.php:294
 msgid "Delete column"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:280
+#: includes/lib/inc/fusion-app/helpers.php:295
 msgid "Delete row"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:281
+#: includes/lib/inc/fusion-app/helpers.php:296
 msgid "Clone column"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:282
+#: includes/lib/inc/fusion-app/helpers.php:297
 msgid "Save Custom Column"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:283
-#: includes/lib/inc/fusion-app/helpers.php:312
+#: includes/lib/inc/fusion-app/helpers.php:298
+#: includes/lib/inc/fusion-app/helpers.php:327
 msgid "Custom elements will be stored and managed on the Library tab"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:284
+#: includes/lib/inc/fusion-app/helpers.php:299
 msgid "Add element"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:285
+#: includes/lib/inc/fusion-app/helpers.php:300
 #: includes/metaboxes/tabs/tab_off_canvas_triggers.php:108
 msgid "Element"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:286
+#: includes/lib/inc/fusion-app/helpers.php:301
 msgid "Insert Columns"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:288
+#: includes/lib/inc/fusion-app/helpers.php:303
 msgid "Search Elements"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:289
+#: includes/lib/inc/fusion-app/helpers.php:304
 msgid "Search Containers"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:290
+#: includes/lib/inc/fusion-app/helpers.php:305
 msgid "Search Columns"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:291
+#: includes/lib/inc/fusion-app/helpers.php:306
 msgid "Builder Columns"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:292
+#: includes/lib/inc/fusion-app/helpers.php:307
 msgid "Library Columns"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:293
+#: includes/lib/inc/fusion-app/helpers.php:308
 msgid "Library Containers"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:295
+#: includes/lib/inc/fusion-app/helpers.php:310
 msgid "Select Element"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:299
+#: includes/lib/inc/fusion-app/helpers.php:314
 msgid "Library Elements"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:300
+#: includes/lib/inc/fusion-app/helpers.php:315
 msgid "Inline element for usage inside of other elements."
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:301
+#: includes/lib/inc/fusion-app/helpers.php:316
 msgid "This element can be added only"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:302
+#: includes/lib/inc/fusion-app/helpers.php:317
 msgid "time."
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:303
+#: includes/lib/inc/fusion-app/helpers.php:318
 msgid "times."
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:304
+#: includes/lib/inc/fusion-app/helpers.php:319
 msgid "Nested Columns"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:305
+#: includes/lib/inc/fusion-app/helpers.php:320
 msgid "Nested Columns Options"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:307
+#: includes/lib/inc/fusion-app/helpers.php:322
 msgid "Clone Element"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:308
+#: includes/lib/inc/fusion-app/helpers.php:323
 msgid "Save Element"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:309
+#: includes/lib/inc/fusion-app/helpers.php:324
 msgid "Save As Global"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:310
+#: includes/lib/inc/fusion-app/helpers.php:325
 msgid "Delete Element"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:311
+#: includes/lib/inc/fusion-app/helpers.php:326
 msgid "Save Custom Element"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:313
+#: includes/lib/inc/fusion-app/helpers.php:328
 msgid "Add / Edit Items"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:314
+#: includes/lib/inc/fusion-app/helpers.php:329
 msgid ""
 "Add or edit new items for this element. Drag and drop them into the desired "
 "order."
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:315
+#: includes/lib/inc/fusion-app/helpers.php:330
 msgid "Clone inner columns"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:316
+#: includes/lib/inc/fusion-app/helpers.php:331
 msgid "Save inner columns"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:317
+#: includes/lib/inc/fusion-app/helpers.php:332
 msgid "Delete inner columns"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:318
+#: includes/lib/inc/fusion-app/helpers.php:333
 msgid "Save Nested Columns"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:319
-#: includes/lib/inc/fusion-app/helpers.php:321
+#: includes/lib/inc/fusion-app/helpers.php:334
+#: includes/lib/inc/fusion-app/helpers.php:336
 msgid "Select or Leave Blank for All"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:320
+#: includes/lib/inc/fusion-app/helpers.php:335
 msgid "Select or Leave Blank for Global"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:322
+#: includes/lib/inc/fusion-app/helpers.php:337
 msgid "Select or Leave Blank for None"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:323
+#: includes/lib/inc/fusion-app/helpers.php:338
 msgid "Select or Leave Blank for Published"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:324
+#: includes/lib/inc/fusion-app/helpers.php:339
 msgid "Please enter element name"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:325
+#: includes/lib/inc/fusion-app/helpers.php:340
 msgid "You are about to remove all page layout. Do you still want to proceed?"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:326
+#: includes/lib/inc/fusion-app/helpers.php:341
 msgid "Are you sure you want to delete this ?"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:327
+#: includes/lib/inc/fusion-app/helpers.php:342
 msgid ""
 "This is a global item. Deleting this element will remove it from every page "
 "you have it on. Are you sure you want to remove it?"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:328
+#: includes/lib/inc/fusion-app/helpers.php:343
 msgid "Global element<br>Click to disable global status"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:329
+#: includes/lib/inc/fusion-app/helpers.php:344
 msgid "Global column<br>Click to disable global status"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:330
+#: includes/lib/inc/fusion-app/helpers.php:345
 msgid "Global container<br>Click to disable global status"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:331
+#: includes/lib/inc/fusion-app/helpers.php:346
 msgid "An element with this name already exists. Please enter different name."
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:332
+#: includes/lib/inc/fusion-app/helpers.php:347
 msgid "Please enter template name"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:333
+#: includes/lib/inc/fusion-app/helpers.php:348
 msgid "Save page layout"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:334
+#: includes/lib/inc/fusion-app/helpers.php:349
 #: includes/lib/inc/redux/framework/FusionReduxCore/inc/fields/background/field_background.php:318
 #: includes/lib/inc/redux/framework/FusionReduxCore/inc/fields/media/field_media.php:202
 #: includes/lib/inc/redux/framework/FusionReduxCore/inc/fields/slides/field_slides.php:147
@@ -9074,398 +9148,414 @@ msgstr ""
 msgid "Upload"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:336
+#: includes/lib/inc/fusion-app/helpers.php:351
 msgid "Upload Audio"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:338
+#: includes/lib/inc/fusion-app/helpers.php:353
 msgid "Attach Images to Gallery"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:339
+#: includes/lib/inc/fusion-app/helpers.php:354
 msgid "Insert"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:341
+#: includes/lib/inc/fusion-app/helpers.php:356
 msgid "To get started, add a Container, or add a prebuilt page."
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:342
+#: includes/lib/inc/fusion-app/helpers.php:357
 msgid "To get started, add a Container, or add a prebuilt header."
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:343
+#: includes/lib/inc/fusion-app/helpers.php:358
 msgid "To get started, add a Container, or add prebuilt content."
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:344
+#: includes/lib/inc/fusion-app/helpers.php:359
 msgid "To get started building your Page Title Bar, add a container."
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:345
+#: includes/lib/inc/fusion-app/helpers.php:360
 msgid "To get started building your Footer, add a container."
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:346
+#: includes/lib/inc/fusion-app/helpers.php:361
 msgid "To get started building your Form, add a container."
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:347
+#: includes/lib/inc/fusion-app/helpers.php:362
 msgid "To get started building your Off Canvas, add a container."
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:348
+#: includes/lib/inc/fusion-app/helpers.php:363
 msgid "To get started, add a Container, or add a prebuilt mega menu."
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:349
+#: includes/lib/inc/fusion-app/helpers.php:364
 msgid ""
 "The building process always starts with a container, then columns, then "
 "elements."
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:350
+#: includes/lib/inc/fusion-app/helpers.php:365
 msgid "Watch The Video!"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:351
+#: includes/lib/inc/fusion-app/helpers.php:366
 msgid "Edit Settings"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:352
+#: includes/lib/inc/fusion-app/helpers.php:367
 msgid "Backward History"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:353
+#: includes/lib/inc/fusion-app/helpers.php:368
 msgid "Duplicate Content"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:354
+#: includes/lib/inc/fusion-app/helpers.php:369
 msgid "Forward History"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:355
+#: includes/lib/inc/fusion-app/helpers.php:370
 msgid "Save Custom Content"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:356
+#: includes/lib/inc/fusion-app/helpers.php:371
 msgid "Delete Content"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:357
+#: includes/lib/inc/fusion-app/helpers.php:372
 msgid "Add Content"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:358
+#: includes/lib/inc/fusion-app/helpers.php:373
 msgid "Click the ? icon to access Avada documentation"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:359
+#: includes/lib/inc/fusion-app/helpers.php:374
 msgid "Getting Started Video"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:360
+#: includes/lib/inc/fusion-app/helpers.php:375
 msgid "Icon Control Descriptions:"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:361
+#: includes/lib/inc/fusion-app/helpers.php:376
 msgid "History"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:362
+#: includes/lib/inc/fusion-app/helpers.php:377
 msgid "Collapse Sections"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:363
+#: includes/lib/inc/fusion-app/helpers.php:378
 msgid "History States"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:365
+#: includes/lib/inc/fusion-app/helpers.php:380
 msgid "Moved Column"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:366
+#: includes/lib/inc/fusion-app/helpers.php:381
 msgid "Added Custom Element: "
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:367
+#: includes/lib/inc/fusion-app/helpers.php:382
 msgid "Added Custom Column: "
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:368
+#: includes/lib/inc/fusion-app/helpers.php:383
 msgid "Added Columns"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:369
+#: includes/lib/inc/fusion-app/helpers.php:384
 msgid "Added Custom Container: "
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:370
+#: includes/lib/inc/fusion-app/helpers.php:385
 msgid "Added Studio Element: "
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:371
+#: includes/lib/inc/fusion-app/helpers.php:386
 msgid "Added Studio Column: "
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:372
+#: includes/lib/inc/fusion-app/helpers.php:387
 msgid "Added Studio Container: "
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:373
+#: includes/lib/inc/fusion-app/helpers.php:388
 msgid "Added Special Item: "
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:374
+#: includes/lib/inc/fusion-app/helpers.php:389
 msgid "Deleted"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:375
+#: includes/lib/inc/fusion-app/helpers.php:390
 msgid "Cloned"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:376
+#: includes/lib/inc/fusion-app/helpers.php:391
 msgid "Pasted"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:377
+#: includes/lib/inc/fusion-app/helpers.php:392
 msgid "Moved"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:378
+#: includes/lib/inc/fusion-app/helpers.php:393
 msgid "Edited"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:380
+#: includes/lib/inc/fusion-app/helpers.php:395
 #: includes/lib/inc/fusion-app/templates/modal-dialog-more.php:37
 msgid "Reset to Default"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:381
+#: includes/lib/inc/fusion-app/helpers.php:396
 msgid "Added Nested Columns"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:382
+#: includes/lib/inc/fusion-app/helpers.php:397
 msgid "Edited Nested Columns"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:383
+#: includes/lib/inc/fusion-app/helpers.php:398
 msgid "Deleted Nested Columns"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:384
+#: includes/lib/inc/fusion-app/helpers.php:399
 msgid "Moved Nested Column"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:385
+#: includes/lib/inc/fusion-app/helpers.php:400
 msgid "Head Title"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:386
+#: includes/lib/inc/fusion-app/helpers.php:401
+msgid "Sub-Heading"
+msgstr ""
+
+#: includes/lib/inc/fusion-app/helpers.php:403
+msgid "Badge Text"
+msgstr ""
+
+#: includes/lib/inc/fusion-app/helpers.php:404
+msgid "Text Above Price"
+msgstr ""
+
+#: includes/lib/inc/fusion-app/helpers.php:405
+msgid "Text Below Price"
+msgstr ""
+
+#: includes/lib/inc/fusion-app/helpers.php:406
 msgid "Currency"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:387
+#: includes/lib/inc/fusion-app/helpers.php:407
 #: templates/wc-catalog-ordering.php:52 templates/wc-catalog-ordering.php:101
 #: woocommerce/cart/cart.php:32 woocommerce/cart/cart.php:128
 msgid "Price"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:388
+#: includes/lib/inc/fusion-app/helpers.php:408
 msgid "Period"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:389
+#: includes/lib/inc/fusion-app/helpers.php:409
 msgid "Enter Text"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:390
+#: includes/lib/inc/fusion-app/helpers.php:410
 msgid "Added"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:391
+#: includes/lib/inc/fusion-app/helpers.php:411
 msgid "Added Container"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:392
+#: includes/lib/inc/fusion-app/helpers.php:412
 msgid "Cloned Nested Columns"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:393
+#: includes/lib/inc/fusion-app/helpers.php:413
 msgid "Content Imported"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:394
+#: includes/lib/inc/fusion-app/helpers.php:414
 msgid "Visually create your table below, add or remove rows and columns"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:395
+#: includes/lib/inc/fusion-app/helpers.php:415
 msgid "Add Column"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:396
+#: includes/lib/inc/fusion-app/helpers.php:416
 msgid "Add Row"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:398
+#: includes/lib/inc/fusion-app/helpers.php:418
 msgid "Standout"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:399
+#: includes/lib/inc/fusion-app/helpers.php:419
 msgid "Add Button"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:402
+#: includes/lib/inc/fusion-app/helpers.php:422
 msgid "Table Options"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:403
+#: includes/lib/inc/fusion-app/helpers.php:423
 msgid "Table"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:404
+#: includes/lib/inc/fusion-app/helpers.php:424
 msgid "Toggle All Containers"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:405
+#: includes/lib/inc/fusion-app/helpers.php:425
 msgid "Cloned Container"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:406
+#: includes/lib/inc/fusion-app/helpers.php:426
 msgid "Deleted Container"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:408
+#: includes/lib/inc/fusion-app/helpers.php:428
 msgid "Audio"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:409
+#: includes/lib/inc/fusion-app/helpers.php:429
 msgid "Select Image"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:410
+#: includes/lib/inc/fusion-app/helpers.php:430
 msgid "Select Images"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:411
+#: includes/lib/inc/fusion-app/helpers.php:431
 msgid "Select Video"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:412
+#: includes/lib/inc/fusion-app/helpers.php:432
 msgid "Select Audio"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:413
+#: includes/lib/inc/fusion-app/helpers.php:433
 msgid "Select Icon"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:415
+#: includes/lib/inc/fusion-app/helpers.php:435
 msgid "To Add Elements, You Must First Add a Column"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:416
+#: includes/lib/inc/fusion-app/helpers.php:436
 msgid ""
 "This is an empty container with a background image. To add elements, you "
 "must first add a column"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:418
+#: includes/lib/inc/fusion-app/helpers.php:438
 msgid "Add New Option"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:419
+#: includes/lib/inc/fusion-app/helpers.php:439
 msgid "Add New Logic"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:420
+#: includes/lib/inc/fusion-app/helpers.php:440
 msgid "There are no fields available for conditional logic."
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:421
+#: includes/lib/inc/fusion-app/helpers.php:441
 msgid "Condition Value"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:422
-#: includes/lib/inc/fusion-app/templates/options/fusion-logics.php:237
-#: includes/lib/inc/fusion-app/templates/options/fusion-logics.php:340
+#: includes/lib/inc/fusion-app/helpers.php:442
+#: includes/lib/inc/fusion-app/templates/options/fusion-logics.php:250
+#: includes/lib/inc/fusion-app/templates/options/fusion-logics.php:361
 #: includes/metaboxes/metaboxes.php:2157 includes/metaboxes/metaboxes.php:2160
 #: includes/options/extra.php:267
 msgid "OR"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:423
-#: includes/metaboxes/tabs/tab_form_notifications.php:81
+#: includes/lib/inc/fusion-app/helpers.php:443
+#: includes/metaboxes/tabs/tab_form_notifications.php:110
 #: includes/options/advanced.php:530
 msgid "Label"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:424
+#: includes/lib/inc/fusion-app/helpers.php:444
 msgid "Field"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:425
+#: includes/lib/inc/fusion-app/helpers.php:445
 msgid "Select Field"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:426
+#: includes/lib/inc/fusion-app/helpers.php:446
 #: includes/metaboxes/metaboxes.php:2155
 msgid "Value"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:427
+#: includes/lib/inc/fusion-app/helpers.php:447
 msgid "Bulk / Predefined"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:428
+#: includes/lib/inc/fusion-app/helpers.php:448
 msgid "Show values"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:429
+#: includes/lib/inc/fusion-app/helpers.php:449
 msgid "Select a predefined list or paste your own list bulk add choices."
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:430
+#: includes/lib/inc/fusion-app/helpers.php:450
 msgid "Bulk Add"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:431
+#: includes/lib/inc/fusion-app/helpers.php:451
 msgid "Predefined Choices"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:432
+#: includes/lib/inc/fusion-app/helpers.php:452
 msgid "Insert Choices"
 msgstr ""
 
 #. translators: Child element name.
-#: includes/lib/inc/fusion-app/helpers.php:434
+#: includes/lib/inc/fusion-app/helpers.php:454
 msgid "Empty %s element, please add child elements here."
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:435
+#: includes/lib/inc/fusion-app/helpers.php:455
 msgid ""
 "The views counter option is disabled. Enable it in the global options to use "
 "this element."
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:436
+#: includes/lib/inc/fusion-app/helpers.php:456
 msgid ""
 "To add images to this post or page for attachments layout, navigate to "
 "\"Upload Files\" tab in media manager and upload new images."
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:437
+#: includes/lib/inc/fusion-app/helpers.php:457
 msgid ""
 "WARNING: Importing a single prebuilt page will remove all other page "
 "content, Avada Page Options and page template. Avada Global Options and "
 "images are not imported. Click OK to continue or cancel to stop."
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:438
+#: includes/lib/inc/fusion-app/helpers.php:458
 msgid "Content Error"
 msgstr ""
 
 #. translators: Link URL.
-#: includes/lib/inc/fusion-app/helpers.php:440
+#: includes/lib/inc/fusion-app/helpers.php:460
 msgid ""
 "Your page content could not be displayed as an Avada Builder layout. Most "
 "likely that means, there is some invalid markup or shortcode in it. Please "
@@ -9473,201 +9563,201 @@ msgid ""
 "here for more information</a>."
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:441
+#: includes/lib/inc/fusion-app/helpers.php:461
 msgid "Unknown Error Occurred"
 msgstr ""
 
 #. translators: Link URL.
-#: includes/lib/inc/fusion-app/helpers.php:443
+#: includes/lib/inc/fusion-app/helpers.php:463
 msgid "<a href=\"%s\" target=\"_blank\">Click here to learn more.</a>"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:444
+#: includes/lib/inc/fusion-app/helpers.php:464
 msgid "Click here to copy the full error message."
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:445
+#: includes/lib/inc/fusion-app/helpers.php:465
 msgid "Full error message copied."
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:446
+#: includes/lib/inc/fusion-app/helpers.php:466
 msgid "Moved Container"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:449
+#: includes/lib/inc/fusion-app/helpers.php:469
 msgid "Delete Next Page Divider"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:450
+#: includes/lib/inc/fusion-app/helpers.php:470
 msgid "Toggle Element"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:451
+#: includes/lib/inc/fusion-app/helpers.php:471
 msgid "Drag Element"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:452
+#: includes/lib/inc/fusion-app/helpers.php:472
 msgid "Deleted Next Page Divider"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:453
+#: includes/lib/inc/fusion-app/helpers.php:473
 msgid "Deleted Checkout Form Divider"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:454
+#: includes/lib/inc/fusion-app/helpers.php:474
 msgid "Added Next Page Divider"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:455
+#: includes/lib/inc/fusion-app/helpers.php:475
 msgid "Next Page"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:456
+#: includes/lib/inc/fusion-app/helpers.php:476
 msgid "Checkout Form"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:457
+#: includes/lib/inc/fusion-app/helpers.php:477
 msgid "Form Step"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:458
+#: includes/lib/inc/fusion-app/helpers.php:478
 msgid "Deleted Form Step"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:459
+#: includes/lib/inc/fusion-app/helpers.php:479
 msgid "Delete Form Step"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:460
+#: includes/lib/inc/fusion-app/helpers.php:480
 msgid "Added Form Step"
 msgstr ""
 
 #. translators: %s - The number of the step.
-#: includes/lib/inc/fusion-app/helpers.php:462
-#: includes/lib/inc/fusion-app/helpers.php:464
+#: includes/lib/inc/fusion-app/helpers.php:482
+#: includes/lib/inc/fusion-app/helpers.php:484
 msgid "Step %s"
 msgid_plural "Step %s"
 msgstr[0] ""
 msgstr[1] ""
 
-#: includes/lib/inc/fusion-app/helpers.php:465
+#: includes/lib/inc/fusion-app/helpers.php:485
 msgid "Special"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:466
+#: includes/lib/inc/fusion-app/helpers.php:486
 msgid "Special Items"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:467
+#: includes/lib/inc/fusion-app/helpers.php:487
 msgid ""
 "The form step item allows you to break your form into several steps. Simply "
 "insert it onto the form, and form steps will show on the frontend."
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:468
+#: includes/lib/inc/fusion-app/helpers.php:488
 msgid ""
 "The next page item allows you to break your page into several pages. Simply "
 "insert it onto the page, and automatic pagination will show on the frontend."
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:469
+#: includes/lib/inc/fusion-app/helpers.php:489
 msgid ""
 "The checkout form items allows you to add opening and closing WooCommerce "
 "checkout form tags."
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:470
+#: includes/lib/inc/fusion-app/helpers.php:490
 msgid "Select Link"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:471
+#: includes/lib/inc/fusion-app/helpers.php:491
 msgid "Color palette options"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:474
+#: includes/lib/inc/fusion-app/helpers.php:494
 msgid "Legend Value Text Color"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:475
+#: includes/lib/inc/fusion-app/helpers.php:495
 msgid "Legend Label"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:476
+#: includes/lib/inc/fusion-app/helpers.php:496
 msgid "X Axis Label"
 msgstr ""
 
 #. translators: Toggle column width option.
-#: includes/lib/inc/fusion-app/helpers.php:478
+#: includes/lib/inc/fusion-app/helpers.php:498
 msgid "Use Custom Width"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:479
+#: includes/lib/inc/fusion-app/helpers.php:499
 msgid "Use Preset Sizes"
 msgstr ""
 
 #. translators: Search type.
-#: includes/lib/inc/fusion-app/helpers.php:481
+#: includes/lib/inc/fusion-app/helpers.php:501
 msgid "Search %s"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:482
+#: includes/lib/inc/fusion-app/helpers.php:502
 msgid "Chart Background Color"
 msgstr ""
 
 #. translators: Default value description & value.
-#: includes/lib/inc/fusion-app/helpers.php:484
+#: includes/lib/inc/fusion-app/helpers.php:504
 msgid "Controls the background of the chart. %s"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:485
+#: includes/lib/inc/fusion-app/helpers.php:505
 msgid "Chart Axis Text Color"
 msgstr ""
 
 #. translators: Default value description & value.
-#: includes/lib/inc/fusion-app/helpers.php:487
+#: includes/lib/inc/fusion-app/helpers.php:507
 msgid "Controls the text color of the x-axis and y-axis. %s"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:488
+#: includes/lib/inc/fusion-app/helpers.php:508
 msgid "Chart Gridline Color"
 msgstr ""
 
 #. translators: Default value description & value.
-#: includes/lib/inc/fusion-app/helpers.php:490
+#: includes/lib/inc/fusion-app/helpers.php:510
 msgid "Controls the color of the chart background grid lines and values. %s"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:491
+#: includes/lib/inc/fusion-app/helpers.php:511
 msgid "Chart Padding Options"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:492
+#: includes/lib/inc/fusion-app/helpers.php:512
 msgid "Controls the top/right/bottom/left padding of the chart."
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:493
+#: includes/lib/inc/fusion-app/helpers.php:513
 msgid "Chart Options"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:494
+#: includes/lib/inc/fusion-app/helpers.php:514
 msgid "Chart Data"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:496
+#: includes/lib/inc/fusion-app/helpers.php:516
 msgid "Set chart border size in pixels."
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:497
+#: includes/lib/inc/fusion-app/helpers.php:517
 msgid ""
 "Visually create your chart data below, add or remove data sets and their "
 "styling"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:498
+#: includes/lib/inc/fusion-app/helpers.php:518
 msgid "Visually create your chart data below"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:499
+#: includes/lib/inc/fusion-app/helpers.php:519
 msgid ""
 "<strong>IMPORTANT NOTE:</strong> If you are using a <strong>Bar</strong> or "
 "<strong>Horizontal Bar Chart</strong>, the table interface below and "
@@ -9676,111 +9766,111 @@ msgid ""
 "styling."
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:500
+#: includes/lib/inc/fusion-app/helpers.php:520
 msgid "+ Add Value Column"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:501
+#: includes/lib/inc/fusion-app/helpers.php:521
 msgid "+ Add Data Set"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:502
+#: includes/lib/inc/fusion-app/helpers.php:522
 msgid "Data Set"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:503
+#: includes/lib/inc/fusion-app/helpers.php:523
 msgid "Data Set Styling"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:504
+#: includes/lib/inc/fusion-app/helpers.php:524
 msgid "Value Set Styling"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:505
+#: includes/lib/inc/fusion-app/helpers.php:525
 msgid "Build your chart data visually"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:506
+#: includes/lib/inc/fusion-app/helpers.php:526
 msgid "Edit Chart Data Table"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:507
+#: includes/lib/inc/fusion-app/helpers.php:527
 msgid "Registration confirmation will be emailed to you."
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:508
+#: includes/lib/inc/fusion-app/helpers.php:528
 msgid "Are you sure you want to remove global property?"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:509
+#: includes/lib/inc/fusion-app/helpers.php:529
 msgid "Remove Global?"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:510
+#: includes/lib/inc/fusion-app/helpers.php:530
 msgid "Removed Global Status"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:511
+#: includes/lib/inc/fusion-app/helpers.php:531
 msgid "Draft container."
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:512
+#: includes/lib/inc/fusion-app/helpers.php:532
 msgid "Scheduled container."
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:513
+#: includes/lib/inc/fusion-app/helpers.php:533
 msgid "Click to remove sheduling."
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:514
+#: includes/lib/inc/fusion-app/helpers.php:534
 msgid ""
 "Are you sure you want to remove sheduling? This will set the container to be "
 "a normally published element."
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:515
+#: includes/lib/inc/fusion-app/helpers.php:535
 msgid "Container published."
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:518
+#: includes/lib/inc/fusion-app/helpers.php:538
 msgid "Watch Our Get Started Video"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:519
+#: includes/lib/inc/fusion-app/helpers.php:539
 msgid "Do you need a helping hand? Let us guide you."
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:520
+#: includes/lib/inc/fusion-app/helpers.php:540
 msgid "Watch The Video"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:521
+#: includes/lib/inc/fusion-app/helpers.php:541
 msgid "Avada Builder Docs"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:522
+#: includes/lib/inc/fusion-app/helpers.php:542
 msgid "Videos not for you? That's ok! We have you covered."
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:523
+#: includes/lib/inc/fusion-app/helpers.php:543
 msgid "Toggle Description"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:524
+#: includes/lib/inc/fusion-app/helpers.php:544
 msgid "Toggle Responsive Options"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:525
+#: includes/lib/inc/fusion-app/helpers.php:545
 msgid "Toggle State Options"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:526
+#: includes/lib/inc/fusion-app/helpers.php:546
 #: includes/metaboxes/metaboxes.php:2315
 #: includes/metaboxes/tabs/tab_off_canvas_general.php:43
 msgid "Default State"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:527
+#: includes/lib/inc/fusion-app/helpers.php:547
 #: includes/lib/inc/redux/custom-fields/spacing/field_spacing.php:108
 #: includes/lib/inc/redux/framework/FusionReduxCore/inc/fields/border/field_border.php:141
 #: includes/lib/inc/widgets/class-fusion-widget-social-links.php:617
@@ -9796,7 +9886,7 @@ msgstr ""
 msgid "Top"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:528
+#: includes/lib/inc/fusion-app/helpers.php:548
 #: includes/lib/inc/redux/custom-fields/spacing/field_spacing.php:122
 #: includes/lib/inc/redux/framework/FusionReduxCore/inc/fields/border/field_border.php:155
 #: includes/lib/inc/widgets/class-fusion-widget-social-links.php:619
@@ -9812,145 +9902,145 @@ msgstr ""
 msgid "Bottom"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:531
+#: includes/lib/inc/fusion-app/helpers.php:551
 #: includes/lib/inc/redux/custom-fields/dimensions/field_dimensions.php:84
 #: includes/metaboxes/tabs/tab_off_canvas_general.php:127
 #: includes/metaboxes/tabs/tab_off_canvas_general.php:231
 msgid "Height"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:532
+#: includes/lib/inc/fusion-app/helpers.php:552
 #: includes/lib/inc/redux/custom-fields/dimensions/field_dimensions.php:71
 #: includes/metaboxes/tabs/tab_off_canvas_general.php:113
 msgid "Width"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:533
+#: includes/lib/inc/fusion-app/helpers.php:553
 msgid "Top/Left"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:534
+#: includes/lib/inc/fusion-app/helpers.php:554
 msgid "Top/Right"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:535
+#: includes/lib/inc/fusion-app/helpers.php:555
 msgid "Bot/Left"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:536
+#: includes/lib/inc/fusion-app/helpers.php:556
 msgid "Bot/Right"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:538
+#: includes/lib/inc/fusion-app/helpers.php:558
 msgid "Horizontal"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:539
+#: includes/lib/inc/fusion-app/helpers.php:559
 msgid "Vertical"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:541
+#: includes/lib/inc/fusion-app/helpers.php:561
 #: includes/metaboxes/tabs/tab_off_canvas_general.php:269
 msgid "Row"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:542
+#: includes/lib/inc/fusion-app/helpers.php:562
 msgid "Confirm"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:543
+#: includes/lib/inc/fusion-app/helpers.php:563
 msgid "Unsaved Changes"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:544
+#: includes/lib/inc/fusion-app/helpers.php:564
 msgid "Your changes will be lost, do you want to save changes before leaving?"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:545
+#: includes/lib/inc/fusion-app/helpers.php:565
 msgid "Reset"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:546
+#: includes/lib/inc/fusion-app/helpers.php:566
 msgid "Reset to Defaults"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:547
+#: includes/lib/inc/fusion-app/helpers.php:567
 msgid "Are you sure you want to reset this element's options to default?"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:548
+#: includes/lib/inc/fusion-app/helpers.php:568
 msgid "Are you sure you want to delete this element?"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:549
+#: includes/lib/inc/fusion-app/helpers.php:569
 msgid "I Agree"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:550
+#: includes/lib/inc/fusion-app/helpers.php:570
 msgid "Are You Sure?"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:551
+#: includes/lib/inc/fusion-app/helpers.php:571
 msgid "I'm sure"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:552
+#: includes/lib/inc/fusion-app/helpers.php:572
 msgid "Ok"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:553
+#: includes/lib/inc/fusion-app/helpers.php:573
 msgid "Import Prebuilt Website Page"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:554
+#: includes/lib/inc/fusion-app/helpers.php:574
 msgid "Import Prebuilt Website Layout"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:555
+#: includes/lib/inc/fusion-app/helpers.php:575
 msgid "Extended options"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:556
+#: includes/lib/inc/fusion-app/helpers.php:576
 msgid "Align text"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:557
+#: includes/lib/inc/fusion-app/helpers.php:577
 msgid "Align left"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:558
+#: includes/lib/inc/fusion-app/helpers.php:578
 msgid "Align center"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:559
+#: includes/lib/inc/fusion-app/helpers.php:579
 msgid "Align right"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:560
+#: includes/lib/inc/fusion-app/helpers.php:580
 msgid "Justify"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:561
+#: includes/lib/inc/fusion-app/helpers.php:581
 msgid "Indent"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:562
+#: includes/lib/inc/fusion-app/helpers.php:582
 msgid "Outdent"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:563
+#: includes/lib/inc/fusion-app/helpers.php:583
 msgid "Accept"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:566
+#: includes/lib/inc/fusion-app/helpers.php:586
 msgid "Family"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:567
+#: includes/lib/inc/fusion-app/helpers.php:587
 msgid "Tag"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:568
+#: includes/lib/inc/fusion-app/helpers.php:588
 #: includes/lib/inc/fusion-app/templates/options/typography.php:171
 #: includes/lib/inc/fusion-app/templates/typography-set.php:111
 #: includes/lib/inc/redux/custom-fields/typography/field_typography.php:233
@@ -9958,7 +10048,7 @@ msgstr ""
 msgid "Font Size"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:569
+#: includes/lib/inc/fusion-app/helpers.php:589
 #: includes/lib/inc/fusion-app/templates/options/typography.php:172
 #: includes/lib/inc/fusion-app/templates/typography-set.php:112
 #: includes/lib/inc/redux/custom-fields/typography/field_typography.php:234
@@ -9966,7 +10056,7 @@ msgstr ""
 msgid "Line Height"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:570
+#: includes/lib/inc/fusion-app/helpers.php:590
 #: includes/lib/inc/fusion-app/templates/options/typography.php:173
 #: includes/lib/inc/fusion-app/templates/typography-set.php:113
 #: includes/lib/inc/redux/custom-fields/typography/field_typography.php:235
@@ -9974,23 +10064,23 @@ msgstr ""
 msgid "Letter Spacing"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:573
+#: includes/lib/inc/fusion-app/helpers.php:593
 msgid "Font color"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:574
+#: includes/lib/inc/fusion-app/helpers.php:594
 msgid "Edit Inline Element"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:575
+#: includes/lib/inc/fusion-app/helpers.php:595
 msgid "Remove Inline Element"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:576
+#: includes/lib/inc/fusion-app/helpers.php:596
 msgid "Delete All"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:577
+#: includes/lib/inc/fusion-app/helpers.php:597
 #: includes/lib/inc/fusion-app/templates/options/import.php:94
 #: includes/lib/inc/redux/extensions/repeater/repeater/field_repeater.php:187
 #: includes/lib/inc/redux/extensions/repeater/repeater/field_repeater.php:230
@@ -10000,276 +10090,276 @@ msgstr ""
 msgid "Delete"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:578
+#: includes/lib/inc/fusion-app/helpers.php:598
 msgid "Preview Mode"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:579
+#: includes/lib/inc/fusion-app/helpers.php:599
 msgid ""
 "Please beware that editing options are limited on this mode. All open "
 "dialogs and panels will be closed."
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:580
+#: includes/lib/inc/fusion-app/helpers.php:600
 msgid "Multiple Dialogs"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:581
+#: includes/lib/inc/fusion-app/helpers.php:601
 msgid "Please close other open dialogs first to use this option."
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:582
+#: includes/lib/inc/fusion-app/helpers.php:602
 msgid "Widget"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:583
+#: includes/lib/inc/fusion-app/helpers.php:603
 msgid "No widget selected. Edit to select widget type."
 msgstr ""
 
 #. translators: Add unknown element type.
-#: includes/lib/inc/fusion-app/helpers.php:586
+#: includes/lib/inc/fusion-app/helpers.php:606
 #: includes/lib/inc/redux/framework/FusionReduxCore/inc/fields/slides/field_slides.php:244
 msgid "Add %s"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:587
+#: includes/lib/inc/fusion-app/helpers.php:607
 #: includes/metaboxes/options/options_slide.php:297
 msgid "Link Options"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:588
+#: includes/lib/inc/fusion-app/helpers.php:608
 msgid "Open Link in New Tab"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:589
+#: includes/lib/inc/fusion-app/helpers.php:609
 msgid "Clear"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:590
+#: includes/lib/inc/fusion-app/helpers.php:610
 msgid "Remove formatting"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:591
+#: includes/lib/inc/fusion-app/helpers.php:611
 msgid "Please add a gallery image here."
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:592
+#: includes/lib/inc/fusion-app/helpers.php:612
 msgid "Please select a slider for it to display here."
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:593
+#: includes/lib/inc/fusion-app/helpers.php:613
 msgid "Please select a form for it to display here."
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:594
+#: includes/lib/inc/fusion-app/helpers.php:614
 msgid "Please add a video here."
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:595
+#: includes/lib/inc/fusion-app/helpers.php:615
 msgid "Search Results"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:596
+#: includes/lib/inc/fusion-app/helpers.php:616
 msgid "Page Save Incomplete"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:597
+#: includes/lib/inc/fusion-app/helpers.php:617
 msgid ""
 "Not all content has saved correctly. Click ok to return to the page editor "
 "and try again."
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:598
+#: includes/lib/inc/fusion-app/helpers.php:618
 msgid "Page Save Failed"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:599
+#: includes/lib/inc/fusion-app/helpers.php:619
 msgid ""
 "Security nonce check failed.  Attempts to reconnect were also unsuccessful.  "
 "Please ensure WordPress Heartbeat is not disabled."
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:600
+#: includes/lib/inc/fusion-app/helpers.php:620
 msgid "Layout cleared."
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:602
+#: includes/lib/inc/fusion-app/helpers.php:622
 msgid "Enter value"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:603
+#: includes/lib/inc/fusion-app/helpers.php:623
 msgid "Import Failed"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:604
+#: includes/lib/inc/fusion-app/helpers.php:624
 msgid ""
 "Please check that the file selected is valid JSON. Click ok to return to the "
 "page editor and try again."
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:605
+#: includes/lib/inc/fusion-app/helpers.php:625
 msgid "Saved"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:606
+#: includes/lib/inc/fusion-app/helpers.php:626
 msgid "As global"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:607
+#: includes/lib/inc/fusion-app/helpers.php:627
 msgid ""
 "This action will redirect you to the front-end builder. All unsaved changes "
 "will be lost. Are you sure?"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:608
+#: includes/lib/inc/fusion-app/helpers.php:628
 msgid ""
 "Duplicate Slider Revolution detected.  Duplicate sliders will not be "
 "rendered whilst in the live editor."
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:611
+#: includes/lib/inc/fusion-app/helpers.php:631
 msgid "Other"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:612
+#: includes/lib/inc/fusion-app/helpers.php:632
 msgid "Dynamic Data"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:613
+#: includes/lib/inc/fusion-app/helpers.php:633
 msgid "Select Dynamic Data"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:614
+#: includes/lib/inc/fusion-app/helpers.php:634
 msgid "Custom Font(s)"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:615
+#: includes/lib/inc/fusion-app/helpers.php:635
 #: includes/metaboxes/metaboxes.php:1744 includes/metaboxes/metaboxes.php:2120
 msgid "Add New"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:616
+#: includes/lib/inc/fusion-app/helpers.php:636
 #: includes/lib/inc/redux/extensions/repeater/repeater/field_repeater.php:252
 msgid "Add"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:617
+#: includes/lib/inc/fusion-app/helpers.php:637
 msgid "Separate with Commas"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:620 includes/options/blog.php:804
+#: includes/lib/inc/fusion-app/helpers.php:640 includes/options/blog.php:804
 msgid "Post Title"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:621
+#: includes/lib/inc/fusion-app/helpers.php:641
 msgid "Previous Post Title"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:622
+#: includes/lib/inc/fusion-app/helpers.php:642
 msgid "Next Post Title"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:626
+#: includes/lib/inc/fusion-app/helpers.php:646
 msgid "Related products"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:627
+#: includes/lib/inc/fusion-app/helpers.php:647
 msgid "You may also like&hellip;"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:628
+#: includes/lib/inc/fusion-app/helpers.php:648
 msgid "You may be interested in&hellip;"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:629
+#: includes/lib/inc/fusion-app/helpers.php:649
 #: includes/options/portfolio.php:649
 msgid "Project Details"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:631
+#: includes/lib/inc/fusion-app/helpers.php:651
 msgid "Edit Layout Section"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:632
+#: includes/lib/inc/fusion-app/helpers.php:652
 msgid "Edit Content Layout Section"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:633
+#: includes/lib/inc/fusion-app/helpers.php:653
 msgid "Edit Footer Layout Section"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:634
+#: includes/lib/inc/fusion-app/helpers.php:654
 msgid "Edit Header Layout Section"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:635
+#: includes/lib/inc/fusion-app/helpers.php:655
 msgid "Set dynamic data to update preview source."
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:636
+#: includes/lib/inc/fusion-app/helpers.php:656
 msgid "Avada Builder Library"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:640
+#: includes/lib/inc/fusion-app/helpers.php:660
 #: includes/options/background.php:27 includes/options/menu.php:187
 msgid "Background"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:642
+#: includes/lib/inc/fusion-app/helpers.php:662
 msgid "Only numbers and phone characters are accepted"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:644
+#: includes/lib/inc/fusion-app/helpers.php:664
 msgid "Importing Studio Content"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:645
+#: includes/lib/inc/fusion-app/helpers.php:665
 msgid "Importing Studio Content Failed"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:646
+#: includes/lib/inc/fusion-app/helpers.php:666
 msgid "Importing Studio Media:"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:647
+#: includes/lib/inc/fusion-app/helpers.php:667
 msgid "Failed to retrieve data from API"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:648
+#: includes/lib/inc/fusion-app/helpers.php:668
 msgid "Importing Prebuilt Page Content"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:649
+#: includes/lib/inc/fusion-app/helpers.php:669
 msgid "Importing Prebuilt Page Content Failed"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:650
+#: includes/lib/inc/fusion-app/helpers.php:670
 msgid "Importing Prebuilt Page Media:"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:651
+#: includes/lib/inc/fusion-app/helpers.php:671
 msgid "Plugin Installation Failed"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:652
+#: includes/lib/inc/fusion-app/helpers.php:672
 msgid "Importing Prebuilt Website Failed"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:654
+#: includes/lib/inc/fusion-app/helpers.php:674
 msgid "Something Went Wrong"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:655
+#: includes/lib/inc/fusion-app/helpers.php:675
 msgid ""
 "An error occured and the process could not be completed. Please check your "
 "error log for details."
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:658
+#: includes/lib/inc/fusion-app/helpers.php:678
 msgid "Loading the next set of gallery items..."
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:659
+#: includes/lib/inc/fusion-app/helpers.php:679
 msgid "Dummy Title Placeholder"
 msgstr ""
 
@@ -10403,6 +10493,7 @@ msgid "Drag Meta items here to remove them from the page."
 msgstr ""
 
 #: includes/lib/inc/fusion-app/templates/options/connected-sortable.php:27
+#: includes/metaboxes/tabs/tab_form_notifications.php:104
 msgid "Enabled"
 msgstr ""
 
@@ -10450,8 +10541,8 @@ msgstr ""
 
 #: includes/lib/inc/fusion-app/templates/options/form-options.php:36
 #: includes/lib/inc/fusion-app/templates/options/form-options.php:78
-#: includes/lib/inc/fusion-app/templates/options/fusion-logics.php:74
-#: includes/lib/inc/fusion-app/templates/options/fusion-logics.php:248
+#: includes/lib/inc/fusion-app/templates/options/fusion-logics.php:79
+#: includes/lib/inc/fusion-app/templates/options/fusion-logics.php:261
 #: includes/lib/inc/fusion-app/templates/options/sortable-text.php:25
 #: includes/lib/inc/fusion-app/templates/options/sortable-text.php:38
 msgid "Move Row"
@@ -10464,15 +10555,15 @@ msgstr ""
 
 #: includes/lib/inc/fusion-app/templates/options/form-options.php:52
 #: includes/lib/inc/fusion-app/templates/options/form-options.php:94
-#: includes/lib/inc/fusion-app/templates/options/fusion-logics.php:80
-#: includes/lib/inc/fusion-app/templates/options/fusion-logics.php:254
+#: includes/lib/inc/fusion-app/templates/options/fusion-logics.php:85
+#: includes/lib/inc/fusion-app/templates/options/fusion-logics.php:267
 #: includes/lib/inc/fusion-app/templates/options/sortable-text.php:29
 #: includes/lib/inc/fusion-app/templates/options/sortable-text.php:42
 msgid "Remove Row"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/templates/options/fusion-logics.php:237
-#: includes/lib/inc/fusion-app/templates/options/fusion-logics.php:340
+#: includes/lib/inc/fusion-app/templates/options/fusion-logics.php:250
+#: includes/lib/inc/fusion-app/templates/options/fusion-logics.php:361
 #: includes/metaboxes/metaboxes.php:2157
 msgid "AND"
 msgstr ""
@@ -12009,10 +12100,12 @@ msgid "Link Target:"
 msgstr ""
 
 #: includes/lib/inc/widgets/class-fusion-widget-ad-125-125.php:227
+#: includes/metaboxes/tabs/tab_form_submission.php:134
 msgid "_self"
 msgstr ""
 
 #: includes/lib/inc/widgets/class-fusion-widget-ad-125-125.php:228
+#: includes/metaboxes/tabs/tab_form_submission.php:135
 msgid "_blank"
 msgstr ""
 
@@ -12053,7 +12146,7 @@ msgstr ""
 #: includes/lib/inc/widgets/class-fusion-widget-author.php:304
 #: includes/lib/inc/widgets/class-fusion-widget-contact-info.php:150
 #: includes/lib/inc/widgets/class-fusion-widget-facebook-page.php:219
-#: includes/lib/inc/widgets/class-fusion-widget-flickr.php:172
+#: includes/lib/inc/widgets/class-fusion-widget-flickr.php:171
 #: includes/lib/inc/widgets/class-fusion-widget-recent-works.php:139
 #: includes/lib/inc/widgets/class-fusion-widget-social-links.php:564
 #: includes/lib/inc/widgets/class-fusion-widget-tweets.php:279
@@ -12245,23 +12338,23 @@ msgid "Photos from Flickr"
 msgstr ""
 
 #. translators: URL.
-#: includes/lib/inc/widgets/class-fusion-widget-flickr.php:178
-msgid "Flickr ID (<a href=\"%s\">Get your flickr ID</a>):"
+#: includes/lib/inc/widgets/class-fusion-widget-flickr.php:177
+msgid "Flickr ID (<a href=\"%s\">Steps to find your Flickr ID</a>):"
 msgstr ""
 
-#: includes/lib/inc/widgets/class-fusion-widget-flickr.php:183
+#: includes/lib/inc/widgets/class-fusion-widget-flickr.php:182
 msgid "Number of photos to show:"
 msgstr ""
 
 #. translators: URL.
-#: includes/lib/inc/widgets/class-fusion-widget-flickr.php:189
+#: includes/lib/inc/widgets/class-fusion-widget-flickr.php:188
 msgid ""
 "API key (Use default or get your own from <a href=\"%s\">Flickr APP Garden</"
 "a>):"
 msgstr ""
 
 #. translators: the default key.
-#: includes/lib/inc/widgets/class-fusion-widget-flickr.php:192
+#: includes/lib/inc/widgets/class-fusion-widget-flickr.php:191
 msgid "Default key is: %s"
 msgstr ""
 
@@ -12741,7 +12834,7 @@ msgstr ""
 
 #: includes/metaboxes/metaboxes.php:678
 #: includes/metaboxes/tabs/tab_form_notifications.php:31
-#: includes/metaboxes/tabs/tab_form_notifications.php:64
+#: includes/metaboxes/tabs/tab_form_notifications.php:76
 msgid "Notifications"
 msgstr ""
 
@@ -13870,123 +13963,137 @@ msgid ""
 "submission type to \"AJAX\" ."
 msgstr ""
 
+#: includes/metaboxes/tabs/tab_form_notifications.php:64
+msgid "Enable Notifications"
+msgstr ""
+
 #: includes/metaboxes/tabs/tab_form_notifications.php:65
+msgid ""
+"When notifications are enabled, all individually enabled ones will be sent "
+"on form submission. If disabled, no notifications will be sent at all."
+msgstr ""
+
+#: includes/metaboxes/tabs/tab_form_notifications.php:77
 msgid "Add form notifications."
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_form_notifications.php:67
+#: includes/metaboxes/tabs/tab_form_notifications.php:79
 msgid "Add Notification"
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_form_notifications.php:68
-#: includes/metaboxes/tabs/tab_form_notifications.php:84
+#: includes/metaboxes/tabs/tab_form_notifications.php:80
+#: includes/metaboxes/tabs/tab_form_notifications.php:113
 msgid "Notification"
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_form_notifications.php:83
+#: includes/metaboxes/tabs/tab_form_notifications.php:99
+msgid "Set to \"disabled\" to pause sending of this notification."
+msgstr ""
+
+#: includes/metaboxes/tabs/tab_form_notifications.php:112
 msgid "Enter notification label."
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_form_notifications.php:91
+#: includes/metaboxes/tabs/tab_form_notifications.php:120
 msgid ""
 "Enter the email address to which the form data should be sent to. If left "
 "empty, email will be sent to the WordPress admin."
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_form_notifications.php:96
+#: includes/metaboxes/tabs/tab_form_notifications.php:125
 msgid "CC Email"
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_form_notifications.php:98
+#: includes/metaboxes/tabs/tab_form_notifications.php:127
 msgid "Enter additional CC emails. Add one address per line."
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_form_notifications.php:104
+#: includes/metaboxes/tabs/tab_form_notifications.php:133
 msgid "BCC Email"
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_form_notifications.php:106
+#: includes/metaboxes/tabs/tab_form_notifications.php:135
 msgid "Enter additional BCC emails. Add one address per line."
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_form_notifications.php:112
+#: includes/metaboxes/tabs/tab_form_notifications.php:141
 msgid "Email Subject"
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_form_notifications.php:113
+#: includes/metaboxes/tabs/tab_form_notifications.php:142
 msgid "Enter email subject. If left empty, the form title will be used."
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_form_notifications.php:115
+#: includes/metaboxes/tabs/tab_form_notifications.php:144
 msgid "Form submission received"
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_form_notifications.php:120
+#: includes/metaboxes/tabs/tab_form_notifications.php:149
 msgid "Encode Email Subject"
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_form_notifications.php:121
+#: includes/metaboxes/tabs/tab_form_notifications.php:150
 msgid ""
 "Select if you want to encode email subjects. This helps to display special "
 "characters correctly in the subject field. A few hosting environments and "
 "email clients might have issues with this setting."
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_form_notifications.php:132
+#: includes/metaboxes/tabs/tab_form_notifications.php:161
 msgid "Email From Name"
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_form_notifications.php:133
+#: includes/metaboxes/tabs/tab_form_notifications.php:162
 msgid "Enter email from name. If left empty, WordPress will be used."
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_form_notifications.php:140
+#: includes/metaboxes/tabs/tab_form_notifications.php:169
 msgid "Sender Email"
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_form_notifications.php:141
+#: includes/metaboxes/tabs/tab_form_notifications.php:170
 msgid ""
 "Enter sender email address. If left empty, wordpress@sitename.com will be "
 "used."
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_form_notifications.php:148
+#: includes/metaboxes/tabs/tab_form_notifications.php:177
 msgid "Reply To Email"
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_form_notifications.php:149
+#: includes/metaboxes/tabs/tab_form_notifications.php:178
 msgid "Enter reply to email address. "
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_form_notifications.php:157
+#: includes/metaboxes/tabs/tab_form_notifications.php:186
 msgid "Attach Uploaded Files"
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_form_notifications.php:159
+#: includes/metaboxes/tabs/tab_form_notifications.php:188
 msgid "Add uploaded files as email attachments."
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_form_notifications.php:168
+#: includes/metaboxes/tabs/tab_form_notifications.php:197
 msgid "Custom Attachment"
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_form_notifications.php:169
+#: includes/metaboxes/tabs/tab_form_notifications.php:198
 msgid "Select a custom attachment to be sent along in the notification email."
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_form_notifications.php:177
+#: includes/metaboxes/tabs/tab_form_notifications.php:206
 msgid "Wordwrap For Labels"
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_form_notifications.php:179
+#: includes/metaboxes/tabs/tab_form_notifications.php:208
 msgid "Set to \"yes\" to enable wordwrap for labels in the notification email."
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_form_notifications.php:189
+#: includes/metaboxes/tabs/tab_form_notifications.php:218
 msgid "Email Message"
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_form_notifications.php:191
+#: includes/metaboxes/tabs/tab_form_notifications.php:220
 msgid ""
 "Enter an email message, or leave empty to get the default message with all "
 "form fields. You can add form fields to the message by inserting a field "
@@ -13994,52 +14101,52 @@ msgid ""
 "fields with [all_fields] tag."
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_form_notifications.php:196
-#: includes/metaboxes/tabs/tab_form_notifications.php:200
+#: includes/metaboxes/tabs/tab_form_notifications.php:225
+#: includes/metaboxes/tabs/tab_form_notifications.php:229
 msgid "Conditional Logic"
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_form_notifications.php:198
+#: includes/metaboxes/tabs/tab_form_notifications.php:227
 msgid ""
 "Add conditional logic for the notification. The notification will only be "
 "sent, if the set conditions are met."
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_form_notifications.php:199
+#: includes/metaboxes/tabs/tab_form_notifications.php:228
 msgid "Add Conditional Logic"
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_form_notifications.php:203
+#: includes/metaboxes/tabs/tab_form_notifications.php:232
 msgid "Select A Condition Type"
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_form_notifications.php:206
-#: includes/metaboxes/tabs/tab_form_notifications.php:215
+#: includes/metaboxes/tabs/tab_form_notifications.php:235
+#: includes/metaboxes/tabs/tab_form_notifications.php:244
 msgid "Equal To"
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_form_notifications.php:207
-#: includes/metaboxes/tabs/tab_form_notifications.php:216
+#: includes/metaboxes/tabs/tab_form_notifications.php:236
+#: includes/metaboxes/tabs/tab_form_notifications.php:245
 msgid "Not Equal To"
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_form_notifications.php:208
-#: includes/metaboxes/tabs/tab_form_notifications.php:217
+#: includes/metaboxes/tabs/tab_form_notifications.php:237
+#: includes/metaboxes/tabs/tab_form_notifications.php:246
 msgid "Greater Than"
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_form_notifications.php:209
-#: includes/metaboxes/tabs/tab_form_notifications.php:218
+#: includes/metaboxes/tabs/tab_form_notifications.php:238
+#: includes/metaboxes/tabs/tab_form_notifications.php:247
 msgid "Less Than"
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_form_notifications.php:210
-#: includes/metaboxes/tabs/tab_form_notifications.php:219
+#: includes/metaboxes/tabs/tab_form_notifications.php:239
+#: includes/metaboxes/tabs/tab_form_notifications.php:248
 msgid "Contains"
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_form_notifications.php:211
-#: includes/metaboxes/tabs/tab_form_notifications.php:220
+#: includes/metaboxes/tabs/tab_form_notifications.php:240
+#: includes/metaboxes/tabs/tab_form_notifications.php:249
 msgid "Does Not Contain"
 msgstr ""
 
@@ -14530,7 +14637,7 @@ msgstr ""
 
 #: includes/metaboxes/tabs/tab_form_submission.php:53
 #: includes/metaboxes/tabs/tab_form_submission.php:101
-#: includes/metaboxes/tabs/tab_form_submission.php:165
+#: includes/metaboxes/tabs/tab_form_submission.php:189
 msgid "POST"
 msgstr ""
 
@@ -14553,65 +14660,75 @@ msgid ""
 msgstr ""
 
 #: includes/metaboxes/tabs/tab_form_submission.php:95
-#: includes/metaboxes/tabs/tab_form_submission.php:159
+#: includes/metaboxes/tabs/tab_form_submission.php:183
 msgid "Submission Method"
 msgstr ""
 
 #: includes/metaboxes/tabs/tab_form_submission.php:96
-#: includes/metaboxes/tabs/tab_form_submission.php:160
+#: includes/metaboxes/tabs/tab_form_submission.php:184
 msgid "Make a selection for form submission method."
 msgstr ""
 
 #: includes/metaboxes/tabs/tab_form_submission.php:102
-#: includes/metaboxes/tabs/tab_form_submission.php:166
+#: includes/metaboxes/tabs/tab_form_submission.php:190
 msgid "GET"
 msgstr ""
 
 #: includes/metaboxes/tabs/tab_form_submission.php:114
-#: includes/metaboxes/tabs/tab_form_submission.php:171
+#: includes/metaboxes/tabs/tab_form_submission.php:195
 msgid "Form Submission URL"
 msgstr ""
 
 #: includes/metaboxes/tabs/tab_form_submission.php:116
-#: includes/metaboxes/tabs/tab_form_submission.php:173
+#: includes/metaboxes/tabs/tab_form_submission.php:197
 msgid "Enter the URL where form data should be sent to."
 msgstr ""
 
 #: includes/metaboxes/tabs/tab_form_submission.php:128
+msgid "Link Target"
+msgstr ""
+
+#: includes/metaboxes/tabs/tab_form_submission.php:129
+msgid ""
+"_self = open submission URL in same browser tab, _blank = open submission "
+"URL in new browser tab."
+msgstr ""
+
+#: includes/metaboxes/tabs/tab_form_submission.php:152
 msgid ""
 "Notifications will be only sent when submission type is set to \"AJAX\"."
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_form_submission.php:178
+#: includes/metaboxes/tabs/tab_form_submission.php:202
 msgid "Custom Headers"
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_form_submission.php:179
+#: includes/metaboxes/tabs/tab_form_submission.php:203
 msgid ""
 "If you are using this form to integrate with a third-party API, you can use "
 "custom headers to implement authentication or pass-on any extra headers the "
 "API requires."
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_form_submission.php:190
+#: includes/metaboxes/tabs/tab_form_submission.php:214
 msgid "Custom Header Key"
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_form_submission.php:191
+#: includes/metaboxes/tabs/tab_form_submission.php:215
 msgid ""
 "Enter the key for the request's custom header. Example: <code>Content-Type</"
 "code>"
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_form_submission.php:197
+#: includes/metaboxes/tabs/tab_form_submission.php:221
 msgid "Custom Header Value"
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_form_submission.php:198
+#: includes/metaboxes/tabs/tab_form_submission.php:222
 msgid "Enter the value for your custom-header."
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_form_submission.php:212
+#: includes/metaboxes/tabs/tab_form_submission.php:236
 msgid "Select Off Canvas to open after form submission."
 msgstr ""
 
@@ -14705,7 +14822,7 @@ msgstr ""
 #: includes/metaboxes/tabs/tab_off_canvas_animation.php:37
 #: includes/metaboxes/tabs/tab_off_canvas_animation.php:324
 #: includes/metaboxes/tabs/tab_off_canvas_animation.php:405
-#: includes/metaboxes/tabs/tab_page.php:134 includes/options/extra.php:520
+#: includes/metaboxes/tabs/tab_page.php:144 includes/options/extra.php:520
 #: includes/options/menu.php:540 includes/options/menu.php:1448
 msgid "Fade"
 msgstr ""
@@ -15832,83 +15949,77 @@ msgstr ""
 msgid "Select an image to use for a full page background. %s"
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_page.php:129
+#: includes/metaboxes/tabs/tab_page.php:139
 msgid "Container 100% Height Animation"
 msgstr ""
 
 #. translators: %s: The default value.
-#: includes/metaboxes/tabs/tab_page.php:131
+#: includes/metaboxes/tabs/tab_page.php:141
 msgid ""
 "Select the animation of the scrolling transition on 100%% height scrolling "
 "sections. %s"
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_page.php:135
+#: includes/metaboxes/tabs/tab_page.php:145
 msgid "Slide Up"
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_page.php:136
+#: includes/metaboxes/tabs/tab_page.php:146
 msgid "Slide Right"
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_page.php:137
+#: includes/metaboxes/tabs/tab_page.php:147
 msgid "Slide Left"
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_page.php:138
+#: includes/metaboxes/tabs/tab_page.php:148
 msgid "Scroll Right"
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_page.php:139
+#: includes/metaboxes/tabs/tab_page.php:149
 msgid "Scroll Left"
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_page.php:140
+#: includes/metaboxes/tabs/tab_page.php:150
 msgid "Scroll Right Free"
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_page.php:141
+#: includes/metaboxes/tabs/tab_page.php:151
 msgid "Scroll Left Free"
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_page.php:142
-msgid "Stack"
-msgstr ""
-
-#: includes/metaboxes/tabs/tab_page.php:144
-msgid "Slide Zoom In"
-msgstr ""
-
-#: includes/metaboxes/tabs/tab_page.php:145
-msgid "Slide Zoom Out"
-msgstr ""
-
-#: includes/metaboxes/tabs/tab_page.php:153
-msgid "Container 100% Height Scroll Sensitivity"
+#: includes/metaboxes/tabs/tab_page.php:152
+msgid "Slide Over"
 msgstr ""
 
 #: includes/metaboxes/tabs/tab_page.php:154
-msgid ""
-"Controls the sensitivity of the scrolling transition on 100% height "
-"scrolling sections. In milliseconds."
+msgid "Slide Zoom In"
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_page.php:174
+#: includes/metaboxes/tabs/tab_page.php:155
+msgid "Slide Zoom Out"
+msgstr ""
+
+#: includes/metaboxes/tabs/tab_page.php:156
+msgid "Stacking Cards"
+msgstr ""
+
+#: includes/metaboxes/tabs/tab_page.php:164
 msgid "Container 100% Height Scroll Speed"
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_page.php:175
+#: includes/metaboxes/tabs/tab_page.php:165
 msgid ""
 "Controls the speed of the scrolling transition on 100% height scrolling "
 "sections. In milliseconds."
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_page.php:199
+#: includes/metaboxes/tabs/tab_page.php:189
 msgid "Container 100% Height Dots Navigation"
 msgstr ""
 
 #. translators: %s: The default value.
-#: includes/metaboxes/tabs/tab_page.php:201
+#: includes/metaboxes/tabs/tab_page.php:191
 msgid ""
 "Enable / Disable the dots navigation for 100%% height containers. Disabling "
 "dots navigation may be useful if using custom navigation. %s"
@@ -26477,27 +26588,27 @@ msgstr ""
 msgid "Side Navigation"
 msgstr ""
 
-#: includes/class-avada-tgm-plugin-activation.php:1180
-#: includes/class-avada-tgm-plugin-activation.php:3017
+#: includes/class-avada-tgm-plugin-activation.php:1183
+#: includes/class-avada-tgm-plugin-activation.php:3020
 msgctxt "plugin A *and* plugin B"
 msgid "and"
 msgstr ""
 
 #. translators: 1: install status, 2: update status
-#: includes/class-avada-tgm-plugin-activation.php:2407
+#: includes/class-avada-tgm-plugin-activation.php:2410
 msgctxt "Install/Update Status"
 msgid "%1$s, %2$s"
 msgstr ""
 
 #. translators: 1: number of plugins.
-#: includes/class-avada-tgm-plugin-activation.php:2453
+#: includes/class-avada-tgm-plugin-activation.php:2456
 msgctxt "plugins"
 msgid "All <span class=\"count\">(%s)</span>"
 msgid_plural "All <span class=\"count\">(%s)</span>"
 msgstr[0] ""
 msgstr[1] ""
 
-#: includes/class-avada-tgm-plugin-activation.php:2547
+#: includes/class-avada-tgm-plugin-activation.php:2550
 msgctxt "as in: \"version nr unknown\""
 msgid "unknown"
 msgstr ""
