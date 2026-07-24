@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Avada Builder 3.11.6\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/fusion-builder\n"
-"POT-Creation-Date: 2026-07-24 09:43:03+00:00\n"
+"POT-Creation-Date: 2026-07-24 11:15:40+00:00\n"
 "PO-Revision-Date: 2025-07-24 19:46+0300\n"
 "Last-Translator: Kaya Zeren <translator@zeron.net>\n"
 "Language-Team: Türkçe\n"
@@ -21497,6 +21497,7 @@ msgstr ""
 msgid "No widget data found"
 msgstr "Herhangi bir gereç verisi bulunamadı"
 
+#: inc/templates/custom/fusion-pricing-table-settings.php:18
 #: inc/templates/element-settings.php:26
 msgid "responsive"
 msgstr "uyumlu"

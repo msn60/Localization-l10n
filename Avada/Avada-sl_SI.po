@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Avada 5.1.6\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/theme/Avada\n"
-"POT-Creation-Date: 2026-07-24 09:40:58+00:00\n"
+"POT-Creation-Date: 2026-07-24 11:13:29+00:00\n"
 "PO-Revision-Date: 2017-06-22 11:02+0300\n"
 "Last-Translator: Aristeides <info@theme-fusion.com>\n"
 "Language-Team: Slovenian\n"
@@ -137,7 +137,7 @@ msgid "Email (required)"
 msgstr ""
 
 #: comments.php:70 includes/lib/inc/class-fusion-social-icon.php:216
-#: includes/metaboxes/tabs/tab_form_notifications.php:118
+#: includes/metaboxes/tabs/tab_form_notifications.php:125
 #: includes/options/social_media.php:845
 msgid "Email"
 msgstr ""
@@ -149,7 +149,7 @@ msgstr ""
 #: comments.php:78 includes/class-avada-nav-walker-megamenu.php:176
 #: includes/lib/inc/redux/framework/FusionReduxCore/inc/fields/slides/field_slides.php:174
 #: includes/lib/inc/redux/framework/FusionReduxCore/inc/fields/slides/field_slides.php:228
-#: includes/metaboxes/tabs/tab_form_submission.php:165
+#: includes/metaboxes/tabs/tab_form_submission.php:170
 msgid "URL"
 msgstr ""
 
@@ -2109,7 +2109,7 @@ msgstr ""
 #: includes/admin-screens/setup.php:910 includes/class-avada-admin-bar.php:69
 #: includes/class-avada-megamenu-framework.php:522
 #: includes/lib/inc/fusion-app/class-fusion-app.php:1127
-#: includes/metaboxes/tabs/tab_form_submission.php:235
+#: includes/metaboxes/tabs/tab_form_submission.php:240
 #: includes/options/typography.php:331
 msgid "Off Canvas"
 msgstr ""
@@ -5680,7 +5680,7 @@ msgstr ""
 
 #: includes/class-avada-tgm-plugin-activation.php:2626
 #: includes/lib/inc/redux/framework/FusionReduxCore/inc/welcome/welcome.php:323
-#: includes/metaboxes/tabs/tab_form_notifications.php:98
+#: includes/metaboxes/tabs/tab_form_notifications.php:105
 msgid "Status"
 msgstr ""
 
@@ -6562,7 +6562,7 @@ msgstr ""
 #: includes/class-awb-views-count.php:130
 #: includes/lib/inc/fusion-app/templates/options/connected-sortable.php:39
 #: includes/metaboxes/tabs/tab_form_general.php:77
-#: includes/metaboxes/tabs/tab_form_notifications.php:105
+#: includes/metaboxes/tabs/tab_form_notifications.php:112
 #: includes/metaboxes/tabs/tab_off_canvas_design.php:165
 #: includes/metaboxes/tabs/tab_off_canvas_overlay.php:237
 #: includes/options/blog.php:813 includes/options/events_calendar.php:309
@@ -7124,9 +7124,9 @@ msgstr ""
 #: includes/metaboxes/tabs/tab_form_appearance.php:115
 #: includes/metaboxes/tabs/tab_form_appearance.php:276
 #: includes/metaboxes/tabs/tab_form_general.php:43
-#: includes/metaboxes/tabs/tab_form_notifications.php:155
-#: includes/metaboxes/tabs/tab_form_notifications.php:191
-#: includes/metaboxes/tabs/tab_form_notifications.php:211
+#: includes/metaboxes/tabs/tab_form_notifications.php:162
+#: includes/metaboxes/tabs/tab_form_notifications.php:198
+#: includes/metaboxes/tabs/tab_form_notifications.php:218
 #: includes/metaboxes/tabs/tab_form_privacy.php:31
 #: includes/metaboxes/tabs/tab_form_steps.php:538
 #: includes/metaboxes/tabs/tab_form_steps.php:794
@@ -7199,9 +7199,9 @@ msgstr ""
 #: includes/metaboxes/tabs/tab_form_appearance.php:116
 #: includes/metaboxes/tabs/tab_form_appearance.php:277
 #: includes/metaboxes/tabs/tab_form_general.php:44
-#: includes/metaboxes/tabs/tab_form_notifications.php:156
-#: includes/metaboxes/tabs/tab_form_notifications.php:192
-#: includes/metaboxes/tabs/tab_form_notifications.php:212
+#: includes/metaboxes/tabs/tab_form_notifications.php:163
+#: includes/metaboxes/tabs/tab_form_notifications.php:199
+#: includes/metaboxes/tabs/tab_form_notifications.php:219
 #: includes/metaboxes/tabs/tab_form_privacy.php:32
 #: includes/metaboxes/tabs/tab_form_steps.php:539
 #: includes/metaboxes/tabs/tab_form_steps.php:795
@@ -9518,7 +9518,7 @@ msgid "OR"
 msgstr ""
 
 #: includes/lib/inc/fusion-app/helpers.php:443
-#: includes/metaboxes/tabs/tab_form_notifications.php:110
+#: includes/metaboxes/tabs/tab_form_notifications.php:117
 #: includes/options/advanced.php:530
 msgid "Label"
 msgstr ""
@@ -10529,7 +10529,7 @@ msgid "Drag Meta items here to remove them from the page."
 msgstr ""
 
 #: includes/lib/inc/fusion-app/templates/options/connected-sortable.php:27
-#: includes/metaboxes/tabs/tab_form_notifications.php:104
+#: includes/metaboxes/tabs/tab_form_notifications.php:111
 msgid "Enabled"
 msgstr ""
 
@@ -12870,7 +12870,7 @@ msgstr ""
 
 #: includes/metaboxes/metaboxes.php:678
 #: includes/metaboxes/tabs/tab_form_notifications.php:31
-#: includes/metaboxes/tabs/tab_form_notifications.php:76
+#: includes/metaboxes/tabs/tab_form_notifications.php:83
 msgid "Notifications"
 msgstr ""
 
@@ -14009,127 +14009,127 @@ msgid ""
 "on form submission. If disabled, no notifications will be sent at all."
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_form_notifications.php:77
+#: includes/metaboxes/tabs/tab_form_notifications.php:84
 msgid "Add form notifications."
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_form_notifications.php:79
+#: includes/metaboxes/tabs/tab_form_notifications.php:86
 msgid "Add Notification"
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_form_notifications.php:80
-#: includes/metaboxes/tabs/tab_form_notifications.php:113
+#: includes/metaboxes/tabs/tab_form_notifications.php:87
+#: includes/metaboxes/tabs/tab_form_notifications.php:120
 msgid "Notification"
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_form_notifications.php:99
+#: includes/metaboxes/tabs/tab_form_notifications.php:106
 msgid "Set to \"disabled\" to pause sending of this notification."
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_form_notifications.php:112
+#: includes/metaboxes/tabs/tab_form_notifications.php:119
 msgid "Enter notification label."
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_form_notifications.php:120
+#: includes/metaboxes/tabs/tab_form_notifications.php:127
 msgid ""
 "Enter the email address to which the form data should be sent to. If left "
 "empty, email will be sent to the WordPress admin."
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_form_notifications.php:125
+#: includes/metaboxes/tabs/tab_form_notifications.php:132
 msgid "CC Email"
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_form_notifications.php:127
+#: includes/metaboxes/tabs/tab_form_notifications.php:134
 msgid "Enter additional CC emails. Add one address per line."
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_form_notifications.php:133
+#: includes/metaboxes/tabs/tab_form_notifications.php:140
 msgid "BCC Email"
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_form_notifications.php:135
+#: includes/metaboxes/tabs/tab_form_notifications.php:142
 msgid "Enter additional BCC emails. Add one address per line."
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_form_notifications.php:141
+#: includes/metaboxes/tabs/tab_form_notifications.php:148
 msgid "Email Subject"
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_form_notifications.php:142
+#: includes/metaboxes/tabs/tab_form_notifications.php:149
 msgid "Enter email subject. If left empty, the form title will be used."
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_form_notifications.php:144
+#: includes/metaboxes/tabs/tab_form_notifications.php:151
 msgid "Form submission received"
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_form_notifications.php:149
+#: includes/metaboxes/tabs/tab_form_notifications.php:156
 msgid "Encode Email Subject"
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_form_notifications.php:150
+#: includes/metaboxes/tabs/tab_form_notifications.php:157
 msgid ""
 "Select if you want to encode email subjects. This helps to display special "
 "characters correctly in the subject field. A few hosting environments and "
 "email clients might have issues with this setting."
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_form_notifications.php:161
+#: includes/metaboxes/tabs/tab_form_notifications.php:168
 msgid "Email From Name"
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_form_notifications.php:162
+#: includes/metaboxes/tabs/tab_form_notifications.php:169
 msgid "Enter email from name. If left empty, WordPress will be used."
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_form_notifications.php:169
+#: includes/metaboxes/tabs/tab_form_notifications.php:176
 msgid "Sender Email"
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_form_notifications.php:170
+#: includes/metaboxes/tabs/tab_form_notifications.php:177
 msgid ""
 "Enter sender email address. If left empty, wordpress@sitename.com will be "
 "used."
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_form_notifications.php:177
+#: includes/metaboxes/tabs/tab_form_notifications.php:184
 msgid "Reply To Email"
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_form_notifications.php:178
+#: includes/metaboxes/tabs/tab_form_notifications.php:185
 msgid "Enter reply to email address. "
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_form_notifications.php:186
+#: includes/metaboxes/tabs/tab_form_notifications.php:193
 msgid "Attach Uploaded Files"
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_form_notifications.php:188
+#: includes/metaboxes/tabs/tab_form_notifications.php:195
 msgid "Add uploaded files as email attachments."
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_form_notifications.php:197
+#: includes/metaboxes/tabs/tab_form_notifications.php:204
 msgid "Custom Attachment"
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_form_notifications.php:198
+#: includes/metaboxes/tabs/tab_form_notifications.php:205
 msgid "Select a custom attachment to be sent along in the notification email."
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_form_notifications.php:206
+#: includes/metaboxes/tabs/tab_form_notifications.php:213
 msgid "Wordwrap For Labels"
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_form_notifications.php:208
+#: includes/metaboxes/tabs/tab_form_notifications.php:215
 msgid "Set to \"yes\" to enable wordwrap for labels in the notification email."
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_form_notifications.php:218
+#: includes/metaboxes/tabs/tab_form_notifications.php:225
 msgid "Email Message"
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_form_notifications.php:220
+#: includes/metaboxes/tabs/tab_form_notifications.php:227
 msgid ""
 "Enter an email message, or leave empty to get the default message with all "
 "form fields. You can add form fields to the message by inserting a field "
@@ -14137,52 +14137,52 @@ msgid ""
 "fields with [all_fields] tag."
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_form_notifications.php:225
-#: includes/metaboxes/tabs/tab_form_notifications.php:229
+#: includes/metaboxes/tabs/tab_form_notifications.php:232
+#: includes/metaboxes/tabs/tab_form_notifications.php:236
 msgid "Conditional Logic"
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_form_notifications.php:227
+#: includes/metaboxes/tabs/tab_form_notifications.php:234
 msgid ""
 "Add conditional logic for the notification. The notification will only be "
 "sent, if the set conditions are met."
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_form_notifications.php:228
+#: includes/metaboxes/tabs/tab_form_notifications.php:235
 msgid "Add Conditional Logic"
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_form_notifications.php:232
+#: includes/metaboxes/tabs/tab_form_notifications.php:239
 msgid "Select A Condition Type"
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_form_notifications.php:235
-#: includes/metaboxes/tabs/tab_form_notifications.php:244
+#: includes/metaboxes/tabs/tab_form_notifications.php:242
+#: includes/metaboxes/tabs/tab_form_notifications.php:251
 msgid "Equal To"
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_form_notifications.php:236
-#: includes/metaboxes/tabs/tab_form_notifications.php:245
+#: includes/metaboxes/tabs/tab_form_notifications.php:243
+#: includes/metaboxes/tabs/tab_form_notifications.php:252
 msgid "Not Equal To"
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_form_notifications.php:237
-#: includes/metaboxes/tabs/tab_form_notifications.php:246
+#: includes/metaboxes/tabs/tab_form_notifications.php:244
+#: includes/metaboxes/tabs/tab_form_notifications.php:253
 msgid "Greater Than"
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_form_notifications.php:238
-#: includes/metaboxes/tabs/tab_form_notifications.php:247
+#: includes/metaboxes/tabs/tab_form_notifications.php:245
+#: includes/metaboxes/tabs/tab_form_notifications.php:254
 msgid "Less Than"
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_form_notifications.php:239
-#: includes/metaboxes/tabs/tab_form_notifications.php:248
+#: includes/metaboxes/tabs/tab_form_notifications.php:246
+#: includes/metaboxes/tabs/tab_form_notifications.php:255
 msgid "Contains"
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_form_notifications.php:240
-#: includes/metaboxes/tabs/tab_form_notifications.php:249
+#: includes/metaboxes/tabs/tab_form_notifications.php:247
+#: includes/metaboxes/tabs/tab_form_notifications.php:256
 msgid "Does Not Contain"
 msgstr ""
 
@@ -14673,7 +14673,7 @@ msgstr ""
 
 #: includes/metaboxes/tabs/tab_form_submission.php:53
 #: includes/metaboxes/tabs/tab_form_submission.php:101
-#: includes/metaboxes/tabs/tab_form_submission.php:189
+#: includes/metaboxes/tabs/tab_form_submission.php:194
 msgid "POST"
 msgstr ""
 
@@ -14696,27 +14696,27 @@ msgid ""
 msgstr ""
 
 #: includes/metaboxes/tabs/tab_form_submission.php:95
-#: includes/metaboxes/tabs/tab_form_submission.php:183
+#: includes/metaboxes/tabs/tab_form_submission.php:188
 msgid "Submission Method"
 msgstr ""
 
 #: includes/metaboxes/tabs/tab_form_submission.php:96
-#: includes/metaboxes/tabs/tab_form_submission.php:184
+#: includes/metaboxes/tabs/tab_form_submission.php:189
 msgid "Make a selection for form submission method."
 msgstr ""
 
 #: includes/metaboxes/tabs/tab_form_submission.php:102
-#: includes/metaboxes/tabs/tab_form_submission.php:190
+#: includes/metaboxes/tabs/tab_form_submission.php:195
 msgid "GET"
 msgstr ""
 
 #: includes/metaboxes/tabs/tab_form_submission.php:114
-#: includes/metaboxes/tabs/tab_form_submission.php:195
+#: includes/metaboxes/tabs/tab_form_submission.php:200
 msgid "Form Submission URL"
 msgstr ""
 
 #: includes/metaboxes/tabs/tab_form_submission.php:116
-#: includes/metaboxes/tabs/tab_form_submission.php:197
+#: includes/metaboxes/tabs/tab_form_submission.php:202
 msgid "Enter the URL where form data should be sent to."
 msgstr ""
 
@@ -14730,41 +14730,41 @@ msgid ""
 "URL in new browser tab."
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_form_submission.php:152
+#: includes/metaboxes/tabs/tab_form_submission.php:157
 msgid ""
 "Notifications will be only sent when submission type is set to \"AJAX\"."
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_form_submission.php:202
+#: includes/metaboxes/tabs/tab_form_submission.php:207
 msgid "Custom Headers"
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_form_submission.php:203
+#: includes/metaboxes/tabs/tab_form_submission.php:208
 msgid ""
 "If you are using this form to integrate with a third-party API, you can use "
 "custom headers to implement authentication or pass-on any extra headers the "
 "API requires."
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_form_submission.php:214
+#: includes/metaboxes/tabs/tab_form_submission.php:219
 msgid "Custom Header Key"
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_form_submission.php:215
+#: includes/metaboxes/tabs/tab_form_submission.php:220
 msgid ""
 "Enter the key for the request's custom header. Example: <code>Content-Type</"
 "code>"
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_form_submission.php:221
+#: includes/metaboxes/tabs/tab_form_submission.php:226
 msgid "Custom Header Value"
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_form_submission.php:222
+#: includes/metaboxes/tabs/tab_form_submission.php:227
 msgid "Enter the value for your custom-header."
 msgstr ""
 
-#: includes/metaboxes/tabs/tab_form_submission.php:236
+#: includes/metaboxes/tabs/tab_form_submission.php:241
 msgid "Select Off Canvas to open after form submission."
 msgstr ""
 

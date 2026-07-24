@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Fusion Builder 2.0.2\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/fusion-builder\n"
-"POT-Creation-Date: 2026-07-24 09:43:03+00:00\n"
+"POT-Creation-Date: 2026-07-24 11:15:40+00:00\n"
 "PO-Revision-Date: 2019-08-26 12:45+0300\n"
 "Last-Translator:  <info@theme-fusion.com>\n"
 "Language-Team: Portuguese\n"
@@ -20785,6 +20785,7 @@ msgstr ""
 msgid "No widget data found"
 msgstr ""
 
+#: inc/templates/custom/fusion-pricing-table-settings.php:18
 #: inc/templates/element-settings.php:26
 msgid "responsive"
 msgstr ""
