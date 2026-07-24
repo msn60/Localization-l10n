@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Avada\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/theme/Avada\n"
-"POT-Creation-Date: 2026-07-07 04:54:07+00:00\n"
+"POT-Creation-Date: 2026-07-24 11:13:29+00:00\n"
 "PO-Revision-Date: 2026-04-14 11:08+0800\n"
 "Last-Translator: Bo <thewayyouare@vip.qq.com>\n"
 "Language-Team: Chinese (China)\n"
@@ -61,7 +61,7 @@ msgstr "搜索论坛..."
 #: includes/class-avada-layout-bbpress.php:148
 #: includes/class-avada-megamenu-framework.php:310
 #: includes/lib/inc/class-fusion-searchform.php:86
-#: includes/lib/inc/fusion-app/helpers.php:287
+#: includes/lib/inc/fusion-app/helpers.php:302
 #: includes/lib/inc/redux/custom-fields/iconpicker/field_iconpicker.php:55
 #: includes/metaboxes/tabs/tab_template.php:255 includes/options/header.php:437
 #: includes/options/search.php:38
@@ -117,7 +117,7 @@ msgstr[0] "%评论"
 #: includes/class-avada-woocommerce.php:913
 #: includes/lib/inc/class-fusion-scripts.php:593
 #: includes/lib/inc/functions.php:1096
-#: includes/lib/inc/fusion-app/helpers.php:618 single-wpfc_sermon.php:21
+#: includes/lib/inc/fusion-app/helpers.php:638 single-wpfc_sermon.php:21
 #: single.php:20
 msgid "Previous"
 msgstr "上一页"
@@ -131,7 +131,7 @@ msgstr "上一页"
 #: includes/class-avada-woocommerce.php:914
 #: includes/lib/inc/class-fusion-scripts.php:592
 #: includes/lib/inc/functions.php:1142
-#: includes/lib/inc/fusion-app/helpers.php:619 single-wpfc_sermon.php:22
+#: includes/lib/inc/fusion-app/helpers.php:639 single-wpfc_sermon.php:22
 #: single.php:21
 msgid "Next"
 msgstr "下一页"
@@ -160,7 +160,7 @@ msgstr "Email (必填)"
 
 # @ Avada
 #: comments.php:70 includes/lib/inc/class-fusion-social-icon.php:216
-#: includes/metaboxes/tabs/tab_form_notifications.php:89
+#: includes/metaboxes/tabs/tab_form_notifications.php:125
 #: includes/options/social_media.php:845
 msgid "Email"
 msgstr "电邮"
@@ -174,7 +174,7 @@ msgstr "网站"
 #: comments.php:78 includes/class-avada-nav-walker-megamenu.php:176
 #: includes/lib/inc/redux/framework/FusionReduxCore/inc/fields/slides/field_slides.php:174
 #: includes/lib/inc/redux/framework/FusionReduxCore/inc/fields/slides/field_slides.php:228
-#: includes/metaboxes/tabs/tab_form_submission.php:141
+#: includes/metaboxes/tabs/tab_form_submission.php:170
 msgid "URL"
 msgstr "URL"
 
@@ -268,7 +268,7 @@ msgstr "Avada 资源"
 
 # @ Avada
 #: includes/admin-screens/dashboard.php:92
-#: includes/class-avada-tgm-plugin-activation.php:2341
+#: includes/class-avada-tgm-plugin-activation.php:2344
 msgid "Recommended"
 msgstr "推荐"
 
@@ -590,9 +590,10 @@ msgstr "禁用未使用的功能"
 #: includes/lib/inc/fusion-app/class-fusion-preferences.php:290
 #: includes/lib/inc/fusion-app/class-fusion-preferences.php:301
 #: includes/lib/inc/fusion-app/class-fusion-preferences.php:312
-#: includes/lib/inc/fusion-app/helpers.php:516
+#: includes/lib/inc/fusion-app/helpers.php:536
 #: includes/lib/inc/redux/framework/FusionReduxCore/inc/fields/switch/field_switch.php:45
-#: includes/metaboxes/tabs/tab_page.php:204 includes/options/advanced.php:506
+#: includes/metaboxes/tabs/tab_form_notifications.php:70
+#: includes/metaboxes/tabs/tab_page.php:194 includes/options/advanced.php:506
 #: includes/options/performance.php:299 includes/options/responsive.php:43
 #: includes/options/responsive.php:213
 msgid "On"
@@ -615,9 +616,10 @@ msgstr "开"
 #: includes/lib/inc/fusion-app/class-fusion-preferences.php:291
 #: includes/lib/inc/fusion-app/class-fusion-preferences.php:302
 #: includes/lib/inc/fusion-app/class-fusion-preferences.php:313
-#: includes/lib/inc/fusion-app/helpers.php:517
+#: includes/lib/inc/fusion-app/helpers.php:537
 #: includes/lib/inc/redux/framework/FusionReduxCore/inc/fields/switch/field_switch.php:48
-#: includes/metaboxes/tabs/tab_page.php:205 includes/options/advanced.php:507
+#: includes/metaboxes/tabs/tab_form_notifications.php:71
+#: includes/metaboxes/tabs/tab_page.php:195 includes/options/advanced.php:507
 #: includes/options/extra.php:1092 includes/options/forms.php:458
 #: includes/options/forms.php:527 includes/options/maintenance.php:59
 #: includes/options/performance.php:300 includes/options/responsive.php:44
@@ -722,7 +724,7 @@ msgstr "标题"
 # @ Avada
 #: includes/admin-screens/performance.php:204
 #: includes/class-avada-admin.php:1483 includes/class-awb-setup-wizard.php:1436
-#: includes/lib/inc/fusion-app/helpers.php:657
+#: includes/lib/inc/fusion-app/helpers.php:677
 #: includes/metaboxes/metaboxes.php:670
 #: includes/metaboxes/tabs/tab_content.php:24
 #: includes/metaboxes/tabs/tab_sidebars.php:291
@@ -809,7 +811,7 @@ msgid "Search Font Families"
 msgstr "搜索字体"
 
 #: includes/admin-screens/performance.php:308
-#: includes/lib/inc/fusion-app/helpers.php:571
+#: includes/lib/inc/fusion-app/helpers.php:591
 #: includes/lib/inc/fusion-app/templates/options/typography.php:160
 #: includes/lib/inc/fusion-app/templates/typography-set.php:101
 #: includes/lib/inc/redux/custom-fields/typography/field_typography.php:203
@@ -918,17 +920,17 @@ msgid "Avada Slider"
 msgstr "Avada 滑块"
 
 #: includes/admin-screens/performance.php:425
-#: includes/lib/inc/fusion-app/helpers.php:296
+#: includes/lib/inc/fusion-app/helpers.php:311
 msgid "Design Elements"
 msgstr "设计元素"
 
 #: includes/admin-screens/performance.php:461
-#: includes/lib/inc/fusion-app/helpers.php:297
+#: includes/lib/inc/fusion-app/helpers.php:312
 msgid "Layout Elements"
 msgstr "布局元素"
 
 #: includes/admin-screens/performance.php:479
-#: includes/lib/inc/fusion-app/helpers.php:298
+#: includes/lib/inc/fusion-app/helpers.php:313
 msgid "Form Elements"
 msgstr "表单元素"
 
@@ -1080,7 +1082,7 @@ msgstr ""
 "到一些链接。"
 
 #: includes/admin-screens/performance.php:652
-#: includes/lib/inc/fusion-app/helpers.php:447
+#: includes/lib/inc/fusion-app/helpers.php:467
 #: includes/metaboxes/tabs/tab_form_steps.php:816
 msgid "Before"
 msgstr "之前"
@@ -1106,7 +1108,7 @@ msgid "CLS"
 msgstr "CLS"
 
 #: includes/admin-screens/performance.php:700
-#: includes/lib/inc/fusion-app/helpers.php:448
+#: includes/lib/inc/fusion-app/helpers.php:468
 #: includes/metaboxes/tabs/tab_form_steps.php:815
 msgid "After"
 msgstr "之后"
@@ -1258,8 +1260,8 @@ msgstr "可用版本：%s"
 
 # @ Avada
 #: includes/admin-screens/plugins.php:185
-#: includes/class-avada-tgm-plugin-activation.php:2338
-#: includes/lib/inc/fusion-app/helpers.php:417
+#: includes/class-avada-tgm-plugin-activation.php:2341
+#: includes/lib/inc/fusion-app/helpers.php:437
 msgid "Required"
 msgstr "必需"
 
@@ -1275,8 +1277,8 @@ msgstr "出错了 "
 # @ Avada
 #: includes/admin-screens/prebuilt-websites-demo.php:27
 #: includes/class-awb-views-count.php:114
-#: includes/lib/inc/fusion-app/helpers.php:537
-#: includes/lib/inc/fusion-app/helpers.php:643
+#: includes/lib/inc/fusion-app/helpers.php:557
+#: includes/lib/inc/fusion-app/helpers.php:663
 #: includes/lib/inc/redux/custom-fields/spacing/field_border_radius.php:84
 #: includes/lib/inc/redux/custom-fields/spacing/field_spacing.php:84
 #: includes/lib/inc/redux/framework/FusionReduxCore/inc/fields/border/field_border.php:128
@@ -1320,7 +1322,7 @@ msgstr "部分导入"
 # @ Avada
 #: includes/admin-screens/prebuilt-websites-demo.php:89
 #: includes/avada-app/fusion-panel.php:156
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2569
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2626
 #: includes/lib/inc/fusion-app/helpers.php:223
 #: includes/lib/inc/fusion-app/templates/front-end-toolbar.php:149
 #: includes/metaboxes/metaboxes.php:675
@@ -1354,14 +1356,14 @@ msgstr "需要设置"
 # @ Avada
 #: includes/admin-screens/prebuilt-websites-import-modal.php:47
 #: includes/class-avada-admin.php:1170
-#: includes/class-avada-tgm-plugin-activation.php:2786
+#: includes/class-avada-tgm-plugin-activation.php:2789
 msgid "Install"
 msgstr "安装"
 
 # @ Avada
 #: includes/admin-screens/prebuilt-websites-import-modal.php:50
 #: includes/class-avada-admin.php:1504
-#: includes/class-avada-tgm-plugin-activation.php:2386
+#: includes/class-avada-tgm-plugin-activation.php:2389
 #: includes/lib/inc/redux/framework/FusionReduxCore/inc/fields/link_color/field_link_color.php:104
 #: includes/metaboxes/tabs/tab_form_steps.php:108
 #: includes/metaboxes/tabs/tab_form_steps.php:245
@@ -1375,7 +1377,7 @@ msgstr "激活"
 # @ Avada
 #: includes/admin-screens/prebuilt-websites-import-modal.php:53
 #: includes/class-avada-admin.php:1189
-#: includes/class-avada-tgm-plugin-activation.php:2795
+#: includes/class-avada-tgm-plugin-activation.php:2798
 msgid "Activate"
 msgstr "激活"
 
@@ -1396,7 +1398,7 @@ msgstr "删除内容"
 #: includes/admin-screens/prebuilt-websites-import-modal.php:114
 #: includes/class-avada-megamenu-framework.php:1032
 #: includes/class-avada-nav-walker-megamenu.php:249
-#: includes/lib/inc/fusion-app/helpers.php:601
+#: includes/lib/inc/fusion-app/helpers.php:621
 #: includes/lib/inc/redux/framework/FusionReduxCore/inc/fields/background/field_background.php:325
 #: includes/lib/inc/redux/framework/FusionReduxCore/inc/fields/media/field_media.php:209
 #: includes/lib/inc/redux/framework/FusionReduxCore/inc/fields/multi_text/field_multi_text.php:74
@@ -2004,7 +2006,7 @@ msgstr ""
 #: includes/class-avada-taxonomy-meta.php:308
 #: includes/class-avada-taxonomy-meta.php:451
 #: includes/lib/inc/class-fusion-images.php:1072
-#: includes/lib/inc/fusion-app/helpers.php:572
+#: includes/lib/inc/fusion-app/helpers.php:592
 #: includes/lib/inc/fusion-app/templates/front-end-toolbar.php:160
 #: includes/lib/inc/fusion-app/templates/options/typography.php:218
 #: includes/lib/inc/redux/custom-fields/typography/field_typography.php:287
@@ -2024,8 +2026,8 @@ msgstr ""
 #: includes/metaboxes/tabs/tab_page.php:53
 #: includes/metaboxes/tabs/tab_page.php:89
 #: includes/metaboxes/tabs/tab_page.php:110
-#: includes/metaboxes/tabs/tab_page.php:133
-#: includes/metaboxes/tabs/tab_page.php:203
+#: includes/metaboxes/tabs/tab_page.php:143
+#: includes/metaboxes/tabs/tab_page.php:193
 #: includes/metaboxes/tabs/tab_pagetitlebar.php:148
 #: includes/metaboxes/tabs/tab_pagetitlebar.php:165
 #: includes/metaboxes/tabs/tab_pagetitlebar.php:181
@@ -2066,7 +2068,7 @@ msgstr "选择页头"
 
 # @ Avada
 #: includes/admin-screens/setup.php:530
-#: includes/lib/inc/fusion-app/helpers.php:641 includes/options/logo.php:32
+#: includes/lib/inc/fusion-app/helpers.php:661 includes/options/logo.php:32
 #: includes/options/logo.php:40 templates/logo.php:60
 msgid "Logo"
 msgstr "Logo"
@@ -2227,8 +2229,8 @@ msgstr "表单"
 
 #: includes/admin-screens/setup.php:910 includes/class-avada-admin-bar.php:69
 #: includes/class-avada-megamenu-framework.php:522
-#: includes/lib/inc/fusion-app/class-fusion-app.php:1124
-#: includes/metaboxes/tabs/tab_form_submission.php:211
+#: includes/lib/inc/fusion-app/class-fusion-app.php:1127
+#: includes/metaboxes/tabs/tab_form_submission.php:240
 #: includes/options/typography.php:331
 msgid "Off Canvas"
 msgstr "侧边栏内容 (Off Canvas)"
@@ -2366,7 +2368,7 @@ msgid "Edit the pages of your website."
 msgstr "编辑您网站的页面。"
 
 #: includes/admin-screens/setup.php:1028
-#: includes/lib/inc/fusion-app/helpers.php:340
+#: includes/lib/inc/fusion-app/helpers.php:355
 #: includes/options/advanced.php:109
 msgid "Avada Studio"
 msgstr "Avada Studio"
@@ -3028,7 +3030,7 @@ msgstr "Avada使用此库来调整图像大小并加快您网站的加载时间"
 
 # @ Avada
 #: includes/admin-screens/status.php:752
-#: includes/class-avada-tgm-plugin-activation.php:2380
+#: includes/class-avada-tgm-plugin-activation.php:2383
 msgid "Not Installed"
 msgstr "未安装"
 
@@ -3310,7 +3312,7 @@ msgstr "您已选择编辑所选滑块。此操作必须从 WordPress 仪表盘�
 #: includes/class-avada-megamenu-framework.php:1065
 #: includes/class-avada-nav-walker-megamenu.php:259
 #: includes/lib/inc/class-awb-widget-style.php:421
-#: includes/lib/inc/fusion-app/helpers.php:294
+#: includes/lib/inc/fusion-app/helpers.php:309
 msgid "Cancel"
 msgstr "取消"
 
@@ -3340,7 +3342,7 @@ msgstr "无效颜色"
 
 #: includes/avada-app/class-fusion-panel.php:702
 #: includes/avada-app/class-fusion-panel.php:837
-#: includes/lib/inc/fusion-app/helpers.php:565 includes/options/privacy.php:991
+#: includes/lib/inc/fusion-app/helpers.php:585 includes/options/privacy.php:991
 msgid "Settings"
 msgstr "设置"
 
@@ -3357,6 +3359,7 @@ msgstr "父级分类"
 #: includes/avada-app/class-fusion-panel.php:744
 #: includes/class-avada-nav-walker-megamenu.php:213
 #: includes/lib/inc/class-fusion-patcher-admin-screen.php:290
+#: includes/lib/inc/fusion-app/helpers.php:402
 #: includes/lib/inc/redux/framework/FusionReduxCore/inc/fields/slides/field_slides.php:170
 #: includes/lib/inc/redux/framework/FusionReduxCore/inc/fields/slides/field_slides.php:225
 #: includes/options/advanced.php:576
@@ -3439,7 +3442,7 @@ msgstr "特色图片 %s"
 
 # @ Avada
 #: includes/avada-app/class-fusion-panel.php:1159
-#: includes/lib/inc/fusion-app/helpers.php:243
+#: includes/lib/inc/fusion-app/helpers.php:258
 #: includes/options/custom_css.php:27
 msgid "Custom CSS"
 msgstr "自定义CSS"
@@ -3597,7 +3600,7 @@ msgstr "导航器"
 #: includes/class-avada-taxonomy-meta.php:333
 #: includes/lib/inc/class-fusion-settings.php:587
 #: includes/lib/inc/class-fusion-settings.php:625
-#: includes/lib/inc/fusion-app/helpers.php:306
+#: includes/lib/inc/fusion-app/helpers.php:321
 #: includes/metaboxes/tabs/tab_sliders.php:226
 msgid "Element Options"
 msgstr "元素选项"
@@ -3619,18 +3622,18 @@ msgid "No page specific options are available for this page."
 msgstr "此页面没有具体的页面选项可用"
 
 # @ Avada
-#: includes/avada-functions.php:352 includes/lib/inc/fusion-app/helpers.php:623
+#: includes/avada-functions.php:352 includes/lib/inc/fusion-app/helpers.php:643
 #: includes/options/blog.php:880
 msgid "Related Posts"
 msgstr "相关文章"
 
 # @ Avada
-#: includes/avada-functions.php:355 includes/lib/inc/fusion-app/helpers.php:624
+#: includes/avada-functions.php:355 includes/lib/inc/fusion-app/helpers.php:644
 #: includes/options/portfolio.php:704
 msgid "Related Projects"
 msgstr "相关项目"
 
-#: includes/avada-functions.php:358 includes/lib/inc/fusion-app/helpers.php:625
+#: includes/avada-functions.php:358 includes/lib/inc/fusion-app/helpers.php:645
 msgid "Related Faqs"
 msgstr "相关问答"
 
@@ -3720,7 +3723,7 @@ msgid "Learn How To Import Sliders"
 msgstr "了解怎样导入Sliders"
 
 #: includes/avada-functions.php:1366
-#: includes/lib/inc/fusion-app/helpers.php:639 includes/options/menu.php:79
+#: includes/lib/inc/fusion-app/helpers.php:659 includes/options/menu.php:79
 #: includes/options/menu.php:103
 msgid "Main Menu"
 msgstr "主菜单"
@@ -3937,7 +3940,7 @@ msgstr "返回 Avada 插件页面。"
 
 # @ Avada
 #: includes/avada-tgm.php:96 includes/class-avada-tgm-plugin-activation.php:385
-#: includes/class-avada-tgm-plugin-activation.php:3228
+#: includes/class-avada-tgm-plugin-activation.php:3231
 msgid "Plugin activated successfully."
 msgstr "插件成功激活."
 
@@ -4013,7 +4016,7 @@ msgid "Studio"
 msgstr "Studio"
 
 #: includes/class-avada-admin-bar.php:82
-#: includes/lib/inc/fusion-app/helpers.php:247
+#: includes/lib/inc/fusion-app/helpers.php:262
 msgid "Library"
 msgstr "库"
 
@@ -4149,7 +4152,7 @@ msgstr "支持政策"
 
 #. translators: The iconset name.
 #: includes/class-avada-admin.php:921
-#: includes/lib/inc/fusion-app/helpers.php:638
+#: includes/lib/inc/fusion-app/helpers.php:658
 #: includes/lib/inc/redux/custom-fields/iconpicker/field_iconpicker.php:115
 msgid "No Results in \"%s\""
 msgstr "在“%s”中没有结果"
@@ -4175,7 +4178,7 @@ msgstr "更新 %s"
 
 # @ bbpress
 #: includes/class-avada-admin.php:1211
-#: includes/class-avada-tgm-plugin-activation.php:2792
+#: includes/class-avada-tgm-plugin-activation.php:2795
 #: templates/wc-cart-shipping-calc.php:91
 msgid "Update"
 msgstr "升级"
@@ -4257,7 +4260,7 @@ msgstr ""
 "wp_remote_get。"
 
 #: includes/class-avada-admin.php:1498
-#: includes/lib/inc/fusion-app/helpers.php:656
+#: includes/lib/inc/fusion-app/helpers.php:676
 msgid ""
 "The import process has timed out, but already imported steps have been "
 "saved. Click \"continue\", and the importer will attempt to complete the "
@@ -4631,7 +4634,7 @@ msgstr ""
 "将全屏显示。"
 
 #: includes/class-avada-megamenu-framework.php:158
-#: includes/lib/inc/fusion-app/class-fusion-app.php:1089
+#: includes/lib/inc/fusion-app/class-fusion-app.php:1092
 #: includes/metaboxes/metaboxes.php:703
 #: includes/metaboxes/tabs/tab_template.php:163
 msgid "Mega Menu"
@@ -5006,24 +5009,24 @@ msgid "Select a widget area to be used as the content for the column."
 msgstr "选择一个小工具区域作为列的内容。"
 
 #: includes/class-avada-megamenu-framework.php:939
-#: includes/lib/inc/fusion-app/helpers.php:630
+#: includes/lib/inc/fusion-app/helpers.php:650
 msgid "Add Custom Icon Set"
 msgstr "添加自定义图标集"
 
 #: includes/class-avada-megamenu-framework.php:941
-#: includes/lib/inc/fusion-app/helpers.php:414
+#: includes/lib/inc/fusion-app/helpers.php:434
 #: includes/metaboxes/metaboxes.php:1976
 msgid "Search Icons"
 msgstr "搜索图标"
 
 #: includes/class-avada-megamenu-framework.php:1031
-#: includes/lib/inc/fusion-app/helpers.php:337
+#: includes/lib/inc/fusion-app/helpers.php:352
 msgid "Edit"
 msgstr "编辑"
 
 #: includes/class-avada-megamenu-framework.php:1033
 #: includes/class-avada-taxonomy-meta.php:1165
-#: includes/lib/inc/fusion-app/helpers.php:335
+#: includes/lib/inc/fusion-app/helpers.php:350
 msgid "Upload Image"
 msgstr "上传图片"
 
@@ -5034,7 +5037,7 @@ msgstr "Avada菜单选项"
 
 #: includes/class-avada-megamenu-framework.php:1064
 #: includes/lib/inc/class-awb-widget-style.php:420
-#: includes/lib/inc/fusion-app/helpers.php:252
+#: includes/lib/inc/fusion-app/helpers.php:267
 #: includes/lib/inc/fusion-app/templates/front-end-toolbar.php:83
 msgid "Save"
 msgstr "保存"
@@ -5499,13 +5502,13 @@ msgstr "数据库表创建成功。"
 msgid "Updating submissions database table failed."
 msgstr "更新提交数据库表失败。"
 
-#: includes/class-avada-system-status.php:199
-msgid "This is not a multisite."
-msgstr "这不是一个多站点。"
-
-#: includes/class-avada-system-status.php:202
+#: includes/class-avada-system-status.php:200
 msgid "Security check failed."
 msgstr "安全性检查失败。"
+
+#: includes/class-avada-system-status.php:203
+msgid "This is not a multisite."
+msgstr "这不是一个多站点。"
 
 #: includes/class-avada-system-status.php:217
 msgid "Global options were successfully copied across the network."
@@ -5872,13 +5875,13 @@ msgstr "返回插件安装器"
 
 # @ Avada
 #: includes/class-avada-tgm-plugin-activation.php:384
-#: includes/class-avada-tgm-plugin-activation.php:3649
+#: includes/class-avada-tgm-plugin-activation.php:3652
 msgid "Return to the Dashboard"
 msgstr "返回面板首页"
 
 # @ Avada
 #: includes/class-avada-tgm-plugin-activation.php:386
-#: includes/class-avada-tgm-plugin-activation.php:3021
+#: includes/class-avada-tgm-plugin-activation.php:3024
 msgid "The following plugin was activated successfully:"
 msgstr "以下插件成功激活:"
 
@@ -5947,184 +5950,185 @@ msgid ""
 "not packaged in a folder."
 msgstr "远程插件包由多个文件组成，但是文件并没有打包在一个文件夹中。"
 
-#: includes/class-avada-tgm-plugin-activation.php:1160
+#: includes/class-avada-tgm-plugin-activation.php:1163
 msgid "Install/Activation/Update Of Required Plugin(s) Needed"
 msgstr "需要安装/激活/更新所需插件"
 
 #. translators: %s: version number
-#: includes/class-avada-tgm-plugin-activation.php:2043
+#: includes/class-avada-tgm-plugin-activation.php:2046
 msgid "TGMPA v%s"
 msgstr "TGMPA v%s"
 
 # @ Avada
-#: includes/class-avada-tgm-plugin-activation.php:2357
+#: includes/class-avada-tgm-plugin-activation.php:2360
 msgid "WordPress Repository"
 msgstr "WordPress知识库"
 
 # @ Avada
-#: includes/class-avada-tgm-plugin-activation.php:2360
+#: includes/class-avada-tgm-plugin-activation.php:2363
 msgid "External Source"
 msgstr "外部链接"
 
 # @ Avada
-#: includes/class-avada-tgm-plugin-activation.php:2363
+#: includes/class-avada-tgm-plugin-activation.php:2366
 msgid "Pre-Packaged"
 msgstr "预打包"
 
 # @ Avada
-#: includes/class-avada-tgm-plugin-activation.php:2384
+#: includes/class-avada-tgm-plugin-activation.php:2387
 msgid "Installed But Not Activated"
 msgstr "已安装但未激活"
 
-#: includes/class-avada-tgm-plugin-activation.php:2392
+#: includes/class-avada-tgm-plugin-activation.php:2395
 msgid "Required Update not Available"
 msgstr "要求的升级不存在"
 
 # @ Avada
-#: includes/class-avada-tgm-plugin-activation.php:2395
+#: includes/class-avada-tgm-plugin-activation.php:2398
 msgid "Requires Update"
 msgstr "要求升级"
 
 # @ Avada
-#: includes/class-avada-tgm-plugin-activation.php:2398
+#: includes/class-avada-tgm-plugin-activation.php:2401
 msgid "Update recommended"
 msgstr "推荐升级"
 
 # @ Avada
 #. translators: 1: number of plugins.
-#: includes/class-avada-tgm-plugin-activation.php:2457
+#: includes/class-avada-tgm-plugin-activation.php:2460
 msgid "To Install <span class=\"count\">(%s)</span>"
 msgid_plural "To Install <span class=\"count\">(%s)</span>"
 msgstr[0] "正在从<span class=\"code\">%s</span>&#8230;下载安装包"
 
 #. translators: 1: number of plugins.
-#: includes/class-avada-tgm-plugin-activation.php:2461
+#: includes/class-avada-tgm-plugin-activation.php:2464
 msgid "Update Available <span class=\"count\">(%s)</span>"
 msgid_plural "Update Available <span class=\"count\">(%s)</span>"
 msgstr[0] "可用更新<span class=\"count\">(%s)</span>"
 
 #. translators: 1: number of plugins.
-#: includes/class-avada-tgm-plugin-activation.php:2465
+#: includes/class-avada-tgm-plugin-activation.php:2468
 msgid "To Activate <span class=\"count\">(%s)</span>"
 msgid_plural "To Activate <span class=\"count\">(%s)</span>"
 msgstr[0] "启用<span class=\"count\">(%s)</span>"
 
 # @ Avada
-#: includes/class-avada-tgm-plugin-activation.php:2555
+#: includes/class-avada-tgm-plugin-activation.php:2558
 msgid "Installed version:"
 msgstr "已安装版本:"
 
-#: includes/class-avada-tgm-plugin-activation.php:2563
+#: includes/class-avada-tgm-plugin-activation.php:2566
 msgid "Minimum required version:"
 msgstr "最低要求版本:"
 
-#: includes/class-avada-tgm-plugin-activation.php:2575
+#: includes/class-avada-tgm-plugin-activation.php:2578
 msgid "Available version:"
 msgstr "现有版本:"
 
 # @ Avada
 #. translators: Dashboard URL.
-#: includes/class-avada-tgm-plugin-activation.php:2600
+#: includes/class-avada-tgm-plugin-activation.php:2603
 msgid ""
 "No plugins to install, update or activate. <a href=\"%s\">Return to the "
 "Dashboard</a>"
 msgstr "没有插件需要安装或激活， <a href=\"%s\">返回面板首页</a>"
 
 # @ Avada
-#: includes/class-avada-tgm-plugin-activation.php:2616
+#: includes/class-avada-tgm-plugin-activation.php:2619
 msgid "Plugin"
 msgstr "插件"
 
 # @ Avada
-#: includes/class-avada-tgm-plugin-activation.php:2617
+#: includes/class-avada-tgm-plugin-activation.php:2620
 msgid "Source"
 msgstr "源"
 
 # @ Avada
-#: includes/class-avada-tgm-plugin-activation.php:2618
+#: includes/class-avada-tgm-plugin-activation.php:2621
 msgid "Type"
 msgstr "类型"
 
 # @ Avada
-#: includes/class-avada-tgm-plugin-activation.php:2622
+#: includes/class-avada-tgm-plugin-activation.php:2625
 #: includes/lib/inc/redux/framework/FusionReduxCore/inc/welcome/views/status_report.php:715
 msgid "Version"
 msgstr "版本"
 
 # @ Avada
-#: includes/class-avada-tgm-plugin-activation.php:2623
+#: includes/class-avada-tgm-plugin-activation.php:2626
 #: includes/lib/inc/redux/framework/FusionReduxCore/inc/welcome/welcome.php:323
+#: includes/metaboxes/tabs/tab_form_notifications.php:105
 msgid "Status"
 msgstr "状态"
 
 #. translators: %2$s: plugin name in screen reader markup
-#: includes/class-avada-tgm-plugin-activation.php:2672
+#: includes/class-avada-tgm-plugin-activation.php:2675
 msgid "Install %2$s"
 msgstr "安装 %2$s"
 
 #. translators: %2$s: plugin name in screen reader markup
-#: includes/class-avada-tgm-plugin-activation.php:2677
+#: includes/class-avada-tgm-plugin-activation.php:2680
 msgid "Update %2$s"
 msgstr "更新 %2$s"
 
 #. translators: %2$s: plugin name in screen reader markup
-#: includes/class-avada-tgm-plugin-activation.php:2683
+#: includes/class-avada-tgm-plugin-activation.php:2686
 msgid "Activate %2$s"
 msgstr "激活 %2$s"
 
-#: includes/class-avada-tgm-plugin-activation.php:2753
+#: includes/class-avada-tgm-plugin-activation.php:2756
 msgid "Upgrade message from the plugin author:"
 msgstr "插件作者的升级消息:"
 
-#: includes/class-avada-tgm-plugin-activation.php:2826
+#: includes/class-avada-tgm-plugin-activation.php:2829
 msgid "No plugins were selected to be installed. No action taken."
 msgstr "未选择安装插件。没有采取任何行动。"
 
-#: includes/class-avada-tgm-plugin-activation.php:2828
+#: includes/class-avada-tgm-plugin-activation.php:2831
 msgid "No plugins were selected to be updated. No action taken."
 msgstr "没有选择更新的插件。没有采取任何行动。"
 
-#: includes/class-avada-tgm-plugin-activation.php:2869
+#: includes/class-avada-tgm-plugin-activation.php:2872
 msgid "No plugins are available to be installed at this time."
 msgstr "此时没有可安装的插件。"
 
-#: includes/class-avada-tgm-plugin-activation.php:2871
+#: includes/class-avada-tgm-plugin-activation.php:2874
 msgid "No plugins are available to be updated at this time."
 msgstr "此时没有可更新的插件。"
 
-#: includes/class-avada-tgm-plugin-activation.php:2977
+#: includes/class-avada-tgm-plugin-activation.php:2980
 msgid "No plugins were selected to be activated. No action taken."
 msgstr "没有选择要激活的插件。没有采取任何行动。"
 
-#: includes/class-avada-tgm-plugin-activation.php:3003
+#: includes/class-avada-tgm-plugin-activation.php:3006
 msgid "No plugins are available to be activated at this time."
 msgstr "此时没有可激活的插件。"
 
 # @ Avada
-#: includes/class-avada-tgm-plugin-activation.php:3227
+#: includes/class-avada-tgm-plugin-activation.php:3230
 msgid "Plugin activation failed."
 msgstr "插件激活失败."
 
 # @ Avada
 #. translators: 1: plugin name, 2: action number 3: total number of actions.
-#: includes/class-avada-tgm-plugin-activation.php:3567
+#: includes/class-avada-tgm-plugin-activation.php:3570
 msgid "Updating Plugin %1$s (%2$d/%3$d)"
 msgstr "升级插件%1$s (%2$d/%3$d)"
 
 # @ Avada
 #. translators: 1: plugin name, 2: error message.
-#: includes/class-avada-tgm-plugin-activation.php:3570
+#: includes/class-avada-tgm-plugin-activation.php:3573
 msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
 msgstr "在安装%1$s: <strong>%2$s</strong>时发生错误."
 
 # @ Avada
 #. translators: 1: plugin name.
-#: includes/class-avada-tgm-plugin-activation.php:3572
+#: includes/class-avada-tgm-plugin-activation.php:3575
 msgid "The installation of %1$s failed."
 msgstr "%1$s安装失败."
 
 # @ Avada
-#: includes/class-avada-tgm-plugin-activation.php:3576
+#: includes/class-avada-tgm-plugin-activation.php:3579
 msgid ""
 "The installation and activation process is starting. This process may take a "
 "while on some hosts, so please be patient."
@@ -6132,35 +6136,35 @@ msgstr "开始安装和激活，在某些主机上可能会花费一会儿时间
 
 # @ Avada
 #. translators: 1: plugin name.
-#: includes/class-avada-tgm-plugin-activation.php:3578
+#: includes/class-avada-tgm-plugin-activation.php:3581
 msgid "%1$s installed and activated successfully."
 msgstr "%1$s安装和激活成功."
 
 # @ Avada
-#: includes/class-avada-tgm-plugin-activation.php:3578
-#: includes/class-avada-tgm-plugin-activation.php:3586
+#: includes/class-avada-tgm-plugin-activation.php:3581
+#: includes/class-avada-tgm-plugin-activation.php:3589
 msgid "Show Details"
 msgstr "显示详情"
 
 # @ Avada
-#: includes/class-avada-tgm-plugin-activation.php:3578
-#: includes/class-avada-tgm-plugin-activation.php:3586
+#: includes/class-avada-tgm-plugin-activation.php:3581
+#: includes/class-avada-tgm-plugin-activation.php:3589
 msgid "Hide Details"
 msgstr "隐藏详情"
 
 # @ Avada
-#: includes/class-avada-tgm-plugin-activation.php:3579
+#: includes/class-avada-tgm-plugin-activation.php:3582
 msgid "All installations and activations have been completed."
 msgstr "所有安装和激活均已完成."
 
 # @ Avada
 #. translators: 1: plugin name, 2: action number 3: total number of actions.
-#: includes/class-avada-tgm-plugin-activation.php:3581
+#: includes/class-avada-tgm-plugin-activation.php:3584
 msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
 msgstr "正在解压缩和安装插件%1$s (%2$d/%3$d)"
 
 # @ Avada
-#: includes/class-avada-tgm-plugin-activation.php:3584
+#: includes/class-avada-tgm-plugin-activation.php:3587
 msgid ""
 "The installation process is starting. This process may take a while on some "
 "hosts, so please be patient."
@@ -6168,18 +6172,18 @@ msgstr "开始安装，在某些主机上可能会花费一会儿时间，请保
 
 # @ Avada
 #. translators: 1: plugin name.
-#: includes/class-avada-tgm-plugin-activation.php:3586
+#: includes/class-avada-tgm-plugin-activation.php:3589
 msgid "%1$s installed successfully."
 msgstr "%1$s安装成功."
 
 # @ Avada
-#: includes/class-avada-tgm-plugin-activation.php:3587
+#: includes/class-avada-tgm-plugin-activation.php:3590
 msgid "All installations have been completed."
 msgstr "全部安装已完成."
 
 # @ Avada
 #. translators: 1: plugin name, 2: action number 3: total number of actions.
-#: includes/class-avada-tgm-plugin-activation.php:3589
+#: includes/class-avada-tgm-plugin-activation.php:3592
 msgid "Installing Plugin %1$s (%2$d/%3$d)"
 msgstr "安装插件%1$s (%2$d/%3$d)"
 
@@ -6202,7 +6206,7 @@ msgstr "Avada 产品属性选项"
 
 # @ Avada
 #: includes/class-avada-woocommerce-variations.php:392
-#: includes/lib/inc/fusion-app/helpers.php:407
+#: includes/lib/inc/fusion-app/helpers.php:427
 #: includes/metaboxes/options/options_slide.php:25
 msgid "Image"
 msgstr "图片"
@@ -6251,7 +6255,7 @@ msgstr[0] "你的购物车中有%s项物品"
 # @ Avada
 #: includes/class-avada-woocommerce.php:2086
 #: includes/class-avada-woocommerce.php:2104
-#: includes/lib/inc/fusion-app/helpers.php:653
+#: includes/lib/inc/fusion-app/helpers.php:673
 msgid "Continue"
 msgstr "继续"
 
@@ -6283,11 +6287,11 @@ msgstr "Avada 图标"
 msgid "Enter the slug of the Avada icon you want to display."
 msgstr "输入您想要显示的 Avada 图标别名。"
 
-#: includes/class-awb-adobe-typography.php:301
+#: includes/class-awb-adobe-typography.php:305
 msgid "No Adobe Fonts detected."
 msgstr "未检测到 Adobe 字体。"
 
-#: includes/class-awb-adobe-typography.php:304
+#: includes/class-awb-adobe-typography.php:308
 msgid "Adobe Fonts detected:"
 msgstr "已检测到 Adobe 字体："
 
@@ -6803,7 +6807,7 @@ msgid "Run PageSpeed Insights"
 msgstr "运行 PageSpeed Insights"
 
 #: includes/class-awb-performance-wizard.php:1496
-#: includes/lib/inc/fusion-app/helpers.php:364
+#: includes/lib/inc/fusion-app/helpers.php:379
 #: includes/metaboxes/tabs/tab_off_canvas_general.php:181
 msgid "Start"
 msgstr "开始"
@@ -6869,7 +6873,7 @@ msgstr "颜色"
 
 # @ Avada
 #: includes/class-awb-setup-wizard.php:1434
-#: includes/lib/inc/fusion-app/helpers.php:564
+#: includes/lib/inc/fusion-app/helpers.php:584
 #: includes/options/typography.php:163
 msgid "Typography"
 msgstr "文字排印"
@@ -6895,7 +6899,7 @@ msgid "Use Placeholders"
 msgstr "使用占位符"
 
 #: includes/class-awb-setup-wizard.php:2017
-#: includes/lib/inc/fusion-app/helpers.php:379
+#: includes/lib/inc/fusion-app/helpers.php:394
 msgid "Invert"
 msgstr "反转"
 
@@ -6962,6 +6966,7 @@ msgstr "Ajax"
 #: includes/class-awb-views-count.php:130
 #: includes/lib/inc/fusion-app/templates/options/connected-sortable.php:39
 #: includes/metaboxes/tabs/tab_form_general.php:77
+#: includes/metaboxes/tabs/tab_form_notifications.php:112
 #: includes/metaboxes/tabs/tab_off_canvas_design.php:165
 #: includes/metaboxes/tabs/tab_off_canvas_overlay.php:237
 #: includes/options/blog.php:813 includes/options/events_calendar.php:309
@@ -7526,7 +7531,7 @@ msgstr "选择启用或禁用小工具标题。对于 WordPress 的默认小工�
 #: includes/lib/inc/class-awb-widget-style.php:170
 #: includes/lib/inc/class-fusion-settings.php:515
 #: includes/lib/inc/class-fusion-settings.php:541
-#: includes/lib/inc/fusion-app/helpers.php:400
+#: includes/lib/inc/fusion-app/helpers.php:420
 #: includes/lib/inc/widgets/class-fusion-widget-social-links.php:595
 #: includes/lib/inc/widgets/class-fusion-widget-social-links.php:629
 #: includes/lib/inc/widgets/class-fusion-widget-social-links.php:637
@@ -7549,9 +7554,9 @@ msgstr "选择启用或禁用小工具标题。对于 WordPress 的默认小工�
 #: includes/metaboxes/tabs/tab_form_appearance.php:115
 #: includes/metaboxes/tabs/tab_form_appearance.php:276
 #: includes/metaboxes/tabs/tab_form_general.php:43
-#: includes/metaboxes/tabs/tab_form_notifications.php:126
 #: includes/metaboxes/tabs/tab_form_notifications.php:162
-#: includes/metaboxes/tabs/tab_form_notifications.php:182
+#: includes/metaboxes/tabs/tab_form_notifications.php:198
+#: includes/metaboxes/tabs/tab_form_notifications.php:218
 #: includes/metaboxes/tabs/tab_form_privacy.php:31
 #: includes/metaboxes/tabs/tab_form_steps.php:538
 #: includes/metaboxes/tabs/tab_form_steps.php:794
@@ -7600,7 +7605,7 @@ msgstr "是"
 #: includes/lib/inc/class-awb-widget-style.php:171
 #: includes/lib/inc/class-fusion-settings.php:515
 #: includes/lib/inc/class-fusion-settings.php:541
-#: includes/lib/inc/fusion-app/helpers.php:401
+#: includes/lib/inc/fusion-app/helpers.php:421
 #: includes/lib/inc/widgets/class-fusion-widget-author.php:330
 #: includes/lib/inc/widgets/class-fusion-widget-author.php:364
 #: includes/lib/inc/widgets/class-fusion-widget-social-links.php:594
@@ -7625,9 +7630,9 @@ msgstr "是"
 #: includes/metaboxes/tabs/tab_form_appearance.php:116
 #: includes/metaboxes/tabs/tab_form_appearance.php:277
 #: includes/metaboxes/tabs/tab_form_general.php:44
-#: includes/metaboxes/tabs/tab_form_notifications.php:127
 #: includes/metaboxes/tabs/tab_form_notifications.php:163
-#: includes/metaboxes/tabs/tab_form_notifications.php:183
+#: includes/metaboxes/tabs/tab_form_notifications.php:199
+#: includes/metaboxes/tabs/tab_form_notifications.php:219
 #: includes/metaboxes/tabs/tab_form_privacy.php:32
 #: includes/metaboxes/tabs/tab_form_steps.php:539
 #: includes/metaboxes/tabs/tab_form_steps.php:795
@@ -7698,7 +7703,7 @@ msgstr "控制此小工具容器的外边距。输入包含任何有效 CSS 单�
 
 # @ Avada
 #: includes/lib/inc/class-awb-widget-style.php:191
-#: includes/lib/inc/fusion-app/helpers.php:472
+#: includes/lib/inc/fusion-app/helpers.php:492
 #: includes/metaboxes/tabs/tab_header.php:96
 #: includes/metaboxes/tabs/tab_off_canvas_design.php:26
 #: includes/metaboxes/tabs/tab_off_canvas_overlay.php:64
@@ -7718,7 +7723,7 @@ msgid "Controls the background border radius for this widget container."
 msgstr "控制此小工具容器的背景圆角。"
 
 #: includes/lib/inc/class-awb-widget-style.php:205
-#: includes/lib/inc/fusion-app/helpers.php:495
+#: includes/lib/inc/fusion-app/helpers.php:515
 msgid "Border Size"
 msgstr "边框大小"
 
@@ -7753,7 +7758,7 @@ msgid "Dashed"
 msgstr "虚线"
 
 #: includes/lib/inc/class-awb-widget-style.php:236
-#: includes/lib/inc/fusion-app/helpers.php:473
+#: includes/lib/inc/fusion-app/helpers.php:493
 #: includes/metaboxes/tabs/tab_off_canvas_design.php:276
 msgid "Border Color"
 msgstr "边框颜色"
@@ -7794,7 +7799,7 @@ msgstr "继承"
 #: includes/lib/inc/class-awb-widget-style.php:263
 #: includes/lib/inc/class-awb-widget-style.php:276
 #: includes/lib/inc/fusion-app/class-fusion-preferences.php:167
-#: includes/lib/inc/fusion-app/helpers.php:529
+#: includes/lib/inc/fusion-app/helpers.php:549
 #: includes/lib/inc/redux/custom-fields/spacing/field_spacing.php:129
 #: includes/lib/inc/redux/framework/FusionReduxCore/inc/fields/border/field_border.php:162
 #: includes/lib/inc/widgets/class-fusion-widget-menu.php:188
@@ -7829,7 +7834,7 @@ msgstr "左边"
 #: includes/lib/inc/class-awb-widget-style.php:264
 #: includes/lib/inc/class-awb-widget-style.php:277
 #: includes/lib/inc/fusion-app/class-fusion-preferences.php:168
-#: includes/lib/inc/fusion-app/helpers.php:530
+#: includes/lib/inc/fusion-app/helpers.php:550
 #: includes/lib/inc/redux/custom-fields/spacing/field_spacing.php:115
 #: includes/lib/inc/redux/framework/FusionReduxCore/inc/fields/border/field_border.php:148
 #: includes/lib/inc/widgets/class-fusion-widget-menu.php:190
@@ -8553,12 +8558,12 @@ msgid "Slideshow"
 msgstr "幻灯片"
 
 # @ Avada
-#: includes/lib/inc/class-fusion-scripts.php:643
+#: includes/lib/inc/class-fusion-scripts.php:642
 msgid "Loading the next set of posts..."
 msgstr "载入下一组文章中..."
 
 # @ Avada
-#: includes/lib/inc/class-fusion-scripts.php:644
+#: includes/lib/inc/class-fusion-scripts.php:643
 msgid "All items displayed."
 msgstr "所有显示的项目。"
 
@@ -8583,7 +8588,7 @@ msgstr "链接"
 #: includes/lib/inc/class-fusion-settings.php:428
 #: includes/metaboxes/tabs/tab_off_canvas_animation.php:28
 #: includes/metaboxes/tabs/tab_off_canvas_animation.php:40
-#: includes/metaboxes/tabs/tab_page.php:143
+#: includes/metaboxes/tabs/tab_page.php:153
 #: includes/metaboxes/tabs/tab_portfolio_post.php:186
 #: includes/metaboxes/tabs/tab_post.php:111 includes/options/extra.php:568
 msgid "Zoom"
@@ -8761,7 +8766,7 @@ msgstr "分类：%s"
 #. translators: The tags list.
 #. Translators: List of tags.
 #: includes/lib/inc/functions.php:419
-#: includes/lib/inc/fusion-app/helpers.php:610
+#: includes/lib/inc/fusion-app/helpers.php:630
 msgid "Tags: %s"
 msgstr "标签：%s"
 
@@ -8785,168 +8790,180 @@ msgid "Pages:"
 msgstr "页面:"
 
 # @ Avada
-#: includes/lib/inc/fusion-app/class-fusion-app.php:674
+#: includes/lib/inc/fusion-app/class-fusion-app.php:677
 msgid "Page"
 msgstr "页面设置"
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:842
+#: includes/lib/inc/fusion-app/class-fusion-app.php:845
 msgid "Edit Live"
 msgstr "实时编辑"
 
 #. translators: Name of post type.
-#: includes/lib/inc/fusion-app/class-fusion-app.php:903
+#: includes/lib/inc/fusion-app/class-fusion-app.php:906
 msgid "Edit %s"
 msgstr "编辑 %s"
 
 #. translators: Number of layout.
-#: includes/lib/inc/fusion-app/class-fusion-app.php:942
+#: includes/lib/inc/fusion-app/class-fusion-app.php:945
 msgid "Edit Layout: %s"
 msgstr "编辑布局：%s"
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:965
+#: includes/lib/inc/fusion-app/class-fusion-app.php:968
 msgid "Use Layouts"
 msgstr "使用布局"
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:965
+#: includes/lib/inc/fusion-app/class-fusion-app.php:968
 msgid "Manage"
 msgstr "管理"
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:1004
+#: includes/lib/inc/fusion-app/class-fusion-app.php:1007
 msgid "Form"
 msgstr "表单"
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:1047
+#: includes/lib/inc/fusion-app/class-fusion-app.php:1050
 msgid "Post Card"
 msgstr "文章卡片"
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:1904
+#: includes/lib/inc/fusion-app/class-fusion-app.php:1789
+msgid "Hours"
+msgstr ""
+
+#: includes/lib/inc/fusion-app/class-fusion-app.php:1790
+msgid "Minutes"
+msgstr ""
+
+#: includes/lib/inc/fusion-app/class-fusion-app.php:1791
+msgid "Seconds"
+msgstr ""
+
+#: includes/lib/inc/fusion-app/class-fusion-app.php:1961
 msgid "You do not have permission to edit this post."
 msgstr "你无权限编辑此文章"
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:1984
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2041
 msgid "The page contents updated."
 msgstr "页面内容已更新。"
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:1991
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2048
 msgid "You do not have permission to edit this archive."
 msgstr "你无权限编辑此归档"
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2026
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2083
 msgid "The archive details updated."
 msgstr "归档详情已更新。"
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2279
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2280
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2336
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2337
 #: includes/options/performance.php:119 includes/options/typography.php:1225
 msgid "Ultra-Light 100"
 msgstr "Ultra-Light 100"
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2281
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2338
 #: includes/options/performance.php:120
 msgid "Ultra-Light 100 Italic"
 msgstr "Ultra-Light 100 Italic"
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2282
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2339
 #: includes/options/performance.php:121 includes/options/typography.php:1226
 msgid "Light 200"
 msgstr "Light 200"
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2283
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2340
 #: includes/options/performance.php:122
 msgid "Light 200 Italic"
 msgstr "Light 200 Italic"
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2284
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2341
 #: includes/options/performance.php:123 includes/options/typography.php:1227
 msgid "Book 300"
 msgstr "Book 300"
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2285
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2342
 #: includes/options/performance.php:124
 msgid "Book 300 Italic"
 msgstr "Book 300 Italic"
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2286
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2287
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2343
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2344
 #: includes/options/performance.php:125 includes/options/typography.php:1228
 msgid "Normal 400"
 msgstr "Normal 400"
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2288
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2345
 #: includes/options/performance.php:126
 msgid "Normal 400 Italic"
 msgstr "Normal 400 Italic"
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2289
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2346
 #: includes/options/performance.php:127 includes/options/typography.php:1229
 msgid "Medium 500"
 msgstr "Medium 500"
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2290
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2347
 #: includes/options/performance.php:128
 msgid "Medium 500 Italic"
 msgstr "Medium 500 Italic"
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2291
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2292
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2348
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2349
 #: includes/options/performance.php:129 includes/options/typography.php:1230
 msgid "Semi-Bold 600"
 msgstr "Semi-Bold 600"
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2293
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2350
 #: includes/options/performance.php:130
 msgid "Semi-Bold 600 Italic"
 msgstr "Semi-Bold 600 Italic"
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2294
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2351
 #: includes/options/performance.php:131 includes/options/typography.php:1231
 msgid "Bold 700"
 msgstr "Bold 700"
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2295
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2352
 #: includes/options/performance.php:132
 msgid "Bold 700 Italic"
 msgstr "Bold 700 Italic"
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2296
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2297
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2353
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2354
 #: includes/options/performance.php:133 includes/options/typography.php:1232
 msgid "Extra-Bold 800"
 msgstr "Extra-Bold 800"
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2298
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2355
 #: includes/options/performance.php:134
 msgid "Extra-Bold 800 Italic"
 msgstr "Extra-Bold 800 Italic"
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2299
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2300
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2356
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2357
 #: includes/options/performance.php:135 includes/options/typography.php:1233
 msgid "Ultra-Bold 900"
 msgstr "Ultra-Bold 900"
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2301
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2358
 #: includes/options/performance.php:136
 msgid "Ultra-Bold 900 Italic"
 msgstr "Ultra-Bold 900 Italic"
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2556
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2613
 msgid "Go back"
 msgstr "返回"
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2564
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2621
 msgid "Back to"
 msgstr "回到"
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2571
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2628
 msgid "Take Over"
 msgstr "接管"
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2580
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2637
 msgid "is currently editing this post. Do you want to take over?"
 msgstr "正在编辑此文章。您想接管吗？"
 
-#: includes/lib/inc/fusion-app/class-fusion-app.php:2586
+#: includes/lib/inc/fusion-app/class-fusion-app.php:2643
 msgid "has taken over and is currently editing."
 msgstr "已接管并且正在编辑。"
 
@@ -9266,323 +9283,380 @@ msgstr ""
 msgid "Clear Layout"
 msgstr ""
 
+#: includes/lib/inc/fusion-app/helpers.php:242
+msgid "Copy Page Content"
+msgstr ""
+
+#: includes/lib/inc/fusion-app/helpers.php:243
+msgid "Page content copied."
+msgstr ""
+
 #: includes/lib/inc/fusion-app/helpers.php:244
+msgid "Nothing to copy, the page is empty."
+msgstr ""
+
+#: includes/lib/inc/fusion-app/helpers.php:245
+msgid "Paste Page Content"
+msgstr ""
+
+#: includes/lib/inc/fusion-app/helpers.php:246
+msgid "Page content pasted."
+msgstr ""
+
+#: includes/lib/inc/fusion-app/helpers.php:247
+msgid "No copied page content found."
+msgstr ""
+
+#: includes/lib/inc/fusion-app/helpers.php:248
+msgid "Pasted Page Content"
+msgstr ""
+
+#: includes/lib/inc/fusion-app/helpers.php:249
+msgid "Find & Replace"
+msgstr ""
+
+#: includes/lib/inc/fusion-app/helpers.php:250
+msgid "Find"
+msgstr ""
+
+#: includes/lib/inc/fusion-app/helpers.php:251
+msgid "Replace with"
+msgstr ""
+
+#: includes/lib/inc/fusion-app/helpers.php:252
+msgid "Replace All"
+msgstr ""
+
+#: includes/lib/inc/fusion-app/helpers.php:253
+msgid "No matches found."
+msgstr ""
+
+#. translators: The number of replacements.
+#: includes/lib/inc/fusion-app/helpers.php:255
+msgid "%s replacements made."
+msgstr ""
+
+#: includes/lib/inc/fusion-app/helpers.php:256
+msgid "Replacing…"
+msgstr ""
+
+#: includes/lib/inc/fusion-app/helpers.php:259
 #: includes/metaboxes/metaboxes.php:696
 #: includes/metaboxes/tabs/tab_code_fields.php:22
 msgid "Code Fields"
 msgstr "代码字段"
 
-#: includes/lib/inc/fusion-app/helpers.php:245
+#: includes/lib/inc/fusion-app/helpers.php:260
 #: includes/metaboxes/tabs/tab_code_fields.php:78
 msgid "Custom Code"
 msgstr "自定义代码"
 
-#: includes/lib/inc/fusion-app/helpers.php:246
+#: includes/lib/inc/fusion-app/helpers.php:261
 #: includes/lib/inc/redux/framework/class.fusionredux-plugin.php:415
 msgid "Builder"
 msgstr "编辑器"
 
-#: includes/lib/inc/fusion-app/helpers.php:248
+#: includes/lib/inc/fusion-app/helpers.php:263
 msgid "Add your CSS code here..."
 msgstr "添加CSS代码"
 
 # @ Avada
-#: includes/lib/inc/fusion-app/helpers.php:249
+#: includes/lib/inc/fusion-app/helpers.php:264
 msgid "Delete page layout"
 msgstr "删除页面布局"
 
-#: includes/lib/inc/fusion-app/helpers.php:250
+#: includes/lib/inc/fusion-app/helpers.php:265
 msgid "Undo"
 msgstr "撤销"
 
-#: includes/lib/inc/fusion-app/helpers.php:251
+#: includes/lib/inc/fusion-app/helpers.php:266
 msgid "Redo"
 msgstr "重做"
 
-#: includes/lib/inc/fusion-app/helpers.php:253
+#: includes/lib/inc/fusion-app/helpers.php:268
 msgid "Don't Save"
 msgstr "不保存"
 
-#: includes/lib/inc/fusion-app/helpers.php:254
+#: includes/lib/inc/fusion-app/helpers.php:269
 msgid "Save & Leave"
 msgstr "保存并离开"
 
-#: includes/lib/inc/fusion-app/helpers.php:255
+#: includes/lib/inc/fusion-app/helpers.php:270
 msgid "Just Leave"
 msgstr "直接离开"
 
-#: includes/lib/inc/fusion-app/helpers.php:256
+#: includes/lib/inc/fusion-app/helpers.php:271
 msgid "Delete item"
 msgstr "删除项目"
 
-#: includes/lib/inc/fusion-app/helpers.php:257
+#: includes/lib/inc/fusion-app/helpers.php:272
 msgid "Clone item"
 msgstr "克隆项目"
 
-#: includes/lib/inc/fusion-app/helpers.php:258
+#: includes/lib/inc/fusion-app/helpers.php:273
 msgid "Edit item"
 msgstr "编辑项目"
 
 #. translators: Element settings.
-#: includes/lib/inc/fusion-app/helpers.php:260
+#: includes/lib/inc/fusion-app/helpers.php:275
 msgid "%s Options"
 msgstr "%s选项"
 
-#: includes/lib/inc/fusion-app/helpers.php:261
+#: includes/lib/inc/fusion-app/helpers.php:276
 msgid "Container"
 msgstr "容器"
 
-#: includes/lib/inc/fusion-app/helpers.php:262
+#: includes/lib/inc/fusion-app/helpers.php:277
 msgid "Container Options"
 msgstr "容器选项"
 
-#: includes/lib/inc/fusion-app/helpers.php:263
+#: includes/lib/inc/fusion-app/helpers.php:278
 msgid "Insert Container"
 msgstr "插入容器"
 
-#: includes/lib/inc/fusion-app/helpers.php:264
+#: includes/lib/inc/fusion-app/helpers.php:279
 msgid "Clone Container"
 msgstr "克隆容器"
 
-#: includes/lib/inc/fusion-app/helpers.php:265
+#: includes/lib/inc/fusion-app/helpers.php:280
 msgid "Save Container"
 msgstr "保存容器"
 
-#: includes/lib/inc/fusion-app/helpers.php:266
+#: includes/lib/inc/fusion-app/helpers.php:281
 msgid "Delete Container"
 msgstr "删除容器"
 
-#: includes/lib/inc/fusion-app/helpers.php:267
+#: includes/lib/inc/fusion-app/helpers.php:282
 msgid "Builder Containers"
 msgstr "建造容器"
 
-#: includes/lib/inc/fusion-app/helpers.php:268
+#: includes/lib/inc/fusion-app/helpers.php:283
 msgid "Click to toggle"
 msgstr "点击切换"
 
-#: includes/lib/inc/fusion-app/helpers.php:269
+#: includes/lib/inc/fusion-app/helpers.php:284
 msgid "Save Custom Container"
 msgstr "保存自定义容器"
 
-#: includes/lib/inc/fusion-app/helpers.php:270
+#: includes/lib/inc/fusion-app/helpers.php:285
 msgid "Save Custom Template"
 msgstr "保存自定义模板"
 
-#: includes/lib/inc/fusion-app/helpers.php:271
+#: includes/lib/inc/fusion-app/helpers.php:286
 msgid "Custom containers will be stored and managed on the Library tab"
 msgstr "自定义容器将存储在库选项卡中并进行管理"
 
-#: includes/lib/inc/fusion-app/helpers.php:272
+#: includes/lib/inc/fusion-app/helpers.php:287
 msgid "Enter Name..."
 msgstr "输入名称..."
 
-#: includes/lib/inc/fusion-app/helpers.php:273
-#: includes/lib/inc/fusion-app/helpers.php:397
-#: includes/lib/inc/fusion-app/helpers.php:540
+#: includes/lib/inc/fusion-app/helpers.php:288
+#: includes/lib/inc/fusion-app/helpers.php:417
+#: includes/lib/inc/fusion-app/helpers.php:560
 #: includes/metaboxes/tabs/tab_off_canvas_general.php:268
 msgid "Column"
 msgstr "列"
 
-#: includes/lib/inc/fusion-app/helpers.php:274
+#: includes/lib/inc/fusion-app/helpers.php:289
 #: includes/options/privacy.php:1055
 msgid "Columns"
 msgstr "列"
 
-#: includes/lib/inc/fusion-app/helpers.php:275
+#: includes/lib/inc/fusion-app/helpers.php:290
 msgid "Resize column"
 msgstr "调整列大小"
 
-#: includes/lib/inc/fusion-app/helpers.php:276
+#: includes/lib/inc/fusion-app/helpers.php:291
 msgid "Resized Column to"
 msgstr "将列大小调整为"
 
-#: includes/lib/inc/fusion-app/helpers.php:277
+#: includes/lib/inc/fusion-app/helpers.php:292
 msgid "Column Options"
 msgstr "列选项"
 
-#: includes/lib/inc/fusion-app/helpers.php:278
+#: includes/lib/inc/fusion-app/helpers.php:293
 msgid "Save column"
 msgstr "保存列"
 
 # @ bbpress
 # @ Avada
-#: includes/lib/inc/fusion-app/helpers.php:279
+#: includes/lib/inc/fusion-app/helpers.php:294
 msgid "Delete column"
 msgstr "删除列"
 
 # @ bbpress
 # @ Avada
-#: includes/lib/inc/fusion-app/helpers.php:280
+#: includes/lib/inc/fusion-app/helpers.php:295
 msgid "Delete row"
 msgstr "删除行"
 
-#: includes/lib/inc/fusion-app/helpers.php:281
+#: includes/lib/inc/fusion-app/helpers.php:296
 msgid "Clone column"
 msgstr "克隆列"
 
-#: includes/lib/inc/fusion-app/helpers.php:282
+#: includes/lib/inc/fusion-app/helpers.php:297
 msgid "Save Custom Column"
 msgstr "保存自定义列"
 
-#: includes/lib/inc/fusion-app/helpers.php:283
-#: includes/lib/inc/fusion-app/helpers.php:312
+#: includes/lib/inc/fusion-app/helpers.php:298
+#: includes/lib/inc/fusion-app/helpers.php:327
 msgid "Custom elements will be stored and managed on the Library tab"
 msgstr "自定义元素将存储在库选项卡中并进行管理"
 
-#: includes/lib/inc/fusion-app/helpers.php:284
+#: includes/lib/inc/fusion-app/helpers.php:299
 msgid "Add element"
 msgstr "添加元素"
 
-#: includes/lib/inc/fusion-app/helpers.php:285
+#: includes/lib/inc/fusion-app/helpers.php:300
 #: includes/metaboxes/tabs/tab_off_canvas_triggers.php:108
 msgid "Element"
 msgstr "元素"
 
 # @ Avada
-#: includes/lib/inc/fusion-app/helpers.php:286
+#: includes/lib/inc/fusion-app/helpers.php:301
 msgid "Insert Columns"
 msgstr "插入列"
 
-#: includes/lib/inc/fusion-app/helpers.php:288
+#: includes/lib/inc/fusion-app/helpers.php:303
 msgid "Search Elements"
 msgstr "搜索元素"
 
-#: includes/lib/inc/fusion-app/helpers.php:289
+#: includes/lib/inc/fusion-app/helpers.php:304
 msgid "Search Containers"
 msgstr "搜索容器"
 
 # @ bbpress
-#: includes/lib/inc/fusion-app/helpers.php:290
+#: includes/lib/inc/fusion-app/helpers.php:305
 msgid "Search Columns"
 msgstr "搜索列"
 
 # @ Avada
-#: includes/lib/inc/fusion-app/helpers.php:291
+#: includes/lib/inc/fusion-app/helpers.php:306
 msgid "Builder Columns"
 msgstr "建造列"
 
 # @ Avada
-#: includes/lib/inc/fusion-app/helpers.php:292
+#: includes/lib/inc/fusion-app/helpers.php:307
 msgid "Library Columns"
 msgstr "库列"
 
-#: includes/lib/inc/fusion-app/helpers.php:293
+#: includes/lib/inc/fusion-app/helpers.php:308
 msgid "Library Containers"
 msgstr "库容器"
 
-#: includes/lib/inc/fusion-app/helpers.php:295
+#: includes/lib/inc/fusion-app/helpers.php:310
 msgid "Select Element"
 msgstr "选择元素"
 
-#: includes/lib/inc/fusion-app/helpers.php:299
+#: includes/lib/inc/fusion-app/helpers.php:314
 msgid "Library Elements"
 msgstr "库元素"
 
-#: includes/lib/inc/fusion-app/helpers.php:300
+#: includes/lib/inc/fusion-app/helpers.php:315
 msgid "Inline element for usage inside of other elements."
 msgstr "用于其他元素内部的内联元素。"
 
-#: includes/lib/inc/fusion-app/helpers.php:301
+#: includes/lib/inc/fusion-app/helpers.php:316
 msgid "This element can be added only"
 msgstr "此元素只能添加"
 
-#: includes/lib/inc/fusion-app/helpers.php:302
+#: includes/lib/inc/fusion-app/helpers.php:317
 msgid "time."
 msgstr "次。"
 
-#: includes/lib/inc/fusion-app/helpers.php:303
+#: includes/lib/inc/fusion-app/helpers.php:318
 msgid "times."
 msgstr "次。"
 
 # @ Avada
-#: includes/lib/inc/fusion-app/helpers.php:304
+#: includes/lib/inc/fusion-app/helpers.php:319
 msgid "Nested Columns"
 msgstr "内嵌列"
 
-#: includes/lib/inc/fusion-app/helpers.php:305
+#: includes/lib/inc/fusion-app/helpers.php:320
 msgid "Nested Columns Options"
 msgstr "嵌套列选项"
 
 # @ Avada
-#: includes/lib/inc/fusion-app/helpers.php:307
+#: includes/lib/inc/fusion-app/helpers.php:322
 msgid "Clone Element"
 msgstr "克隆元素"
 
-#: includes/lib/inc/fusion-app/helpers.php:308
+#: includes/lib/inc/fusion-app/helpers.php:323
 msgid "Save Element"
 msgstr "保存元素"
 
-#: includes/lib/inc/fusion-app/helpers.php:309
+#: includes/lib/inc/fusion-app/helpers.php:324
 msgid "Save As Global"
 msgstr "另存为全局"
 
 # @ bbpress
 # @ Avada
-#: includes/lib/inc/fusion-app/helpers.php:310
+#: includes/lib/inc/fusion-app/helpers.php:325
 msgid "Delete Element"
 msgstr "删除元素"
 
 # @ Avada
-#: includes/lib/inc/fusion-app/helpers.php:311
+#: includes/lib/inc/fusion-app/helpers.php:326
 msgid "Save Custom Element"
 msgstr "保存自定义元素"
 
-#: includes/lib/inc/fusion-app/helpers.php:313
+#: includes/lib/inc/fusion-app/helpers.php:328
 msgid "Add / Edit Items"
 msgstr "添加/编辑元素"
 
-#: includes/lib/inc/fusion-app/helpers.php:314
+#: includes/lib/inc/fusion-app/helpers.php:329
 msgid ""
 "Add or edit new items for this element. Drag and drop them into the desired "
 "order."
 msgstr "添加或编辑此元素的新项目。拖放它们以按所需顺序排列。"
 
-#: includes/lib/inc/fusion-app/helpers.php:315
+#: includes/lib/inc/fusion-app/helpers.php:330
 msgid "Clone inner columns"
 msgstr "克隆内部列"
 
-#: includes/lib/inc/fusion-app/helpers.php:316
+#: includes/lib/inc/fusion-app/helpers.php:331
 msgid "Save inner columns"
 msgstr "保存内部列"
 
-#: includes/lib/inc/fusion-app/helpers.php:317
+#: includes/lib/inc/fusion-app/helpers.php:332
 msgid "Delete inner columns"
 msgstr "删除内部列"
 
-#: includes/lib/inc/fusion-app/helpers.php:318
+#: includes/lib/inc/fusion-app/helpers.php:333
 msgid "Save Nested Columns"
 msgstr "保存嵌套列"
 
-#: includes/lib/inc/fusion-app/helpers.php:319
-#: includes/lib/inc/fusion-app/helpers.php:321
+#: includes/lib/inc/fusion-app/helpers.php:334
+#: includes/lib/inc/fusion-app/helpers.php:336
 msgid "Select or Leave Blank for All"
 msgstr "选择或留空表示全部"
 
-#: includes/lib/inc/fusion-app/helpers.php:320
+#: includes/lib/inc/fusion-app/helpers.php:335
 msgid "Select or Leave Blank for Global"
 msgstr "选择或留空表示全局"
 
-#: includes/lib/inc/fusion-app/helpers.php:322
+#: includes/lib/inc/fusion-app/helpers.php:337
 msgid "Select or Leave Blank for None"
 msgstr "选择或留空表示无"
 
-#: includes/lib/inc/fusion-app/helpers.php:323
+#: includes/lib/inc/fusion-app/helpers.php:338
 msgid "Select or Leave Blank for Published"
 msgstr "选择或留空表示已发布"
 
-#: includes/lib/inc/fusion-app/helpers.php:324
+#: includes/lib/inc/fusion-app/helpers.php:339
 msgid "Please enter element name"
 msgstr "请填入元素名称"
 
-#: includes/lib/inc/fusion-app/helpers.php:325
+#: includes/lib/inc/fusion-app/helpers.php:340
 msgid "You are about to remove all page layout. Do you still want to proceed?"
 msgstr "将会删除全部页面布局，确定继续？"
 
-#: includes/lib/inc/fusion-app/helpers.php:326
+#: includes/lib/inc/fusion-app/helpers.php:341
 msgid "Are you sure you want to delete this ?"
 msgstr "确定删除这个元素？"
 
-#: includes/lib/inc/fusion-app/helpers.php:327
+#: includes/lib/inc/fusion-app/helpers.php:342
 msgid ""
 "This is a global item. Deleting this element will remove it from every page "
 "you have it on. Are you sure you want to remove it?"
@@ -9590,31 +9664,31 @@ msgstr ""
 "这是一个全局项目。删除此元素将从您拥有它的每个页面中将其移除。您确定要移除它"
 "吗？"
 
-#: includes/lib/inc/fusion-app/helpers.php:328
+#: includes/lib/inc/fusion-app/helpers.php:343
 msgid "Global element<br>Click to disable global status"
 msgstr "全局元素<br>点击禁用全局状态"
 
-#: includes/lib/inc/fusion-app/helpers.php:329
+#: includes/lib/inc/fusion-app/helpers.php:344
 msgid "Global column<br>Click to disable global status"
 msgstr "全局列<br>点击禁用全局状态"
 
-#: includes/lib/inc/fusion-app/helpers.php:330
+#: includes/lib/inc/fusion-app/helpers.php:345
 msgid "Global container<br>Click to disable global status"
 msgstr "全局容器<br>点击禁用全局状态"
 
-#: includes/lib/inc/fusion-app/helpers.php:331
+#: includes/lib/inc/fusion-app/helpers.php:346
 msgid "An element with this name already exists. Please enter different name."
 msgstr "同名元素已存在。请输入不同的名称。"
 
-#: includes/lib/inc/fusion-app/helpers.php:332
+#: includes/lib/inc/fusion-app/helpers.php:347
 msgid "Please enter template name"
 msgstr "请输入模板名称"
 
-#: includes/lib/inc/fusion-app/helpers.php:333
+#: includes/lib/inc/fusion-app/helpers.php:348
 msgid "Save page layout"
 msgstr "保存页面布局"
 
-#: includes/lib/inc/fusion-app/helpers.php:334
+#: includes/lib/inc/fusion-app/helpers.php:349
 #: includes/lib/inc/redux/framework/FusionReduxCore/inc/fields/background/field_background.php:318
 #: includes/lib/inc/redux/framework/FusionReduxCore/inc/fields/media/field_media.php:202
 #: includes/lib/inc/redux/framework/FusionReduxCore/inc/fields/slides/field_slides.php:147
@@ -9622,400 +9696,416 @@ msgstr "保存页面布局"
 msgid "Upload"
 msgstr "上传"
 
-#: includes/lib/inc/fusion-app/helpers.php:336
+#: includes/lib/inc/fusion-app/helpers.php:351
 msgid "Upload Audio"
 msgstr "上传音频"
 
 # @ Avada
-#: includes/lib/inc/fusion-app/helpers.php:338
+#: includes/lib/inc/fusion-app/helpers.php:353
 msgid "Attach Images to Gallery"
 msgstr "向相册添加图片"
 
-#: includes/lib/inc/fusion-app/helpers.php:339
+#: includes/lib/inc/fusion-app/helpers.php:354
 msgid "Insert"
 msgstr "插入"
 
-#: includes/lib/inc/fusion-app/helpers.php:341
+#: includes/lib/inc/fusion-app/helpers.php:356
 msgid "To get started, add a Container, or add a prebuilt page."
 msgstr "要开始，请添加一个容器，或添加一个预建页面。"
 
-#: includes/lib/inc/fusion-app/helpers.php:342
+#: includes/lib/inc/fusion-app/helpers.php:357
 msgid "To get started, add a Container, or add a prebuilt header."
 msgstr "要开始，请添加一个容器，或添加一个预建页头。"
 
-#: includes/lib/inc/fusion-app/helpers.php:343
+#: includes/lib/inc/fusion-app/helpers.php:358
 msgid "To get started, add a Container, or add prebuilt content."
 msgstr "要开始，请添加一个容器，或添加预建内容。"
 
-#: includes/lib/inc/fusion-app/helpers.php:344
+#: includes/lib/inc/fusion-app/helpers.php:359
 msgid "To get started building your Page Title Bar, add a container."
 msgstr "要开始构建您的页面标题栏，请添加一个容器。"
 
-#: includes/lib/inc/fusion-app/helpers.php:345
+#: includes/lib/inc/fusion-app/helpers.php:360
 msgid "To get started building your Footer, add a container."
 msgstr "要开始构建您的页脚，请添加一个容器。"
 
-#: includes/lib/inc/fusion-app/helpers.php:346
+#: includes/lib/inc/fusion-app/helpers.php:361
 msgid "To get started building your Form, add a container."
 msgstr "要开始构建您的表单，请添加一个容器。"
 
-#: includes/lib/inc/fusion-app/helpers.php:347
+#: includes/lib/inc/fusion-app/helpers.php:362
 msgid "To get started building your Off Canvas, add a container."
 msgstr "要开始构建您的侧边抽屉，请添加一个容器。"
 
-#: includes/lib/inc/fusion-app/helpers.php:348
+#: includes/lib/inc/fusion-app/helpers.php:363
 msgid "To get started, add a Container, or add a prebuilt mega menu."
 msgstr "要开始，请添加一个容器，或添加一个预建超级菜单。"
 
-#: includes/lib/inc/fusion-app/helpers.php:349
+#: includes/lib/inc/fusion-app/helpers.php:364
 msgid ""
 "The building process always starts with a container, then columns, then "
 "elements."
 msgstr "构建过程始终从容器开始，然后是列，然后是元素。"
 
 # @ Avada
-#: includes/lib/inc/fusion-app/helpers.php:350
+#: includes/lib/inc/fusion-app/helpers.php:365
 msgid "Watch The Video!"
 msgstr "观看视频"
 
-#: includes/lib/inc/fusion-app/helpers.php:351
+#: includes/lib/inc/fusion-app/helpers.php:366
 msgid "Edit Settings"
 msgstr "编辑设置"
 
-#: includes/lib/inc/fusion-app/helpers.php:352
+#: includes/lib/inc/fusion-app/helpers.php:367
 msgid "Backward History"
 msgstr "后退历史"
 
 # @ Avada
-#: includes/lib/inc/fusion-app/helpers.php:353
+#: includes/lib/inc/fusion-app/helpers.php:368
 msgid "Duplicate Content"
 msgstr "复制内容"
 
-#: includes/lib/inc/fusion-app/helpers.php:354
+#: includes/lib/inc/fusion-app/helpers.php:369
 msgid "Forward History"
 msgstr "前进历史"
 
-#: includes/lib/inc/fusion-app/helpers.php:355
+#: includes/lib/inc/fusion-app/helpers.php:370
 msgid "Save Custom Content"
 msgstr "保存自定义内容"
 
-#: includes/lib/inc/fusion-app/helpers.php:356
+#: includes/lib/inc/fusion-app/helpers.php:371
 msgid "Delete Content"
 msgstr "删除内容"
 
 # @ Avada
-#: includes/lib/inc/fusion-app/helpers.php:357
+#: includes/lib/inc/fusion-app/helpers.php:372
 msgid "Add Content"
 msgstr "添加内容"
 
-#: includes/lib/inc/fusion-app/helpers.php:358
+#: includes/lib/inc/fusion-app/helpers.php:373
 msgid "Click the ? icon to access Avada documentation"
 msgstr "点击 ? 图标以访问 Avada 文档"
 
-#: includes/lib/inc/fusion-app/helpers.php:359
+#: includes/lib/inc/fusion-app/helpers.php:374
 msgid "Getting Started Video"
 msgstr "上手视频"
 
 # @ woocommerce
-#: includes/lib/inc/fusion-app/helpers.php:360
+#: includes/lib/inc/fusion-app/helpers.php:375
 msgid "Icon Control Descriptions:"
 msgstr "图标控制描述:"
 
-#: includes/lib/inc/fusion-app/helpers.php:361
+#: includes/lib/inc/fusion-app/helpers.php:376
 msgid "History"
 msgstr "历史"
 
 # @ woocommerce
-#: includes/lib/inc/fusion-app/helpers.php:362
+#: includes/lib/inc/fusion-app/helpers.php:377
 msgid "Collapse Sections"
 msgstr "收起分区"
 
-#: includes/lib/inc/fusion-app/helpers.php:363
+#: includes/lib/inc/fusion-app/helpers.php:378
 msgid "History States"
 msgstr "历史状态"
 
 # @ Avada
-#: includes/lib/inc/fusion-app/helpers.php:365
+#: includes/lib/inc/fusion-app/helpers.php:380
 msgid "Moved Column"
 msgstr "移动的列"
 
-#: includes/lib/inc/fusion-app/helpers.php:366
+#: includes/lib/inc/fusion-app/helpers.php:381
 msgid "Added Custom Element: "
 msgstr "已添加的自定义元素"
 
-#: includes/lib/inc/fusion-app/helpers.php:367
+#: includes/lib/inc/fusion-app/helpers.php:382
 msgid "Added Custom Column: "
 msgstr "已添加的自定义列:"
 
 # @ Avada
-#: includes/lib/inc/fusion-app/helpers.php:368
+#: includes/lib/inc/fusion-app/helpers.php:383
 msgid "Added Columns"
 msgstr "已添加的列"
 
-#: includes/lib/inc/fusion-app/helpers.php:369
+#: includes/lib/inc/fusion-app/helpers.php:384
 msgid "Added Custom Container: "
 msgstr "已添加的自定义容器:"
 
-#: includes/lib/inc/fusion-app/helpers.php:370
+#: includes/lib/inc/fusion-app/helpers.php:385
 msgid "Added Studio Element: "
 msgstr "已添加工作室元素："
 
-#: includes/lib/inc/fusion-app/helpers.php:371
+#: includes/lib/inc/fusion-app/helpers.php:386
 msgid "Added Studio Column: "
 msgstr "已添加工作室列："
 
-#: includes/lib/inc/fusion-app/helpers.php:372
+#: includes/lib/inc/fusion-app/helpers.php:387
 msgid "Added Studio Container: "
 msgstr "已添加工作室容器："
 
-#: includes/lib/inc/fusion-app/helpers.php:373
+#: includes/lib/inc/fusion-app/helpers.php:388
 msgid "Added Special Item: "
 msgstr "已添加特殊项目："
 
 # @ bbpress
 # @ Avada
-#: includes/lib/inc/fusion-app/helpers.php:374
+#: includes/lib/inc/fusion-app/helpers.php:389
 msgid "Deleted"
 msgstr "删除的"
 
-#: includes/lib/inc/fusion-app/helpers.php:375
+#: includes/lib/inc/fusion-app/helpers.php:390
 msgid "Cloned"
 msgstr "已克隆"
 
 # @ Avada
-#: includes/lib/inc/fusion-app/helpers.php:376
+#: includes/lib/inc/fusion-app/helpers.php:391
 msgid "Pasted"
 msgstr "粘贴的"
 
 # @ Avada
-#: includes/lib/inc/fusion-app/helpers.php:377
+#: includes/lib/inc/fusion-app/helpers.php:392
 msgid "Moved"
 msgstr "移动的"
 
-#: includes/lib/inc/fusion-app/helpers.php:378
+#: includes/lib/inc/fusion-app/helpers.php:393
 msgid "Edited"
 msgstr "编辑的"
 
-#: includes/lib/inc/fusion-app/helpers.php:380
+#: includes/lib/inc/fusion-app/helpers.php:395
 #: includes/lib/inc/fusion-app/templates/modal-dialog-more.php:37
 msgid "Reset to Default"
 msgstr "初始化"
 
-#: includes/lib/inc/fusion-app/helpers.php:381
+#: includes/lib/inc/fusion-app/helpers.php:396
 msgid "Added Nested Columns"
 msgstr "已添加的内嵌列"
 
-#: includes/lib/inc/fusion-app/helpers.php:382
+#: includes/lib/inc/fusion-app/helpers.php:397
 msgid "Edited Nested Columns"
 msgstr "已编辑嵌套列"
 
-#: includes/lib/inc/fusion-app/helpers.php:383
+#: includes/lib/inc/fusion-app/helpers.php:398
 msgid "Deleted Nested Columns"
 msgstr "已删除嵌套列"
 
-#: includes/lib/inc/fusion-app/helpers.php:384
+#: includes/lib/inc/fusion-app/helpers.php:399
 msgid "Moved Nested Column"
 msgstr "已移动嵌套列"
 
-#: includes/lib/inc/fusion-app/helpers.php:385
+#: includes/lib/inc/fusion-app/helpers.php:400
 msgid "Head Title"
 msgstr "导航栏标题"
 
-#: includes/lib/inc/fusion-app/helpers.php:386
+#: includes/lib/inc/fusion-app/helpers.php:401
+msgid "Sub-Heading"
+msgstr ""
+
+#: includes/lib/inc/fusion-app/helpers.php:403
+msgid "Badge Text"
+msgstr ""
+
+#: includes/lib/inc/fusion-app/helpers.php:404
+msgid "Text Above Price"
+msgstr ""
+
+#: includes/lib/inc/fusion-app/helpers.php:405
+msgid "Text Below Price"
+msgstr ""
+
+#: includes/lib/inc/fusion-app/helpers.php:406
 msgid "Currency"
 msgstr "货币"
 
 # @ Avada
 # @ woocommerce
-#: includes/lib/inc/fusion-app/helpers.php:387
+#: includes/lib/inc/fusion-app/helpers.php:407
 #: templates/wc-catalog-ordering.php:52 templates/wc-catalog-ordering.php:101
 #: woocommerce/cart/cart.php:32 woocommerce/cart/cart.php:128
 msgid "Price"
 msgstr "价格"
 
-#: includes/lib/inc/fusion-app/helpers.php:388
+#: includes/lib/inc/fusion-app/helpers.php:408
 msgid "Period"
 msgstr "周期"
 
 # @ Avada
-#: includes/lib/inc/fusion-app/helpers.php:389
+#: includes/lib/inc/fusion-app/helpers.php:409
 msgid "Enter Text"
 msgstr "输入文字"
 
-#: includes/lib/inc/fusion-app/helpers.php:390
+#: includes/lib/inc/fusion-app/helpers.php:410
 msgid "Added"
 msgstr "已添加"
 
-#: includes/lib/inc/fusion-app/helpers.php:391
+#: includes/lib/inc/fusion-app/helpers.php:411
 msgid "Added Container"
 msgstr "已添加的容器"
 
-#: includes/lib/inc/fusion-app/helpers.php:392
+#: includes/lib/inc/fusion-app/helpers.php:412
 msgid "Cloned Nested Columns"
 msgstr "已克隆嵌套列"
 
-#: includes/lib/inc/fusion-app/helpers.php:393
+#: includes/lib/inc/fusion-app/helpers.php:413
 msgid "Content Imported"
 msgstr "已导入的内容"
 
-#: includes/lib/inc/fusion-app/helpers.php:394
+#: includes/lib/inc/fusion-app/helpers.php:414
 msgid "Visually create your table below, add or remove rows and columns"
 msgstr "在下面直观地创建您的表格，添加或删除行和列"
 
-#: includes/lib/inc/fusion-app/helpers.php:395
+#: includes/lib/inc/fusion-app/helpers.php:415
 msgid "Add Column"
 msgstr "添加列"
 
-#: includes/lib/inc/fusion-app/helpers.php:396
+#: includes/lib/inc/fusion-app/helpers.php:416
 msgid "Add Row"
 msgstr "添加行"
 
 # @ Avada
-#: includes/lib/inc/fusion-app/helpers.php:398
+#: includes/lib/inc/fusion-app/helpers.php:418
 msgid "Standout"
 msgstr "独立的"
 
 # @ Avada
-#: includes/lib/inc/fusion-app/helpers.php:399
+#: includes/lib/inc/fusion-app/helpers.php:419
 msgid "Add Button"
 msgstr "添加按钮"
 
 # @ Avada
-#: includes/lib/inc/fusion-app/helpers.php:402
+#: includes/lib/inc/fusion-app/helpers.php:422
 msgid "Table Options"
 msgstr "表格选项"
 
-#: includes/lib/inc/fusion-app/helpers.php:403
+#: includes/lib/inc/fusion-app/helpers.php:423
 msgid "Table"
 msgstr "表格"
 
-#: includes/lib/inc/fusion-app/helpers.php:404
+#: includes/lib/inc/fusion-app/helpers.php:424
 msgid "Toggle All Containers"
 msgstr "切换所有容器"
 
-#: includes/lib/inc/fusion-app/helpers.php:405
+#: includes/lib/inc/fusion-app/helpers.php:425
 msgid "Cloned Container"
 msgstr "克隆的容器"
 
-#: includes/lib/inc/fusion-app/helpers.php:406
+#: includes/lib/inc/fusion-app/helpers.php:426
 msgid "Deleted Container"
 msgstr "已删除容器"
 
-#: includes/lib/inc/fusion-app/helpers.php:408
+#: includes/lib/inc/fusion-app/helpers.php:428
 msgid "Audio"
 msgstr "音频"
 
-#: includes/lib/inc/fusion-app/helpers.php:409
+#: includes/lib/inc/fusion-app/helpers.php:429
 msgid "Select Image"
 msgstr "选择图片"
 
-#: includes/lib/inc/fusion-app/helpers.php:410
+#: includes/lib/inc/fusion-app/helpers.php:430
 msgid "Select Images"
 msgstr "选择图片"
 
 # @ Avada
-#: includes/lib/inc/fusion-app/helpers.php:411
+#: includes/lib/inc/fusion-app/helpers.php:431
 msgid "Select Video"
 msgstr "选择视频"
 
 # @ Avada
-#: includes/lib/inc/fusion-app/helpers.php:412
+#: includes/lib/inc/fusion-app/helpers.php:432
 msgid "Select Audio"
 msgstr "选择音频"
 
-#: includes/lib/inc/fusion-app/helpers.php:413
+#: includes/lib/inc/fusion-app/helpers.php:433
 msgid "Select Icon"
 msgstr "选择图标"
 
-#: includes/lib/inc/fusion-app/helpers.php:415
+#: includes/lib/inc/fusion-app/helpers.php:435
 msgid "To Add Elements, You Must First Add a Column"
 msgstr "要添加元素，您必须先添加一个列"
 
-#: includes/lib/inc/fusion-app/helpers.php:416
+#: includes/lib/inc/fusion-app/helpers.php:436
 msgid ""
 "This is an empty container with a background image. To add elements, you "
 "must first add a column"
 msgstr "这是一个带有背景图片的空容器。要添加元素，您必须先添加一个列"
 
-#: includes/lib/inc/fusion-app/helpers.php:418
+#: includes/lib/inc/fusion-app/helpers.php:438
 msgid "Add New Option"
 msgstr "添加新选项"
 
-#: includes/lib/inc/fusion-app/helpers.php:419
+#: includes/lib/inc/fusion-app/helpers.php:439
 msgid "Add New Logic"
 msgstr "添加新逻辑"
 
-#: includes/lib/inc/fusion-app/helpers.php:420
+#: includes/lib/inc/fusion-app/helpers.php:440
 msgid "There are no fields available for conditional logic."
 msgstr "没有可用于条件逻辑的字段。"
 
-#: includes/lib/inc/fusion-app/helpers.php:421
+#: includes/lib/inc/fusion-app/helpers.php:441
 msgid "Condition Value"
 msgstr "条件值"
 
-#: includes/lib/inc/fusion-app/helpers.php:422
-#: includes/lib/inc/fusion-app/templates/options/fusion-logics.php:237
-#: includes/lib/inc/fusion-app/templates/options/fusion-logics.php:340
+#: includes/lib/inc/fusion-app/helpers.php:442
+#: includes/lib/inc/fusion-app/templates/options/fusion-logics.php:250
+#: includes/lib/inc/fusion-app/templates/options/fusion-logics.php:361
 #: includes/metaboxes/metaboxes.php:2157 includes/metaboxes/metaboxes.php:2160
 #: includes/options/extra.php:267
 msgid "OR"
 msgstr "或"
 
-#: includes/lib/inc/fusion-app/helpers.php:423
-#: includes/metaboxes/tabs/tab_form_notifications.php:81
+#: includes/lib/inc/fusion-app/helpers.php:443
+#: includes/metaboxes/tabs/tab_form_notifications.php:117
 #: includes/options/advanced.php:530
 msgid "Label"
 msgstr "标签"
 
-#: includes/lib/inc/fusion-app/helpers.php:424
+#: includes/lib/inc/fusion-app/helpers.php:444
 msgid "Field"
 msgstr "字段"
 
-#: includes/lib/inc/fusion-app/helpers.php:425
+#: includes/lib/inc/fusion-app/helpers.php:445
 msgid "Select Field"
 msgstr "选择字段"
 
-#: includes/lib/inc/fusion-app/helpers.php:426
+#: includes/lib/inc/fusion-app/helpers.php:446
 #: includes/metaboxes/metaboxes.php:2155
 msgid "Value"
 msgstr "值"
 
-#: includes/lib/inc/fusion-app/helpers.php:427
+#: includes/lib/inc/fusion-app/helpers.php:447
 msgid "Bulk / Predefined"
 msgstr "批量 / 预定义"
 
-#: includes/lib/inc/fusion-app/helpers.php:428
+#: includes/lib/inc/fusion-app/helpers.php:448
 msgid "Show values"
 msgstr "显示值"
 
-#: includes/lib/inc/fusion-app/helpers.php:429
+#: includes/lib/inc/fusion-app/helpers.php:449
 msgid "Select a predefined list or paste your own list bulk add choices."
 msgstr "选择预定义列表或粘贴您自己的列表以批量添加选项。"
 
-#: includes/lib/inc/fusion-app/helpers.php:430
+#: includes/lib/inc/fusion-app/helpers.php:450
 msgid "Bulk Add"
 msgstr "批量添加"
 
-#: includes/lib/inc/fusion-app/helpers.php:431
+#: includes/lib/inc/fusion-app/helpers.php:451
 msgid "Predefined Choices"
 msgstr "预定义选项"
 
-#: includes/lib/inc/fusion-app/helpers.php:432
+#: includes/lib/inc/fusion-app/helpers.php:452
 msgid "Insert Choices"
 msgstr "插入选项"
 
 #. translators: Child element name.
-#: includes/lib/inc/fusion-app/helpers.php:434
+#: includes/lib/inc/fusion-app/helpers.php:454
 msgid "Empty %s element, please add child elements here."
 msgstr "空的 %s 元素，请在此处添加子元素。"
 
-#: includes/lib/inc/fusion-app/helpers.php:435
+#: includes/lib/inc/fusion-app/helpers.php:455
 msgid ""
 "The views counter option is disabled. Enable it in the global options to use "
 "this element."
 msgstr "查看计数器选项已禁用。请在全局选项中启用它以使用此元素。"
 
-#: includes/lib/inc/fusion-app/helpers.php:436
+#: includes/lib/inc/fusion-app/helpers.php:456
 msgid ""
 "To add images to this post or page for attachments layout, navigate to "
 "\"Upload Files\" tab in media manager and upload new images."
@@ -10023,7 +10113,7 @@ msgstr ""
 "要为此文章或页面添加图片以用于附件布局，请导航到媒体管理器中的“上传文件”选项"
 "卡并上传新图片。"
 
-#: includes/lib/inc/fusion-app/helpers.php:437
+#: includes/lib/inc/fusion-app/helpers.php:457
 msgid ""
 "WARNING: Importing a single prebuilt page will remove all other page "
 "content, Avada Page Options and page template. Avada Global Options and "
@@ -10033,12 +10123,12 @@ msgstr ""
 "Avada 全局选项和图片不会被导入。点击确定继续，或点击取消停止。"
 
 # @ Avada
-#: includes/lib/inc/fusion-app/helpers.php:438
+#: includes/lib/inc/fusion-app/helpers.php:458
 msgid "Content Error"
 msgstr "内容错误"
 
 #. translators: Link URL.
-#: includes/lib/inc/fusion-app/helpers.php:440
+#: includes/lib/inc/fusion-app/helpers.php:460
 msgid ""
 "Your page content could not be displayed as an Avada Builder layout. Most "
 "likely that means, there is some invalid markup or shortcode in it. Please "
@@ -10049,210 +10139,210 @@ msgstr ""
 "或短代码。请检查文本编辑器中的内容。<a href=\"%s\" target=\"_blank\">点击此处"
 "查看更多信息</a>。"
 
-#: includes/lib/inc/fusion-app/helpers.php:441
+#: includes/lib/inc/fusion-app/helpers.php:461
 msgid "Unknown Error Occurred"
 msgstr "发生未知的错误"
 
 #. translators: Link URL.
-#: includes/lib/inc/fusion-app/helpers.php:443
+#: includes/lib/inc/fusion-app/helpers.php:463
 msgid "<a href=\"%s\" target=\"_blank\">Click here to learn more.</a>"
 msgstr "<a href=\"%s\" target=\"_blank\">点此了解更多</a>"
 
-#: includes/lib/inc/fusion-app/helpers.php:444
+#: includes/lib/inc/fusion-app/helpers.php:464
 msgid "Click here to copy the full error message."
 msgstr "点击此处复制完整的错误消息。"
 
-#: includes/lib/inc/fusion-app/helpers.php:445
+#: includes/lib/inc/fusion-app/helpers.php:465
 msgid "Full error message copied."
 msgstr "完整的错误消息已复制。"
 
-#: includes/lib/inc/fusion-app/helpers.php:446
+#: includes/lib/inc/fusion-app/helpers.php:466
 msgid "Moved Container"
 msgstr "已移动的容器"
 
-#: includes/lib/inc/fusion-app/helpers.php:449
+#: includes/lib/inc/fusion-app/helpers.php:469
 msgid "Delete Next Page Divider"
 msgstr "删除下一页分隔符"
 
-#: includes/lib/inc/fusion-app/helpers.php:450
+#: includes/lib/inc/fusion-app/helpers.php:470
 msgid "Toggle Element"
 msgstr "切换元素"
 
 # @ Avada
-#: includes/lib/inc/fusion-app/helpers.php:451
+#: includes/lib/inc/fusion-app/helpers.php:471
 msgid "Drag Element"
 msgstr "拖动元素"
 
-#: includes/lib/inc/fusion-app/helpers.php:452
+#: includes/lib/inc/fusion-app/helpers.php:472
 msgid "Deleted Next Page Divider"
 msgstr "已删除下一页分隔符"
 
-#: includes/lib/inc/fusion-app/helpers.php:453
+#: includes/lib/inc/fusion-app/helpers.php:473
 msgid "Deleted Checkout Form Divider"
 msgstr "已删除结账表单分隔符"
 
-#: includes/lib/inc/fusion-app/helpers.php:454
+#: includes/lib/inc/fusion-app/helpers.php:474
 msgid "Added Next Page Divider"
 msgstr "已添加的下一页分隔符"
 
-#: includes/lib/inc/fusion-app/helpers.php:455
+#: includes/lib/inc/fusion-app/helpers.php:475
 msgid "Next Page"
 msgstr "下一页面"
 
-#: includes/lib/inc/fusion-app/helpers.php:456
+#: includes/lib/inc/fusion-app/helpers.php:476
 msgid "Checkout Form"
 msgstr "结账表单"
 
-#: includes/lib/inc/fusion-app/helpers.php:457
+#: includes/lib/inc/fusion-app/helpers.php:477
 msgid "Form Step"
 msgstr "表单步骤"
 
-#: includes/lib/inc/fusion-app/helpers.php:458
+#: includes/lib/inc/fusion-app/helpers.php:478
 msgid "Deleted Form Step"
 msgstr "已删除表单步骤"
 
-#: includes/lib/inc/fusion-app/helpers.php:459
+#: includes/lib/inc/fusion-app/helpers.php:479
 msgid "Delete Form Step"
 msgstr "删除表单步骤"
 
-#: includes/lib/inc/fusion-app/helpers.php:460
+#: includes/lib/inc/fusion-app/helpers.php:480
 msgid "Added Form Step"
 msgstr "已添加表单步骤"
 
 #. translators: %s - The number of the step.
-#: includes/lib/inc/fusion-app/helpers.php:462
-#: includes/lib/inc/fusion-app/helpers.php:464
+#: includes/lib/inc/fusion-app/helpers.php:482
+#: includes/lib/inc/fusion-app/helpers.php:484
 msgid "Step %s"
 msgid_plural "Step %s"
 msgstr[0] "步骤 %s"
 
-#: includes/lib/inc/fusion-app/helpers.php:465
+#: includes/lib/inc/fusion-app/helpers.php:485
 msgid "Special"
 msgstr "特殊"
 
-#: includes/lib/inc/fusion-app/helpers.php:466
+#: includes/lib/inc/fusion-app/helpers.php:486
 msgid "Special Items"
 msgstr "特殊项目"
 
-#: includes/lib/inc/fusion-app/helpers.php:467
+#: includes/lib/inc/fusion-app/helpers.php:487
 msgid ""
 "The form step item allows you to break your form into several steps. Simply "
 "insert it onto the form, and form steps will show on the frontend."
 msgstr ""
 "表单步骤项允许您将表单分成几个步骤。只需将其插入表单，前端就会显示表单步骤。"
 
-#: includes/lib/inc/fusion-app/helpers.php:468
+#: includes/lib/inc/fusion-app/helpers.php:488
 msgid ""
 "The next page item allows you to break your page into several pages. Simply "
 "insert it onto the page, and automatic pagination will show on the frontend."
 msgstr ""
 "下一页项允许您将页面分成几个页面。只需将其插入页面，前端就会显示自动分页。"
 
-#: includes/lib/inc/fusion-app/helpers.php:469
+#: includes/lib/inc/fusion-app/helpers.php:489
 msgid ""
 "The checkout form items allows you to add opening and closing WooCommerce "
 "checkout form tags."
 msgstr "结账表单项允许您添加开端和闭合的 WooCommerce 结账表单标签。"
 
 # @ Avada
-#: includes/lib/inc/fusion-app/helpers.php:470
+#: includes/lib/inc/fusion-app/helpers.php:490
 msgid "Select Link"
 msgstr "选择链接"
 
-#: includes/lib/inc/fusion-app/helpers.php:471
+#: includes/lib/inc/fusion-app/helpers.php:491
 msgid "Color palette options"
 msgstr "调色板选项"
 
 # @ Avada
-#: includes/lib/inc/fusion-app/helpers.php:474
+#: includes/lib/inc/fusion-app/helpers.php:494
 msgid "Legend Value Text Color"
 msgstr "图例值文本颜色"
 
-#: includes/lib/inc/fusion-app/helpers.php:475
+#: includes/lib/inc/fusion-app/helpers.php:495
 msgid "Legend Label"
 msgstr "图例标签"
 
-#: includes/lib/inc/fusion-app/helpers.php:476
+#: includes/lib/inc/fusion-app/helpers.php:496
 msgid "X Axis Label"
 msgstr "X 轴标签"
 
 #. translators: Toggle column width option.
-#: includes/lib/inc/fusion-app/helpers.php:478
+#: includes/lib/inc/fusion-app/helpers.php:498
 msgid "Use Custom Width"
 msgstr "使用自定义宽度"
 
-#: includes/lib/inc/fusion-app/helpers.php:479
+#: includes/lib/inc/fusion-app/helpers.php:499
 msgid "Use Preset Sizes"
 msgstr "使用预设尺寸"
 
 # @ Avada
 #. translators: Search type.
-#: includes/lib/inc/fusion-app/helpers.php:481
+#: includes/lib/inc/fusion-app/helpers.php:501
 msgid "Search %s"
 msgstr "搜索%s"
 
 # @ Avada
-#: includes/lib/inc/fusion-app/helpers.php:482
+#: includes/lib/inc/fusion-app/helpers.php:502
 msgid "Chart Background Color"
 msgstr "图表背景颜色"
 
 # @ Avada
 #. translators: Default value description & value.
-#: includes/lib/inc/fusion-app/helpers.php:484
+#: includes/lib/inc/fusion-app/helpers.php:504
 msgid "Controls the background of the chart. %s"
 msgstr "控制图表背景颜色%s"
 
-#: includes/lib/inc/fusion-app/helpers.php:485
+#: includes/lib/inc/fusion-app/helpers.php:505
 msgid "Chart Axis Text Color"
 msgstr "图表坐标轴文字颜色"
 
 # @ Avada
 #. translators: Default value description & value.
-#: includes/lib/inc/fusion-app/helpers.php:487
+#: includes/lib/inc/fusion-app/helpers.php:507
 msgid "Controls the text color of the x-axis and y-axis. %s"
 msgstr "控制xy坐标轴文本颜色 %s"
 
 # @ Avada
-#: includes/lib/inc/fusion-app/helpers.php:488
+#: includes/lib/inc/fusion-app/helpers.php:508
 msgid "Chart Gridline Color"
 msgstr "图标网格线颜色"
 
 #. translators: Default value description & value.
-#: includes/lib/inc/fusion-app/helpers.php:490
+#: includes/lib/inc/fusion-app/helpers.php:510
 msgid "Controls the color of the chart background grid lines and values. %s"
 msgstr "控制图表背景网格线颜色%s"
 
-#: includes/lib/inc/fusion-app/helpers.php:491
+#: includes/lib/inc/fusion-app/helpers.php:511
 msgid "Chart Padding Options"
 msgstr "图表边距选项"
 
-#: includes/lib/inc/fusion-app/helpers.php:492
+#: includes/lib/inc/fusion-app/helpers.php:512
 msgid "Controls the top/right/bottom/left padding of the chart."
 msgstr "控制图表的上/右/下/左侧的边距"
 
-#: includes/lib/inc/fusion-app/helpers.php:493
+#: includes/lib/inc/fusion-app/helpers.php:513
 msgid "Chart Options"
 msgstr "图表选项"
 
-#: includes/lib/inc/fusion-app/helpers.php:494
+#: includes/lib/inc/fusion-app/helpers.php:514
 msgid "Chart Data"
 msgstr "图表数据"
 
-#: includes/lib/inc/fusion-app/helpers.php:496
+#: includes/lib/inc/fusion-app/helpers.php:516
 msgid "Set chart border size in pixels."
 msgstr "以像素单位来设置图表边框大小"
 
-#: includes/lib/inc/fusion-app/helpers.php:497
+#: includes/lib/inc/fusion-app/helpers.php:517
 msgid ""
 "Visually create your chart data below, add or remove data sets and their "
 "styling"
 msgstr "在下方可视化创建您的图表数据，添加或删除数据集及其样式"
 
-#: includes/lib/inc/fusion-app/helpers.php:498
+#: includes/lib/inc/fusion-app/helpers.php:518
 msgid "Visually create your chart data below"
 msgstr "在下方可视化创建您的图表数据"
 
-#: includes/lib/inc/fusion-app/helpers.php:499
+#: includes/lib/inc/fusion-app/helpers.php:519
 msgid ""
 "<strong>IMPORTANT NOTE:</strong> If you are using a <strong>Bar</strong> or "
 "<strong>Horizontal Bar Chart</strong>, the table interface below and "
@@ -10264,114 +10354,114 @@ msgstr ""
 "平柱状图</strong>，下方的表格界面和可用选项将根据添加的数据集数量而变化。此设"
 "置是为了确保您的图表样式具有最大的灵活性。"
 
-#: includes/lib/inc/fusion-app/helpers.php:500
+#: includes/lib/inc/fusion-app/helpers.php:520
 msgid "+ Add Value Column"
 msgstr "+ 添加值列"
 
-#: includes/lib/inc/fusion-app/helpers.php:501
+#: includes/lib/inc/fusion-app/helpers.php:521
 msgid "+ Add Data Set"
 msgstr "+ 添加数据集"
 
-#: includes/lib/inc/fusion-app/helpers.php:502
+#: includes/lib/inc/fusion-app/helpers.php:522
 msgid "Data Set"
 msgstr "数据组"
 
-#: includes/lib/inc/fusion-app/helpers.php:503
+#: includes/lib/inc/fusion-app/helpers.php:523
 msgid "Data Set Styling"
 msgstr "数据组样式"
 
-#: includes/lib/inc/fusion-app/helpers.php:504
+#: includes/lib/inc/fusion-app/helpers.php:524
 msgid "Value Set Styling"
 msgstr "数值样式"
 
-#: includes/lib/inc/fusion-app/helpers.php:505
+#: includes/lib/inc/fusion-app/helpers.php:525
 msgid "Build your chart data visually"
 msgstr "可视化构建您的图表数据"
 
-#: includes/lib/inc/fusion-app/helpers.php:506
+#: includes/lib/inc/fusion-app/helpers.php:526
 msgid "Edit Chart Data Table"
 msgstr "编辑图表数据表"
 
-#: includes/lib/inc/fusion-app/helpers.php:507
+#: includes/lib/inc/fusion-app/helpers.php:527
 msgid "Registration confirmation will be emailed to you."
 msgstr "注册确认信息将通过电子邮件发送给您。"
 
-#: includes/lib/inc/fusion-app/helpers.php:508
+#: includes/lib/inc/fusion-app/helpers.php:528
 msgid "Are you sure you want to remove global property?"
 msgstr "确定删除全局属性?"
 
-#: includes/lib/inc/fusion-app/helpers.php:509
+#: includes/lib/inc/fusion-app/helpers.php:529
 msgid "Remove Global?"
 msgstr "删除全局?"
 
-#: includes/lib/inc/fusion-app/helpers.php:510
+#: includes/lib/inc/fusion-app/helpers.php:530
 msgid "Removed Global Status"
 msgstr "已删除全局状态"
 
-#: includes/lib/inc/fusion-app/helpers.php:511
+#: includes/lib/inc/fusion-app/helpers.php:531
 msgid "Draft container."
 msgstr "草稿容器"
 
-#: includes/lib/inc/fusion-app/helpers.php:512
+#: includes/lib/inc/fusion-app/helpers.php:532
 msgid "Scheduled container."
 msgstr "已排程容器。"
 
-#: includes/lib/inc/fusion-app/helpers.php:513
+#: includes/lib/inc/fusion-app/helpers.php:533
 msgid "Click to remove sheduling."
 msgstr "点击以删除排程。"
 
-#: includes/lib/inc/fusion-app/helpers.php:514
+#: includes/lib/inc/fusion-app/helpers.php:534
 msgid ""
 "Are you sure you want to remove sheduling? This will set the container to be "
 "a normally published element."
 msgstr "您确定要删除排程吗？这会将容器设置为正常发布的元素。"
 
-#: includes/lib/inc/fusion-app/helpers.php:515
+#: includes/lib/inc/fusion-app/helpers.php:535
 msgid "Container published."
 msgstr "容器已发布"
 
-#: includes/lib/inc/fusion-app/helpers.php:518
+#: includes/lib/inc/fusion-app/helpers.php:538
 msgid "Watch Our Get Started Video"
 msgstr "查看我们的上手视频"
 
-#: includes/lib/inc/fusion-app/helpers.php:519
+#: includes/lib/inc/fusion-app/helpers.php:539
 msgid "Do you need a helping hand? Let us guide you."
 msgstr "您需要帮助吗？让我们引导您。"
 
 # @ Avada
-#: includes/lib/inc/fusion-app/helpers.php:520
+#: includes/lib/inc/fusion-app/helpers.php:540
 msgid "Watch The Video"
 msgstr "观看视频"
 
-#: includes/lib/inc/fusion-app/helpers.php:521
+#: includes/lib/inc/fusion-app/helpers.php:541
 msgid "Avada Builder Docs"
 msgstr "Avada 构建器文档"
 
-#: includes/lib/inc/fusion-app/helpers.php:522
+#: includes/lib/inc/fusion-app/helpers.php:542
 msgid "Videos not for you? That's ok! We have you covered."
 msgstr "视频不适合您？没关系！我们为您准备了其他内容。"
 
 # @ Avada
-#: includes/lib/inc/fusion-app/helpers.php:523
+#: includes/lib/inc/fusion-app/helpers.php:543
 msgid "Toggle Description"
 msgstr "切换描述"
 
-#: includes/lib/inc/fusion-app/helpers.php:524
+#: includes/lib/inc/fusion-app/helpers.php:544
 msgid "Toggle Responsive Options"
 msgstr "切换响应式选项"
 
-#: includes/lib/inc/fusion-app/helpers.php:525
+#: includes/lib/inc/fusion-app/helpers.php:545
 msgid "Toggle State Options"
 msgstr "切换状态选项"
 
-#: includes/lib/inc/fusion-app/helpers.php:526
+#: includes/lib/inc/fusion-app/helpers.php:546
 #: includes/metaboxes/metaboxes.php:2315
 #: includes/metaboxes/tabs/tab_off_canvas_general.php:43
 msgid "Default State"
 msgstr "默认状态"
 
 # @ Avada
-#: includes/lib/inc/fusion-app/helpers.php:527
+#: includes/lib/inc/fusion-app/helpers.php:547
 #: includes/lib/inc/redux/custom-fields/spacing/field_spacing.php:108
 #: includes/lib/inc/redux/framework/FusionReduxCore/inc/fields/border/field_border.php:141
 #: includes/lib/inc/widgets/class-fusion-widget-social-links.php:617
@@ -10387,7 +10477,7 @@ msgstr "默认状态"
 msgid "Top"
 msgstr "顶部"
 
-#: includes/lib/inc/fusion-app/helpers.php:528
+#: includes/lib/inc/fusion-app/helpers.php:548
 #: includes/lib/inc/redux/custom-fields/spacing/field_spacing.php:122
 #: includes/lib/inc/redux/framework/FusionReduxCore/inc/fields/border/field_border.php:155
 #: includes/lib/inc/widgets/class-fusion-widget-social-links.php:619
@@ -10403,151 +10493,151 @@ msgstr "顶部"
 msgid "Bottom"
 msgstr "底部"
 
-#: includes/lib/inc/fusion-app/helpers.php:531
+#: includes/lib/inc/fusion-app/helpers.php:551
 #: includes/lib/inc/redux/custom-fields/dimensions/field_dimensions.php:84
 #: includes/metaboxes/tabs/tab_off_canvas_general.php:127
 #: includes/metaboxes/tabs/tab_off_canvas_general.php:231
 msgid "Height"
 msgstr "高度"
 
-#: includes/lib/inc/fusion-app/helpers.php:532
+#: includes/lib/inc/fusion-app/helpers.php:552
 #: includes/lib/inc/redux/custom-fields/dimensions/field_dimensions.php:71
 #: includes/metaboxes/tabs/tab_off_canvas_general.php:113
 msgid "Width"
 msgstr "宽度"
 
 # @ Avada
-#: includes/lib/inc/fusion-app/helpers.php:533
+#: includes/lib/inc/fusion-app/helpers.php:553
 msgid "Top/Left"
 msgstr "顶部/左边"
 
 # @ Avada
-#: includes/lib/inc/fusion-app/helpers.php:534
+#: includes/lib/inc/fusion-app/helpers.php:554
 msgid "Top/Right"
 msgstr "顶部/右边"
 
 # @ Avada
-#: includes/lib/inc/fusion-app/helpers.php:535
+#: includes/lib/inc/fusion-app/helpers.php:555
 msgid "Bot/Left"
 msgstr "左下"
 
 # @ Avada
-#: includes/lib/inc/fusion-app/helpers.php:536
+#: includes/lib/inc/fusion-app/helpers.php:556
 msgid "Bot/Right"
 msgstr "右下"
 
-#: includes/lib/inc/fusion-app/helpers.php:538
+#: includes/lib/inc/fusion-app/helpers.php:558
 msgid "Horizontal"
 msgstr "水平"
 
-#: includes/lib/inc/fusion-app/helpers.php:539
+#: includes/lib/inc/fusion-app/helpers.php:559
 msgid "Vertical"
 msgstr "垂直"
 
-#: includes/lib/inc/fusion-app/helpers.php:541
+#: includes/lib/inc/fusion-app/helpers.php:561
 #: includes/metaboxes/tabs/tab_off_canvas_general.php:269
 msgid "Row"
 msgstr "行"
 
-#: includes/lib/inc/fusion-app/helpers.php:542
+#: includes/lib/inc/fusion-app/helpers.php:562
 msgid "Confirm"
 msgstr "确认"
 
-#: includes/lib/inc/fusion-app/helpers.php:543
+#: includes/lib/inc/fusion-app/helpers.php:563
 msgid "Unsaved Changes"
 msgstr "为保存的设置"
 
-#: includes/lib/inc/fusion-app/helpers.php:544
+#: includes/lib/inc/fusion-app/helpers.php:564
 msgid "Your changes will be lost, do you want to save changes before leaving?"
 msgstr "离开会导致改动丢失，是否保存？"
 
-#: includes/lib/inc/fusion-app/helpers.php:545
+#: includes/lib/inc/fusion-app/helpers.php:565
 msgid "Reset"
 msgstr "重置"
 
-#: includes/lib/inc/fusion-app/helpers.php:546
+#: includes/lib/inc/fusion-app/helpers.php:566
 msgid "Reset to Defaults"
 msgstr "初始化"
 
-#: includes/lib/inc/fusion-app/helpers.php:547
+#: includes/lib/inc/fusion-app/helpers.php:567
 msgid "Are you sure you want to reset this element's options to default?"
 msgstr "确定此元素选项初始化?"
 
-#: includes/lib/inc/fusion-app/helpers.php:548
+#: includes/lib/inc/fusion-app/helpers.php:568
 msgid "Are you sure you want to delete this element?"
 msgstr "确定删除此元素?"
 
-#: includes/lib/inc/fusion-app/helpers.php:549
+#: includes/lib/inc/fusion-app/helpers.php:569
 msgid "I Agree"
 msgstr "我同意"
 
-#: includes/lib/inc/fusion-app/helpers.php:550
+#: includes/lib/inc/fusion-app/helpers.php:570
 msgid "Are You Sure?"
 msgstr "您确定吗？"
 
-#: includes/lib/inc/fusion-app/helpers.php:551
+#: includes/lib/inc/fusion-app/helpers.php:571
 msgid "I'm sure"
 msgstr "我同意"
 
-#: includes/lib/inc/fusion-app/helpers.php:552
+#: includes/lib/inc/fusion-app/helpers.php:572
 msgid "Ok"
 msgstr "Ok"
 
-#: includes/lib/inc/fusion-app/helpers.php:553
+#: includes/lib/inc/fusion-app/helpers.php:573
 msgid "Import Prebuilt Website Page"
 msgstr "导入预置网站页面"
 
-#: includes/lib/inc/fusion-app/helpers.php:554
+#: includes/lib/inc/fusion-app/helpers.php:574
 msgid "Import Prebuilt Website Layout"
 msgstr "导入预置网站布局"
 
-#: includes/lib/inc/fusion-app/helpers.php:555
+#: includes/lib/inc/fusion-app/helpers.php:575
 msgid "Extended options"
 msgstr "扩展选项"
 
-#: includes/lib/inc/fusion-app/helpers.php:556
+#: includes/lib/inc/fusion-app/helpers.php:576
 msgid "Align text"
 msgstr "对准文字"
 
-#: includes/lib/inc/fusion-app/helpers.php:557
+#: includes/lib/inc/fusion-app/helpers.php:577
 msgid "Align left"
 msgstr "对准左边"
 
-#: includes/lib/inc/fusion-app/helpers.php:558
+#: includes/lib/inc/fusion-app/helpers.php:578
 msgid "Align center"
 msgstr "对准中间"
 
-#: includes/lib/inc/fusion-app/helpers.php:559
+#: includes/lib/inc/fusion-app/helpers.php:579
 msgid "Align right"
 msgstr "对准右边"
 
-#: includes/lib/inc/fusion-app/helpers.php:560
+#: includes/lib/inc/fusion-app/helpers.php:580
 msgid "Justify"
 msgstr "两端对齐"
 
-#: includes/lib/inc/fusion-app/helpers.php:561
+#: includes/lib/inc/fusion-app/helpers.php:581
 msgid "Indent"
 msgstr "缩进"
 
-#: includes/lib/inc/fusion-app/helpers.php:562
+#: includes/lib/inc/fusion-app/helpers.php:582
 msgid "Outdent"
 msgstr "减少缩进"
 
-#: includes/lib/inc/fusion-app/helpers.php:563
+#: includes/lib/inc/fusion-app/helpers.php:583
 msgid "Accept"
 msgstr "接受"
 
-#: includes/lib/inc/fusion-app/helpers.php:566
+#: includes/lib/inc/fusion-app/helpers.php:586
 msgid "Family"
 msgstr "字体族"
 
 # @ Avada
-#: includes/lib/inc/fusion-app/helpers.php:567
+#: includes/lib/inc/fusion-app/helpers.php:587
 msgid "Tag"
 msgstr "标签"
 
 # @ Avada
-#: includes/lib/inc/fusion-app/helpers.php:568
+#: includes/lib/inc/fusion-app/helpers.php:588
 #: includes/lib/inc/fusion-app/templates/options/typography.php:171
 #: includes/lib/inc/fusion-app/templates/typography-set.php:111
 #: includes/lib/inc/redux/custom-fields/typography/field_typography.php:233
@@ -10555,7 +10645,7 @@ msgstr "标签"
 msgid "Font Size"
 msgstr "字号"
 
-#: includes/lib/inc/fusion-app/helpers.php:569
+#: includes/lib/inc/fusion-app/helpers.php:589
 #: includes/lib/inc/fusion-app/templates/options/typography.php:172
 #: includes/lib/inc/fusion-app/templates/typography-set.php:112
 #: includes/lib/inc/redux/custom-fields/typography/field_typography.php:234
@@ -10563,7 +10653,7 @@ msgstr "字号"
 msgid "Line Height"
 msgstr "行高"
 
-#: includes/lib/inc/fusion-app/helpers.php:570
+#: includes/lib/inc/fusion-app/helpers.php:590
 #: includes/lib/inc/fusion-app/templates/options/typography.php:173
 #: includes/lib/inc/fusion-app/templates/typography-set.php:113
 #: includes/lib/inc/redux/custom-fields/typography/field_typography.php:235
@@ -10571,27 +10661,27 @@ msgstr "行高"
 msgid "Letter Spacing"
 msgstr "文字间距"
 
-#: includes/lib/inc/fusion-app/helpers.php:573
+#: includes/lib/inc/fusion-app/helpers.php:593
 msgid "Font color"
 msgstr "字体颜色"
 
-#: includes/lib/inc/fusion-app/helpers.php:574
+#: includes/lib/inc/fusion-app/helpers.php:594
 msgid "Edit Inline Element"
 msgstr "编辑内联元素"
 
-#: includes/lib/inc/fusion-app/helpers.php:575
+#: includes/lib/inc/fusion-app/helpers.php:595
 msgid "Remove Inline Element"
 msgstr "删除行内元素"
 
 # @ bbpress
 # @ Avada
-#: includes/lib/inc/fusion-app/helpers.php:576
+#: includes/lib/inc/fusion-app/helpers.php:596
 msgid "Delete All"
 msgstr "删除全部"
 
 # @ bbpress
 # @ Avada
-#: includes/lib/inc/fusion-app/helpers.php:577
+#: includes/lib/inc/fusion-app/helpers.php:597
 #: includes/lib/inc/fusion-app/templates/options/import.php:94
 #: includes/lib/inc/redux/extensions/repeater/repeater/field_repeater.php:187
 #: includes/lib/inc/redux/extensions/repeater/repeater/field_repeater.php:230
@@ -10602,92 +10692,92 @@ msgid "Delete"
 msgstr "删除"
 
 # @ Avada
-#: includes/lib/inc/fusion-app/helpers.php:578
+#: includes/lib/inc/fusion-app/helpers.php:598
 msgid "Preview Mode"
 msgstr "预览模式"
 
-#: includes/lib/inc/fusion-app/helpers.php:579
+#: includes/lib/inc/fusion-app/helpers.php:599
 msgid ""
 "Please beware that editing options are limited on this mode. All open "
 "dialogs and panels will be closed."
 msgstr "请注意，在此模式下编辑选项有限。所有打开的对话框和面板都将关闭。"
 
-#: includes/lib/inc/fusion-app/helpers.php:580
+#: includes/lib/inc/fusion-app/helpers.php:600
 msgid "Multiple Dialogs"
 msgstr "多个对话框"
 
-#: includes/lib/inc/fusion-app/helpers.php:581
+#: includes/lib/inc/fusion-app/helpers.php:601
 msgid "Please close other open dialogs first to use this option."
 msgstr "请先关闭其他打开的对话框以使用此选项。"
 
-#: includes/lib/inc/fusion-app/helpers.php:582
+#: includes/lib/inc/fusion-app/helpers.php:602
 msgid "Widget"
 msgstr "小工具"
 
-#: includes/lib/inc/fusion-app/helpers.php:583
+#: includes/lib/inc/fusion-app/helpers.php:603
 msgid "No widget selected. Edit to select widget type."
 msgstr "未选择小工具。编辑以选择小工具类型。"
 
 #. translators: Add unknown element type.
-#: includes/lib/inc/fusion-app/helpers.php:586
+#: includes/lib/inc/fusion-app/helpers.php:606
 #: includes/lib/inc/redux/framework/FusionReduxCore/inc/fields/slides/field_slides.php:244
 msgid "Add %s"
 msgstr "添加 %s"
 
-#: includes/lib/inc/fusion-app/helpers.php:587
+#: includes/lib/inc/fusion-app/helpers.php:607
 #: includes/metaboxes/options/options_slide.php:297
 msgid "Link Options"
 msgstr "链接选项"
 
 # @ Avada
-#: includes/lib/inc/fusion-app/helpers.php:588
+#: includes/lib/inc/fusion-app/helpers.php:608
 msgid "Open Link in New Tab"
 msgstr "在新窗口中打开链接"
 
-#: includes/lib/inc/fusion-app/helpers.php:589
+#: includes/lib/inc/fusion-app/helpers.php:609
 msgid "Clear"
 msgstr "清除"
 
-#: includes/lib/inc/fusion-app/helpers.php:590
+#: includes/lib/inc/fusion-app/helpers.php:610
 msgid "Remove formatting"
 msgstr "删除格式"
 
-#: includes/lib/inc/fusion-app/helpers.php:591
+#: includes/lib/inc/fusion-app/helpers.php:611
 msgid "Please add a gallery image here."
 msgstr "请在此添加相册图片"
 
-#: includes/lib/inc/fusion-app/helpers.php:592
+#: includes/lib/inc/fusion-app/helpers.php:612
 msgid "Please select a slider for it to display here."
 msgstr "请选择一个滑块以在此处显示。"
 
-#: includes/lib/inc/fusion-app/helpers.php:593
+#: includes/lib/inc/fusion-app/helpers.php:613
 msgid "Please select a form for it to display here."
 msgstr "请选择一个表单以在此处显示。"
 
-#: includes/lib/inc/fusion-app/helpers.php:594
+#: includes/lib/inc/fusion-app/helpers.php:614
 msgid "Please add a video here."
 msgstr "请在此添加视频"
 
 # @ Avada
-#: includes/lib/inc/fusion-app/helpers.php:595
+#: includes/lib/inc/fusion-app/helpers.php:615
 msgid "Search Results"
 msgstr "搜索结果"
 
-#: includes/lib/inc/fusion-app/helpers.php:596
+#: includes/lib/inc/fusion-app/helpers.php:616
 msgid "Page Save Incomplete"
 msgstr "未完成页面保存"
 
-#: includes/lib/inc/fusion-app/helpers.php:597
+#: includes/lib/inc/fusion-app/helpers.php:617
 msgid ""
 "Not all content has saved correctly. Click ok to return to the page editor "
 "and try again."
 msgstr "并非所有内容都已正确保存。点击确定返回页面编辑器并重试。"
 
-#: includes/lib/inc/fusion-app/helpers.php:598
+#: includes/lib/inc/fusion-app/helpers.php:618
 msgid "Page Save Failed"
 msgstr "页面保存失败"
 
-#: includes/lib/inc/fusion-app/helpers.php:599
+#: includes/lib/inc/fusion-app/helpers.php:619
 msgid ""
 "Security nonce check failed.  Attempts to reconnect were also unsuccessful.  "
 "Please ensure WordPress Heartbeat is not disabled."
@@ -10695,190 +10785,190 @@ msgstr ""
 "安全 Nonce 检查失败。重新连接的尝试也未成功。请确保 WordPress Heartbeat 未禁"
 "用。"
 
-#: includes/lib/inc/fusion-app/helpers.php:600
+#: includes/lib/inc/fusion-app/helpers.php:620
 msgid "Layout cleared."
 msgstr "布局已清除。"
 
-#: includes/lib/inc/fusion-app/helpers.php:602
+#: includes/lib/inc/fusion-app/helpers.php:622
 msgid "Enter value"
 msgstr "输入"
 
-#: includes/lib/inc/fusion-app/helpers.php:603
+#: includes/lib/inc/fusion-app/helpers.php:623
 msgid "Import Failed"
 msgstr "导入失败"
 
-#: includes/lib/inc/fusion-app/helpers.php:604
+#: includes/lib/inc/fusion-app/helpers.php:624
 msgid ""
 "Please check that the file selected is valid JSON. Click ok to return to the "
 "page editor and try again."
 msgstr "请检查所选文件是否为有效的 JSON。点击确定返回页面编辑器并重试。"
 
-#: includes/lib/inc/fusion-app/helpers.php:605
+#: includes/lib/inc/fusion-app/helpers.php:625
 msgid "Saved"
 msgstr "保存"
 
-#: includes/lib/inc/fusion-app/helpers.php:606
+#: includes/lib/inc/fusion-app/helpers.php:626
 msgid "As global"
 msgstr "作为全局"
 
-#: includes/lib/inc/fusion-app/helpers.php:607
+#: includes/lib/inc/fusion-app/helpers.php:627
 msgid ""
 "This action will redirect you to the front-end builder. All unsaved changes "
 "will be lost. Are you sure?"
 msgstr "此操作将重定向您到前端构建器。所有未保存的更改都将丢失。您确定吗？"
 
-#: includes/lib/inc/fusion-app/helpers.php:608
+#: includes/lib/inc/fusion-app/helpers.php:628
 msgid ""
 "Duplicate Slider Revolution detected.  Duplicate sliders will not be "
 "rendered whilst in the live editor."
 msgstr "检测到重复的 Slider Revolution。在实时编辑器中不会渲染重复的滑块。"
 
-#: includes/lib/inc/fusion-app/helpers.php:611
+#: includes/lib/inc/fusion-app/helpers.php:631
 msgid "Other"
 msgstr "其他"
 
-#: includes/lib/inc/fusion-app/helpers.php:612
+#: includes/lib/inc/fusion-app/helpers.php:632
 msgid "Dynamic Data"
 msgstr "动态数据"
 
-#: includes/lib/inc/fusion-app/helpers.php:613
+#: includes/lib/inc/fusion-app/helpers.php:633
 msgid "Select Dynamic Data"
 msgstr "选择动态数据"
 
-#: includes/lib/inc/fusion-app/helpers.php:614
+#: includes/lib/inc/fusion-app/helpers.php:634
 msgid "Custom Font(s)"
 msgstr "自定义字体"
 
-#: includes/lib/inc/fusion-app/helpers.php:615
+#: includes/lib/inc/fusion-app/helpers.php:635
 #: includes/metaboxes/metaboxes.php:1744 includes/metaboxes/metaboxes.php:2120
 msgid "Add New"
 msgstr "新添加"
 
-#: includes/lib/inc/fusion-app/helpers.php:616
+#: includes/lib/inc/fusion-app/helpers.php:636
 #: includes/lib/inc/redux/extensions/repeater/repeater/field_repeater.php:252
 msgid "Add"
 msgstr "添加"
 
-#: includes/lib/inc/fusion-app/helpers.php:617
+#: includes/lib/inc/fusion-app/helpers.php:637
 msgid "Separate with Commas"
 msgstr "用逗号分隔"
 
 # @ Avada
-#: includes/lib/inc/fusion-app/helpers.php:620 includes/options/blog.php:804
+#: includes/lib/inc/fusion-app/helpers.php:640 includes/options/blog.php:804
 msgid "Post Title"
 msgstr "文章标题"
 
-#: includes/lib/inc/fusion-app/helpers.php:621
+#: includes/lib/inc/fusion-app/helpers.php:641
 msgid "Previous Post Title"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:622
+#: includes/lib/inc/fusion-app/helpers.php:642
 msgid "Next Post Title"
 msgstr ""
 
-#: includes/lib/inc/fusion-app/helpers.php:626
+#: includes/lib/inc/fusion-app/helpers.php:646
 msgid "Related products"
 msgstr "相关产品"
 
-#: includes/lib/inc/fusion-app/helpers.php:627
+#: includes/lib/inc/fusion-app/helpers.php:647
 msgid "You may also like&hellip;"
 msgstr "您可能还会喜欢&hellip;"
 
-#: includes/lib/inc/fusion-app/helpers.php:628
+#: includes/lib/inc/fusion-app/helpers.php:648
 msgid "You may be interested in&hellip;"
 msgstr "您可能感兴趣&hellip;"
 
 # @ Avada
-#: includes/lib/inc/fusion-app/helpers.php:629
+#: includes/lib/inc/fusion-app/helpers.php:649
 #: includes/options/portfolio.php:649
 msgid "Project Details"
 msgstr "项目详情"
 
-#: includes/lib/inc/fusion-app/helpers.php:631
+#: includes/lib/inc/fusion-app/helpers.php:651
 msgid "Edit Layout Section"
 msgstr "编辑布局区块"
 
-#: includes/lib/inc/fusion-app/helpers.php:632
+#: includes/lib/inc/fusion-app/helpers.php:652
 msgid "Edit Content Layout Section"
 msgstr "编辑内容布局区块"
 
-#: includes/lib/inc/fusion-app/helpers.php:633
+#: includes/lib/inc/fusion-app/helpers.php:653
 msgid "Edit Footer Layout Section"
 msgstr "编辑页脚布局区块"
 
-#: includes/lib/inc/fusion-app/helpers.php:634
+#: includes/lib/inc/fusion-app/helpers.php:654
 msgid "Edit Header Layout Section"
 msgstr "编辑页头布局区块"
 
-#: includes/lib/inc/fusion-app/helpers.php:635
+#: includes/lib/inc/fusion-app/helpers.php:655
 msgid "Set dynamic data to update preview source."
 msgstr "设置动态数据以更新预览源。"
 
-#: includes/lib/inc/fusion-app/helpers.php:636
+#: includes/lib/inc/fusion-app/helpers.php:656
 msgid "Avada Builder Library"
 msgstr "Avada 构建器库"
 
 # @ Avada
-#: includes/lib/inc/fusion-app/helpers.php:640
+#: includes/lib/inc/fusion-app/helpers.php:660
 #: includes/options/background.php:27 includes/options/menu.php:187
 msgid "Background"
 msgstr "背景"
 
-#: includes/lib/inc/fusion-app/helpers.php:642
+#: includes/lib/inc/fusion-app/helpers.php:662
 msgid "Only numbers and phone characters are accepted"
 msgstr "仅接受数字和电话字符"
 
-#: includes/lib/inc/fusion-app/helpers.php:644
+#: includes/lib/inc/fusion-app/helpers.php:664
 msgid "Importing Studio Content"
 msgstr "正在导入 Studio 内容"
 
-#: includes/lib/inc/fusion-app/helpers.php:645
+#: includes/lib/inc/fusion-app/helpers.php:665
 msgid "Importing Studio Content Failed"
 msgstr "导入 Studio 内容失败"
 
-#: includes/lib/inc/fusion-app/helpers.php:646
+#: includes/lib/inc/fusion-app/helpers.php:666
 msgid "Importing Studio Media:"
 msgstr "正在导入 Studio 媒体："
 
-#: includes/lib/inc/fusion-app/helpers.php:647
+#: includes/lib/inc/fusion-app/helpers.php:667
 msgid "Failed to retrieve data from API"
 msgstr "无法从 API 检索数据"
 
-#: includes/lib/inc/fusion-app/helpers.php:648
+#: includes/lib/inc/fusion-app/helpers.php:668
 msgid "Importing Prebuilt Page Content"
 msgstr "正在导入预置页面内容"
 
-#: includes/lib/inc/fusion-app/helpers.php:649
+#: includes/lib/inc/fusion-app/helpers.php:669
 msgid "Importing Prebuilt Page Content Failed"
 msgstr "导入预置页面内容失败"
 
-#: includes/lib/inc/fusion-app/helpers.php:650
+#: includes/lib/inc/fusion-app/helpers.php:670
 msgid "Importing Prebuilt Page Media:"
 msgstr "正在导入预置页面媒体："
 
-#: includes/lib/inc/fusion-app/helpers.php:651
+#: includes/lib/inc/fusion-app/helpers.php:671
 msgid "Plugin Installation Failed"
 msgstr "插件安装失败"
 
-#: includes/lib/inc/fusion-app/helpers.php:652
+#: includes/lib/inc/fusion-app/helpers.php:672
 msgid "Importing Prebuilt Website Failed"
 msgstr "导入预置网站失败"
 
-#: includes/lib/inc/fusion-app/helpers.php:654
+#: includes/lib/inc/fusion-app/helpers.php:674
 msgid "Something Went Wrong"
 msgstr "出错了"
 
-#: includes/lib/inc/fusion-app/helpers.php:655
+#: includes/lib/inc/fusion-app/helpers.php:675
 msgid ""
 "An error occured and the process could not be completed. Please check your "
 "error log for details."
 msgstr "发生错误，过程无法完成。请检查您的错误日志了解详细信息。"
 
-#: includes/lib/inc/fusion-app/helpers.php:658
+#: includes/lib/inc/fusion-app/helpers.php:678
 msgid "Loading the next set of gallery items..."
 msgstr "正在加载下一组图库项目..."
 
-#: includes/lib/inc/fusion-app/helpers.php:659
+#: includes/lib/inc/fusion-app/helpers.php:679
 msgid "Dummy Title Placeholder"
 msgstr "虚拟标题占位符"
 
@@ -11016,6 +11106,7 @@ msgid "Drag Meta items here to remove them from the page."
 msgstr "将元项目拖到此处以将其从页面中移除。"
 
 #: includes/lib/inc/fusion-app/templates/options/connected-sortable.php:27
+#: includes/metaboxes/tabs/tab_form_notifications.php:111
 msgid "Enabled"
 msgstr "已启用"
 
@@ -11066,8 +11157,8 @@ msgstr "保存页面选项"
 # @ Avada
 #: includes/lib/inc/fusion-app/templates/options/form-options.php:36
 #: includes/lib/inc/fusion-app/templates/options/form-options.php:78
-#: includes/lib/inc/fusion-app/templates/options/fusion-logics.php:74
-#: includes/lib/inc/fusion-app/templates/options/fusion-logics.php:248
+#: includes/lib/inc/fusion-app/templates/options/fusion-logics.php:79
+#: includes/lib/inc/fusion-app/templates/options/fusion-logics.php:261
 #: includes/lib/inc/fusion-app/templates/options/sortable-text.php:25
 #: includes/lib/inc/fusion-app/templates/options/sortable-text.php:38
 msgid "Move Row"
@@ -11081,15 +11172,15 @@ msgstr "检查行"
 # @ Avada
 #: includes/lib/inc/fusion-app/templates/options/form-options.php:52
 #: includes/lib/inc/fusion-app/templates/options/form-options.php:94
-#: includes/lib/inc/fusion-app/templates/options/fusion-logics.php:80
-#: includes/lib/inc/fusion-app/templates/options/fusion-logics.php:254
+#: includes/lib/inc/fusion-app/templates/options/fusion-logics.php:85
+#: includes/lib/inc/fusion-app/templates/options/fusion-logics.php:267
 #: includes/lib/inc/fusion-app/templates/options/sortable-text.php:29
 #: includes/lib/inc/fusion-app/templates/options/sortable-text.php:42
 msgid "Remove Row"
 msgstr "删除行"
 
-#: includes/lib/inc/fusion-app/templates/options/fusion-logics.php:237
-#: includes/lib/inc/fusion-app/templates/options/fusion-logics.php:340
+#: includes/lib/inc/fusion-app/templates/options/fusion-logics.php:250
+#: includes/lib/inc/fusion-app/templates/options/fusion-logics.php:361
 #: includes/metaboxes/metaboxes.php:2157
 msgid "AND"
 msgstr "且"
@@ -12717,10 +12808,12 @@ msgid "Link Target:"
 msgstr "链接目标："
 
 #: includes/lib/inc/widgets/class-fusion-widget-ad-125-125.php:227
+#: includes/metaboxes/tabs/tab_form_submission.php:134
 msgid "_self"
 msgstr "_self"
 
 #: includes/lib/inc/widgets/class-fusion-widget-ad-125-125.php:228
+#: includes/metaboxes/tabs/tab_form_submission.php:135
 msgid "_blank"
 msgstr "_blank"
 
@@ -12767,7 +12860,7 @@ msgstr ""
 #: includes/lib/inc/widgets/class-fusion-widget-author.php:304
 #: includes/lib/inc/widgets/class-fusion-widget-contact-info.php:150
 #: includes/lib/inc/widgets/class-fusion-widget-facebook-page.php:219
-#: includes/lib/inc/widgets/class-fusion-widget-flickr.php:172
+#: includes/lib/inc/widgets/class-fusion-widget-flickr.php:171
 #: includes/lib/inc/widgets/class-fusion-widget-recent-works.php:139
 #: includes/lib/inc/widgets/class-fusion-widget-social-links.php:564
 #: includes/lib/inc/widgets/class-fusion-widget-tweets.php:279
@@ -12974,16 +13067,16 @@ msgid "Photos from Flickr"
 msgstr "在Flickr上的照片"
 
 #. translators: URL.
-#: includes/lib/inc/widgets/class-fusion-widget-flickr.php:178
-msgid "Flickr ID (<a href=\"%s\">Get your flickr ID</a>):"
-msgstr "Flickr ID（<a href=\"%s\">获取你的flickr ID</a>）："
+#: includes/lib/inc/widgets/class-fusion-widget-flickr.php:177
+msgid "Flickr ID (<a href=\"%s\">Steps to find your Flickr ID</a>):"
+msgstr ""
 
-#: includes/lib/inc/widgets/class-fusion-widget-flickr.php:183
+#: includes/lib/inc/widgets/class-fusion-widget-flickr.php:182
 msgid "Number of photos to show:"
 msgstr "图片显示数："
 
 #. translators: URL.
-#: includes/lib/inc/widgets/class-fusion-widget-flickr.php:189
+#: includes/lib/inc/widgets/class-fusion-widget-flickr.php:188
 msgid ""
 "API key (Use default or get your own from <a href=\"%s\">Flickr APP Garden</"
 "a>):"
@@ -12991,7 +13084,7 @@ msgstr ""
 "API密钥（使用默认或从<a href=\"%s\"> Flickr APP Garden</a>获取您自己的）："
 
 #. translators: the default key.
-#: includes/lib/inc/widgets/class-fusion-widget-flickr.php:192
+#: includes/lib/inc/widgets/class-fusion-widget-flickr.php:191
 msgid "Default key is: %s"
 msgstr "默认密钥：%s"
 
@@ -13500,7 +13593,7 @@ msgstr "提交"
 
 #: includes/metaboxes/metaboxes.php:678
 #: includes/metaboxes/tabs/tab_form_notifications.php:31
-#: includes/metaboxes/tabs/tab_form_notifications.php:64
+#: includes/metaboxes/tabs/tab_form_notifications.php:83
 msgid "Notifications"
 msgstr "通知"
 
@@ -14747,24 +14840,38 @@ msgid ""
 "submission type to \"AJAX\" ."
 msgstr "<strong>重要提示：</strong>对于通知设置，请将提交类型设置为 \"AJAX\"。"
 
+#: includes/metaboxes/tabs/tab_form_notifications.php:64
+msgid "Enable Notifications"
+msgstr ""
+
 #: includes/metaboxes/tabs/tab_form_notifications.php:65
+msgid ""
+"When notifications are enabled, all individually enabled ones will be sent "
+"on form submission. If disabled, no notifications will be sent at all."
+msgstr ""
+
+#: includes/metaboxes/tabs/tab_form_notifications.php:84
 msgid "Add form notifications."
 msgstr "添加表单通知。"
 
-#: includes/metaboxes/tabs/tab_form_notifications.php:67
+#: includes/metaboxes/tabs/tab_form_notifications.php:86
 msgid "Add Notification"
 msgstr "添加通知"
 
-#: includes/metaboxes/tabs/tab_form_notifications.php:68
-#: includes/metaboxes/tabs/tab_form_notifications.php:84
+#: includes/metaboxes/tabs/tab_form_notifications.php:87
+#: includes/metaboxes/tabs/tab_form_notifications.php:120
 msgid "Notification"
 msgstr "通知"
 
-#: includes/metaboxes/tabs/tab_form_notifications.php:83
+#: includes/metaboxes/tabs/tab_form_notifications.php:106
+msgid "Set to \"disabled\" to pause sending of this notification."
+msgstr ""
+
+#: includes/metaboxes/tabs/tab_form_notifications.php:119
 msgid "Enter notification label."
 msgstr "输入通知标签。"
 
-#: includes/metaboxes/tabs/tab_form_notifications.php:91
+#: includes/metaboxes/tabs/tab_form_notifications.php:127
 msgid ""
 "Enter the email address to which the form data should be sent to. If left "
 "empty, email will be sent to the WordPress admin."
@@ -14772,39 +14879,39 @@ msgstr ""
 "输入应将表单数据发送到的电子邮件地址。如果留空，电子邮件将发送给 WordPress 管"
 "理员。"
 
-#: includes/metaboxes/tabs/tab_form_notifications.php:96
+#: includes/metaboxes/tabs/tab_form_notifications.php:132
 msgid "CC Email"
 msgstr "抄送邮件"
 
-#: includes/metaboxes/tabs/tab_form_notifications.php:98
+#: includes/metaboxes/tabs/tab_form_notifications.php:134
 msgid "Enter additional CC emails. Add one address per line."
 msgstr "输入其他抄送邮件地址。每行添加一个地址。"
 
-#: includes/metaboxes/tabs/tab_form_notifications.php:104
+#: includes/metaboxes/tabs/tab_form_notifications.php:140
 msgid "BCC Email"
 msgstr "密送邮件"
 
-#: includes/metaboxes/tabs/tab_form_notifications.php:106
+#: includes/metaboxes/tabs/tab_form_notifications.php:142
 msgid "Enter additional BCC emails. Add one address per line."
 msgstr "输入其他密送邮件地址。每行添加一个地址。"
 
-#: includes/metaboxes/tabs/tab_form_notifications.php:112
+#: includes/metaboxes/tabs/tab_form_notifications.php:148
 msgid "Email Subject"
 msgstr "邮件主题"
 
-#: includes/metaboxes/tabs/tab_form_notifications.php:113
+#: includes/metaboxes/tabs/tab_form_notifications.php:149
 msgid "Enter email subject. If left empty, the form title will be used."
 msgstr "输入邮件主题。如果留空，将使用表单标题。"
 
-#: includes/metaboxes/tabs/tab_form_notifications.php:115
+#: includes/metaboxes/tabs/tab_form_notifications.php:151
 msgid "Form submission received"
 msgstr "收到表单提交"
 
-#: includes/metaboxes/tabs/tab_form_notifications.php:120
+#: includes/metaboxes/tabs/tab_form_notifications.php:156
 msgid "Encode Email Subject"
 msgstr "编码邮件主题"
 
-#: includes/metaboxes/tabs/tab_form_notifications.php:121
+#: includes/metaboxes/tabs/tab_form_notifications.php:157
 msgid ""
 "Select if you want to encode email subjects. This helps to display special "
 "characters correctly in the subject field. A few hosting environments and "
@@ -14813,61 +14920,61 @@ msgstr ""
 "选择是否要编码邮件主题。这有助于在主题字段中正确显示特殊字符。少数托管环境和"
 "邮件客户端可能对此设置有问题。"
 
-#: includes/metaboxes/tabs/tab_form_notifications.php:132
+#: includes/metaboxes/tabs/tab_form_notifications.php:168
 msgid "Email From Name"
 msgstr "邮件发件人名称"
 
-#: includes/metaboxes/tabs/tab_form_notifications.php:133
+#: includes/metaboxes/tabs/tab_form_notifications.php:169
 msgid "Enter email from name. If left empty, WordPress will be used."
 msgstr "输入邮件发件人名称。如果留空，将使用 WordPress。"
 
-#: includes/metaboxes/tabs/tab_form_notifications.php:140
+#: includes/metaboxes/tabs/tab_form_notifications.php:176
 msgid "Sender Email"
 msgstr "发件人邮件"
 
-#: includes/metaboxes/tabs/tab_form_notifications.php:141
+#: includes/metaboxes/tabs/tab_form_notifications.php:177
 msgid ""
 "Enter sender email address. If left empty, wordpress@sitename.com will be "
 "used."
 msgstr "输入发件人电子邮件地址。如果留空，将使用 wordpress@sitename.com。"
 
-#: includes/metaboxes/tabs/tab_form_notifications.php:148
+#: includes/metaboxes/tabs/tab_form_notifications.php:184
 msgid "Reply To Email"
 msgstr "回复至邮件"
 
-#: includes/metaboxes/tabs/tab_form_notifications.php:149
+#: includes/metaboxes/tabs/tab_form_notifications.php:185
 msgid "Enter reply to email address. "
 msgstr "输入回复至电子邮件地址。"
 
-#: includes/metaboxes/tabs/tab_form_notifications.php:157
+#: includes/metaboxes/tabs/tab_form_notifications.php:193
 msgid "Attach Uploaded Files"
 msgstr "附件上传的文件"
 
-#: includes/metaboxes/tabs/tab_form_notifications.php:159
+#: includes/metaboxes/tabs/tab_form_notifications.php:195
 msgid "Add uploaded files as email attachments."
 msgstr "将上传的文件作为电子邮件附件添加。"
 
-#: includes/metaboxes/tabs/tab_form_notifications.php:168
+#: includes/metaboxes/tabs/tab_form_notifications.php:204
 msgid "Custom Attachment"
 msgstr "自定义附件"
 
-#: includes/metaboxes/tabs/tab_form_notifications.php:169
+#: includes/metaboxes/tabs/tab_form_notifications.php:205
 msgid "Select a custom attachment to be sent along in the notification email."
 msgstr "选择要随通知电子邮件一起发送的自定义附件。"
 
-#: includes/metaboxes/tabs/tab_form_notifications.php:177
+#: includes/metaboxes/tabs/tab_form_notifications.php:213
 msgid "Wordwrap For Labels"
 msgstr "标签自动换行"
 
-#: includes/metaboxes/tabs/tab_form_notifications.php:179
+#: includes/metaboxes/tabs/tab_form_notifications.php:215
 msgid "Set to \"yes\" to enable wordwrap for labels in the notification email."
 msgstr "设置为 \"yes\" 以在通知电子邮件中为标签启用自动换行。"
 
-#: includes/metaboxes/tabs/tab_form_notifications.php:189
+#: includes/metaboxes/tabs/tab_form_notifications.php:225
 msgid "Email Message"
 msgstr "邮件正文"
 
-#: includes/metaboxes/tabs/tab_form_notifications.php:191
+#: includes/metaboxes/tabs/tab_form_notifications.php:227
 msgid ""
 "Enter an email message, or leave empty to get the default message with all "
 "form fields. You can add form fields to the message by inserting a field "
@@ -14878,52 +14985,52 @@ msgstr ""
 "包裹的字段名称（例如：[email_address]）来向消息中添加表单字段，也可以使用 "
 "[all_fields] 标签添加所有字段。"
 
-#: includes/metaboxes/tabs/tab_form_notifications.php:196
-#: includes/metaboxes/tabs/tab_form_notifications.php:200
+#: includes/metaboxes/tabs/tab_form_notifications.php:232
+#: includes/metaboxes/tabs/tab_form_notifications.php:236
 msgid "Conditional Logic"
 msgstr "条件逻辑"
 
-#: includes/metaboxes/tabs/tab_form_notifications.php:198
+#: includes/metaboxes/tabs/tab_form_notifications.php:234
 msgid ""
 "Add conditional logic for the notification. The notification will only be "
 "sent, if the set conditions are met."
 msgstr "为通知添加条件逻辑。仅当满足设定的条件时，才会发送通知。"
 
-#: includes/metaboxes/tabs/tab_form_notifications.php:199
+#: includes/metaboxes/tabs/tab_form_notifications.php:235
 msgid "Add Conditional Logic"
 msgstr "添加条件逻辑"
 
-#: includes/metaboxes/tabs/tab_form_notifications.php:203
+#: includes/metaboxes/tabs/tab_form_notifications.php:239
 msgid "Select A Condition Type"
 msgstr "选择条件类型"
 
-#: includes/metaboxes/tabs/tab_form_notifications.php:206
-#: includes/metaboxes/tabs/tab_form_notifications.php:215
+#: includes/metaboxes/tabs/tab_form_notifications.php:242
+#: includes/metaboxes/tabs/tab_form_notifications.php:251
 msgid "Equal To"
 msgstr "等于"
 
-#: includes/metaboxes/tabs/tab_form_notifications.php:207
-#: includes/metaboxes/tabs/tab_form_notifications.php:216
+#: includes/metaboxes/tabs/tab_form_notifications.php:243
+#: includes/metaboxes/tabs/tab_form_notifications.php:252
 msgid "Not Equal To"
 msgstr "不等于"
 
-#: includes/metaboxes/tabs/tab_form_notifications.php:208
-#: includes/metaboxes/tabs/tab_form_notifications.php:217
+#: includes/metaboxes/tabs/tab_form_notifications.php:244
+#: includes/metaboxes/tabs/tab_form_notifications.php:253
 msgid "Greater Than"
 msgstr "大于"
 
-#: includes/metaboxes/tabs/tab_form_notifications.php:209
-#: includes/metaboxes/tabs/tab_form_notifications.php:218
+#: includes/metaboxes/tabs/tab_form_notifications.php:245
+#: includes/metaboxes/tabs/tab_form_notifications.php:254
 msgid "Less Than"
 msgstr "小于"
 
-#: includes/metaboxes/tabs/tab_form_notifications.php:210
-#: includes/metaboxes/tabs/tab_form_notifications.php:219
+#: includes/metaboxes/tabs/tab_form_notifications.php:246
+#: includes/metaboxes/tabs/tab_form_notifications.php:255
 msgid "Contains"
 msgstr "包含"
 
-#: includes/metaboxes/tabs/tab_form_notifications.php:211
-#: includes/metaboxes/tabs/tab_form_notifications.php:220
+#: includes/metaboxes/tabs/tab_form_notifications.php:247
+#: includes/metaboxes/tabs/tab_form_notifications.php:256
 msgid "Does Not Contain"
 msgstr "不包含"
 
@@ -15431,7 +15538,7 @@ msgstr ""
 
 #: includes/metaboxes/tabs/tab_form_submission.php:53
 #: includes/metaboxes/tabs/tab_form_submission.php:101
-#: includes/metaboxes/tabs/tab_form_submission.php:165
+#: includes/metaboxes/tabs/tab_form_submission.php:194
 msgid "POST"
 msgstr "POST"
 
@@ -15454,40 +15561,50 @@ msgid ""
 msgstr ""
 
 #: includes/metaboxes/tabs/tab_form_submission.php:95
-#: includes/metaboxes/tabs/tab_form_submission.php:159
+#: includes/metaboxes/tabs/tab_form_submission.php:188
 msgid "Submission Method"
 msgstr "提交方法"
 
 #: includes/metaboxes/tabs/tab_form_submission.php:96
-#: includes/metaboxes/tabs/tab_form_submission.php:160
+#: includes/metaboxes/tabs/tab_form_submission.php:189
 msgid "Make a selection for form submission method."
 msgstr "选择表单提交方法。"
 
 #: includes/metaboxes/tabs/tab_form_submission.php:102
-#: includes/metaboxes/tabs/tab_form_submission.php:166
+#: includes/metaboxes/tabs/tab_form_submission.php:195
 msgid "GET"
 msgstr "GET"
 
 #: includes/metaboxes/tabs/tab_form_submission.php:114
-#: includes/metaboxes/tabs/tab_form_submission.php:171
+#: includes/metaboxes/tabs/tab_form_submission.php:200
 msgid "Form Submission URL"
 msgstr "表单提交 URL"
 
 #: includes/metaboxes/tabs/tab_form_submission.php:116
-#: includes/metaboxes/tabs/tab_form_submission.php:173
+#: includes/metaboxes/tabs/tab_form_submission.php:202
 msgid "Enter the URL where form data should be sent to."
 msgstr "输入表单数据应发送到的 URL。"
 
 #: includes/metaboxes/tabs/tab_form_submission.php:128
+msgid "Link Target"
+msgstr ""
+
+#: includes/metaboxes/tabs/tab_form_submission.php:129
+msgid ""
+"_self = open submission URL in same browser tab, _blank = open submission "
+"URL in new browser tab."
+msgstr ""
+
+#: includes/metaboxes/tabs/tab_form_submission.php:157
 msgid ""
 "Notifications will be only sent when submission type is set to \"AJAX\"."
 msgstr "仅当提交类型设置为“AJAX”时才会发送通知。"
 
-#: includes/metaboxes/tabs/tab_form_submission.php:178
+#: includes/metaboxes/tabs/tab_form_submission.php:207
 msgid "Custom Headers"
 msgstr "自定义请求头"
 
-#: includes/metaboxes/tabs/tab_form_submission.php:179
+#: includes/metaboxes/tabs/tab_form_submission.php:208
 msgid ""
 "If you are using this form to integrate with a third-party API, you can use "
 "custom headers to implement authentication or pass-on any extra headers the "
@@ -15496,25 +15613,25 @@ msgstr ""
 "如果您使用此表单与第三方 API 集成，您可以使用自定义请求头来实现身份验证或传"
 "递 API 所需的任何额外请求头。"
 
-#: includes/metaboxes/tabs/tab_form_submission.php:190
+#: includes/metaboxes/tabs/tab_form_submission.php:219
 msgid "Custom Header Key"
 msgstr "自定义请求头键"
 
-#: includes/metaboxes/tabs/tab_form_submission.php:191
+#: includes/metaboxes/tabs/tab_form_submission.php:220
 msgid ""
 "Enter the key for the request's custom header. Example: <code>Content-Type</"
 "code>"
 msgstr "输入请求的自定义请求头键。例如：<code>Content-Type</code>"
 
-#: includes/metaboxes/tabs/tab_form_submission.php:197
+#: includes/metaboxes/tabs/tab_form_submission.php:226
 msgid "Custom Header Value"
 msgstr "自定义请求头值"
 
-#: includes/metaboxes/tabs/tab_form_submission.php:198
+#: includes/metaboxes/tabs/tab_form_submission.php:227
 msgid "Enter the value for your custom-header."
 msgstr "输入您的自定义请求头值。"
 
-#: includes/metaboxes/tabs/tab_form_submission.php:212
+#: includes/metaboxes/tabs/tab_form_submission.php:241
 msgid "Select Off Canvas to open after form submission."
 msgstr "选择表单提交后打开的 Off Canvas。"
 
@@ -15619,7 +15736,7 @@ msgstr "弹跳"
 #: includes/metaboxes/tabs/tab_off_canvas_animation.php:37
 #: includes/metaboxes/tabs/tab_off_canvas_animation.php:324
 #: includes/metaboxes/tabs/tab_off_canvas_animation.php:405
-#: includes/metaboxes/tabs/tab_page.php:134 includes/options/extra.php:520
+#: includes/metaboxes/tabs/tab_page.php:144 includes/options/extra.php:520
 #: includes/options/menu.php:540 includes/options/menu.php:1448
 msgid "Fade"
 msgstr "渐变"
@@ -16769,83 +16886,77 @@ msgstr "页面背景图"
 msgid "Select an image to use for a full page background. %s"
 msgstr "选择要用于完整页面的背景图像。%s"
 
-#: includes/metaboxes/tabs/tab_page.php:129
+#: includes/metaboxes/tabs/tab_page.php:139
 msgid "Container 100% Height Animation"
 msgstr "容器 100%% 高度动画"
 
 #. translators: %s: The default value.
-#: includes/metaboxes/tabs/tab_page.php:131
+#: includes/metaboxes/tabs/tab_page.php:141
 msgid ""
 "Select the animation of the scrolling transition on 100%% height scrolling "
 "sections. %s"
 msgstr "选择 100%% 高度滚动区域的滚动过渡动画。%s"
 
-#: includes/metaboxes/tabs/tab_page.php:135
+#: includes/metaboxes/tabs/tab_page.php:145
 msgid "Slide Up"
 msgstr "向上滑动"
 
-#: includes/metaboxes/tabs/tab_page.php:136
+#: includes/metaboxes/tabs/tab_page.php:146
 msgid "Slide Right"
 msgstr "向右滑动"
 
-#: includes/metaboxes/tabs/tab_page.php:137
+#: includes/metaboxes/tabs/tab_page.php:147
 msgid "Slide Left"
 msgstr "向左滑动"
 
-#: includes/metaboxes/tabs/tab_page.php:138
+#: includes/metaboxes/tabs/tab_page.php:148
 msgid "Scroll Right"
 msgstr "向右滚动"
 
-#: includes/metaboxes/tabs/tab_page.php:139
+#: includes/metaboxes/tabs/tab_page.php:149
 msgid "Scroll Left"
 msgstr "向左滚动"
 
-#: includes/metaboxes/tabs/tab_page.php:140
+#: includes/metaboxes/tabs/tab_page.php:150
 msgid "Scroll Right Free"
 msgstr "向右自由滚动"
 
-#: includes/metaboxes/tabs/tab_page.php:141
+#: includes/metaboxes/tabs/tab_page.php:151
 msgid "Scroll Left Free"
 msgstr "向左自由滚动"
 
-#: includes/metaboxes/tabs/tab_page.php:142
-msgid "Stack"
-msgstr "堆叠"
+#: includes/metaboxes/tabs/tab_page.php:152
+msgid "Slide Over"
+msgstr ""
 
-#: includes/metaboxes/tabs/tab_page.php:144
+#: includes/metaboxes/tabs/tab_page.php:154
 msgid "Slide Zoom In"
 msgstr "滑动放大"
 
-#: includes/metaboxes/tabs/tab_page.php:145
+#: includes/metaboxes/tabs/tab_page.php:155
 msgid "Slide Zoom Out"
 msgstr "滑动缩小"
 
-#: includes/metaboxes/tabs/tab_page.php:153
-msgid "Container 100% Height Scroll Sensitivity"
-msgstr "容器 100%% 高度滚动灵敏度"
+#: includes/metaboxes/tabs/tab_page.php:156
+msgid "Stacking Cards"
+msgstr ""
 
-#: includes/metaboxes/tabs/tab_page.php:154
-msgid ""
-"Controls the sensitivity of the scrolling transition on 100% height "
-"scrolling sections. In milliseconds."
-msgstr "控制 100%% 高度滚动区域滚动过渡的灵敏度。单位为毫秒。"
-
-#: includes/metaboxes/tabs/tab_page.php:174
+#: includes/metaboxes/tabs/tab_page.php:164
 msgid "Container 100% Height Scroll Speed"
 msgstr "容器 100%% 高度滚动速度"
 
-#: includes/metaboxes/tabs/tab_page.php:175
+#: includes/metaboxes/tabs/tab_page.php:165
 msgid ""
 "Controls the speed of the scrolling transition on 100% height scrolling "
 "sections. In milliseconds."
 msgstr "控制 100%% 高度滚动区域滚动过渡的速度。单位为毫秒。"
 
-#: includes/metaboxes/tabs/tab_page.php:199
+#: includes/metaboxes/tabs/tab_page.php:189
 msgid "Container 100% Height Dots Navigation"
 msgstr "容器 100%% 高度圆点导航"
 
 #. translators: %s: The default value.
-#: includes/metaboxes/tabs/tab_page.php:201
+#: includes/metaboxes/tabs/tab_page.php:191
 msgid ""
 "Enable / Disable the dots navigation for 100%% height containers. Disabling "
 "dots navigation may be useful if using custom navigation. %s"
@@ -28242,26 +28353,26 @@ msgstr "空白页面"
 msgid "Side Navigation"
 msgstr "站点导航"
 
-#: includes/class-avada-tgm-plugin-activation.php:1180
-#: includes/class-avada-tgm-plugin-activation.php:3017
+#: includes/class-avada-tgm-plugin-activation.php:1183
+#: includes/class-avada-tgm-plugin-activation.php:3020
 msgctxt "plugin A *and* plugin B"
 msgid "and"
 msgstr "和"
 
 #. translators: 1: install status, 2: update status
-#: includes/class-avada-tgm-plugin-activation.php:2407
+#: includes/class-avada-tgm-plugin-activation.php:2410
 msgctxt "Install/Update Status"
 msgid "%1$s, %2$s"
 msgstr "%1$s, %2$s"
 
 #. translators: 1: number of plugins.
-#: includes/class-avada-tgm-plugin-activation.php:2453
+#: includes/class-avada-tgm-plugin-activation.php:2456
 msgctxt "plugins"
 msgid "All <span class=\"count\">(%s)</span>"
 msgid_plural "All <span class=\"count\">(%s)</span>"
 msgstr[0] "全部 <span class=\"count\">(%s)</span>"
 
-#: includes/class-avada-tgm-plugin-activation.php:2547
+#: includes/class-avada-tgm-plugin-activation.php:2550
 msgctxt "as in: \"version nr unknown\""
 msgid "unknown"
 msgstr "未知"
@@ -28346,6 +28457,20 @@ msgstr "首页"
 msgctxt "%s Events plural label"
 msgid "All %s"
 msgstr "所有 %s"
+
+#~ msgid "Flickr ID (<a href=\"%s\">Get your flickr ID</a>):"
+#~ msgstr "Flickr ID（<a href=\"%s\">获取你的flickr ID</a>）："
+
+#~ msgid "Stack"
+#~ msgstr "堆叠"
+
+#~ msgid "Container 100% Height Scroll Sensitivity"
+#~ msgstr "容器 100%% 高度滚动灵敏度"
+
+#~ msgid ""
+#~ "Controls the sensitivity of the scrolling transition on 100% height "
+#~ "scrolling sections. In milliseconds."
+#~ msgstr "控制 100%% 高度滚动区域滚动过渡的灵敏度。单位为毫秒。"
 
 #~ msgid "Privacy Bar Button Text"
 #~ msgstr "隐私框按钮文字"

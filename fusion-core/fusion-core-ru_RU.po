@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Avada\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/fusion-core\n"
-"POT-Creation-Date: 2026-07-07 04:55:30+00:00\n"
+"POT-Creation-Date: 2026-07-24 09:42:17+00:00\n"
 "PO-Revision-Date: 2019-08-05 20:19+0300\n"
 "Last-Translator: Michael Clarke\n"
 "Language-Team: Russian (Russia) (http://www.transifex.com/projects/p/avada/"
@@ -236,51 +236,51 @@ msgid ""
 "the Avada Website Builder."
 msgstr ""
 
-#: fusion-slider/class-fusion-slider.php:662
+#: fusion-slider/class-fusion-slider.php:667
 msgid "Error: Sliders could not be exported"
 msgstr ""
 
-#: fusion-slider/class-fusion-slider.php:663
+#: fusion-slider/class-fusion-slider.php:668
 msgid "Please make sure wp-content/uploads folder is writeable."
 msgstr ""
 
-#: fusion-slider/class-fusion-slider.php:978
+#: fusion-slider/class-fusion-slider.php:986
 msgid "Error: No file to import"
 msgstr ""
 
-#: fusion-slider/class-fusion-slider.php:979
+#: fusion-slider/class-fusion-slider.php:987
 msgid ""
 "Please make sure to upload a zip file containing valid Avada Slider export "
 "data."
 msgstr ""
 
-#: fusion-slider/class-fusion-slider.php:1036
+#: fusion-slider/class-fusion-slider.php:1044
 #: fusion-slider/templates/clone-button-after-title.php:19
 msgid "Clone this slide"
 msgstr ""
 
-#: fusion-slider/class-fusion-slider.php:1036
-#: fusion-slider/class-fusion-slider.php:1057
+#: fusion-slider/class-fusion-slider.php:1044
+#: fusion-slider/class-fusion-slider.php:1065
 msgid "Clone"
 msgstr ""
 
-#: fusion-slider/class-fusion-slider.php:1057
+#: fusion-slider/class-fusion-slider.php:1065
 msgid "Clone this slider"
 msgstr ""
 
 #. translators: The term title.
 #. translators: The post title.
-#: fusion-slider/class-fusion-slider.php:1108
-#: fusion-slider/class-fusion-slider.php:1230
+#: fusion-slider/class-fusion-slider.php:1116
+#: fusion-slider/class-fusion-slider.php:1238
 msgid "%s ( Cloned )"
 msgstr ""
 
-#: fusion-slider/class-fusion-slider.php:1178
+#: fusion-slider/class-fusion-slider.php:1186
 msgid "No slide to clone."
 msgstr ""
 
 #. translators: The ID found.
-#: fusion-slider/class-fusion-slider.php:1198
+#: fusion-slider/class-fusion-slider.php:1206
 msgid "Cloning failed. Post not found. ID: %s"
 msgstr ""
 
@@ -617,7 +617,7 @@ msgstr "Экспорт всех слайдеров"
 msgid "Import"
 msgstr ""
 
-#: fusion-slider/templates/export-import-sliders.php:37
+#: fusion-slider/templates/export-import-sliders.php:38
 msgid "Upload And Import"
 msgstr ""
 
